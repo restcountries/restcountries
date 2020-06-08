@@ -9,6 +9,9 @@ You can access API through https://restcountries.com/v2/all
 * [ ] Solve many issues reported in the GitHub page for original countries
 * [ ] Add Chinese, Taiwanese and Hongkonian
 
+# Contributing
+Any help is welcome! just the file that fits better and I will replicate the changes to the other files. This project uses the `countries.min.json` file
+
 # API Endpoints
 
 Below are described the REST endpoints available that you can use to search for countries
