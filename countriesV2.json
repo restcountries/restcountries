@@ -4821,7 +4821,7 @@
       "http://restcountries.com/data/cub.svg",
       "http://restcountries.com/data/png/cub.png"
     ],
-    "gini": null,
+    "gini": 38.0,
     "languages": [
       {
         "iso639_1": "es",
@@ -4972,7 +4972,7 @@
       "http://restcountries.com/data/cyp.svg",
       "http://restcountries.com/data/png/cyp.png"
     ],
-    "gini": null,
+    "gini": 29.1,
     "languages": [
       {
         "iso639_1": "el",
@@ -5733,7 +5733,7 @@
       "http://restcountries.com/data/gnq.svg",
       "http://restcountries.com/data/png/gnq.png"
     ],
-    "gini": null,
+    "gini": 39.4,
     "languages": [
       {
         "iso639_1": "es",
@@ -8462,7 +8462,7 @@
       "http://restcountries.com/data/isl.svg",
       "http://restcountries.com/data/png/isl.png"
     ],
-    "gini": null,
+    "gini": 28.0,
     "languages": [
       {
         "iso639_1": "is",
@@ -11086,7 +11086,7 @@
     "gini": 46.2,
     "languages": [
       {
-        "iso639_1": null,
+        "iso639_1": "ms",
         "iso639_2": "zsm",
         "name": "Malaysian",
         "nativeName": "\u0628\u0647\u0627\u0633 \u0645\u0644\u064a\u0633\u064a\u0627"
@@ -11621,7 +11621,7 @@
       "http://restcountries.com/data/mus.svg",
       "http://restcountries.com/data/png/mus.png"
     ],
-    "gini": null,
+    "gini": 35.8,
     "languages": [
       {
         "iso639_1": "en",
@@ -11855,11 +11855,6 @@
     ],
     "capital": "Palikir",
     "currencies": [
-      {
-        "code": null,
-        "name": "[D]",
-        "symbol": "$"
-      },
       {
         "code": "USD",
         "name": "United States dollar",
@@ -12504,7 +12499,7 @@
       "http://restcountries.com/data/mmr.svg",
       "http://restcountries.com/data/png/mmr.png"
     ],
-    "gini": null,
+    "gini": 38.1,
     "languages": [
       {
         "iso639_1": "my",
@@ -12665,11 +12660,6 @@
       {
         "code": "AUD",
         "name": "Australian dollar",
-        "symbol": "$"
-      },
-      {
-        "code": "(none)",
-        "name": null,
         "symbol": "$"
       }
     ],
@@ -14387,7 +14377,7 @@
         "symbol": "$"
       },
       {
-        "code": null,
+        "code": "PND",
         "name": "Pitcairn Islands dollar",
         "symbol": "$"
       }
@@ -15937,7 +15927,7 @@
       "http://restcountries.com/data/sau.svg",
       "http://restcountries.com/data/png/sau.png"
     ],
-    "gini": null,
+    "gini": 45.9,
     "languages": [
       {
         "iso639_1": "ar",
@@ -16963,14 +16953,9 @@
     "capital": "King Edward Point",
     "currencies": [
       {
-        "code": "GBP",
-        "name": "British pound",
-        "symbol": "\u00a3"
-      },
-      {
-        "code": "(none)",
-        "name": null,
-        "symbol": "\u00a3"
+        "code": "ZAR",
+        "name": "Rand",
+        "symbol": "R"
       }
     ],
     "demonym": "South Georgia and the South Sandwich Islander",
@@ -17987,7 +17972,7 @@
       "http://restcountries.com/data/twn.svg",
       "http://restcountries.com/data/png/twn.png"
     ],
-    "gini": null,
+    "gini": 33.6,
     "languages": [
       {
         "iso639_1": "zh",
@@ -18302,14 +18287,9 @@
     "capital": "Dili",
     "currencies": [
       {
-        "code": "USD",
-        "name": "United States dollar",
-        "symbol": "$"
-      },
-      {
-        "code": null,
-        "name": null,
-        "symbol": null
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "\u0e3f"
       }
     ],
     "demonym": "East Timorese",
@@ -19222,7 +19202,7 @@
       "http://restcountries.com/data/are.svg",
       "http://restcountries.com/data/png/are.png"
     ],
-    "gini": null,
+    "gini": 45.9,
     "languages": [
       {
         "iso639_1": "ar",
@@ -20191,49 +20171,9 @@
     "capital": "Harare",
     "currencies": [
       {
-        "code": "BWP",
-        "name": "Botswana pula",
-        "symbol": "P"
-      },
-      {
-        "code": "GBP",
-        "name": "British pound",
-        "symbol": "\u00a3"
-      },
-      {
-        "code": "CNY",
-        "name": "Chinese yuan",
-        "symbol": "\u00a5"
-      },
-      {
-        "code": "EUR",
-        "name": "Euro",
-        "symbol": "\u20ac"
-      },
-      {
-        "code": "INR",
-        "name": "Indian rupee",
-        "symbol": "\u20b9"
-      },
-      {
-        "code": "JPY",
-        "name": "Japanese yen",
-        "symbol": "\u00a5"
-      },
-      {
-        "code": "ZAR",
-        "name": "South African rand",
-        "symbol": "Rs"
-      },
-      {
-        "code": "USD",
-        "name": "United States dollar",
-        "symbol": "$"
-      },
-      {
-        "code": "(none)",
-        "name": null,
-        "symbol": null
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "K"
       }
     ],
     "demonym": "Zimbabwean",
@@ -20241,7 +20181,7 @@
       "http://restcountries.com/data/zwe.svg",
       "http://restcountries.com/data/png/zwe.png"
     ],
-    "gini": null,
+    "gini": 57.1,
     "languages": [
       {
         "iso639_1": "en",
