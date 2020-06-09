@@ -28,8 +28,8 @@
     ],
     "demonym": "Afghan",
     "flags": [
-      "http://restcountries.com/data/afg.svg",
-      "http://restcountries.com/data/png/afg.png"
+      "https://restcountries.com/data/afg.svg",
+      "https://restcountries.com/data/png/afg.png"
     ],
     "gini": 27.8,
     "languages": [
@@ -117,8 +117,8 @@
     ],
     "demonym": "\u00c5landish",
     "flags": [
-      "http://restcountries.com/data/ala.svg",
-      "http://restcountries.com/data/png/ala.png"
+      "https://restcountries.com/data/ala.svg",
+      "https://restcountries.com/data/png/ala.png"
     ],
     "languages": [
       {
@@ -198,8 +198,8 @@
     ],
     "demonym": "Albanian",
     "flags": [
-      "http://restcountries.com/data/alb.svg",
-      "http://restcountries.com/data/png/alb.png"
+      "https://restcountries.com/data/alb.svg",
+      "https://restcountries.com/data/png/alb.png"
     ],
     "gini": 34.5,
     "languages": [
@@ -282,8 +282,8 @@
     ],
     "demonym": "Algerian",
     "flags": [
-      "http://restcountries.com/data/dza.svg",
-      "http://restcountries.com/data/png/dza.png"
+      "https://restcountries.com/data/dza.svg",
+      "https://restcountries.com/data/png/dza.png"
     ],
     "gini": 35.3,
     "languages": [
@@ -375,8 +375,8 @@
     ],
     "demonym": "American Samoan",
     "flags": [
-      "http://restcountries.com/data/asm.svg",
-      "http://restcountries.com/data/png/asm.png"
+      "https://restcountries.com/data/asm.svg",
+      "https://restcountries.com/data/png/asm.png"
     ],
     "languages": [
       {
@@ -454,8 +454,8 @@
     ],
     "demonym": "Andorran",
     "flags": [
-      "http://restcountries.com/data/and.svg",
-      "http://restcountries.com/data/png/and.png"
+      "https://restcountries.com/data/and.svg",
+      "https://restcountries.com/data/png/and.png"
     ],
     "languages": [
       {
@@ -527,8 +527,8 @@
     ],
     "demonym": "Angolan",
     "flags": [
-      "http://restcountries.com/data/ago.svg",
-      "http://restcountries.com/data/png/ago.png"
+      "https://restcountries.com/data/ago.svg",
+      "https://restcountries.com/data/png/ago.png"
     ],
     "gini": 58.6,
     "languages": [
@@ -606,8 +606,8 @@
     ],
     "demonym": "Anguillian",
     "flags": [
-      "http://restcountries.com/data/aia.svg",
-      "http://restcountries.com/data/png/aia.png"
+      "https://restcountries.com/data/aia.svg",
+      "https://restcountries.com/data/png/aia.png"
     ],
     "languages": [
       {
@@ -675,8 +675,8 @@
     ],
     "demonym": "",
     "flags": [
-      "http://restcountries.com/data/ata.svg",
-      "http://restcountries.com/data/png/ata.png"
+      "https://restcountries.com/data/ata.svg",
+      "https://restcountries.com/data/png/ata.png"
     ],
     "languages": [
       {
@@ -754,8 +754,8 @@
     ],
     "demonym": "Antiguan, Barbudan",
     "flags": [
-      "http://restcountries.com/data/atg.svg",
-      "http://restcountries.com/data/png/atg.png"
+      "https://restcountries.com/data/atg.svg",
+      "https://restcountries.com/data/png/atg.png"
     ],
     "languages": [
       {
@@ -838,8 +838,8 @@
     ],
     "demonym": "Argentinean",
     "flags": [
-      "http://restcountries.com/data/arg.svg",
-      "http://restcountries.com/data/png/arg.png"
+      "https://restcountries.com/data/arg.svg",
+      "https://restcountries.com/data/png/arg.png"
     ],
     "gini": 44.5,
     "languages": [
@@ -935,8 +935,8 @@
     ],
     "demonym": "Armenian",
     "flags": [
-      "http://restcountries.com/data/arm.svg",
-      "http://restcountries.com/data/png/arm.png"
+      "https://restcountries.com/data/arm.svg",
+      "https://restcountries.com/data/png/arm.png"
     ],
     "gini": 30.9,
     "languages": [
@@ -1016,8 +1016,8 @@
     ],
     "demonym": "Aruban",
     "flags": [
-      "http://restcountries.com/data/abw.svg",
-      "http://restcountries.com/data/png/abw.png"
+      "https://restcountries.com/data/abw.svg",
+      "https://restcountries.com/data/png/abw.png"
     ],
     "languages": [
       {
@@ -1088,8 +1088,8 @@
     ],
     "demonym": "Australian",
     "flags": [
-      "http://restcountries.com/data/aus.svg",
-      "http://restcountries.com/data/png/aus.png"
+      "https://restcountries.com/data/aus.svg",
+      "https://restcountries.com/data/png/aus.png"
     ],
     "gini": 30.5,
     "languages": [
@@ -1174,8 +1174,8 @@
     ],
     "demonym": "Austrian",
     "flags": [
-      "http://restcountries.com/data/aut.svg",
-      "http://restcountries.com/data/png/aut.png"
+      "https://restcountries.com/data/aut.svg",
+      "https://restcountries.com/data/png/aut.png"
     ],
     "gini": 26,
     "languages": [
@@ -1254,8 +1254,8 @@
     ],
     ",demonym": "Azerbaijani",
     "flags": [
-      "http://restcountries.com/data/aze.svg",
-      "http://restcountries.com/data/png/aze.png"
+      "https://restcountries.com/data/aze.svg",
+      "https://restcountries.com/data/png/aze.png"
     ],
     "gini": 33.7,
     "languages": [
@@ -1322,8 +1322,8 @@
     ],
     "demonym": "Bahamian",
     "flags": [
-      "http://restcountries.com/data/bhs.svg",
-      "http://restcountries.com/data/png/bhs.png"
+      "https://restcountries.com/data/bhs.svg",
+      "https://restcountries.com/data/png/bhs.png"
     ],
     "languages": [
       {
@@ -1400,8 +1400,8 @@
     ],
     "demonym": "Bahraini",
     "flags": [
-      "http://restcountries.com/data/bhr.svg",
-      "http://restcountries.com/data/png/bhr.png"
+      "https://restcountries.com/data/bhr.svg",
+      "https://restcountries.com/data/png/bhr.png"
     ],
     "gini": null,
     "languages": [
@@ -1482,8 +1482,8 @@
     ],
     "demonym": "Bangladeshi",
     "flags": [
-      "http://restcountries.com/data/bgd.svg",
-      "http://restcountries.com/data/png/bgd.png"
+      "https://restcountries.com/data/bgd.svg",
+      "https://restcountries.com/data/png/bgd.png"
     ],
     "gini": 32.1,
     "languages": [
@@ -1554,8 +1554,8 @@
     ],
     "demonym": "Barbadian",
     "flags": [
-      "http://restcountries.com/data/brb.svg",
-      "http://restcountries.com/data/png/brb.png"
+      "https://restcountries.com/data/brb.svg",
+      "https://restcountries.com/data/png/brb.png"
     ],
     "languages": [
       {
@@ -1647,8 +1647,8 @@
     ],
     "demonym": "Belarusian",
     "flags": [
-      "http://restcountries.com/data/blr.svg",
-      "http://restcountries.com/data/png/blr.png"
+      "https://restcountries.com/data/blr.svg",
+      "https://restcountries.com/data/png/blr.png"
     ],
     "gini": 26.5,
     "languages": [
@@ -1741,8 +1741,8 @@
     ],
     "demonym": "Belgian",
     "flags": [
-      "http://restcountries.com/data/bel.svg",
-      "http://restcountries.com/data/png/bel.png"
+      "https://restcountries.com/data/bel.svg",
+      "https://restcountries.com/data/png/bel.png"
     ],
     "gini": 33,
     "languages": [
@@ -1828,8 +1828,8 @@
     ],
     "demonym": "Belizean",
     "flags": [
-      "http://restcountries.com/data/blz.svg",
-      "http://restcountries.com/data/png/blz.png"
+      "https://restcountries.com/data/blz.svg",
+      "https://restcountries.com/data/png/blz.png"
     ],
     "gini": 53.1,
     "languages": [
@@ -1928,8 +1928,8 @@
     ],
     "demonym": "Beninese",
     "flags": [
-      "http://restcountries.com/data/ben.svg",
-      "http://restcountries.com/data/png/ben.png"
+      "https://restcountries.com/data/ben.svg",
+      "https://restcountries.com/data/png/ben.png"
     ],
     "gini": 38.6,
     "languages": [
@@ -2009,8 +2009,8 @@
     ],
     "demonym": "Bermudian",
     "flags": [
-      "http://restcountries.com/data/bmu.svg",
-      "http://restcountries.com/data/png/bmu.png"
+      "https://restcountries.com/data/bmu.svg",
+      "https://restcountries.com/data/png/bmu.png"
     ],
     "languages": [
       {
@@ -2084,8 +2084,8 @@
     ],
     "demonym": "Bhutanese",
     "flags": [
-      "http://restcountries.com/data/btn.svg",
-      "http://restcountries.com/data/png/btn.png"
+      "https://restcountries.com/data/btn.svg",
+      "https://restcountries.com/data/png/btn.png"
     ],
     "gini": 38.1,
     "languages": [
@@ -2169,8 +2169,8 @@
     ],
     "demonym": "Bolivian",
     "flags": [
-      "http://restcountries.com/data/bol.svg",
-      "http://restcountries.com/data/png/bol.png"
+      "https://restcountries.com/data/bol.svg",
+      "https://restcountries.com/data/png/bol.png"
     ],
     "gini": 56.3,
     "languages": [
@@ -2265,8 +2265,8 @@
     ],
     "demonym": "Dutch",
     "flags": [
-      "http://restcountries.com/data/bes.svg",
-      "http://restcountries.com/data/png/bes.png"
+      "https://restcountries.com/data/bes.svg",
+      "https://restcountries.com/data/png/bes.png"
     ],
     "languages": [
       {
@@ -2332,8 +2332,8 @@
     ],
     "demonym": "Bosnian, Herzegovinian",
     "flags": [
-      "http://restcountries.com/data/bih.svg",
-      "http://restcountries.com/data/png/bih.png"
+      "https://restcountries.com/data/bih.svg",
+      "https://restcountries.com/data/png/bih.png"
     ],
     "gini": 36.2,
     "languages": [
@@ -2421,8 +2421,8 @@
     ],
     "demonym": "Motswana",
     "flags": [
-      "http://restcountries.com/data/bwa.svg",
-      "http://restcountries.com/data/png/bwa.png"
+      "https://restcountries.com/data/bwa.svg",
+      "https://restcountries.com/data/png/bwa.png"
     ],
     "gini": 61,
     "languages": [
@@ -2506,8 +2506,8 @@
     ],
     "demonym": "",
     "flags": [
-      "http://restcountries.com/data/bvt.svg",
-      "http://restcountries.com/data/png/bvt.png"
+      "https://restcountries.com/data/bvt.svg",
+      "https://restcountries.com/data/png/bvt.png"
     ],
     "languages": [
       {
@@ -2596,8 +2596,8 @@
     ],
     "demonym": "Brazilian",
     "flags": [
-      "http://restcountries.com/data/bra.svg",
-      "http://restcountries.com/data/png/bra.png"
+      "https://restcountries.com/data/bra.svg",
+      "https://restcountries.com/data/png/bra.png"
     ],
     "gini": 54.7,
     "languages": [
@@ -2680,8 +2680,8 @@
     ],
     "demonym": "Indian",
     "flags": [
-      "http://restcountries.com/data/iot.svg",
-      "http://restcountries.com/data/png/iot.png"
+      "https://restcountries.com/data/iot.svg",
+      "https://restcountries.com/data/png/iot.png"
     ],
     "languages": [
       {
@@ -2755,8 +2755,8 @@
     ],
     "demonym": "American",
     "flags": [
-      "http://restcountries.com/data/umi.svg",
-      "http://restcountries.com/data/png/umi.png"
+      "https://restcountries.com/data/umi.svg",
+      "https://restcountries.com/data/png/umi.png"
     ],
     "languages": [
       {
@@ -2818,8 +2818,8 @@
     ],
     "demonym": "Virgin Islander",
     "flags": [
-      "http://restcountries.com/data/vgb.svg",
-      "http://restcountries.com/data/png/vgb.png"
+      "https://restcountries.com/data/vgb.svg",
+      "https://restcountries.com/data/png/vgb.png"
     ],
     "languages": [
       {
@@ -2885,8 +2885,8 @@
     ],
     "demonym": "Virgin Islander",
     "flags": [
-      "http://restcountries.com/data/vir.svg",
-      "http://restcountries.com/data/png/vir.png"
+      "https://restcountries.com/data/vir.svg",
+      "https://restcountries.com/data/png/vir.png"
     ],
     "languages": [
       {
@@ -2957,8 +2957,8 @@
     ],
     "demonym": "Bruneian",
     "flags": [
-      "http://restcountries.com/data/brn.svg",
-      "http://restcountries.com/data/png/brn.png"
+      "https://restcountries.com/data/brn.svg",
+      "https://restcountries.com/data/png/brn.png"
     ],
     "languages": [
       {
@@ -3034,8 +3034,8 @@
     ],
     "demonym": "Bulgarian",
     "flags": [
-      "http://restcountries.com/data/bgr.svg",
-      "http://restcountries.com/data/png/bgr.png"
+      "https://restcountries.com/data/bgr.svg",
+      "https://restcountries.com/data/png/bgr.png"
     ],
     "gini": 28.2,
     "languages": [
@@ -3111,8 +3111,8 @@
     ],
     "demonym": "Burkinabe",
     "flags": [
-      "http://restcountries.com/data/bfa.svg",
-      "http://restcountries.com/data/png/bfa.png"
+      "https://restcountries.com/data/bfa.svg",
+      "https://restcountries.com/data/png/bfa.png"
     ],
     "gini": 39.8,
     "languages": [
@@ -3201,8 +3201,8 @@
     ],
     "demonym": "Burundian",
     "flags": [
-      "http://restcountries.com/data/bdi.svg",
-      "http://restcountries.com/data/png/bdi.png"
+      "https://restcountries.com/data/bdi.svg",
+      "https://restcountries.com/data/png/bdi.png"
     ],
     "gini": 33.3,
     "languages": [
@@ -3294,8 +3294,8 @@
     ],
     "demonym": "Cambodian",
     "flags": [
-      "http://restcountries.com/data/khm.svg",
-      "http://restcountries.com/data/png/khm.png"
+      "https://restcountries.com/data/khm.svg",
+      "https://restcountries.com/data/png/khm.png"
     ],
     "gini": 37.9,
     "languages": [
@@ -3373,8 +3373,8 @@
     ],
     "demonym": "Cameroonian",
     "flags": [
-      "http://restcountries.com/data/cmr.svg",
-      "http://restcountries.com/data/png/cmr.png"
+      "https://restcountries.com/data/cmr.svg",
+      "https://restcountries.com/data/png/cmr.png"
     ],
     "gini": 38.9,
     "languages": [
@@ -3458,8 +3458,8 @@
     ],
     "demonym": "Canadian",
     "flags": [
-      "http://restcountries.com/data/can.svg",
-      "http://restcountries.com/data/png/can.png"
+      "https://restcountries.com/data/can.svg",
+      "https://restcountries.com/data/png/can.png"
     ],
     "gini": 32.6,
     "languages": [
@@ -3545,8 +3545,8 @@
     ],
     "demonym": "Cape Verdian",
     "flags": [
-      "http://restcountries.com/data/cpv.svg",
-      "http://restcountries.com/data/png/cpv.png"
+      "https://restcountries.com/data/cpv.svg",
+      "https://restcountries.com/data/png/cpv.png"
     ],
     "gini": 50.5,
     "languages": [
@@ -3622,8 +3622,8 @@
     ],
     "demonym": "Caymanian",
     "flags": [
-      "http://restcountries.com/data/cym.svg",
-      "http://restcountries.com/data/png/cym.png"
+      "https://restcountries.com/data/cym.svg",
+      "https://restcountries.com/data/png/cym.png"
     ],
     "languages": [
       {
@@ -3696,8 +3696,8 @@
     ],
     "demonym": "Central African",
     "flags": [
-      "http://restcountries.com/data/caf.svg",
-      "http://restcountries.com/data/png/caf.png"
+      "https://restcountries.com/data/caf.svg",
+      "https://restcountries.com/data/png/caf.png"
     ],
     "gini": 56.3,
     "languages": [
@@ -3789,8 +3789,8 @@
     ],
     "demonym": "Chadian",
     "flags": [
-      "http://restcountries.com/data/tcd.svg",
-      "http://restcountries.com/data/png/tcd.png"
+      "https://restcountries.com/data/tcd.svg",
+      "https://restcountries.com/data/png/tcd.png"
     ],
     "gini": 39.8,
     "languages": [
@@ -3878,8 +3878,8 @@
     ],
     "demonym": "Chilean",
     "flags": [
-      "http://restcountries.com/data/chl.svg",
-      "http://restcountries.com/data/png/chl.png"
+      "https://restcountries.com/data/chl.svg",
+      "https://restcountries.com/data/png/chl.png"
     ],
     "gini": 52.1,
     "languages": [
@@ -3989,8 +3989,8 @@
     ],
     "demonym": "Chinese",
     "flags": [
-      "http://restcountries.com/data/chn.svg",
-      "http://restcountries.com/data/png/chn.png"
+      "https://restcountries.com/data/chn.svg",
+      "https://restcountries.com/data/png/chn.png"
     ],
     "gini": 47,
     "languages": [
@@ -4055,8 +4055,8 @@
     ],
     "demonym": "Christmas Island",
     "flags": [
-      "http://restcountries.com/data/cxr.svg",
-      "http://restcountries.com/data/png/cxr.png"
+      "https://restcountries.com/data/cxr.svg",
+      "https://restcountries.com/data/png/cxr.png"
     ],
     "languages": [
       {
@@ -4121,8 +4121,8 @@
     ],
     "demonym": "Cocos Islander",
     "flags": [
-      "http://restcountries.com/data/cck.svg",
-      "http://restcountries.com/data/png/cck.png"
+      "https://restcountries.com/data/cck.svg",
+      "https://restcountries.com/data/png/cck.png"
     ],
     "languages": [
       {
@@ -4193,8 +4193,8 @@
     ],
     "demonym": "Colombian",
     "flags": [
-      "http://restcountries.com/data/col.svg",
-      "http://restcountries.com/data/png/col.png"
+      "https://restcountries.com/data/col.svg",
+      "https://restcountries.com/data/png/col.png"
     ],
     "gini": 55.9,
     "languages": [
@@ -4285,8 +4285,8 @@
     ],
     "demonym": "Comoran",
     "flags": [
-      "http://restcountries.com/data/com.svg",
-      "http://restcountries.com/data/png/com.png"
+      "https://restcountries.com/data/com.svg",
+      "https://restcountries.com/data/png/com.png"
     ],
     "gini": 64.3,
     "languages": [
@@ -4384,8 +4384,8 @@
     ],
     "demonym": "Congolese",
     "flags": [
-      "http://restcountries.com/data/cog.svg",
-      "http://restcountries.com/data/png/cog.png"
+      "https://restcountries.com/data/cog.svg",
+      "https://restcountries.com/data/png/cog.png"
     ],
     "gini": 47.3,
     "languages": [
@@ -4480,8 +4480,8 @@
     ],
     "demonym": "Congolese",
     "flags": [
-      "http://restcountries.com/data/cod.svg",
-      "http://restcountries.com/data/png/cod.png"
+      "https://restcountries.com/data/cod.svg",
+      "https://restcountries.com/data/png/cod.png"
     ],
     "languages": [
       {
@@ -4587,8 +4587,8 @@
     ],
     "demonym": "Cook Islander",
     "flags": [
-      "http://restcountries.com/data/cok.svg",
-      "http://restcountries.com/data/png/cok.png"
+      "https://restcountries.com/data/cok.svg",
+      "https://restcountries.com/data/png/cok.png"
     ],
     "languages": [
       {
@@ -4656,8 +4656,8 @@
     ],
     "demonym": "Costa Rican",
     "flags": [
-      "http://restcountries.com/data/cri.svg",
-      "http://restcountries.com/data/png/cri.png"
+      "https://restcountries.com/data/cri.svg",
+      "https://restcountries.com/data/png/cri.png"
     ],
     "gini": 50.7,
     "languages": [
@@ -4741,8 +4741,8 @@
     ],
     "demonym": "Croatian",
     "flags": [
-      "http://restcountries.com/data/hrv.svg",
-      "http://restcountries.com/data/png/hrv.png"
+      "https://restcountries.com/data/hrv.svg",
+      "https://restcountries.com/data/png/hrv.png"
     ],
     "gini": 33.7,
     "languages": [
@@ -4818,10 +4818,10 @@
     ],
     "demonym": "Cuban",
     "flags": [
-      "http://restcountries.com/data/cub.svg",
-      "http://restcountries.com/data/png/cub.png"
+      "https://restcountries.com/data/cub.svg",
+      "https://restcountries.com/data/png/cub.png"
     ],
-    "gini": 38.0,
+    "gini": 38,
     "languages": [
       {
         "iso639_1": "es",
@@ -4888,8 +4888,8 @@
     ],
     "demonym": "Dutch",
     "flags": [
-      "http://restcountries.com/data/cuw.svg",
-      "http://restcountries.com/data/png/cuw.png"
+      "https://restcountries.com/data/cuw.svg",
+      "https://restcountries.com/data/png/cuw.png"
     ],
     "languages": [
       {
@@ -4969,8 +4969,8 @@
     ],
     "demonym": "Cypriot",
     "flags": [
-      "http://restcountries.com/data/cyp.svg",
-      "http://restcountries.com/data/png/cyp.png"
+      "https://restcountries.com/data/cyp.svg",
+      "https://restcountries.com/data/png/cyp.png"
     ],
     "gini": 29.1,
     "languages": [
@@ -5053,8 +5053,8 @@
     ],
     "demonym": "Czech",
     "flags": [
-      "http://restcountries.com/data/cze.svg",
-      "http://restcountries.com/data/png/cze.png"
+      "https://restcountries.com/data/cze.svg",
+      "https://restcountries.com/data/png/cze.png"
     ],
     "gini": 26,
     "languages": [
@@ -5134,8 +5134,8 @@
     ],
     "demonym": "Danish",
     "flags": [
-      "http://restcountries.com/data/dnk.svg",
-      "http://restcountries.com/data/png/dnk.png"
+      "https://restcountries.com/data/dnk.svg",
+      "https://restcountries.com/data/png/dnk.png"
     ],
     "gini": 24,
     "languages": [
@@ -5218,8 +5218,8 @@
     ],
     "demonym": "Djibouti",
     "flags": [
-      "http://restcountries.com/data/dji.svg",
-      "http://restcountries.com/data/png/dji.png"
+      "https://restcountries.com/data/dji.svg",
+      "https://restcountries.com/data/png/dji.png"
     ],
     "gini": 40,
     "languages": [
@@ -5313,8 +5313,8 @@
     ],
     "demonym": "Dominican",
     "flags": [
-      "http://restcountries.com/data/dma.svg",
-      "http://restcountries.com/data/png/dma.png"
+      "https://restcountries.com/data/dma.svg",
+      "https://restcountries.com/data/png/dma.png"
     ],
     "languages": [
       {
@@ -5379,8 +5379,8 @@
     ],
     "demonym": "Dominican",
     "flags": [
-      "http://restcountries.com/data/dom.svg",
-      "http://restcountries.com/data/png/dom.png"
+      "https://restcountries.com/data/dom.svg",
+      "https://restcountries.com/data/png/dom.png"
     ],
     "gini": 47.2,
     "languages": [
@@ -5469,8 +5469,8 @@
     ],
     "demonym": "Ecuadorean",
     "flags": [
-      "http://restcountries.com/data/ecu.svg",
-      "http://restcountries.com/data/png/ecu.png"
+      "https://restcountries.com/data/ecu.svg",
+      "https://restcountries.com/data/png/ecu.png"
     ],
     "gini": 49.3,
     "languages": [
@@ -5556,8 +5556,8 @@
     ],
     "demonym": "Egyptian",
     "flags": [
-      "http://restcountries.com/data/egy.svg",
-      "http://restcountries.com/data/png/egy.png"
+      "https://restcountries.com/data/egy.svg",
+      "https://restcountries.com/data/png/egy.png"
     ],
     "gini": 30.8,
     "languages": [
@@ -5647,8 +5647,8 @@
     ],
     "demonym": "Salvadoran",
     "flags": [
-      "http://restcountries.com/data/slv.svg",
-      "http://restcountries.com/data/png/slv.png"
+      "https://restcountries.com/data/slv.svg",
+      "https://restcountries.com/data/png/slv.png"
     ],
     "gini": 48.3,
     "languages": [
@@ -5730,8 +5730,8 @@
     ],
     "demonym": "Equatorial Guinean",
     "flags": [
-      "http://restcountries.com/data/gnq.svg",
-      "http://restcountries.com/data/png/gnq.png"
+      "https://restcountries.com/data/gnq.svg",
+      "https://restcountries.com/data/png/gnq.png"
     ],
     "gini": 39.4,
     "languages": [
@@ -5823,8 +5823,8 @@
     ],
     "demonym": "Eritrean",
     "flags": [
-      "http://restcountries.com/data/eri.svg",
-      "http://restcountries.com/data/png/eri.png"
+      "https://restcountries.com/data/eri.svg",
+      "https://restcountries.com/data/png/eri.png"
     ],
     "languages": [
       {
@@ -5917,8 +5917,8 @@
     ],
     "demonym": "Estonian",
     "flags": [
-      "http://restcountries.com/data/est.svg",
-      "http://restcountries.com/data/png/est.png"
+      "https://restcountries.com/data/est.svg",
+      "https://restcountries.com/data/png/est.png"
     ],
     "gini": 36,
     "languages": [
@@ -5997,8 +5997,8 @@
     ],
     "demonym": "Ethiopian",
     "flags": [
-      "http://restcountries.com/data/eth.svg",
-      "http://restcountries.com/data/png/eth.png"
+      "https://restcountries.com/data/eth.svg",
+      "https://restcountries.com/data/png/eth.png"
     ],
     "gini": 29.8,
     "languages": [
@@ -6075,8 +6075,8 @@
     ],
     "demonym": "Falkland Islander",
     "flags": [
-      "http://restcountries.com/data/flk.svg",
-      "http://restcountries.com/data/png/flk.png"
+      "https://restcountries.com/data/flk.svg",
+      "https://restcountries.com/data/png/flk.png"
     ],
     "languages": [
       {
@@ -6162,8 +6162,8 @@
     ],
     "demonym": "Faroese",
     "flags": [
-      "http://restcountries.com/data/fro.svg",
-      "http://restcountries.com/data/png/fro.png"
+      "https://restcountries.com/data/fro.svg",
+      "https://restcountries.com/data/png/fro.png"
     ],
     "languages": [
       {
@@ -6235,8 +6235,8 @@
     ],
     "demonym": "Fijian",
     "flags": [
-      "http://restcountries.com/data/fji.svg",
-      "http://restcountries.com/data/png/fji.png"
+      "https://restcountries.com/data/fji.svg",
+      "https://restcountries.com/data/png/fji.png"
     ],
     "gini": 42.8,
     "languages": [
@@ -6326,8 +6326,8 @@
     ],
     "demonym": "Finnish",
     "flags": [
-      "http://restcountries.com/data/fin.svg",
-      "http://restcountries.com/data/png/fin.png"
+      "https://restcountries.com/data/fin.svg",
+      "https://restcountries.com/data/png/fin.png"
     ],
     "gini": 26.9,
     "languages": [
@@ -6413,8 +6413,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/fra.svg",
-      "http://restcountries.com/data/png/fra.png"
+      "https://restcountries.com/data/fra.svg",
+      "https://restcountries.com/data/png/fra.png"
     ],
     "gini": 32.7,
     "languages": [
@@ -6500,8 +6500,8 @@
     ],
     "demonym": "",
     "flags": [
-      "http://restcountries.com/data/guf.svg",
-      "http://restcountries.com/data/png/guf.png"
+      "https://restcountries.com/data/guf.svg",
+      "https://restcountries.com/data/png/guf.png"
     ],
     "languages": [
       {
@@ -6587,8 +6587,8 @@
     ],
     "demonym": "French Polynesian",
     "flags": [
-      "http://restcountries.com/data/pyf.svg",
-      "http://restcountries.com/data/png/pyf.png"
+      "https://restcountries.com/data/pyf.svg",
+      "https://restcountries.com/data/png/pyf.png"
     ],
     "languages": [
       {
@@ -6653,8 +6653,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/atf.svg",
-      "http://restcountries.com/data/png/atf.png"
+      "https://restcountries.com/data/atf.svg",
+      "https://restcountries.com/data/png/atf.png"
     ],
     "languages": [
       {
@@ -6735,8 +6735,8 @@
     ],
     "demonym": "Gabonese",
     "flags": [
-      "http://restcountries.com/data/gab.svg",
-      "http://restcountries.com/data/png/gab.png"
+      "https://restcountries.com/data/gab.svg",
+      "https://restcountries.com/data/png/gab.png"
     ],
     "gini": 41.5,
     "languages": [
@@ -6815,8 +6815,8 @@
     ],
     "demonym": "Gambian",
     "flags": [
-      "http://restcountries.com/data/gmb.svg",
-      "http://restcountries.com/data/png/gmb.png"
+      "https://restcountries.com/data/gmb.svg",
+      "https://restcountries.com/data/png/gmb.png"
     ],
     "languages": [
       {
@@ -6897,8 +6897,8 @@
     ],
     "demonym": "Georgian",
     "flags": [
-      "http://restcountries.com/data/geo.svg",
-      "http://restcountries.com/data/png/geo.png"
+      "https://restcountries.com/data/geo.svg",
+      "https://restcountries.com/data/png/geo.png"
     ],
     "gini": 41.3,
     "languages": [
@@ -6974,8 +6974,8 @@
     ],
     "demonym": "German",
     "flags": [
-      "http://restcountries.com/data/deu.svg",
-      "http://restcountries.com/data/png/deu.png"
+      "https://restcountries.com/data/deu.svg",
+      "https://restcountries.com/data/png/deu.png"
     ],
     "gini": 28.3,
     "languages": [
@@ -7048,8 +7048,8 @@
     ],
     "demonym": "Ghanaian",
     "flags": [
-      "http://restcountries.com/data/gha.svg",
-      "http://restcountries.com/data/png/gha.png"
+      "https://restcountries.com/data/gha.svg",
+      "https://restcountries.com/data/png/gha.png"
     ],
     "gini": 42.8,
     "languages": [
@@ -7127,8 +7127,8 @@
     ],
     "demonym": "Gibraltar",
     "flags": [
-      "http://restcountries.com/data/gib.svg",
-      "http://restcountries.com/data/png/gib.png"
+      "https://restcountries.com/data/gib.svg",
+      "https://restcountries.com/data/png/gib.png"
     ],
     "languages": [
       {
@@ -7204,8 +7204,8 @@
     ],
     "demonym": "Greek",
     "flags": [
-      "http://restcountries.com/data/grc.svg",
-      "http://restcountries.com/data/png/grc.png"
+      "https://restcountries.com/data/grc.svg",
+      "https://restcountries.com/data/png/grc.png"
     ],
     "gini": 34.3,
     "languages": [
@@ -7275,8 +7275,8 @@
     ],
     "demonym": "Greenlandic",
     "flags": [
-      "http://restcountries.com/data/grl.svg",
-      "http://restcountries.com/data/png/grl.png"
+      "https://restcountries.com/data/grl.svg",
+      "https://restcountries.com/data/png/grl.png"
     ],
     "languages": [
       {
@@ -7342,8 +7342,8 @@
     ],
     "demonym": "Grenadian",
     "flags": [
-      "http://restcountries.com/data/grd.svg",
-      "http://restcountries.com/data/png/grd.png"
+      "https://restcountries.com/data/grd.svg",
+      "https://restcountries.com/data/png/grd.png"
     ],
     "languages": [
       {
@@ -7416,8 +7416,8 @@
     ],
     "demonym": "Guadeloupian",
     "flags": [
-      "http://restcountries.com/data/glp.svg",
-      "http://restcountries.com/data/png/glp.png"
+      "https://restcountries.com/data/glp.svg",
+      "https://restcountries.com/data/png/glp.png"
     ],
     "languages": [
       {
@@ -7481,8 +7481,8 @@
     ],
     "demonym": "Guamanian",
     "flags": [
-      "http://restcountries.com/data/gum.svg",
-      "http://restcountries.com/data/png/gum.png"
+      "https://restcountries.com/data/gum.svg",
+      "https://restcountries.com/data/png/gum.png"
     ],
     "languages": [
       {
@@ -7562,8 +7562,8 @@
     ],
     "demonym": "Guatemalan",
     "flags": [
-      "http://restcountries.com/data/gtm.svg",
-      "http://restcountries.com/data/png/gtm.png"
+      "https://restcountries.com/data/gtm.svg",
+      "https://restcountries.com/data/png/gtm.png"
     ],
     "gini": 55.9,
     "languages": [
@@ -7645,8 +7645,8 @@
     ],
     "demonym": "Channel Islander",
     "flags": [
-      "http://restcountries.com/data/ggy.svg",
-      "http://restcountries.com/data/png/ggy.png"
+      "https://restcountries.com/data/ggy.svg",
+      "https://restcountries.com/data/png/ggy.png"
     ],
     "languages": [
       {
@@ -7724,8 +7724,8 @@
     ],
     "demonym": "Guinean",
     "flags": [
-      "http://restcountries.com/data/gin.svg",
-      "http://restcountries.com/data/png/gin.png"
+      "https://restcountries.com/data/gin.svg",
+      "https://restcountries.com/data/png/gin.png"
     ],
     "gini": 39.4,
     "languages": [
@@ -7812,8 +7812,8 @@
     ],
     "demonym": "Guinea-Bissauan",
     "flags": [
-      "http://restcountries.com/data/gnb.svg",
-      "http://restcountries.com/data/png/gnb.png"
+      "https://restcountries.com/data/gnb.svg",
+      "https://restcountries.com/data/png/gnb.png"
     ],
     "gini": 35.5,
     "languages": [
@@ -7894,8 +7894,8 @@
     ],
     "demonym": "Guyanese",
     "flags": [
-      "http://restcountries.com/data/guy.svg",
-      "http://restcountries.com/data/png/guy.png"
+      "https://restcountries.com/data/guy.svg",
+      "https://restcountries.com/data/png/guy.png"
     ],
     "gini": 44.5,
     "languages": [
@@ -7989,8 +7989,8 @@
     ],
     "demonym": "Haitian",
     "flags": [
-      "http://restcountries.com/data/hti.svg",
-      "http://restcountries.com/data/png/hti.png"
+      "https://restcountries.com/data/hti.svg",
+      "https://restcountries.com/data/png/hti.png"
     ],
     "gini": 59.2,
     "languages": [
@@ -8070,8 +8070,8 @@
     ],
     "demonym": "Heard and McDonald Islander",
     "flags": [
-      "http://restcountries.com/data/hmd.svg",
-      "http://restcountries.com/data/png/hmd.png"
+      "https://restcountries.com/data/hmd.svg",
+      "https://restcountries.com/data/png/hmd.png"
     ],
     "languages": [
       {
@@ -8139,8 +8139,8 @@
     ],
     "demonym": "",
     "flags": [
-      "http://restcountries.com/data/vat.svg",
-      "http://restcountries.com/data/png/vat.png"
+      "https://restcountries.com/data/vat.svg",
+      "https://restcountries.com/data/png/vat.png"
     ],
     "gini": null,
     "languages": [
@@ -8228,8 +8228,8 @@
     ],
     "demonym": "Honduran",
     "flags": [
-      "http://restcountries.com/data/hnd.svg",
-      "http://restcountries.com/data/png/hnd.png"
+      "https://restcountries.com/data/hnd.svg",
+      "https://restcountries.com/data/png/hnd.png"
     ],
     "gini": 57,
     "languages": [
@@ -8307,8 +8307,8 @@
     ],
     "demonym": "Chinese",
     "flags": [
-      "http://restcountries.com/data/hkg.svg",
-      "http://restcountries.com/data/png/hkg.png"
+      "https://restcountries.com/data/hkg.svg",
+      "https://restcountries.com/data/png/hkg.png"
     ],
     "gini": 53.3,
     "languages": [
@@ -8386,8 +8386,8 @@
     ],
     "demonym": "Hungarian",
     "flags": [
-      "http://restcountries.com/data/hun.svg",
-      "http://restcountries.com/data/png/hun.png"
+      "https://restcountries.com/data/hun.svg",
+      "https://restcountries.com/data/png/hun.png"
     ],
     "gini": 31.2,
     "languages": [
@@ -8459,10 +8459,10 @@
     ],
     "demonym": "Icelander",
     "flags": [
-      "http://restcountries.com/data/isl.svg",
-      "http://restcountries.com/data/png/isl.png"
+      "https://restcountries.com/data/isl.svg",
+      "https://restcountries.com/data/png/isl.png"
     ],
-    "gini": 28.0,
+    "gini": 28,
     "languages": [
       {
         "iso639_1": "is",
@@ -8541,8 +8541,8 @@
     ],
     "demonym": "Indian",
     "flags": [
-      "http://restcountries.com/data/ind.svg",
-      "http://restcountries.com/data/png/ind.png"
+      "https://restcountries.com/data/ind.svg",
+      "https://restcountries.com/data/png/ind.png"
     ],
     "gini": 33.4,
     "languages": [
@@ -8623,8 +8623,8 @@
     ],
     "demonym": "Indonesian",
     "flags": [
-      "http://restcountries.com/data/idn.svg",
-      "http://restcountries.com/data/png/idn.png"
+      "https://restcountries.com/data/idn.svg",
+      "https://restcountries.com/data/png/idn.png"
     ],
     "gini": 34,
     "languages": [
@@ -8704,8 +8704,8 @@
     ],
     "demonym": "Ivorian",
     "flags": [
-      "http://restcountries.com/data/civ.svg",
-      "http://restcountries.com/data/png/civ.png"
+      "https://restcountries.com/data/civ.svg",
+      "https://restcountries.com/data/png/civ.png"
     ],
     "gini": 41.5,
     "languages": [
@@ -8791,8 +8791,8 @@
     ],
     "demonym": "Iranian",
     "flags": [
-      "http://restcountries.com/data/irn.svg",
-      "http://restcountries.com/data/png/irn.png"
+      "https://restcountries.com/data/irn.svg",
+      "https://restcountries.com/data/png/irn.png"
     ],
     "gini": 38.3,
     "languages": [
@@ -8864,8 +8864,8 @@
     ],
     "demonym": "Iraqi",
     "flags": [
-      "http://restcountries.com/data/irq.svg",
-      "http://restcountries.com/data/png/irq.png"
+      "https://restcountries.com/data/irq.svg",
+      "https://restcountries.com/data/png/irq.png"
     ],
     "gini": 30.9,
     "languages": [
@@ -8950,8 +8950,8 @@
     ],
     "demonym": "Irish",
     "flags": [
-      "http://restcountries.com/data/irl.svg",
-      "http://restcountries.com/data/png/irl.png"
+      "https://restcountries.com/data/irl.svg",
+      "https://restcountries.com/data/png/irl.png"
     ],
     "gini": 34.3,
     "languages": [
@@ -9034,8 +9034,8 @@
     ],
     "demonym": "Manx",
     "flags": [
-      "http://restcountries.com/data/imn.svg",
-      "http://restcountries.com/data/png/imn.png"
+      "https://restcountries.com/data/imn.svg",
+      "https://restcountries.com/data/png/imn.png"
     ],
     "languages": [
       {
@@ -9116,8 +9116,8 @@
     ],
     "demonym": "Israeli",
     "flags": [
-      "http://restcountries.com/data/isr.svg",
-      "http://restcountries.com/data/png/isr.png"
+      "https://restcountries.com/data/isr.svg",
+      "https://restcountries.com/data/png/isr.png"
     ],
     "gini": 39.2,
     "languages": [
@@ -9196,8 +9196,8 @@
     ],
     "demonym": "Italian",
     "flags": [
-      "http://restcountries.com/data/ita.svg",
-      "http://restcountries.com/data/png/ita.png"
+      "https://restcountries.com/data/ita.svg",
+      "https://restcountries.com/data/png/ita.png"
     ],
     "gini": 36,
     "languages": [
@@ -9266,8 +9266,8 @@
     ],
     "demonym": "Jamaican",
     "flags": [
-      "http://restcountries.com/data/jam.svg",
-      "http://restcountries.com/data/png/jam.png"
+      "https://restcountries.com/data/jam.svg",
+      "https://restcountries.com/data/png/jam.png"
     ],
     "gini": 45.5,
     "languages": [
@@ -9343,8 +9343,8 @@
     ],
     "demonym": "Japanese",
     "flags": [
-      "http://restcountries.com/data/jpn.svg",
-      "http://restcountries.com/data/png/jpn.png"
+      "https://restcountries.com/data/jpn.svg",
+      "https://restcountries.com/data/png/jpn.png"
     ],
     "gini": 38.1,
     "languages": [
@@ -9416,8 +9416,8 @@
     ],
     "demonym": "Channel Islander",
     "flags": [
-      "http://restcountries.com/data/jey.svg",
-      "http://restcountries.com/data/png/jey.png"
+      "https://restcountries.com/data/jey.svg",
+      "https://restcountries.com/data/png/jey.png"
     ],
     "languages": [
       {
@@ -9493,8 +9493,8 @@
     ],
     "demonym": "Jordanian",
     "flags": [
-      "http://restcountries.com/data/jor.svg",
-      "http://restcountries.com/data/png/jor.png"
+      "https://restcountries.com/data/jor.svg",
+      "https://restcountries.com/data/png/jor.png"
     ],
     "gini": 35.4,
     "languages": [
@@ -9582,8 +9582,8 @@
     ],
     ",demonym": "Kazakhstani",
     "flags": [
-      "http://restcountries.com/data/kaz.svg",
-      "http://restcountries.com/data/png/kaz.png"
+      "https://restcountries.com/data/kaz.svg",
+      "https://restcountries.com/data/png/kaz.png"
     ],
     "gini": 29,
     "languages": [
@@ -9671,8 +9671,8 @@
     ],
     "demonym": "Kenyan",
     "flags": [
-      "http://restcountries.com/data/ken.svg",
-      "http://restcountries.com/data/png/ken.png"
+      "https://restcountries.com/data/ken.svg",
+      "https://restcountries.com/data/png/ken.png"
     ],
     "gini": 47.7,
     "languages": [
@@ -9761,8 +9761,8 @@
     ],
     "demonym": "I-Kiribati",
     "flags": [
-      "http://restcountries.com/data/kir.svg",
-      "http://restcountries.com/data/png/kir.png"
+      "https://restcountries.com/data/kir.svg",
+      "https://restcountries.com/data/png/kir.png"
     ],
     "languages": [
       {
@@ -9832,8 +9832,8 @@
     ],
     "demonym": "Kuwaiti",
     "flags": [
-      "http://restcountries.com/data/kwt.svg",
-      "http://restcountries.com/data/png/kwt.png"
+      "https://restcountries.com/data/kwt.svg",
+      "https://restcountries.com/data/png/kwt.png"
     ],
     "gini": null,
     "languages": [
@@ -9916,8 +9916,8 @@
     ],
     "demonym": "Kirghiz",
     "flags": [
-      "http://restcountries.com/data/kgz.svg",
-      "http://restcountries.com/data/png/kgz.png"
+      "https://restcountries.com/data/kgz.svg",
+      "https://restcountries.com/data/png/kgz.png"
     ],
     "gini": 36.2,
     "languages": [
@@ -10005,8 +10005,8 @@
     ],
     "demonym": "Laotian",
     "flags": [
-      "http://restcountries.com/data/lao.svg",
-      "http://restcountries.com/data/png/lao.png"
+      "https://restcountries.com/data/lao.svg",
+      "https://restcountries.com/data/png/lao.png"
     ],
     "gini": 36.7,
     "languages": [
@@ -10082,8 +10082,8 @@
     ],
     "demonym": "Latvian",
     "flags": [
-      "http://restcountries.com/data/lva.svg",
-      "http://restcountries.com/data/png/lva.png"
+      "https://restcountries.com/data/lva.svg",
+      "https://restcountries.com/data/png/lva.png"
     ],
     "gini": 36.6,
     "languages": [
@@ -10157,8 +10157,8 @@
     ],
     "demonym": "Lebanese",
     "flags": [
-      "http://restcountries.com/data/lbn.svg",
-      "http://restcountries.com/data/png/lbn.png"
+      "https://restcountries.com/data/lbn.svg",
+      "https://restcountries.com/data/png/lbn.png"
     ],
     "gini": null,
     "languages": [
@@ -10247,8 +10247,8 @@
     ],
     "demonym": "Mosotho",
     "flags": [
-      "http://restcountries.com/data/lso.svg",
-      "http://restcountries.com/data/png/lso.png"
+      "https://restcountries.com/data/lso.svg",
+      "https://restcountries.com/data/png/lso.png"
     ],
     "gini": 52.5,
     "languages": [
@@ -10335,8 +10335,8 @@
     ],
     "demonym": "Liberian",
     "flags": [
-      "http://restcountries.com/data/lbr.svg",
-      "http://restcountries.com/data/png/lbr.png"
+      "https://restcountries.com/data/lbr.svg",
+      "https://restcountries.com/data/png/lbr.png"
     ],
     "gini": 38.2,
     "languages": [
@@ -10421,8 +10421,8 @@
     ],
     "demonym": "Libyan",
     "flags": [
-      "http://restcountries.com/data/lby.svg",
-      "http://restcountries.com/data/png/lby.png"
+      "https://restcountries.com/data/lby.svg",
+      "https://restcountries.com/data/png/lby.png"
     ],
     "gini": null,
     "languages": [
@@ -10512,8 +10512,8 @@
     ],
     "demonym": "Liechtensteiner",
     "flags": [
-      "http://restcountries.com/data/lie.svg",
-      "http://restcountries.com/data/png/lie.png"
+      "https://restcountries.com/data/lie.svg",
+      "https://restcountries.com/data/png/lie.png"
     ],
     "languages": [
       {
@@ -10588,8 +10588,8 @@
     ],
     "demonym": "Lithuanian",
     "flags": [
-      "http://restcountries.com/data/ltu.svg",
-      "http://restcountries.com/data/png/ltu.png"
+      "https://restcountries.com/data/ltu.svg",
+      "https://restcountries.com/data/png/ltu.png"
     ],
     "gini": 37.6,
     "languages": [
@@ -10666,8 +10666,8 @@
     ],
     "demonym": "Luxembourger",
     "flags": [
-      "http://restcountries.com/data/lux.svg",
-      "http://restcountries.com/data/png/lux.png"
+      "https://restcountries.com/data/lux.svg",
+      "https://restcountries.com/data/png/lux.png"
     ],
     "gini": 30.8,
     "languages": [
@@ -10754,8 +10754,8 @@
     ],
     "demonym": "Chinese",
     "flags": [
-      "http://restcountries.com/data/mac.svg",
-      "http://restcountries.com/data/png/mac.png"
+      "https://restcountries.com/data/mac.svg",
+      "https://restcountries.com/data/png/mac.png"
     ],
     "languages": [
       {
@@ -10832,8 +10832,8 @@
     ],
     "demonym": "Macedonian",
     "flags": [
-      "http://restcountries.com/data/mkd.svg",
-      "http://restcountries.com/data/png/mkd.png"
+      "https://restcountries.com/data/mkd.svg",
+      "https://restcountries.com/data/png/mkd.png"
     ],
     "gini": 43.2,
     "languages": [
@@ -10905,8 +10905,8 @@
     ],
     "demonym": "Malagasy",
     "flags": [
-      "http://restcountries.com/data/mdg.svg",
-      "http://restcountries.com/data/png/mdg.png"
+      "https://restcountries.com/data/mdg.svg",
+      "https://restcountries.com/data/png/mdg.png"
     ],
     "gini": 44.1,
     "languages": [
@@ -10993,8 +10993,8 @@
     ],
     "demonym": "Malawian",
     "flags": [
-      "http://restcountries.com/data/mwi.svg",
-      "http://restcountries.com/data/png/mwi.png"
+      "https://restcountries.com/data/mwi.svg",
+      "https://restcountries.com/data/png/mwi.png"
     ],
     "gini": 39,
     "languages": [
@@ -11080,8 +11080,8 @@
     ],
     "demonym": "Malaysian",
     "flags": [
-      "http://restcountries.com/data/mys.svg",
-      "http://restcountries.com/data/png/mys.png"
+      "https://restcountries.com/data/mys.svg",
+      "https://restcountries.com/data/png/mys.png"
     ],
     "gini": 46.2,
     "languages": [
@@ -11153,8 +11153,8 @@
     ],
     "demonym": "Maldivan",
     "flags": [
-      "http://restcountries.com/data/mdv.svg",
-      "http://restcountries.com/data/png/mdv.png"
+      "https://restcountries.com/data/mdv.svg",
+      "https://restcountries.com/data/png/mdv.png"
     ],
     "gini": 37.4,
     "languages": [
@@ -11233,8 +11233,8 @@
     ],
     "demonym": "Malian",
     "flags": [
-      "http://restcountries.com/data/mli.svg",
-      "http://restcountries.com/data/png/mli.png"
+      "https://restcountries.com/data/mli.svg",
+      "https://restcountries.com/data/png/mli.png"
     ],
     "gini": 33,
     "languages": [
@@ -11312,8 +11312,8 @@
     ],
     "demonym": "Maltese",
     "flags": [
-      "http://restcountries.com/data/mlt.svg",
-      "http://restcountries.com/data/png/mlt.png"
+      "https://restcountries.com/data/mlt.svg",
+      "https://restcountries.com/data/png/mlt.png"
     ],
     "gini": null,
     "languages": [
@@ -11390,8 +11390,8 @@
     ],
     "demonym": "Marshallese",
     "flags": [
-      "http://restcountries.com/data/mhl.svg",
-      "http://restcountries.com/data/png/mhl.png"
+      "https://restcountries.com/data/mhl.svg",
+      "https://restcountries.com/data/png/mhl.png"
     ],
     "languages": [
       {
@@ -11459,8 +11459,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/mtq.svg",
-      "http://restcountries.com/data/png/mtq.png"
+      "https://restcountries.com/data/mtq.svg",
+      "https://restcountries.com/data/png/mtq.png"
     ],
     "languages": [
       {
@@ -11530,8 +11530,8 @@
     ],
     "demonym": "Mauritanian",
     "flags": [
-      "http://restcountries.com/data/mrt.svg",
-      "http://restcountries.com/data/png/mrt.png"
+      "https://restcountries.com/data/mrt.svg",
+      "https://restcountries.com/data/png/mrt.png"
     ],
     "gini": 40.5,
     "languages": [
@@ -11618,8 +11618,8 @@
     ],
     "demonym": "Mauritian",
     "flags": [
-      "http://restcountries.com/data/mus.svg",
-      "http://restcountries.com/data/png/mus.png"
+      "https://restcountries.com/data/mus.svg",
+      "https://restcountries.com/data/png/mus.png"
     ],
     "gini": 35.8,
     "languages": [
@@ -11696,8 +11696,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/myt.svg",
-      "http://restcountries.com/data/png/myt.png"
+      "https://restcountries.com/data/myt.svg",
+      "https://restcountries.com/data/png/myt.png"
     ],
     "languages": [
       {
@@ -11779,8 +11779,8 @@
     ],
     "demonym": "Mexican",
     "flags": [
-      "http://restcountries.com/data/mex.svg",
-      "http://restcountries.com/data/png/mex.png"
+      "https://restcountries.com/data/mex.svg",
+      "https://restcountries.com/data/png/mex.png"
     ],
     "gini": 47,
     "languages": [
@@ -11863,8 +11863,8 @@
     ],
     "demonym": "Micronesian",
     "flags": [
-      "http://restcountries.com/data/fsm.svg",
-      "http://restcountries.com/data/png/fsm.png"
+      "https://restcountries.com/data/fsm.svg",
+      "https://restcountries.com/data/png/fsm.png"
     ],
     "languages": [
       {
@@ -11933,8 +11933,8 @@
     ],
     "demonym": "Moldovan",
     "flags": [
-      "http://restcountries.com/data/mda.svg",
-      "http://restcountries.com/data/png/mda.png"
+      "https://restcountries.com/data/mda.svg",
+      "https://restcountries.com/data/png/mda.png"
     ],
     "gini": 33,
     "languages": [
@@ -12007,8 +12007,8 @@
     ],
     "demonym": "Monegasque",
     "flags": [
-      "http://restcountries.com/data/mco.svg",
-      "http://restcountries.com/data/png/mco.png"
+      "https://restcountries.com/data/mco.svg",
+      "https://restcountries.com/data/png/mco.png"
     ],
     "languages": [
       {
@@ -12074,8 +12074,8 @@
     ],
     "demonym": "Mongolian",
     "flags": [
-      "http://restcountries.com/data/mng.svg",
-      "http://restcountries.com/data/png/mng.png"
+      "https://restcountries.com/data/mng.svg",
+      "https://restcountries.com/data/png/mng.png"
     ],
     "gini": 36.5,
     "languages": [
@@ -12147,8 +12147,8 @@
     ],
     "demonym": "Montenegrin",
     "flags": [
-      "http://restcountries.com/data/mne.svg",
-      "http://restcountries.com/data/png/mne.png"
+      "https://restcountries.com/data/mne.svg",
+      "https://restcountries.com/data/png/mne.png"
     ],
     "gini": 30,
     "languages": [
@@ -12235,8 +12235,8 @@
     ],
     "demonym": "Montserratian",
     "flags": [
-      "http://restcountries.com/data/msr.svg",
-      "http://restcountries.com/data/png/msr.png"
+      "https://restcountries.com/data/msr.svg",
+      "https://restcountries.com/data/png/msr.png"
     ],
     "languages": [
       {
@@ -12315,8 +12315,8 @@
     ],
     "demonym": "Moroccan",
     "flags": [
-      "http://restcountries.com/data/mar.svg",
-      "http://restcountries.com/data/png/mar.png"
+      "https://restcountries.com/data/mar.svg",
+      "https://restcountries.com/data/png/mar.png"
     ],
     "gini": 40.9,
     "languages": [
@@ -12410,8 +12410,8 @@
     ],
     "demonym": "Mozambican",
     "flags": [
-      "http://restcountries.com/data/moz.svg",
-      "http://restcountries.com/data/png/moz.png"
+      "https://restcountries.com/data/moz.svg",
+      "https://restcountries.com/data/png/moz.png"
     ],
     "gini": 45.7,
     "languages": [
@@ -12496,8 +12496,8 @@
     ],
     "demonym": "Burmese",
     "flags": [
-      "http://restcountries.com/data/mmr.svg",
-      "http://restcountries.com/data/png/mmr.png"
+      "https://restcountries.com/data/mmr.svg",
+      "https://restcountries.com/data/png/mmr.png"
     ],
     "gini": 38.1,
     "languages": [
@@ -12578,8 +12578,8 @@
     ],
     "demonym": "Namibian",
     "flags": [
-      "http://restcountries.com/data/nam.svg",
-      "http://restcountries.com/data/png/nam.png"
+      "https://restcountries.com/data/nam.svg",
+      "https://restcountries.com/data/png/nam.png"
     ],
     "gini": 63.9,
     "languages": [
@@ -12665,8 +12665,8 @@
     ],
     "demonym": "Nauruan",
     "flags": [
-      "http://restcountries.com/data/nru.svg",
-      "http://restcountries.com/data/png/nru.png"
+      "https://restcountries.com/data/nru.svg",
+      "https://restcountries.com/data/png/nru.png"
     ],
     "languages": [
       {
@@ -12740,8 +12740,8 @@
     ],
     "demonym": "Nepalese",
     "flags": [
-      "http://restcountries.com/data/npl.svg",
-      "http://restcountries.com/data/png/npl.png"
+      "https://restcountries.com/data/npl.svg",
+      "https://restcountries.com/data/png/npl.png"
     ],
     "gini": 32.8,
     "languages": [
@@ -12815,8 +12815,8 @@
     ],
     "demonym": "Dutch",
     "flags": [
-      "http://restcountries.com/data/nld.svg",
-      "http://restcountries.com/data/png/nld.png"
+      "https://restcountries.com/data/nld.svg",
+      "https://restcountries.com/data/png/nld.png"
     ],
     "gini": 30.9,
     "languages": [
@@ -12886,8 +12886,8 @@
     ],
     "demonym": "New Caledonian",
     "flags": [
-      "http://restcountries.com/data/ncl.svg",
-      "http://restcountries.com/data/png/ncl.png"
+      "https://restcountries.com/data/ncl.svg",
+      "https://restcountries.com/data/png/ncl.png"
     ],
     "languages": [
       {
@@ -12951,8 +12951,8 @@
     ],
     "demonym": "New Zealander",
     "flags": [
-      "http://restcountries.com/data/nzl.svg",
-      "http://restcountries.com/data/png/nzl.png"
+      "https://restcountries.com/data/nzl.svg",
+      "https://restcountries.com/data/png/nzl.png"
     ],
     "gini": 36.2,
     "languages": [
@@ -13031,8 +13031,8 @@
     ],
     "demonym": "Nicaraguan",
     "flags": [
-      "http://restcountries.com/data/nic.svg",
-      "http://restcountries.com/data/png/nic.png"
+      "https://restcountries.com/data/nic.svg",
+      "https://restcountries.com/data/png/nic.png"
     ],
     "gini": 40.5,
     "languages": [
@@ -13118,8 +13118,8 @@
     ],
     "demonym": "Nigerien",
     "flags": [
-      "http://restcountries.com/data/ner.svg",
-      "http://restcountries.com/data/png/ner.png"
+      "https://restcountries.com/data/ner.svg",
+      "https://restcountries.com/data/png/ner.png"
     ],
     "gini": 34.6,
     "languages": [
@@ -13203,8 +13203,8 @@
     ],
     "demonym": "Nigerian",
     "flags": [
-      "http://restcountries.com/data/nga.svg",
-      "http://restcountries.com/data/png/nga.png"
+      "https://restcountries.com/data/nga.svg",
+      "https://restcountries.com/data/png/nga.png"
     ],
     "gini": 48.8,
     "languages": [
@@ -13285,8 +13285,8 @@
     ],
     "demonym": "Niuean",
     "flags": [
-      "http://restcountries.com/data/niu.svg",
-      "http://restcountries.com/data/png/niu.png"
+      "https://restcountries.com/data/niu.svg",
+      "https://restcountries.com/data/png/niu.png"
     ],
     "languages": [
       {
@@ -13351,8 +13351,8 @@
     ],
     "demonym": "Norfolk Islander",
     "flags": [
-      "http://restcountries.com/data/nfk.svg",
-      "http://restcountries.com/data/png/nfk.png"
+      "https://restcountries.com/data/nfk.svg",
+      "https://restcountries.com/data/png/nfk.png"
     ],
     "languages": [
       {
@@ -13422,8 +13422,8 @@
     ],
     "demonym": "North Korean",
     "flags": [
-      "http://restcountries.com/data/prk.svg",
-      "http://restcountries.com/data/png/prk.png"
+      "https://restcountries.com/data/prk.svg",
+      "https://restcountries.com/data/png/prk.png"
     ],
     "gini": null,
     "languages": [
@@ -13489,8 +13489,8 @@
     ],
     "demonym": "American",
     "flags": [
-      "http://restcountries.com/data/mnp.svg",
-      "http://restcountries.com/data/png/mnp.png"
+      "https://restcountries.com/data/mnp.svg",
+      "https://restcountries.com/data/png/mnp.png"
     ],
     "languages": [
       {
@@ -13568,8 +13568,8 @@
     ],
     "demonym": "Norwegian",
     "flags": [
-      "http://restcountries.com/data/nor.svg",
-      "http://restcountries.com/data/png/nor.png"
+      "https://restcountries.com/data/nor.svg",
+      "https://restcountries.com/data/png/nor.png"
     ],
     "gini": 25.8,
     "languages": [
@@ -13656,8 +13656,8 @@
     ],
     "demonym": "Omani",
     "flags": [
-      "http://restcountries.com/data/omn.svg",
-      "http://restcountries.com/data/png/omn.png"
+      "https://restcountries.com/data/omn.svg",
+      "https://restcountries.com/data/png/omn.png"
     ],
     "gini": null,
     "languages": [
@@ -13739,8 +13739,8 @@
     ],
     "demonym": "Pakistani",
     "flags": [
-      "http://restcountries.com/data/pak.svg",
-      "http://restcountries.com/data/png/pak.png"
+      "https://restcountries.com/data/pak.svg",
+      "https://restcountries.com/data/png/pak.png"
     ],
     "gini": 30,
     "languages": [
@@ -13817,8 +13817,8 @@
     ],
     "demonym": "Palauan",
     "flags": [
-      "http://restcountries.com/data/plw.svg",
-      "http://restcountries.com/data/png/plw.png"
+      "https://restcountries.com/data/plw.svg",
+      "https://restcountries.com/data/png/plw.png"
     ],
     "languages": [
       {
@@ -13886,8 +13886,8 @@
     ],
     "demonym": "Palestinian",
     "flags": [
-      "http://restcountries.com/data/pse.svg",
-      "http://restcountries.com/data/png/pse.png"
+      "https://restcountries.com/data/pse.svg",
+      "https://restcountries.com/data/png/pse.png"
     ],
     "gini": 35.5,
     "languages": [
@@ -13971,8 +13971,8 @@
     ],
     "demonym": "Panamanian",
     "flags": [
-      "http://restcountries.com/data/pan.svg",
-      "http://restcountries.com/data/png/pan.png"
+      "https://restcountries.com/data/pan.svg",
+      "https://restcountries.com/data/png/pan.png"
     ],
     "gini": 51.9,
     "languages": [
@@ -14051,8 +14051,8 @@
     ],
     "demonym": "Papua New Guinean",
     "flags": [
-      "http://restcountries.com/data/png.svg",
-      "http://restcountries.com/data/png/png.png"
+      "https://restcountries.com/data/png.svg",
+      "https://restcountries.com/data/png/png.png"
     ],
     "gini": 50.9,
     "languages": [
@@ -14123,8 +14123,8 @@
     ],
     "demonym": "Paraguayan",
     "flags": [
-      "http://restcountries.com/data/pry.svg",
-      "http://restcountries.com/data/png/pry.png"
+      "https://restcountries.com/data/pry.svg",
+      "https://restcountries.com/data/png/pry.png"
     ],
     "gini": 52.4,
     "languages": [
@@ -14218,8 +14218,8 @@
     ],
     "demonym": "Peruvian",
     "flags": [
-      "http://restcountries.com/data/per.svg",
-      "http://restcountries.com/data/png/per.png"
+      "https://restcountries.com/data/per.svg",
+      "https://restcountries.com/data/png/per.png"
     ],
     "gini": 48.1,
     "languages": [
@@ -14308,8 +14308,8 @@
     ],
     "demonym": "Filipino",
     "flags": [
-      "http://restcountries.com/data/phl.svg",
-      "http://restcountries.com/data/png/phl.png"
+      "https://restcountries.com/data/phl.svg",
+      "https://restcountries.com/data/png/phl.png"
     ],
     "gini": 43,
     "languages": [
@@ -14384,8 +14384,8 @@
     ],
     "demonym": "Pitcairn Islander",
     "flags": [
-      "http://restcountries.com/data/pcn.svg",
-      "http://restcountries.com/data/png/pcn.png"
+      "https://restcountries.com/data/pcn.svg",
+      "https://restcountries.com/data/png/pcn.png"
     ],
     "languages": [
       {
@@ -14458,8 +14458,8 @@
     ],
     "demonym": "Polish",
     "flags": [
-      "http://restcountries.com/data/pol.svg",
-      "http://restcountries.com/data/png/pol.png"
+      "https://restcountries.com/data/pol.svg",
+      "https://restcountries.com/data/png/pol.png"
     ],
     "gini": 34.1,
     "languages": [
@@ -14533,8 +14533,8 @@
     ],
     "demonym": "Portuguese",
     "flags": [
-      "http://restcountries.com/data/prt.svg",
-      "http://restcountries.com/data/png/prt.png"
+      "https://restcountries.com/data/prt.svg",
+      "https://restcountries.com/data/png/prt.png"
     ],
     "gini": 38.5,
     "languages": [
@@ -14606,8 +14606,8 @@
     ],
     "demonym": "Puerto Rican",
     "flags": [
-      "http://restcountries.com/data/pri.svg",
-      "http://restcountries.com/data/png/pri.png"
+      "https://restcountries.com/data/pri.svg",
+      "https://restcountries.com/data/png/pri.png"
     ],
     "languages": [
       {
@@ -14680,8 +14680,8 @@
     ],
     "demonym": "Qatari",
     "flags": [
-      "http://restcountries.com/data/qat.svg",
-      "http://restcountries.com/data/png/qat.png"
+      "https://restcountries.com/data/qat.svg",
+      "https://restcountries.com/data/png/qat.png"
     ],
     "gini": 41.1,
     "languages": [
@@ -14761,8 +14761,8 @@
     ],
     "demonym": "Kosovar",
     "flags": [
-      "http://restcountries.com/data/kos.svg",
-      "http://restcountries.com/data/png/kos.png"
+      "https://restcountries.com/data/kos.svg",
+      "https://restcountries.com/data/png/kos.png"
     ],
     "languages": [
       {
@@ -14829,8 +14829,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/reu.svg",
-      "http://restcountries.com/data/png/reu.png"
+      "https://restcountries.com/data/reu.svg",
+      "https://restcountries.com/data/png/reu.png"
     ],
     "languages": [
       {
@@ -14914,8 +14914,8 @@
     ],
     "demonym": "Romanian",
     "flags": [
-      "http://restcountries.com/data/rou.svg",
-      "http://restcountries.com/data/png/rou.png"
+      "https://restcountries.com/data/rou.svg",
+      "https://restcountries.com/data/png/rou.png"
     ],
     "gini": 30,
     "languages": [
@@ -15003,8 +15003,8 @@
     ],
     "demonym": "Russian",
     "flags": [
-      "http://restcountries.com/data/rus.svg",
-      "http://restcountries.com/data/png/rus.png"
+      "https://restcountries.com/data/rus.svg",
+      "https://restcountries.com/data/png/rus.png"
     ],
     "gini": 40.1,
     "languages": [
@@ -15092,8 +15092,8 @@
     ],
     "demonym": "Rwandan",
     "flags": [
-      "http://restcountries.com/data/rwa.svg",
-      "http://restcountries.com/data/png/rwa.png"
+      "https://restcountries.com/data/rwa.svg",
+      "https://restcountries.com/data/png/rwa.png"
     ],
     "gini": 50.8,
     "languages": [
@@ -15184,8 +15184,8 @@
     ],
     "demonym": "Saint Barth\u00e9lemy Islander",
     "flags": [
-      "http://restcountries.com/data/blm.svg",
-      "http://restcountries.com/data/png/blm.png"
+      "https://restcountries.com/data/blm.svg",
+      "https://restcountries.com/data/png/blm.png"
     ],
     "languages": [
       {
@@ -15247,8 +15247,8 @@
     ],
     "demonym": "Saint Helenian",
     "flags": [
-      "http://restcountries.com/data/shn.svg",
-      "http://restcountries.com/data/png/shn.png"
+      "https://restcountries.com/data/shn.svg",
+      "https://restcountries.com/data/png/shn.png"
     ],
     "languages": [
       {
@@ -15323,8 +15323,8 @@
     ],
     "demonym": "Kittian and Nevisian",
     "flags": [
-      "http://restcountries.com/data/kna.svg",
-      "http://restcountries.com/data/png/kna.png"
+      "https://restcountries.com/data/kna.svg",
+      "https://restcountries.com/data/png/kna.png"
     ],
     "languages": [
       {
@@ -15397,8 +15397,8 @@
     ],
     "demonym": "Saint Lucian",
     "flags": [
-      "http://restcountries.com/data/lca.svg",
-      "http://restcountries.com/data/png/lca.png"
+      "https://restcountries.com/data/lca.svg",
+      "https://restcountries.com/data/png/lca.png"
     ],
     "gini": 42.6,
     "languages": [
@@ -15477,8 +15477,8 @@
     ],
     "demonym": "Saint Martin Islander",
     "flags": [
-      "http://restcountries.com/data/maf.svg",
-      "http://restcountries.com/data/png/maf.png"
+      "https://restcountries.com/data/maf.svg",
+      "https://restcountries.com/data/png/maf.png"
     ],
     "languages": [
       {
@@ -15557,8 +15557,8 @@
     ],
     "demonym": "French",
     "flags": [
-      "http://restcountries.com/data/spm.svg",
-      "http://restcountries.com/data/png/spm.png"
+      "https://restcountries.com/data/spm.svg",
+      "https://restcountries.com/data/png/spm.png"
     ],
     "languages": [
       {
@@ -15621,8 +15621,8 @@
     ],
     "demonym": "Saint Vincentian",
     "flags": [
-      "http://restcountries.com/data/vct.svg",
-      "http://restcountries.com/data/png/vct.png"
+      "https://restcountries.com/data/vct.svg",
+      "https://restcountries.com/data/png/vct.png"
     ],
     "languages": [
       {
@@ -15697,8 +15697,8 @@
     ],
     "demonym": "Samoan",
     "flags": [
-      "http://restcountries.com/data/wsm.svg",
-      "http://restcountries.com/data/png/wsm.png"
+      "https://restcountries.com/data/wsm.svg",
+      "https://restcountries.com/data/png/wsm.png"
     ],
     "languages": [
       {
@@ -15771,8 +15771,8 @@
     ],
     "demonym": "Sammarinese",
     "flags": [
-      "http://restcountries.com/data/smr.svg",
-      "http://restcountries.com/data/png/smr.png"
+      "https://restcountries.com/data/smr.svg",
+      "https://restcountries.com/data/png/smr.png"
     ],
     "languages": [
       {
@@ -15837,8 +15837,8 @@
     ],
     "demonym": "Sao Tomean",
     "flags": [
-      "http://restcountries.com/data/stp.svg",
-      "http://restcountries.com/data/png/stp.png"
+      "https://restcountries.com/data/stp.svg",
+      "https://restcountries.com/data/png/stp.png"
     ],
     "gini": 50.8,
     "languages": [
@@ -15924,8 +15924,8 @@
     ],
     "demonym": "Saudi Arabian",
     "flags": [
-      "http://restcountries.com/data/sau.svg",
-      "http://restcountries.com/data/png/sau.png"
+      "https://restcountries.com/data/sau.svg",
+      "https://restcountries.com/data/png/sau.png"
     ],
     "gini": 45.9,
     "languages": [
@@ -16007,8 +16007,8 @@
     ],
     "demonym": "Senegalese",
     "flags": [
-      "http://restcountries.com/data/sen.svg",
-      "http://restcountries.com/data/png/sen.png"
+      "https://restcountries.com/data/sen.svg",
+      "https://restcountries.com/data/png/sen.png"
     ],
     "gini": 39.2,
     "languages": [
@@ -16097,8 +16097,8 @@
     ],
     "demonym": "Serbian",
     "flags": [
-      "http://restcountries.com/data/srb.svg",
-      "http://restcountries.com/data/png/srb.png"
+      "https://restcountries.com/data/srb.svg",
+      "https://restcountries.com/data/png/srb.png"
     ],
     "gini": 27.8,
     "languages": [
@@ -16170,8 +16170,8 @@
     ],
     "demonym": "Seychellois",
     "flags": [
-      "http://restcountries.com/data/syc.svg",
-      "http://restcountries.com/data/png/syc.png"
+      "https://restcountries.com/data/syc.svg",
+      "https://restcountries.com/data/png/syc.png"
     ],
     "gini": 65.8,
     "languages": [
@@ -16257,8 +16257,8 @@
     ],
     "demonym": "Sierra Leonean",
     "flags": [
-      "http://restcountries.com/data/sle.svg",
-      "http://restcountries.com/data/png/sle.png"
+      "https://restcountries.com/data/sle.svg",
+      "https://restcountries.com/data/png/sle.png"
     ],
     "gini": 42.5,
     "languages": [
@@ -16342,8 +16342,8 @@
     ],
     "demonym": "Singaporean",
     "flags": [
-      "http://restcountries.com/data/sgp.svg",
-      "http://restcountries.com/data/png/sgp.png"
+      "https://restcountries.com/data/sgp.svg",
+      "https://restcountries.com/data/png/sgp.png"
     ],
     "gini": 48.1,
     "languages": [
@@ -16432,8 +16432,8 @@
     ],
     "demonym": "Dutch",
     "flags": [
-      "http://restcountries.com/data/sxm.svg",
-      "http://restcountries.com/data/png/sxm.png"
+      "https://restcountries.com/data/sxm.svg",
+      "https://restcountries.com/data/png/sxm.png"
     ],
     "languages": [
       {
@@ -16508,8 +16508,8 @@
     ],
     "demonym": "Slovak",
     "flags": [
-      "http://restcountries.com/data/svk.svg",
-      "http://restcountries.com/data/png/svk.png"
+      "https://restcountries.com/data/svk.svg",
+      "https://restcountries.com/data/png/svk.png"
     ],
     "gini": 26,
     "languages": [
@@ -16585,8 +16585,8 @@
     ],
     "demonym": "Slovene",
     "flags": [
-      "http://restcountries.com/data/svn.svg",
-      "http://restcountries.com/data/png/svn.png"
+      "https://restcountries.com/data/svn.svg",
+      "https://restcountries.com/data/png/svn.png"
     ],
     "gini": 31.2,
     "languages": [
@@ -16655,8 +16655,8 @@
     ],
     "demonym": "Solomon Islander",
     "flags": [
-      "http://restcountries.com/data/slb.svg",
-      "http://restcountries.com/data/png/slb.png"
+      "https://restcountries.com/data/slb.svg",
+      "https://restcountries.com/data/png/slb.png"
     ],
     "languages": [
       {
@@ -16727,8 +16727,8 @@
     ],
     "demonym": "Somali",
     "flags": [
-      "http://restcountries.com/data/som.svg",
-      "http://restcountries.com/data/png/som.png"
+      "https://restcountries.com/data/som.svg",
+      "https://restcountries.com/data/png/som.png"
     ],
     "gini": null,
     "languages": [
@@ -16829,8 +16829,8 @@
     ],
     "demonym": "South African",
     "flags": [
-      "http://restcountries.com/data/zaf.svg",
-      "http://restcountries.com/data/png/zaf.png"
+      "https://restcountries.com/data/zaf.svg",
+      "https://restcountries.com/data/png/zaf.png"
     ],
     "gini": 63.1,
     "languages": [
@@ -16960,8 +16960,8 @@
     ],
     "demonym": "South Georgia and the South Sandwich Islander",
     "flags": [
-      "http://restcountries.com/data/sgs.svg",
-      "http://restcountries.com/data/png/sgs.png"
+      "https://restcountries.com/data/sgs.svg",
+      "https://restcountries.com/data/png/sgs.png"
     ],
     "languages": [
       {
@@ -17044,8 +17044,8 @@
     ],
     "demonym": "South Korean",
     "flags": [
-      "http://restcountries.com/data/kor.svg",
-      "http://restcountries.com/data/png/kor.png"
+      "https://restcountries.com/data/kor.svg",
+      "https://restcountries.com/data/png/kor.png"
     ],
     "gini": 31.3,
     "languages": [
@@ -17116,8 +17116,8 @@
     ],
     "demonym": "South Sudanese",
     "flags": [
-      "http://restcountries.com/data/ssd.svg",
-      "http://restcountries.com/data/png/ssd.png"
+      "https://restcountries.com/data/ssd.svg",
+      "https://restcountries.com/data/png/ssd.png"
     ],
     "gini": 45.5,
     "languages": [
@@ -17201,8 +17201,8 @@
     ],
     "demonym": "Spanish",
     "flags": [
-      "http://restcountries.com/data/esp.svg",
-      "http://restcountries.com/data/png/esp.png"
+      "https://restcountries.com/data/esp.svg",
+      "https://restcountries.com/data/png/esp.png"
     ],
     "gini": 34.7,
     "languages": [
@@ -17276,8 +17276,8 @@
     ],
     "demonym": "Sri Lankan",
     "flags": [
-      "http://restcountries.com/data/lka.svg",
-      "http://restcountries.com/data/png/lka.png"
+      "https://restcountries.com/data/lka.svg",
+      "https://restcountries.com/data/png/lka.png"
     ],
     "gini": 40.3,
     "languages": [
@@ -17362,8 +17362,8 @@
     ],
     "demonym": "Sudanese",
     "flags": [
-      "http://restcountries.com/data/sdn.svg",
-      "http://restcountries.com/data/png/sdn.png"
+      "https://restcountries.com/data/sdn.svg",
+      "https://restcountries.com/data/png/sdn.png"
     ],
     "gini": 35.3,
     "languages": [
@@ -17463,8 +17463,8 @@
     ],
     "demonym": "Surinamer",
     "flags": [
-      "http://restcountries.com/data/sur.svg",
-      "http://restcountries.com/data/png/sur.png"
+      "https://restcountries.com/data/sur.svg",
+      "https://restcountries.com/data/png/sur.png"
     ],
     "gini": 52.9,
     "languages": [
@@ -17553,8 +17553,8 @@
     ],
     "demonym": "Norwegian",
     "flags": [
-      "http://restcountries.com/data/sjm.svg",
-      "http://restcountries.com/data/png/sjm.png"
+      "https://restcountries.com/data/sjm.svg",
+      "https://restcountries.com/data/png/sjm.png"
     ],
     "languages": [
       {
@@ -17625,8 +17625,8 @@
     ],
     "demonym": "Swazi",
     "flags": [
-      "http://restcountries.com/data/swz.svg",
-      "http://restcountries.com/data/png/swz.png"
+      "https://restcountries.com/data/swz.svg",
+      "https://restcountries.com/data/png/swz.png"
     ],
     "gini": 51.5,
     "languages": [
@@ -17713,8 +17713,8 @@
     ],
     "demonym": "Swedish",
     "flags": [
-      "http://restcountries.com/data/swe.svg",
-      "http://restcountries.com/data/png/swe.png"
+      "https://restcountries.com/data/swe.svg",
+      "https://restcountries.com/data/png/swe.png"
     ],
     "gini": 25,
     "languages": [
@@ -17794,8 +17794,8 @@
     ],
     "demonym": "Swiss",
     "flags": [
-      "http://restcountries.com/data/che.svg",
-      "http://restcountries.com/data/png/che.png"
+      "https://restcountries.com/data/che.svg",
+      "https://restcountries.com/data/png/che.png"
     ],
     "gini": 33.7,
     "languages": [
@@ -17890,8 +17890,8 @@
     ],
     "demonym": "Syrian",
     "flags": [
-      "http://restcountries.com/data/syr.svg",
-      "http://restcountries.com/data/png/syr.png"
+      "https://restcountries.com/data/syr.svg",
+      "https://restcountries.com/data/png/syr.png"
     ],
     "gini": 35.8,
     "languages": [
@@ -17969,8 +17969,8 @@
     ],
     "demonym": "Taiwanese",
     "flags": [
-      "http://restcountries.com/data/twn.svg",
-      "http://restcountries.com/data/png/twn.png"
+      "https://restcountries.com/data/twn.svg",
+      "https://restcountries.com/data/png/twn.png"
     ],
     "gini": 33.6,
     "languages": [
@@ -18043,8 +18043,8 @@
     ],
     "demonym": "Tadzhik",
     "flags": [
-      "http://restcountries.com/data/tjk.svg",
-      "http://restcountries.com/data/png/tjk.png"
+      "https://restcountries.com/data/tjk.svg",
+      "https://restcountries.com/data/png/tjk.png"
     ],
     "gini": 30.8,
     "languages": [
@@ -18125,8 +18125,8 @@
     ],
     "demonym": "Tanzanian",
     "flags": [
-      "http://restcountries.com/data/tza.svg",
-      "http://restcountries.com/data/png/tza.png"
+      "https://restcountries.com/data/tza.svg",
+      "https://restcountries.com/data/png/tza.png"
     ],
     "gini": 37.6,
     "languages": [
@@ -18218,8 +18218,8 @@
     ],
     "demonym": "Thai",
     "flags": [
-      "http://restcountries.com/data/tha.svg",
-      "http://restcountries.com/data/png/tha.png"
+      "https://restcountries.com/data/tha.svg",
+      "https://restcountries.com/data/png/tha.png"
     ],
     "gini": 40,
     "languages": [
@@ -18294,8 +18294,8 @@
     ],
     "demonym": "East Timorese",
     "flags": [
-      "http://restcountries.com/data/tls.svg",
-      "http://restcountries.com/data/png/tls.png"
+      "https://restcountries.com/data/tls.svg",
+      "https://restcountries.com/data/png/tls.png"
     ],
     "gini": 31.9,
     "languages": [
@@ -18366,8 +18366,8 @@
     ],
     "demonym": "Togolese",
     "flags": [
-      "http://restcountries.com/data/tgo.svg",
-      "http://restcountries.com/data/png/tgo.png"
+      "https://restcountries.com/data/tgo.svg",
+      "https://restcountries.com/data/png/tgo.png"
     ],
     "gini": 34.4,
     "languages": [
@@ -18443,8 +18443,8 @@
     ],
     "demonym": "Tokelauan",
     "flags": [
-      "http://restcountries.com/data/tkl.svg",
-      "http://restcountries.com/data/png/tkl.png"
+      "https://restcountries.com/data/tkl.svg",
+      "https://restcountries.com/data/png/tkl.png"
     ],
     "languages": [
       {
@@ -18507,8 +18507,8 @@
     ],
     "demonym": "Tongan",
     "flags": [
-      "http://restcountries.com/data/ton.svg",
-      "http://restcountries.com/data/png/ton.png"
+      "https://restcountries.com/data/ton.svg",
+      "https://restcountries.com/data/png/ton.png"
     ],
     "languages": [
       {
@@ -18578,8 +18578,8 @@
     ],
     "demonym": "Trinidadian",
     "flags": [
-      "http://restcountries.com/data/tto.svg",
-      "http://restcountries.com/data/png/tto.png"
+      "https://restcountries.com/data/tto.svg",
+      "https://restcountries.com/data/png/tto.png"
     ],
     "gini": 40.3,
     "languages": [
@@ -18658,8 +18658,8 @@
     ],
     "demonym": "Tunisian",
     "flags": [
-      "http://restcountries.com/data/tun.svg",
-      "http://restcountries.com/data/png/tun.png"
+      "https://restcountries.com/data/tun.svg",
+      "https://restcountries.com/data/png/tun.png"
     ],
     "gini": 41.4,
     "languages": [
@@ -18756,8 +18756,8 @@
     ],
     ",demonym": "Turkish",
     "flags": [
-      "http://restcountries.com/data/tur.svg",
-      "http://restcountries.com/data/png/tur.png"
+      "https://restcountries.com/data/tur.svg",
+      "https://restcountries.com/data/png/tur.png"
     ],
     "gini": 39,
     "languages": [
@@ -18826,8 +18826,8 @@
     ],
     "demonym": "Turkmen",
     "flags": [
-      "http://restcountries.com/data/tkm.svg",
-      "http://restcountries.com/data/png/tkm.png"
+      "https://restcountries.com/data/tkm.svg",
+      "https://restcountries.com/data/png/tkm.png"
     ],
     "gini": 40.8,
     "languages": [
@@ -18897,8 +18897,8 @@
     ],
     "demonym": "Turks and Caicos Islander",
     "flags": [
-      "http://restcountries.com/data/tca.svg",
-      "http://restcountries.com/data/png/tca.png"
+      "https://restcountries.com/data/tca.svg",
+      "https://restcountries.com/data/png/tca.png"
     ],
     "languages": [
       {
@@ -18966,8 +18966,8 @@
     ],
     "demonym": "Tuvaluan",
     "flags": [
-      "http://restcountries.com/data/tuv.svg",
-      "http://restcountries.com/data/png/tuv.png"
+      "https://restcountries.com/data/tuv.svg",
+      "https://restcountries.com/data/png/tuv.png"
     ],
     "languages": [
       {
@@ -19038,8 +19038,8 @@
     ],
     "demonym": "Ugandan",
     "flags": [
-      "http://restcountries.com/data/uga.svg",
-      "http://restcountries.com/data/png/uga.png"
+      "https://restcountries.com/data/uga.svg",
+      "https://restcountries.com/data/png/uga.png"
     ],
     "gini": 44.3,
     "languages": [
@@ -19130,8 +19130,8 @@
     ],
     "demonym": "Ukrainian",
     "flags": [
-      "http://restcountries.com/data/ukr.svg",
-      "http://restcountries.com/data/png/ukr.png"
+      "https://restcountries.com/data/ukr.svg",
+      "https://restcountries.com/data/png/ukr.png"
     ],
     "gini": 26.4,
     "languages": [
@@ -19199,8 +19199,8 @@
     ],
     "demonym": "Emirati",
     "flags": [
-      "http://restcountries.com/data/are.svg",
-      "http://restcountries.com/data/png/are.png"
+      "https://restcountries.com/data/are.svg",
+      "https://restcountries.com/data/png/are.png"
     ],
     "gini": 45.9,
     "languages": [
@@ -19278,8 +19278,8 @@
     ],
     "demonym": "British",
     "flags": [
-      "http://restcountries.com/data/gbr.svg",
-      "http://restcountries.com/data/png/gbr.png"
+      "https://restcountries.com/data/gbr.svg",
+      "https://restcountries.com/data/png/gbr.png"
     ],
     "gini": 34,
     "languages": [
@@ -19361,8 +19361,8 @@
     ],
     "demonym": "American",
     "flags": [
-      "http://restcountries.com/data/usa.svg",
-      "http://restcountries.com/data/png/usa.png"
+      "https://restcountries.com/data/usa.svg",
+      "https://restcountries.com/data/png/usa.png"
     ],
     "gini": 48,
     "languages": [
@@ -19450,8 +19450,8 @@
     ],
     "demonym": "Uruguayan",
     "flags": [
-      "http://restcountries.com/data/ury.svg",
-      "http://restcountries.com/data/png/ury.png"
+      "https://restcountries.com/data/ury.svg",
+      "https://restcountries.com/data/png/ury.png"
     ],
     "gini": 39.7,
     "languages": [
@@ -19540,8 +19540,8 @@
     ],
     ",demonym": "Uzbekistani",
     "flags": [
-      "http://restcountries.com/data/uzb.svg",
-      "http://restcountries.com/data/png/uzb.png"
+      "https://restcountries.com/data/uzb.svg",
+      "https://restcountries.com/data/png/uzb.png"
     ],
     "gini": 36.7,
     "languages": [
@@ -19614,8 +19614,8 @@
     ],
     "demonym": "Ni-Vanuatu",
     "flags": [
-      "http://restcountries.com/data/vut.svg",
-      "http://restcountries.com/data/png/vut.png"
+      "https://restcountries.com/data/vut.svg",
+      "https://restcountries.com/data/png/vut.png"
     ],
     "languages": [
       {
@@ -19696,8 +19696,8 @@
     ],
     "demonym": "Venezuelan",
     "flags": [
-      "http://restcountries.com/data/ven.svg",
-      "http://restcountries.com/data/png/ven.png"
+      "https://restcountries.com/data/ven.svg",
+      "https://restcountries.com/data/png/ven.png"
     ],
     "gini": 44.8,
     "languages": [
@@ -19783,8 +19783,8 @@
     ],
     "demonym": "Vietnamese",
     "flags": [
-      "http://restcountries.com/data/vnm.svg",
-      "http://restcountries.com/data/png/vnm.png"
+      "https://restcountries.com/data/vnm.svg",
+      "https://restcountries.com/data/png/vnm.png"
     ],
     "gini": 35.6,
     "languages": [
@@ -19855,8 +19855,8 @@
     ],
     "demonym": "Wallis and Futuna Islander",
     "flags": [
-      "http://restcountries.com/data/wlf.svg",
-      "http://restcountries.com/data/png/wlf.png"
+      "https://restcountries.com/data/wlf.svg",
+      "https://restcountries.com/data/png/wlf.png"
     ],
     "languages": [
       {
@@ -19929,8 +19929,8 @@
     ],
     "demonym": "Sahrawi",
     "flags": [
-      "http://restcountries.com/data/esh.svg",
-      "http://restcountries.com/data/png/esh.png"
+      "https://restcountries.com/data/esh.svg",
+      "https://restcountries.com/data/png/esh.png"
     ],
     "languages": [
       {
@@ -20010,8 +20010,8 @@
     ],
     "demonym": "Yemeni",
     "flags": [
-      "http://restcountries.com/data/yem.svg",
-      "http://restcountries.com/data/png/yem.png"
+      "https://restcountries.com/data/yem.svg",
+      "https://restcountries.com/data/png/yem.png"
     ],
     "gini": 37.7,
     "languages": [
@@ -20095,8 +20095,8 @@
     ],
     "demonym": "Zambian",
     "flags": [
-      "http://restcountries.com/data/zmb.svg",
-      "http://restcountries.com/data/png/zmb.png"
+      "https://restcountries.com/data/zmb.svg",
+      "https://restcountries.com/data/png/zmb.png"
     ],
     "gini": 54.6,
     "languages": [
@@ -20178,8 +20178,8 @@
     ],
     "demonym": "Zimbabwean",
     "flags": [
-      "http://restcountries.com/data/zwe.svg",
-      "http://restcountries.com/data/png/zwe.png"
+      "https://restcountries.com/data/zwe.svg",
+      "https://restcountries.com/data/png/zwe.png"
     ],
     "gini": 57.1,
     "languages": [
