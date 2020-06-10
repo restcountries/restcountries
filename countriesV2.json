@@ -27,6 +27,7 @@
       }
     ],
     "demonym": "Afghan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/afg.svg",
       "https://restcountries.com/data/png/afg.png"
@@ -94,82 +95,6 @@
     "cioc": "AFG"
   },
   {
-    "alpha2Code": "AX",
-    "alpha3Code": "ALA",
-    "altSpellings": [
-      "AX",
-      "Aaland",
-      "Aland",
-      "Ahvenanmaa"
-    ],
-    "area": 1580,
-    "borders": [],
-    "callingCodes": [
-      "358"
-    ],
-    "capital": "Mariehamn",
-    "currencies": [
-      {
-        "code": "EUR",
-        "name": "Euro",
-        "symbol": "\u20ac"
-      }
-    ],
-    "demonym": "\u00c5landish",
-    "flags": [
-      "https://restcountries.com/data/ala.svg",
-      "https://restcountries.com/data/png/ala.png"
-    ],
-    "languages": [
-      {
-        "iso639_1": "sv",
-        "iso639_2": "swe",
-        "name": "Swedish",
-        "nativeName": "svenska"
-      }
-    ],
-    "latlng": [
-      60.116667,
-      19.9
-    ],
-    "maps": {
-      "gmaps": "https://www.google.com/maps/place/%C3%85land/@60.2624203,19.7877913",
-      "openstreetmap": "https://www.openstreetmap.org/relation/1650407#map=9/60.1731/20.2144"
-    },
-    "name": "\u00c5land Islands",
-    "nativeName": "\u00c5land",
-    "numericCode": "248",
-    "population": 28875,
-    "region": "Europe",
-    "regionalBlocs": [
-      {
-        "acronym": "EU",
-        "name": "European Union"
-      }
-    ],
-    "subregion": "Northern Europe",
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "topLevelDomain": [
-      ".ax"
-    ],
-    "translations": {
-      "br": "Ilhas de Aland",
-      "de": "\u00c5land",
-      "es": "Alandia",
-      "fa": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f",
-      "fr": "\u00c5land",
-      "hr": "\u00c5landski otoci",
-      "it": "Isole Aland",
-      "ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
-      "nl": "\u00c5landeilanden",
-      "pt": "Ilhas de Aland",
-      "hu": "\u00c5land-szigetek"
-    },
-    "cioc": ""
-  },
-  {
     "alpha2Code": "AL",
     "alpha3Code": "ALB",
     "altSpellings": [
@@ -197,6 +122,7 @@
       }
     ],
     "demonym": "Albanian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/alb.svg",
       "https://restcountries.com/data/png/alb.png"
@@ -281,6 +207,7 @@
       }
     ],
     "demonym": "Algerian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/dza.svg",
       "https://restcountries.com/data/png/dza.png"
@@ -374,6 +301,7 @@
       }
     ],
     "demonym": "American Samoan",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/asm.svg",
       "https://restcountries.com/data/png/asm.png"
@@ -453,6 +381,7 @@
       }
     ],
     "demonym": "Andorran",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/and.svg",
       "https://restcountries.com/data/png/and.png"
@@ -469,8 +398,10 @@
       42.5,
       1.5
     ],
-    "gmaps": "https://www.google.com/maps/place/Andorra/@42.5421846,1.457591",
-    "openstreetmap": "https://www.openstreetmap.org/relation/9407",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Andorra/@42.5421846,1.457591",
+      "openstreetmap": "https://www.openstreetmap.org/relation/9407"
+    },
     "name": "Andorra",
     "nativeName": "Andorra",
     "numericCode": "020",
@@ -526,6 +457,7 @@
       }
     ],
     "demonym": "Angolan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ago.svg",
       "https://restcountries.com/data/png/ago.png"
@@ -543,8 +475,10 @@
       -12.5,
       18.5
     ],
-    "gmaps": "https://www.google.com/maps/place/Angola/@-11.1799772,13.2847612",
-    "openstreetmap": "https://www.openstreetmap.org/relation/195267",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Angola/@-11.1799772,13.2847612",
+      "openstreetmap": "https://www.openstreetmap.org/relation/195267"
+    },
     "name": "Angola",
     "nativeName": "Angola",
     "numericCode": "024",
@@ -605,6 +539,7 @@
       }
     ],
     "demonym": "Anguillian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/aia.svg",
       "https://restcountries.com/data/png/aia.png"
@@ -621,8 +556,10 @@
       18.25,
       -63.16666666
     ],
-    "gmaps": "https://www.google.com/maps/place/Anguilla/@18.3898172,-63.3402329",
-    "openstreetmap": "https://www.openstreetmap.org/relation/2177161",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Anguilla/@18.3898172,-63.3402329",
+      "openstreetmap": "https://www.openstreetmap.org/relation/2177161"
+    },
     "name": "Anguilla",
     "nativeName": "Anguilla",
     "numericCode": "660",
@@ -673,7 +610,8 @@
         "symbol": "\u00a3"
       }
     ],
-    "demonym": "",
+    "demonym": "Antarctic",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/ata.svg",
       "https://restcountries.com/data/png/ata.png"
@@ -696,8 +634,10 @@
       -74.65,
       4.48
     ],
-    "gmaps": "https://www.google.com/maps/place/Antarctica/@-40.0360936,-71.7481763",
-    "openstreetmap": "https://www.openstreetmap.org/relation/2186646",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Antarctica/@-40.0360936,-71.7481763",
+      "openstreetmap": "https://www.openstreetmap.org/relation/2186646"
+    },
     "name": "Antarctica",
     "nativeName": "Antarctica",
     "numericCode": "010",
@@ -753,6 +693,7 @@
       }
     ],
     "demonym": "Antiguan, Barbudan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/atg.svg",
       "https://restcountries.com/data/png/atg.png"
@@ -769,8 +710,10 @@
       17.05,
       -61.8
     ],
-    "maps": "https://www.google.com/maps/place/Antigua+and+Barbuda/@17.3257025,-62.2903807",
-    "gmaps": "https://www.openstreetmap.org/relation/536900",
+    "maps": {
+      "maps": "https://www.google.com/maps/place/Antigua+and+Barbuda/@17.3257025,-62.2903807",
+      "gmaps": "https://www.openstreetmap.org/relation/536900"
+    },
     "name": "Antigua and Barbuda",
     "nativeName": "Antigua and Barbuda",
     "numericCode": "028",
@@ -837,6 +780,7 @@
       }
     ],
     "demonym": "Argentinean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/arg.svg",
       "https://restcountries.com/data/png/arg.png"
@@ -860,8 +804,10 @@
       -34,
       -64
     ],
-    "gmaps": "https://www.google.com/maps/place/Argentina/@-38.1091486,-72.582178",
-    "openstreetmap": "https://www.openstreetmap.org/relation/286393",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Argentina/@-38.1091486,-72.582178",
+      "openstreetmap": "https://www.openstreetmap.org/relation/286393"
+    },
     "name": "Argentina",
     "nativeName": "Argentina",
     "numericCode": "032",
@@ -934,6 +880,7 @@
       }
     ],
     "demonym": "Armenian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/arm.svg",
       "https://restcountries.com/data/png/arm.png"
@@ -957,8 +904,10 @@
       40,
       45
     ],
-    "gmaps": "https://www.google.com/maps/place/Armenia/@40.0652165,43.9197875",
-    "openstreetmap": "https://www.openstreetmap.org/relation/364066",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Armenia/@40.0652165,43.9197875",
+      "openstreetmap": "https://www.openstreetmap.org/relation/364066"
+    },
     "name": "Armenia",
     "nativeName": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
     "numericCode": "051",
@@ -1015,6 +964,7 @@
       }
     ],
     "demonym": "Aruban",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/abw.svg",
       "https://restcountries.com/data/png/abw.png"
@@ -1037,8 +987,10 @@
       12.5,
       -69.96666666
     ],
-    "gmaps": "https://www.google.com/maps/place/Aruba/@12.5183464,-70.0373286",
-    "openstreetmap": "https://www.openstreetmap.org/relation/1231749",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Aruba/@12.5183464,-70.0373286",
+      "openstreetmap": "https://www.openstreetmap.org/relation/1231749"
+    },
     "name": "Aruba",
     "nativeName": "Aruba",
     "numericCode": "533",
@@ -1087,6 +1039,7 @@
       }
     ],
     "demonym": "Australian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/aus.svg",
       "https://restcountries.com/data/png/aus.png"
@@ -1104,8 +1057,10 @@
       -27,
       133
     ],
-    "gmaps": "https://www.google.com/maps/place/Australia/@-25.0346097,115.2423818",
-    "openstreetmap": "https://www.openstreetmap.org/relation/80500",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Australia/@-25.0346097,115.2423818",
+      "openstreetmap": "https://www.openstreetmap.org/relation/80500"
+    },
     "name": "Australia",
     "nativeName": "Australia",
     "numericCode": "036",
@@ -1173,6 +1128,7 @@
       }
     ],
     "demonym": "Austrian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/aut.svg",
       "https://restcountries.com/data/png/aut.png"
@@ -1190,8 +1146,10 @@
       47.33333333,
       13.33333333
     ],
-    "gmaps": "https://www.google.com/maps/place/Austria/@47.6746276,11.1036277",
-    "openstreetmap": "https://www.openstreetmap.org/relation/16239",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Austria/@47.6746276,11.1036277",
+      "openstreetmap": "https://www.openstreetmap.org/relation/16239"
+    },
     "name": "Austria",
     "nativeName": "\u00d6sterreich",
     "numericCode": "040",
@@ -1321,6 +1279,7 @@
       }
     ],
     "demonym": "Bahamian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bhs.svg",
       "https://restcountries.com/data/png/bhs.png"
@@ -1337,8 +1296,10 @@
       24.25,
       -76
     ],
-    "gmaps": "https://www.google.com/maps/place/Bahamas/@24.3681633,-80.4583616",
-    "openstreetmap": "https://www.openstreetmap.org/relation/547469",
+    "maps":{
+      "gmaps": "https://www.google.com/maps/place/Bahamas/@24.3681633,-80.4583616",
+      "openstreetmap": "https://www.openstreetmap.org/relation/547469"
+    },
     "name": "Bahamas",
     "nativeName": "Bahamas",
     "numericCode": "044",
@@ -1399,6 +1360,7 @@
       }
     ],
     "demonym": "Bahraini",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bhr.svg",
       "https://restcountries.com/data/png/bhr.png"
@@ -1416,8 +1378,10 @@
       26,
       50.55
     ],
-    "gmaps": "https://www.google.com/maps/place/Bahrain/@25.9406805,50.3073975",
-    "openstreetmap": "https://www.openstreetmap.org/relation/378734",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Bahrain/@25.9406805,50.3073975",
+      "openstreetmap": "https://www.openstreetmap.org/relation/378734"
+    },
     "name": "Bahrain",
     "nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "numericCode": "048",
@@ -1481,6 +1445,7 @@
       }
     ],
     "demonym": "Bangladeshi",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bgd.svg",
       "https://restcountries.com/data/png/bgd.png"
@@ -1498,8 +1463,10 @@
       24,
       90
     ],
-    "gmaps": "https://www.google.com/maps/place/Bangladesh/@23.4905951,88.1011007",
-    "openstreetmap": "https://www.openstreetmap.org/relation/184640",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Bangladesh/@23.4905951,88.1011007",
+      "openstreetmap": "https://www.openstreetmap.org/relation/184640"
+    },
     "name": "Bangladesh",
     "nativeName": "Bangladesh",
     "numericCode": "050",
@@ -1553,6 +1520,7 @@
       }
     ],
     "demonym": "Barbadian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/brb.svg",
       "https://restcountries.com/data/png/brb.png"
@@ -1569,8 +1537,10 @@
       13.16666666,
       -59.53333333
     ],
-    "gmaps": "https://www.google.com/maps/place/Barbados/@13.1881671,-59.6052951",
-    "openstreetmap": "https://www.openstreetmap.org/relation/547511",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Barbados/@13.1881671,-59.6052951",
+      "openstreetmap": "https://www.openstreetmap.org/relation/547511"
+    },
     "name": "Barbados",
     "nativeName": "Barbados",
     "numericCode": "052",
@@ -1646,6 +1616,7 @@
       }
     ],
     "demonym": "Belarusian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/blr.svg",
       "https://restcountries.com/data/png/blr.png"
@@ -1669,8 +1640,10 @@
       53,
       28
     ],
-    "gmaps": "https://www.google.com/maps/place/Belarus/@53.6331695,23.4949703",
-    "openstreetmap": "https://www.openstreetmap.org/relation/59065",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Belarus/@53.6331695,23.4949703",
+      "openstreetmap": "https://www.openstreetmap.org/relation/59065"
+    },
     "name": "Belarus",
     "nativeName": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
     "numericCode": "112",
@@ -1740,6 +1713,7 @@
       }
     ],
     "demonym": "Belgian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bel.svg",
       "https://restcountries.com/data/png/bel.png"
@@ -1769,8 +1743,10 @@
       50.83333333,
       4
     ],
-    "gmaps": "https://www.google.com/maps/place/Belgium/@50.4956976,3.3452591",
-    "openstreetmap": "https://www.openstreetmap.org/relation/52411",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Belgium/@50.4956976,3.3452591",
+      "openstreetmap": "https://www.openstreetmap.org/relation/52411"
+    },
     "name": "Belgium",
     "nativeName": "Belgi\u00eb",
     "numericCode": "056",
@@ -1827,6 +1803,7 @@
       }
     ],
     "demonym": "Belizean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/blz.svg",
       "https://restcountries.com/data/png/blz.png"
@@ -1850,8 +1827,10 @@
       17.25,
       -88.75
     ],
-    "gmaps": "https://www.google.com/maps/place/Belice/@17.1900065,-88.8805672",
-    "openstreetmap": "https://www.openstreetmap.org/relation/287827",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Belice/@17.1900065,-88.8805672",
+      "openstreetmap": "https://www.openstreetmap.org/relation/287827"
+    },
     "name": "Belize",
     "nativeName": "Belize",
     "numericCode": "084",
@@ -1927,6 +1906,7 @@
       }
     ],
     "demonym": "Beninese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ben.svg",
       "https://restcountries.com/data/png/ben.png"
@@ -1944,8 +1924,10 @@
       9.5,
       2.25
     ],
-    "gmaps": "https://www.google.com/maps/place/Benin/@9.3003453,0.0657511",
-    "openstreetmap": "https://www.openstreetmap.org/relation/192784",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Benin/@9.3003453,0.0657511",
+      "openstreetmap": "https://www.openstreetmap.org/relation/192784"
+    },
     "name": "Benin",
     "nativeName": "B\u00e9nin",
     "numericCode": "204",
@@ -2008,6 +1990,7 @@
       }
     ],
     "demonym": "Bermudian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/bmu.svg",
       "https://restcountries.com/data/png/bmu.png"
@@ -2024,8 +2007,10 @@
       32.33333333,
       -64.75
     ],
-    "gmaps": "https://www.google.com/maps/place/Bermuda/@32.3020866,-64.8507504",
-    "openstreetmap": "https://www.openstreetmap.org/relation/1993208",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Bermuda/@32.3020866,-64.8507504",
+      "openstreetmap": "https://www.openstreetmap.org/relation/1993208"
+    },
     "name": "Bermuda",
     "nativeName": "Bermuda",
     "numericCode": "060",
@@ -2083,6 +2068,7 @@
       }
     ],
     "demonym": "Bhutanese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/btn.svg",
       "https://restcountries.com/data/png/btn.png"
@@ -2096,8 +2082,10 @@
         "nativeName": "\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41"
       }
     ],
-    "gmaps": "https://www.google.com/maps/place/Bhutan/@27.4700123,89.314798",
-    "openstreetmap": "https://www.openstreetmap.org/relation/184629",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Bhutan/@27.4700123,89.314798",
+      "openstreetmap": "https://www.openstreetmap.org/relation/184629"
+    },
     "latlng": [
       27.5,
       90.5
@@ -2168,6 +2156,7 @@
       }
     ],
     "demonym": "Bolivian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bol.svg",
       "https://restcountries.com/data/png/bol.png"
@@ -2197,8 +2186,10 @@
       -17,
       -65
     ],
-    "gmaps": "https://www.google.com/maps/place/Bolivia/@-16.2362987,-68.0427014",
-    "openstreetmap": "https://www.openstreetmap.org/relation/252645",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Bolivia/@-16.2362987,-68.0427014",
+      "openstreetmap": "https://www.openstreetmap.org/relation/252645"
+    },
     "name": "Bolivia (Plurinational State of)",
     "nativeName": "Bolivia",
     "numericCode": "068",
@@ -2264,6 +2255,7 @@
       }
     ],
     "demonym": "Dutch",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bes.svg",
       "https://restcountries.com/data/png/bes.png"
@@ -2331,6 +2323,7 @@
       }
     ],
     "demonym": "Bosnian, Herzegovinian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bih.svg",
       "https://restcountries.com/data/png/bih.png"
@@ -2420,6 +2413,7 @@
       }
     ],
     "demonym": "Motswana",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bwa.svg",
       "https://restcountries.com/data/png/bwa.png"
@@ -2505,6 +2499,7 @@
       }
     ],
     "demonym": "",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/bvt.svg",
       "https://restcountries.com/data/png/bvt.png"
@@ -2537,9 +2532,9 @@
     "nativeName": "Bouvet\u00f8ya",
     "numericCode": "074",
     "population": 0,
-    "region": "",
+    "region": "Antarctic Ocean",
     "regionalBlocs": [],
-    "subregion": "",
+    "subregion": "South Antarctic Ocean",
     "timezones": [
       "UTC+01:00"
     ],
@@ -2595,6 +2590,7 @@
       }
     ],
     "demonym": "Brazilian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bra.svg",
       "https://restcountries.com/data/png/bra.png"
@@ -2679,6 +2675,7 @@
       }
     ],
     "demonym": "Indian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/iot.svg",
       "https://restcountries.com/data/png/iot.png"
@@ -2754,6 +2751,7 @@
       }
     ],
     "demonym": "American",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/umi.svg",
       "https://restcountries.com/data/png/umi.png"
@@ -2817,6 +2815,7 @@
       }
     ],
     "demonym": "Virgin Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/vgb.svg",
       "https://restcountries.com/data/png/vgb.png"
@@ -2884,6 +2883,7 @@
       }
     ],
     "demonym": "Virgin Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/vir.svg",
       "https://restcountries.com/data/png/vir.png"
@@ -2956,6 +2956,7 @@
       }
     ],
     "demonym": "Bruneian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/brn.svg",
       "https://restcountries.com/data/png/brn.png"
@@ -3033,6 +3034,7 @@
       }
     ],
     "demonym": "Bulgarian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bgr.svg",
       "https://restcountries.com/data/png/bgr.png"
@@ -3110,6 +3112,7 @@
       }
     ],
     "demonym": "Burkinabe",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bfa.svg",
       "https://restcountries.com/data/png/bfa.png"
@@ -3200,6 +3203,7 @@
       }
     ],
     "demonym": "Burundian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/bdi.svg",
       "https://restcountries.com/data/png/bdi.png"
@@ -3293,6 +3297,7 @@
       }
     ],
     "demonym": "Cambodian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/khm.svg",
       "https://restcountries.com/data/png/khm.png"
@@ -3372,6 +3377,7 @@
       }
     ],
     "demonym": "Cameroonian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cmr.svg",
       "https://restcountries.com/data/png/cmr.png"
@@ -3457,6 +3463,7 @@
       }
     ],
     "demonym": "Canadian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/can.svg",
       "https://restcountries.com/data/png/can.png"
@@ -3544,6 +3551,7 @@
       }
     ],
     "demonym": "Cape Verdian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cpv.svg",
       "https://restcountries.com/data/png/cpv.png"
@@ -3621,6 +3629,7 @@
       }
     ],
     "demonym": "Caymanian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/cym.svg",
       "https://restcountries.com/data/png/cym.png"
@@ -3695,6 +3704,7 @@
       }
     ],
     "demonym": "Central African",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/caf.svg",
       "https://restcountries.com/data/png/caf.png"
@@ -3788,6 +3798,7 @@
       }
     ],
     "demonym": "Chadian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/tcd.svg",
       "https://restcountries.com/data/png/tcd.png"
@@ -3877,6 +3888,7 @@
       }
     ],
     "demonym": "Chilean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/chl.svg",
       "https://restcountries.com/data/png/chl.png"
@@ -3988,6 +4000,7 @@
       }
     ],
     "demonym": "Chinese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/chn.svg",
       "https://restcountries.com/data/png/chn.png"
@@ -4054,6 +4067,7 @@
       }
     ],
     "demonym": "Christmas Island",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/cxr.svg",
       "https://restcountries.com/data/png/cxr.png"
@@ -4120,6 +4134,7 @@
       }
     ],
     "demonym": "Cocos Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/cck.svg",
       "https://restcountries.com/data/png/cck.png"
@@ -4192,6 +4207,7 @@
       }
     ],
     "demonym": "Colombian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/col.svg",
       "https://restcountries.com/data/png/col.png"
@@ -4284,6 +4300,7 @@
       }
     ],
     "demonym": "Comoran",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/com.svg",
       "https://restcountries.com/data/png/com.png"
@@ -4383,6 +4400,7 @@
       }
     ],
     "demonym": "Congolese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cog.svg",
       "https://restcountries.com/data/png/cog.png"
@@ -4479,6 +4497,7 @@
       }
     ],
     "demonym": "Congolese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cod.svg",
       "https://restcountries.com/data/png/cod.png"
@@ -4586,6 +4605,7 @@
       }
     ],
     "demonym": "Cook Islander",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cok.svg",
       "https://restcountries.com/data/png/cok.png"
@@ -4596,6 +4616,12 @@
         "iso639_2": "eng",
         "name": "English",
         "nativeName": "English"
+      },
+      {
+        "iso639-1": "",
+        "iso639_2": "rar",
+        "name": "Cook Islands M\u0101ori",
+        "nativeName": "M\u0101ori"
       }
     ],
     "latlng": [
@@ -4655,6 +4681,7 @@
       }
     ],
     "demonym": "Costa Rican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cri.svg",
       "https://restcountries.com/data/png/cri.png"
@@ -4740,6 +4767,7 @@
       }
     ],
     "demonym": "Croatian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/hrv.svg",
       "https://restcountries.com/data/png/hrv.png"
@@ -4817,6 +4845,7 @@
       }
     ],
     "demonym": "Cuban",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cub.svg",
       "https://restcountries.com/data/png/cub.png"
@@ -4887,6 +4916,7 @@
       }
     ],
     "demonym": "Dutch",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/cuw.svg",
       "https://restcountries.com/data/png/cuw.png"
@@ -4968,6 +4998,7 @@
       }
     ],
     "demonym": "Cypriot",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cyp.svg",
       "https://restcountries.com/data/png/cyp.png"
@@ -5052,6 +5083,7 @@
       }
     ],
     "demonym": "Czech",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/cze.svg",
       "https://restcountries.com/data/png/cze.png"
@@ -5133,6 +5165,7 @@
       }
     ],
     "demonym": "Danish",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/dnk.svg",
       "https://restcountries.com/data/png/dnk.png"
@@ -5217,6 +5250,7 @@
       }
     ],
     "demonym": "Djibouti",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/dji.svg",
       "https://restcountries.com/data/png/dji.png"
@@ -5312,6 +5346,7 @@
       }
     ],
     "demonym": "Dominican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/dma.svg",
       "https://restcountries.com/data/png/dma.png"
@@ -5378,6 +5413,7 @@
       }
     ],
     "demonym": "Dominican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/dom.svg",
       "https://restcountries.com/data/png/dom.png"
@@ -5468,6 +5504,7 @@
       }
     ],
     "demonym": "Ecuadorean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ecu.svg",
       "https://restcountries.com/data/png/ecu.png"
@@ -5555,6 +5592,7 @@
       }
     ],
     "demonym": "Egyptian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/egy.svg",
       "https://restcountries.com/data/png/egy.png"
@@ -5646,6 +5684,7 @@
       }
     ],
     "demonym": "Salvadoran",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/slv.svg",
       "https://restcountries.com/data/png/slv.png"
@@ -5729,6 +5768,7 @@
       }
     ],
     "demonym": "Equatorial Guinean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gnq.svg",
       "https://restcountries.com/data/png/gnq.png"
@@ -5746,6 +5786,18 @@
         "iso639_2": "fra",
         "name": "French",
         "nativeName": "fran\u00e7ais"
+      },
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Portugu\u00eas"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "fan",
+        "name": "Fang",
+        "nativeName": "Fang"
       }
     ],
     "latlng": [
@@ -5822,6 +5874,7 @@
       }
     ],
     "demonym": "Eritrean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/eri.svg",
       "https://restcountries.com/data/png/eri.png"
@@ -5844,6 +5897,42 @@
         "iso639_2": "eng",
         "name": "English",
         "nativeName": "English"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "tig",
+        "name": "Tigre",
+        "nativeName": "\u1275\u130d\u1228"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "kun",
+        "name": "Kunama",
+        "nativeName": "Kunama"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "ssy",
+        "name": "Saho",
+        "nativeName": "Saho"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "byn",
+        "name": "Bilen",
+        "nativeName": "\u1265\u120a\u1293"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "nrb",
+        "name": "Nara",
+        "nativeName": "Nara"
+      },
+      {
+        "iso639_1": "aa",
+        "iso639_2": "aar",
+        "name": "Afar",
+        "nativeName": "Afar"
       }
     ],
     "latlng": [
@@ -5916,6 +6005,7 @@
       }
     ],
     "demonym": "Estonian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/est.svg",
       "https://restcountries.com/data/png/est.png"
@@ -5996,6 +6086,7 @@
       }
     ],
     "demonym": "Ethiopian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/eth.svg",
       "https://restcountries.com/data/png/eth.png"
@@ -6074,6 +6165,7 @@
       }
     ],
     "demonym": "Falkland Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/flk.svg",
       "https://restcountries.com/data/png/flk.png"
@@ -6161,6 +6253,7 @@
       }
     ],
     "demonym": "Faroese",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/fro.svg",
       "https://restcountries.com/data/png/fro.png"
@@ -6234,6 +6327,7 @@
       }
     ],
     "demonym": "Fijian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/fji.svg",
       "https://restcountries.com/data/png/fji.png"
@@ -6253,16 +6347,16 @@
         "nativeName": "vosa Vakaviti"
       },
       {
-        "iso639_1": "hi",
-        "iso639_2": "hin",
-        "name": "Hindi",
-        "nativeName": "\u0939\u093f\u0928\u094d\u0926\u0940"
+        "iso639_1": "",
+        "iso639_2": "hif",
+        "name": "Fiji Hindi",
+        "nativeName": "\u092b\u093c\u093f\u091c\u0940 \u092c\u093e\u0924"
       },
       {
-        "iso639_1": "ur",
-        "iso639_2": "urd",
-        "name": "Urdu",
-        "nativeName": "\u0627\u0631\u062f\u0648"
+        "iso639_1": "",
+        "iso639_2": "rtm",
+        "name": "Rotuman",
+        "nativeName": "F\u00e4eag Rotuma"
       }
     ],
     "latlng": [
@@ -6325,6 +6419,7 @@
       }
     ],
     "demonym": "Finnish",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/fin.svg",
       "https://restcountries.com/data/png/fin.png"
@@ -6412,6 +6507,7 @@
       }
     ],
     "demonym": "French",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/fra.svg",
       "https://restcountries.com/data/png/fra.png"
@@ -6499,6 +6595,7 @@
       }
     ],
     "demonym": "",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/guf.svg",
       "https://restcountries.com/data/png/guf.png"
@@ -6586,6 +6683,7 @@
       }
     ],
     "demonym": "French Polynesian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/pyf.svg",
       "https://restcountries.com/data/png/pyf.png"
@@ -6652,6 +6750,7 @@
       }
     ],
     "demonym": "French",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/atf.svg",
       "https://restcountries.com/data/png/atf.png"
@@ -6734,6 +6833,7 @@
       }
     ],
     "demonym": "Gabonese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gab.svg",
       "https://restcountries.com/data/png/gab.png"
@@ -6814,6 +6914,7 @@
       }
     ],
     "demonym": "Gambian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gmb.svg",
       "https://restcountries.com/data/png/gmb.png"
@@ -6896,6 +6997,7 @@
       }
     ],
     "demonym": "Georgian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/geo.svg",
       "https://restcountries.com/data/png/geo.png"
@@ -6973,6 +7075,7 @@
       }
     ],
     "demonym": "German",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/deu.svg",
       "https://restcountries.com/data/png/deu.png"
@@ -7047,6 +7150,7 @@
       }
     ],
     "demonym": "Ghanaian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gha.svg",
       "https://restcountries.com/data/png/gha.png"
@@ -7126,6 +7230,7 @@
       }
     ],
     "demonym": "Gibraltar",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/gib.svg",
       "https://restcountries.com/data/png/gib.png"
@@ -7203,6 +7308,7 @@
       }
     ],
     "demonym": "Greek",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/grc.svg",
       "https://restcountries.com/data/png/grc.png"
@@ -7274,6 +7380,7 @@
       }
     ],
     "demonym": "Greenlandic",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/grl.svg",
       "https://restcountries.com/data/png/grl.png"
@@ -7341,6 +7448,7 @@
       }
     ],
     "demonym": "Grenadian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/grd.svg",
       "https://restcountries.com/data/png/grd.png"
@@ -7415,6 +7523,7 @@
       }
     ],
     "demonym": "Guadeloupian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/glp.svg",
       "https://restcountries.com/data/png/glp.png"
@@ -7480,6 +7589,7 @@
       }
     ],
     "demonym": "Guamanian",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/gum.svg",
       "https://restcountries.com/data/png/gum.png"
@@ -7561,6 +7671,7 @@
       }
     ],
     "demonym": "Guatemalan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gtm.svg",
       "https://restcountries.com/data/png/gtm.png"
@@ -7644,6 +7755,7 @@
       }
     ],
     "demonym": "Channel Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/ggy.svg",
       "https://restcountries.com/data/png/ggy.png"
@@ -7723,6 +7835,7 @@
       }
     ],
     "demonym": "Guinean",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gin.svg",
       "https://restcountries.com/data/png/gin.png"
@@ -7811,6 +7924,7 @@
       }
     ],
     "demonym": "Guinea-Bissauan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/gnb.svg",
       "https://restcountries.com/data/png/gnb.png"
@@ -7893,6 +8007,7 @@
       }
     ],
     "demonym": "Guyanese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/guy.svg",
       "https://restcountries.com/data/png/guy.png"
@@ -7988,6 +8103,7 @@
       }
     ],
     "demonym": "Haitian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/hti.svg",
       "https://restcountries.com/data/png/hti.png"
@@ -8069,6 +8185,7 @@
       }
     ],
     "demonym": "Heard and McDonald Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/hmd.svg",
       "https://restcountries.com/data/png/hmd.png"
@@ -8118,7 +8235,6 @@
     "alpha2Code": "VA",
     "alpha3Code": "VAT",
     "altSpellings": [
-      "Sancta Sedes",
       "Vatican",
       "The Vatican"
     ],
@@ -8137,7 +8253,8 @@
         "symbol": "\u20ac"
       }
     ],
-    "demonym": "",
+    "demonym": "Vatican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/vat.svg",
       "https://restcountries.com/data/png/vat.png"
@@ -8160,7 +8277,7 @@
         "iso639_1": "fr",
         "iso639_2": "fra",
         "name": "French",
-        "nativeName": "fran\u00e7ais"
+        "nativeName": "Fran\u00e7ais"
       },
       {
         "iso639_1": "de",
@@ -8173,8 +8290,8 @@
       41.9,
       12.45
     ],
-    "name": "Holy See",
-    "nativeName": "Sancta Sedes",
+    "name": "Vatican City",
+    "nativeName": "Status Civitatis Vaticanae",
     "numericCode": "336",
     "population": 451,
     "region": "Europe",
@@ -8227,6 +8344,7 @@
       }
     ],
     "demonym": "Honduran",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/hnd.svg",
       "https://restcountries.com/data/png/hnd.png"
@@ -8306,6 +8424,7 @@
       }
     ],
     "demonym": "Chinese",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/hkg.svg",
       "https://restcountries.com/data/png/hkg.png"
@@ -8385,6 +8504,7 @@
       }
     ],
     "demonym": "Hungarian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/hun.svg",
       "https://restcountries.com/data/png/hun.png"
@@ -8458,6 +8578,7 @@
       }
     ],
     "demonym": "Icelander",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/isl.svg",
       "https://restcountries.com/data/png/isl.png"
@@ -8540,6 +8661,7 @@
       }
     ],
     "demonym": "Indian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ind.svg",
       "https://restcountries.com/data/png/ind.png"
@@ -8622,6 +8744,7 @@
       }
     ],
     "demonym": "Indonesian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/idn.svg",
       "https://restcountries.com/data/png/idn.png"
@@ -8703,6 +8826,7 @@
       }
     ],
     "demonym": "Ivorian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/civ.svg",
       "https://restcountries.com/data/png/civ.png"
@@ -8720,7 +8844,7 @@
       8,
       -5
     ],
-    "name": "C\u00f4te d'Ivoire",
+    "name": "Ivory Coast",
     "nativeName": "C\u00f4te d'Ivoire",
     "numericCode": "384",
     "population": 22671331,
@@ -8790,6 +8914,7 @@
       }
     ],
     "demonym": "Iranian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/irn.svg",
       "https://restcountries.com/data/png/irn.png"
@@ -8863,6 +8988,7 @@
       }
     ],
     "demonym": "Iraqi",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/irq.svg",
       "https://restcountries.com/data/png/irq.png"
@@ -8949,6 +9075,7 @@
       }
     ],
     "demonym": "Irish",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/irl.svg",
       "https://restcountries.com/data/png/irl.png"
@@ -9033,6 +9160,7 @@
       }
     ],
     "demonym": "Manx",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/imn.svg",
       "https://restcountries.com/data/png/imn.png"
@@ -9115,6 +9243,7 @@
       }
     ],
     "demonym": "Israeli",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/isr.svg",
       "https://restcountries.com/data/png/isr.png"
@@ -9195,6 +9324,7 @@
       }
     ],
     "demonym": "Italian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ita.svg",
       "https://restcountries.com/data/png/ita.png"
@@ -9265,6 +9395,7 @@
       }
     ],
     "demonym": "Jamaican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/jam.svg",
       "https://restcountries.com/data/png/jam.png"
@@ -9342,6 +9473,7 @@
       }
     ],
     "demonym": "Japanese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/jpn.svg",
       "https://restcountries.com/data/png/jpn.png"
@@ -9415,6 +9547,7 @@
       }
     ],
     "demonym": "Channel Islander",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/jey.svg",
       "https://restcountries.com/data/png/jey.png"
@@ -9492,6 +9625,7 @@
       }
     ],
     "demonym": "Jordanian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/jor.svg",
       "https://restcountries.com/data/png/jor.png"
@@ -9670,6 +9804,7 @@
       }
     ],
     "demonym": "Kenyan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ken.svg",
       "https://restcountries.com/data/png/ken.png"
@@ -9760,6 +9895,7 @@
       }
     ],
     "demonym": "I-Kiribati",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/kir.svg",
       "https://restcountries.com/data/png/kir.png"
@@ -9831,6 +9967,7 @@
       }
     ],
     "demonym": "Kuwaiti",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/kwt.svg",
       "https://restcountries.com/data/png/kwt.png"
@@ -9915,6 +10052,7 @@
       }
     ],
     "demonym": "Kirghiz",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/kgz.svg",
       "https://restcountries.com/data/png/kgz.png"
@@ -10004,6 +10142,7 @@
       }
     ],
     "demonym": "Laotian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lao.svg",
       "https://restcountries.com/data/png/lao.png"
@@ -10022,7 +10161,7 @@
       105
     ],
     "name": "Lao People's Democratic Republic",
-    "nativeName": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7",
+    "nativeName": "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
     "numericCode": "418",
     "population": 6492400,
     "region": "Asia",
@@ -10081,6 +10220,7 @@
       }
     ],
     "demonym": "Latvian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lva.svg",
       "https://restcountries.com/data/png/lva.png"
@@ -10156,6 +10296,7 @@
       }
     ],
     "demonym": "Lebanese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lbn.svg",
       "https://restcountries.com/data/png/lbn.png"
@@ -10246,6 +10387,7 @@
       }
     ],
     "demonym": "Mosotho",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lso.svg",
       "https://restcountries.com/data/png/lso.png"
@@ -10334,6 +10476,7 @@
       }
     ],
     "demonym": "Liberian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lbr.svg",
       "https://restcountries.com/data/png/lbr.png"
@@ -10420,6 +10563,7 @@
       }
     ],
     "demonym": "Libyan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lby.svg",
       "https://restcountries.com/data/png/lby.png"
@@ -10511,6 +10655,7 @@
       }
     ],
     "demonym": "Liechtensteiner",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lie.svg",
       "https://restcountries.com/data/png/lie.png"
@@ -10587,6 +10732,7 @@
       }
     ],
     "demonym": "Lithuanian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/ltu.svg",
       "https://restcountries.com/data/png/ltu.png"
@@ -10665,6 +10811,7 @@
       }
     ],
     "demonym": "Luxembourger",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/lux.svg",
       "https://restcountries.com/data/png/lux.png"
@@ -10753,6 +10900,7 @@
       }
     ],
     "demonym": "Chinese",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/mac.svg",
       "https://restcountries.com/data/png/mac.png"
@@ -10831,6 +10979,7 @@
       }
     ],
     "demonym": "Macedonian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mkd.svg",
       "https://restcountries.com/data/png/mkd.png"
@@ -10904,6 +11053,7 @@
       }
     ],
     "demonym": "Malagasy",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mdg.svg",
       "https://restcountries.com/data/png/mdg.png"
@@ -10992,6 +11142,7 @@
       }
     ],
     "demonym": "Malawian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mwi.svg",
       "https://restcountries.com/data/png/mwi.png"
@@ -11079,6 +11230,7 @@
       }
     ],
     "demonym": "Malaysian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mys.svg",
       "https://restcountries.com/data/png/mys.png"
@@ -11152,6 +11304,7 @@
       }
     ],
     "demonym": "Maldivan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mdv.svg",
       "https://restcountries.com/data/png/mdv.png"
@@ -11232,6 +11385,7 @@
       }
     ],
     "demonym": "Malian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mli.svg",
       "https://restcountries.com/data/png/mli.png"
@@ -11311,6 +11465,7 @@
       }
     ],
     "demonym": "Maltese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mlt.svg",
       "https://restcountries.com/data/png/mlt.png"
@@ -11389,6 +11544,7 @@
       }
     ],
     "demonym": "Marshallese",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mhl.svg",
       "https://restcountries.com/data/png/mhl.png"
@@ -11458,6 +11614,7 @@
       }
     ],
     "demonym": "French",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/mtq.svg",
       "https://restcountries.com/data/png/mtq.png"
@@ -11529,6 +11686,7 @@
       }
     ],
     "demonym": "Mauritanian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mrt.svg",
       "https://restcountries.com/data/png/mrt.png"
@@ -11617,6 +11775,7 @@
       }
     ],
     "demonym": "Mauritian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mus.svg",
       "https://restcountries.com/data/png/mus.png"
@@ -11695,6 +11854,7 @@
       }
     ],
     "demonym": "French",
+    "independent": false,
     "flags": [
       "https://restcountries.com/data/myt.svg",
       "https://restcountries.com/data/png/myt.png"
@@ -11778,6 +11938,7 @@
       }
     ],
     "demonym": "Mexican",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mex.svg",
       "https://restcountries.com/data/png/mex.png"
@@ -11862,6 +12023,7 @@
       }
     ],
     "demonym": "Micronesian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/fsm.svg",
       "https://restcountries.com/data/png/fsm.png"
@@ -11932,6 +12094,7 @@
       }
     ],
     "demonym": "Moldovan",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mda.svg",
       "https://restcountries.com/data/png/mda.png"
@@ -12006,6 +12169,7 @@
       }
     ],
     "demonym": "Monegasque",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mco.svg",
       "https://restcountries.com/data/png/mco.png"
@@ -12073,6 +12237,7 @@
       }
     ],
     "demonym": "Mongolian",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mng.svg",
       "https://restcountries.com/data/png/mng.png"
@@ -12146,6 +12311,7 @@
       }
     ],
     "demonym": "Montenegrin",
+    "independent": true,
     "flags": [
       "https://restcountries.com/data/mne.svg",
       "https://restcountries.com/data/png/mne.png"
@@ -12234,6 +12400,7 @@
       }
     ],
     "demonym": "Montserratian",
+    
     "flags": [
       "https://restcountries.com/data/msr.svg",
       "https://restcountries.com/data/png/msr.png"
