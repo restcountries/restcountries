@@ -75,11 +75,11 @@ https://restcountries.com/rest/v2/alpha/col
 Search by list of ISO 3166-1 2-letter or 3-letter country codes
 
 ``` javascript
-https://restcountries.com/rest/v2/alpha?codes={code};{code};{code}
+https://restcountries.com/rest/v2/alpha?codes={code},{code},{code}
 ```
 
 ``` html
-https://restcountries.com/rest/v2/alpha?codes=col;no;ee
+https://restcountries.com/rest/v2/alpha?codes=col,no,ee
 ```
 
 ## Currency
@@ -228,10 +228,10 @@ https://restcountries.com/rest/v2/alpha/col
 You can filter the output of your request to include only the specified fields.
 
 ``` javascript
-https://restcountries.com/rest/v2/{service}?fields={field};{field};{field}
+https://restcountries.com/rest/v2/{service}?fields={field},{field},{field}
 ```
 ``` html
-https://restcountries.com/rest/v2/all?fields=name;capital;currencies
+https://restcountries.com/rest/v2/all?fields=name,capital,currencies
 ```
 
 ## Similar projects
