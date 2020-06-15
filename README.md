@@ -12,6 +12,9 @@ You can access API through https://restcountries.com/v2/all
 # Contributing
 Any help is welcome! just the file that fits better and I will replicate the changes to the other files. This project uses the `countries.min.json` file
 
+# Donations
+If you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also [buy me a coffee](https://www.buymeacoffee.com/amatos) :)
+
 # API Endpoints
 
 Below are described the REST endpoints available that you can use to search for countries
