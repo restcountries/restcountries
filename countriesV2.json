@@ -599,16 +599,6 @@
     ],
     "capital": "",
     "currencies": [
-      {
-        "code": "AUD",
-        "name": "Australian dollar",
-        "symbol": "$"
-      },
-      {
-        "code": "GBP",
-        "name": "British pound",
-        "symbol": "\u00a3"
-      }
     ],
     "demonym": "Antarctic",
     "independent": false,
