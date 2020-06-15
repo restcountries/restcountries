@@ -892,12 +892,6 @@
         "iso639_2": "hye",
         "name": "Armenian",
         "nativeName": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"
-      },
-      {
-        "iso639_1": "ru",
-        "iso639_2": "rus",
-        "name": "Russian",
-        "nativeName": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
       }
     ],
     "latlng": [
@@ -1296,7 +1290,7 @@
       24.25,
       -76
     ],
-    "maps":{
+    "maps": {
       "gmaps": "https://www.google.com/maps/place/Bahamas/@24.3681633,-80.4583616",
       "openstreetmap": "https://www.openstreetmap.org/relation/547469"
     },
