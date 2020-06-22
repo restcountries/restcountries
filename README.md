@@ -22,7 +22,7 @@ Below are described the REST endpoints available that you can use to search for 
 ## All
 
 ``` html
-https://restcountries.com/rest/v2/all
+https://restcountries.com/v2/all
 ```
 
 ## Name
@@ -30,15 +30,15 @@ https://restcountries.com/rest/v2/all
 Search by country name. It can be the native name or partial name
 
 ``` javascript
-https://restcountries.com/rest/v2/name/{name}
+https://restcountries.com/v2/name/{name}
 ```
 
 ``` html
-https://restcountries.com/rest/v2/name/eesti
+https://restcountries.com/v2/name/eesti
 ```
 
 ``` html
-https://restcountries.com/rest/v2/name/united
+https://restcountries.com/v2/name/united
 ```
 
 ## Full Name
@@ -46,11 +46,11 @@ https://restcountries.com/rest/v2/name/united
 Search by country full name
 
 ``` javascript
-https://restcountries.com/rest/v2/name/{name}?fullText=true
+https://restcountries.com/v2/name/{name}?fullText=true
 ```
 
 ``` html
-https://restcountries.com/rest/v2/name/aruba?fullText=true
+https://restcountries.com/v2/name/aruba?fullText=true
 ```
 
 ## Code
@@ -59,15 +59,15 @@ https://restcountries.com/rest/v2/name/aruba?fullText=true
 Search by ISO 3166-1 2-letter or 3-letter country code
 
 ``` javascript
-https://restcountries.com/rest/v2/alpha/{code}
+https://restcountries.com/v2/alpha/{code}
 ```
 
 ``` html
-https://restcountries.com/rest/v2/alpha/co
+https://restcountries.com/v2/alpha/co
 ```
 
 ``` html
-https://restcountries.com/rest/v2/alpha/col
+https://restcountries.com/v2/alpha/col
 ```
 
 ## List of codes
@@ -75,11 +75,11 @@ https://restcountries.com/rest/v2/alpha/col
 Search by list of ISO 3166-1 2-letter or 3-letter country codes
 
 ``` javascript
-https://restcountries.com/rest/v2/alpha?codes={code},{code},{code}
+https://restcountries.com/v2/alpha?codes={code},{code},{code}
 ```
 
 ``` html
-https://restcountries.com/rest/v2/alpha?codes=col,no,ee
+https://restcountries.com/v2/alpha?codes=col,no,ee
 ```
 
 ## Currency
@@ -87,10 +87,10 @@ https://restcountries.com/rest/v2/alpha?codes=col,no,ee
 Search by ISO 4217 currency code
 
 ``` javascript
-https://restcountries.com/rest/v2/currency/{currency}
+https://restcountries.com/v2/currency/{currency}
 ```
 ``` html
-https://restcountries.com/rest/v2/currency/cop
+https://restcountries.com/v2/currency/cop
 ```
 
 ## Language
@@ -98,10 +98,10 @@ https://restcountries.com/rest/v2/currency/cop
 Search by ISO 639-1 language code
 
 ``` javascript
-https://restcountries.com/rest/v2/lang/{et}
+https://restcountries.com/v2/lang/{et}
 ```
 ``` html
-https://restcountries.com/rest/v2/lang/es
+https://restcountries.com/v2/lang/es
 ```
 
 ## Capital city
@@ -109,10 +109,10 @@ https://restcountries.com/rest/v2/lang/es
 Search by capital city
 
 ``` javascript
-https://restcountries.com/rest/v2/capital/{capital}
+https://restcountries.com/v2/capital/{capital}
 ```
 ``` html
-https://restcountries.com/rest/v2/capital/tallinn
+https://restcountries.com/v2/capital/tallinn
 ```
 
 ## Calling code
@@ -120,10 +120,10 @@ https://restcountries.com/rest/v2/capital/tallinn
 Search by calling code
 
 ``` javascript
-https://restcountries.com/rest/v2/callingcode/{callingcode}
+https://restcountries.com/v2/callingcode/{callingcode}
 ```
 ``` html
-https://restcountries.com/rest/v2/callingcode/372
+https://restcountries.com/v2/callingcode/372
 ```
 
 ## Region
@@ -131,10 +131,10 @@ https://restcountries.com/rest/v2/callingcode/372
 Search by region: Africa, Americas, Asia, Europe, Oceania
 
 ``` javascript
-https://restcountries.com/rest/v2/region/{region}
+https://restcountries.com/v2/region/{region}
 ```
 ``` html
-https://restcountries.com/rest/v2/region/europe
+https://restcountries.com/v2/region/europe
 ```
 
 ## Regional Bloc
@@ -156,16 +156,16 @@ Search by regional bloc:
 - SAARC (South Asian Association for Regional Cooperation)
 
 ``` javascript
-https://restcountries.com/rest/v2/regionalbloc/{regionalbloc}
+https://restcountries.com/v2/regionalbloc/{regionalbloc}
 ```
 ``` html
-https://restcountries.com/rest/v2/regionalbloc/eu
+https://restcountries.com/v2/regionalbloc/eu
 ```
 
 ## Response Example
 
 ``` html
-https://restcountries.com/rest/v2/alpha/col
+https://restcountries.com/v2/alpha/col
 ```
 
 ``` json
@@ -228,10 +228,10 @@ https://restcountries.com/rest/v2/alpha/col
 You can filter the output of your request to include only the specified fields.
 
 ``` javascript
-https://restcountries.com/rest/v2/{service}?fields={field},{field},{field}
+https://restcountries.com/v2/{service}?fields={field},{field},{field}
 ```
 ``` html
-https://restcountries.com/rest/v2/all?fields=name,capital,currencies
+https://restcountries.com/v2/all?fields=name,capital,currencies
 ```
 
 ## Similar projects
