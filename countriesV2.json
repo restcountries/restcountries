@@ -296,7 +296,7 @@
     "currencies": [
       {
         "code": "USD",
-        "name": "United State Dollar",
+        "name": "United States Dollar",
         "symbol": "$"
       }
     ],
@@ -598,8 +598,7 @@
       "672"
     ],
     "capital": "",
-    "currencies": [
-    ],
+    "currencies": [],
     "demonym": "Antarctic",
     "independent": false,
     "flags": [
@@ -11962,7 +11961,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "subregion": "North America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
