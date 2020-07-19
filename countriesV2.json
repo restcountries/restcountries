@@ -296,7 +296,7 @@
     "currencies": [
       {
         "code": "USD",
-        "name": "United State Dollar",
+        "name": "United States Dollar",
         "symbol": "$"
       }
     ],
@@ -598,8 +598,7 @@
       "672"
     ],
     "capital": "",
-    "currencies": [
-    ],
+    "currencies": [],
     "demonym": "Antarctic",
     "independent": false,
     "flags": [
@@ -11962,7 +11961,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "subregion": "North America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -12521,7 +12520,7 @@
       "br": "Marrocos",
       "de": "Marokko",
       "es": "Marruecos",
-      "fa": "\u0645\u0631\u0627\u06a9\u0634",
+      "fa": "\u0627\u0644\u0645\u063a\u0631\u0628",
       "fr": "Maroc",
       "hr": "Maroko",
       "it": "Marocco",
