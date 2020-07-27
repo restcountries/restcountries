@@ -65,14 +65,14 @@
     "nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
     "numericCode": "004",
     "population": 27657145,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+04:30"
     ],
@@ -148,14 +148,14 @@
     "nativeName": "Shqip\u00ebria",
     "numericCode": "008",
     "population": 2886026,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -233,7 +233,7 @@
     "nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
     "numericCode": "012",
     "population": 40400000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -256,7 +256,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -332,9 +332,9 @@
     "nativeName": "American Samoa",
     "numericCode": "016",
     "population": 57100,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC-11:00"
     ],
@@ -406,9 +406,9 @@
     "nativeName": "Andorra",
     "numericCode": "020",
     "population": 78014,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -483,7 +483,7 @@
     "nativeName": "Angola",
     "numericCode": "024",
     "population": 25868000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -497,7 +497,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -564,9 +564,9 @@
     "nativeName": "Anguilla",
     "numericCode": "660",
     "population": 13452,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -631,9 +631,9 @@
     "nativeName": "Antarctica",
     "numericCode": "010",
     "population": 1000,
-    "region": "Polar",
+    "continent": "Polar",
     "regionalBlocs": [],
-    "subregion": "",
+    "region": "",
     "timezones": [
       "UTC-03:00",
       "UTC+03:00",
@@ -707,7 +707,7 @@
     "nativeName": "Antigua and Barbuda",
     "numericCode": "028",
     "population": 86295,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -719,7 +719,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -801,7 +801,7 @@
     "nativeName": "Argentina",
     "numericCode": "032",
     "population": 43590400,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -819,7 +819,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -895,7 +895,7 @@
     "nativeName": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
     "numericCode": "051",
     "population": 2994400,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -905,7 +905,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -978,9 +978,9 @@
     "nativeName": "Aruba",
     "numericCode": "533",
     "population": 107394,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -1048,9 +1048,9 @@
     "nativeName": "Australia",
     "numericCode": "036",
     "population": 24117360,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Australia and New Zealand",
+    "region": "Australia and New Zealand",
     "timezones": [
       "UTC+05:00",
       "UTC+06:30",
@@ -1137,14 +1137,14 @@
     "nativeName": "\u00d6sterreich",
     "numericCode": "040",
     "population": 8725931,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1217,9 +1217,9 @@
     "nativeName": "Az\u0259rbaycan",
     "numericCode": "031",
     "population": 9730500,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -1287,7 +1287,7 @@
     "nativeName": "Bahamas",
     "numericCode": "044",
     "population": 378040,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -1369,7 +1369,7 @@
     "nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "numericCode": "048",
     "population": 1404900,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -1381,7 +1381,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -1454,14 +1454,14 @@
     "nativeName": "Bangladesh",
     "numericCode": "050",
     "population": 161006790,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -1528,7 +1528,7 @@
     "nativeName": "Barbados",
     "numericCode": "052",
     "population": 285000,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1540,7 +1540,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -1631,7 +1631,7 @@
     "nativeName": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
     "numericCode": "112",
     "population": 9498700,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -1641,7 +1641,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+03:00"
     ],
@@ -1734,14 +1734,14 @@
     "nativeName": "Belgi\u00eb",
     "numericCode": "056",
     "population": 11319511,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Western Europe",
+    "region": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1818,7 +1818,7 @@
     "nativeName": "Belize",
     "numericCode": "084",
     "population": 370300,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1840,7 +1840,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -1915,7 +1915,7 @@
     "nativeName": "B\u00e9nin",
     "numericCode": "204",
     "population": 10653654,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -1929,7 +1929,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1998,9 +1998,9 @@
     "nativeName": "Bermuda",
     "numericCode": "060",
     "population": 61954,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2077,14 +2077,14 @@
     "nativeName": "\u02bcbrug-yul",
     "numericCode": "064",
     "population": 775620,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -2177,7 +2177,7 @@
     "nativeName": "Bolivia",
     "numericCode": "068",
     "population": 10985059,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -2195,7 +2195,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2259,9 +2259,9 @@
     "nativeName": "Bonaire",
     "numericCode": "535",
     "population": 17408,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2340,14 +2340,14 @@
     "nativeName": "Bosna i Hercegovina",
     "numericCode": "070",
     "population": 3531159,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -2424,7 +2424,7 @@
     "nativeName": "Botswana",
     "numericCode": "072",
     "population": 2141206,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2438,7 +2438,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -2515,9 +2515,9 @@
     "nativeName": "Bouvet\u00f8ya",
     "numericCode": "074",
     "population": 0,
-    "region": "Antarctic Ocean",
+    "continent": "Antarctic Ocean",
     "regionalBlocs": [],
-    "subregion": "South Antarctic Ocean",
+    "region": "South Antarctic Ocean",
     "timezones": [
       "UTC+01:00"
     ],
@@ -2595,7 +2595,7 @@
     "nativeName": "Brasil",
     "numericCode": "076",
     "population": 206135893,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -2613,7 +2613,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-05:00",
       "UTC-04:00",
@@ -2679,7 +2679,7 @@
     "nativeName": "British Indian Ocean Territory",
     "numericCode": "086",
     "population": 3000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2693,7 +2693,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+06:00"
     ],
@@ -2752,9 +2752,9 @@
     "nativeName": "United States Minor Outlying Islands",
     "numericCode": "581",
     "population": 300,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-11:00",
       "UTC-10:00",
@@ -2819,9 +2819,9 @@
     "nativeName": "British Virgin Islands",
     "numericCode": "092",
     "population": 28514,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2887,9 +2887,9 @@
     "nativeName": "Virgin Islands of the United States",
     "numericCode": "850",
     "population": 114743,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2960,14 +2960,14 @@
     "nativeName": "Negara Brunei Darussalam",
     "numericCode": "096",
     "population": 411900,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -3039,14 +3039,14 @@
     "nativeName": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "numericCode": "100",
     "population": 7153784,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -3123,7 +3123,7 @@
     "nativeName": "Burkina Faso",
     "numericCode": "854",
     "population": 19034397,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3137,7 +3137,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -3214,7 +3214,7 @@
     "nativeName": "Burundi",
     "numericCode": "108",
     "population": 10114505,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3228,7 +3228,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -3302,14 +3302,14 @@
     "nativeName": "K\u00e2mp\u016dch\u00e9a",
     "numericCode": "116",
     "population": 15626444,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -3388,7 +3388,7 @@
     "nativeName": "Cameroon",
     "numericCode": "120",
     "population": 22709892,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3402,7 +3402,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3474,7 +3474,7 @@
     "nativeName": "Canada",
     "numericCode": "124",
     "population": 36155487,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -3485,7 +3485,7 @@
         ]
       }
     ],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -3556,7 +3556,7 @@
     "nativeName": "Cabo Verde",
     "numericCode": "132",
     "population": 531239,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3570,7 +3570,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC-01:00"
     ],
@@ -3633,9 +3633,9 @@
     "nativeName": "Cayman Islands",
     "numericCode": "136",
     "population": 58238,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -3715,7 +3715,7 @@
     "nativeName": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
     "numericCode": "140",
     "population": 4998000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3729,7 +3729,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3809,7 +3809,7 @@
     "nativeName": "Tchad",
     "numericCode": "148",
     "population": 14497000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3823,7 +3823,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3893,7 +3893,7 @@
     "nativeName": "Chile",
     "numericCode": "152",
     "population": 18191900,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -3918,7 +3918,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-06:00",
       "UTC-04:00"
@@ -4005,9 +4005,9 @@
     "nativeName": "\u4e2d\u56fd",
     "numericCode": "156",
     "population": 1377422166,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -4071,9 +4071,9 @@
     "nativeName": "Christmas Island",
     "numericCode": "162",
     "population": 2072,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Australia and New Zealand",
+    "region": "Australia and New Zealand",
     "timezones": [
       "UTC+07:00"
     ],
@@ -4138,9 +4138,9 @@
     "nativeName": "Cocos (Keeling) Islands",
     "numericCode": "166",
     "population": 550,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Australia and New Zealand",
+    "region": "Australia and New Zealand",
     "timezones": [
       "UTC+06:30"
     ],
@@ -4212,7 +4212,7 @@
     "nativeName": "Colombia",
     "numericCode": "170",
     "population": 48759958,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -4237,7 +4237,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -4311,7 +4311,7 @@
     "nativeName": "Komori",
     "numericCode": "174",
     "population": 806153,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4334,7 +4334,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -4411,7 +4411,7 @@
     "nativeName": "R\u00e9publique du Congo",
     "numericCode": "178",
     "population": 4741000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4425,7 +4425,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -4525,7 +4525,7 @@
     "nativeName": "R\u00e9publique d\u00e9mocratique du Congo",
     "numericCode": "180",
     "population": 85026000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4539,7 +4539,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00",
       "UTC+02:00"
@@ -4615,9 +4615,9 @@
     "nativeName": "Cook Islands",
     "numericCode": "184",
     "population": 18100,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC-10:00"
     ],
@@ -4686,7 +4686,7 @@
     "nativeName": "Costa Rica",
     "numericCode": "188",
     "population": 4890379,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -4699,7 +4699,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -4772,14 +4772,14 @@
     "nativeName": "Hrvatska",
     "numericCode": "191",
     "population": 4190669,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -4850,9 +4850,9 @@
     "nativeName": "Cuba",
     "numericCode": "192",
     "population": 11239004,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -4932,9 +4932,9 @@
     "nativeName": "Cura\u00e7ao",
     "numericCode": "531",
     "population": 154843,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -5015,14 +5015,14 @@
     "nativeName": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "numericCode": "196",
     "population": 847000,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -5094,14 +5094,14 @@
     "nativeName": "\u010cesk\u00e1 republika",
     "numericCode": "203",
     "population": 10558524,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -5170,14 +5170,14 @@
     "nativeName": "Danmark",
     "numericCode": "208",
     "population": 5717014,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC-04:00",
       "UTC-03:00",
@@ -5261,7 +5261,7 @@
     "nativeName": "Djibouti",
     "numericCode": "262",
     "population": 900000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5284,7 +5284,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -5350,9 +5350,9 @@
     "nativeName": "Dominica",
     "numericCode": "212",
     "population": 71293,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -5418,7 +5418,7 @@
     "nativeName": "Rep\u00fablica Dominicana",
     "numericCode": "214",
     "population": 10075045,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -5440,7 +5440,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -5509,7 +5509,7 @@
     "nativeName": "Ecuador",
     "numericCode": "218",
     "population": 16545799,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -5527,7 +5527,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-06:00",
       "UTC-05:00"
@@ -5597,7 +5597,7 @@
     "nativeName": "\u0645\u0635\u0631\u200e",
     "numericCode": "818",
     "population": 91290000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5620,7 +5620,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -5689,7 +5689,7 @@
     "nativeName": "El Salvador",
     "numericCode": "222",
     "population": 6520675,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -5702,7 +5702,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -5791,7 +5791,7 @@
     "nativeName": "Guinea Ecuatorial",
     "numericCode": "226",
     "population": 1222442,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5805,7 +5805,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -5926,7 +5926,7 @@
     "nativeName": "\u12a4\u122d\u1275\u122b",
     "numericCode": "232",
     "population": 5352000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5940,7 +5940,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -6010,14 +6010,14 @@
     "nativeName": "Eesti",
     "numericCode": "233",
     "population": 1315944,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -6091,7 +6091,7 @@
     "nativeName": "\u12a2\u1275\u12ee\u1335\u12eb",
     "numericCode": "231",
     "population": 92206005,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6105,7 +6105,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -6169,7 +6169,7 @@
     "nativeName": "Falkland Islands",
     "numericCode": "238",
     "population": 2563,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -6187,7 +6187,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -6257,10 +6257,10 @@
     "nativeName": "F\u00f8royar",
     "numericCode": "234",
     "population": 49376,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -6346,9 +6346,9 @@
     "nativeName": "Fiji",
     "numericCode": "242",
     "population": 867000,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Melanesia",
+    "region": "Melanesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -6426,14 +6426,14 @@
     "nativeName": "Suomi",
     "numericCode": "246",
     "population": 5491817,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -6508,14 +6508,14 @@
     "nativeName": "France",
     "numericCode": "250",
     "population": 66710000,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Western Europe",
+    "region": "Western Europe",
     "timezones": [
       "UTC-10:00",
       "UTC-09:30",
@@ -6595,7 +6595,7 @@
     "nativeName": "Guyane fran\u00e7aise",
     "numericCode": "254",
     "population": 254541,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -6617,7 +6617,7 @@
         "name": "European Union"
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -6683,9 +6683,9 @@
     "nativeName": "Polyn\u00e9sie fran\u00e7aise",
     "numericCode": "258",
     "population": 271800,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC-10:00",
       "UTC-09:30",
@@ -6750,7 +6750,7 @@
     "nativeName": "Territoire des Terres australes et antarctiques fran\u00e7aises",
     "numericCode": "260",
     "population": 140,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6764,7 +6764,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+05:00"
     ],
@@ -6834,7 +6834,7 @@
     "nativeName": "Gabon",
     "numericCode": "266",
     "population": 1802278,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6848,7 +6848,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -6914,7 +6914,7 @@
     "nativeName": "Gambia",
     "numericCode": "270",
     "population": 1882450,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6928,7 +6928,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -6998,9 +6998,9 @@
     "nativeName": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
     "numericCode": "268",
     "population": 3720400,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC-05:00"
     ],
@@ -7076,14 +7076,14 @@
     "nativeName": "Deutschland",
     "numericCode": "276",
     "population": 81770900,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -7151,7 +7151,7 @@
     "nativeName": "Ghana",
     "numericCode": "288",
     "population": 27670174,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7165,7 +7165,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -7230,14 +7230,14 @@
     "nativeName": "Gibraltar",
     "numericCode": "292",
     "population": 33140,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -7309,14 +7309,14 @@
     "nativeName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "numericCode": "300",
     "population": 10858018,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -7380,9 +7380,9 @@
     "nativeName": "Kalaallit Nunaat",
     "numericCode": "304",
     "population": 55847,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-04:00",
       "UTC-03:00",
@@ -7448,7 +7448,7 @@
     "nativeName": "Grenada",
     "numericCode": "308",
     "population": 103328,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -7460,7 +7460,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -7523,9 +7523,9 @@
     "nativeName": "Guadeloupe",
     "numericCode": "312",
     "population": 400132,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -7601,9 +7601,9 @@
     "nativeName": "Guam",
     "numericCode": "316",
     "population": 184200,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -7672,7 +7672,7 @@
     "nativeName": "Guatemala",
     "numericCode": "320",
     "population": 16176133,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -7685,7 +7685,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -7761,9 +7761,9 @@
     "nativeName": "Guernsey",
     "numericCode": "831",
     "population": 62999,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -7842,7 +7842,7 @@
     "nativeName": "Guin\u00e9e",
     "numericCode": "324",
     "population": 12947000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7856,7 +7856,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -7925,7 +7925,7 @@
     "nativeName": "Guin\u00e9-Bissau",
     "numericCode": "624",
     "population": 1547777,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7939,7 +7939,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -8008,7 +8008,7 @@
     "nativeName": "Guyana",
     "numericCode": "328",
     "population": 746900,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -8035,7 +8035,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -8110,7 +8110,7 @@
     "nativeName": "Ha\u00efti",
     "numericCode": "332",
     "population": 11078033,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -8122,7 +8122,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -8185,9 +8185,9 @@
     "nativeName": "Heard Island and McDonald Islands",
     "numericCode": "334",
     "population": 0,
-    "region": "",
+    "continent": "",
     "regionalBlocs": [],
-    "subregion": "",
+    "region": "",
     "timezones": [
       "UTC+05:00"
     ],
@@ -8273,9 +8273,9 @@
     "nativeName": "Status Civitatis Vaticanae",
     "numericCode": "336",
     "population": 451,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -8345,7 +8345,7 @@
     "nativeName": "Honduras",
     "numericCode": "340",
     "population": 8576532,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -8358,7 +8358,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -8431,9 +8431,9 @@
     "nativeName": "\u9999\u6e2f",
     "numericCode": "344",
     "population": 7324300,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -8505,14 +8505,14 @@
     "nativeName": "Magyarorsz\u00e1g",
     "numericCode": "348",
     "population": 9823000,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -8579,14 +8579,14 @@
     "nativeName": "\u00cdsland",
     "numericCode": "352",
     "population": 334300,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC"
     ],
@@ -8668,14 +8668,14 @@
     "nativeName": "\u092d\u093e\u0930\u0924",
     "numericCode": "356",
     "population": 1378712489,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+05:30"
     ],
@@ -8745,14 +8745,14 @@
     "nativeName": "Indonesia",
     "numericCode": "360",
     "population": 258705000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00",
       "UTC+08:00",
@@ -8827,7 +8827,7 @@
     "nativeName": "C\u00f4te d'Ivoire",
     "numericCode": "384",
     "population": 22671331,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8841,7 +8841,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -8915,9 +8915,9 @@
     "nativeName": "\u0627\u06cc\u0631\u0627\u0646",
     "numericCode": "364",
     "population": 79369900,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+03:30"
     ],
@@ -8995,7 +8995,7 @@
     "nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
     "numericCode": "368",
     "population": 37883543,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9007,7 +9007,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9082,14 +9082,14 @@
     "nativeName": "\u00c9ire",
     "numericCode": "372",
     "population": 6378000,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC"
     ],
@@ -9166,14 +9166,14 @@
     "nativeName": "Isle of Man",
     "numericCode": "833",
     "population": 84497,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -9250,9 +9250,9 @@
     "nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
     "numericCode": "376",
     "population": 8527400,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -9325,14 +9325,14 @@
     "nativeName": "Italia",
     "numericCode": "380",
     "population": 60665551,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -9396,7 +9396,7 @@
     "nativeName": "Jamaica",
     "numericCode": "388",
     "population": 2723246,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -9408,7 +9408,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -9474,9 +9474,9 @@
     "nativeName": "\u65e5\u672c",
     "numericCode": "392",
     "population": 126960000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -9553,9 +9553,9 @@
     "nativeName": "Jersey",
     "numericCode": "832",
     "population": 100800,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -9626,7 +9626,7 @@
     "nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
     "numericCode": "400",
     "population": 9531712,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9638,7 +9638,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9721,7 +9721,7 @@
     "nativeName": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
     "numericCode": "398",
     "population": 17753200,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -9731,7 +9731,7 @@
         ]
       }
     ],
-    "subregion": "Central Asia",
+    "region": "Central Asia",
     "timezones": [
       "UTC+05:00",
       "UTC+06:00"
@@ -9811,7 +9811,7 @@
     "nativeName": "Kenya",
     "numericCode": "404",
     "population": 47251000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -9825,7 +9825,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9895,9 +9895,9 @@
     "nativeName": "Kiribati",
     "numericCode": "296",
     "population": 113400,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+12:00",
       "UTC+13:00",
@@ -9968,7 +9968,7 @@
     "nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
     "numericCode": "414",
     "population": 4183658,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9980,7 +9980,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -10059,7 +10059,7 @@
     "nativeName": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
     "numericCode": "417",
     "population": 6047800,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -10069,7 +10069,7 @@
         ]
       }
     ],
-    "subregion": "Central Asia",
+    "region": "Central Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -10143,14 +10143,14 @@
     "nativeName": "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
     "numericCode": "418",
     "population": 6492400,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -10221,14 +10221,14 @@
     "nativeName": "Latvija",
     "numericCode": "428",
     "population": 1961600,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10303,7 +10303,7 @@
     "nativeName": "\u0644\u0628\u0646\u0627\u0646",
     "numericCode": "422",
     "population": 5988000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -10315,7 +10315,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10394,7 +10394,7 @@
     "nativeName": "Lesotho",
     "numericCode": "426",
     "population": 1894194,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10408,7 +10408,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10477,7 +10477,7 @@
     "nativeName": "Liberia",
     "numericCode": "430",
     "population": 4615000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10491,7 +10491,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -10564,7 +10564,7 @@
     "nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
     "numericCode": "434",
     "population": 6385000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10587,7 +10587,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10655,14 +10655,14 @@
     "nativeName": "Liechtenstein",
     "numericCode": "438",
     "population": 37623,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10733,14 +10733,14 @@
     "nativeName": "Lietuva",
     "numericCode": "440",
     "population": 2872294,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10824,14 +10824,14 @@
     "nativeName": "Luxembourg",
     "numericCode": "442",
     "population": 576200,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Western Europe",
+    "region": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10906,9 +10906,9 @@
     "nativeName": "\u6fb3\u9580",
     "numericCode": "446",
     "population": 649100,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -10980,14 +10980,14 @@
     "nativeName": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
     "numericCode": "807",
     "population": 2058539,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -11060,7 +11060,7 @@
     "nativeName": "Madagasikara",
     "numericCode": "450",
     "population": 22434363,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11074,7 +11074,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -11149,7 +11149,7 @@
     "nativeName": "Malawi",
     "numericCode": "454",
     "population": 16832910,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11163,7 +11163,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -11231,14 +11231,14 @@
     "nativeName": "Malaysia",
     "numericCode": "458",
     "population": 31405416,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -11305,14 +11305,14 @@
     "nativeName": "Maldives",
     "numericCode": "462",
     "population": 344023,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -11386,7 +11386,7 @@
     "nativeName": "Mali",
     "numericCode": "466",
     "population": 18135000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11400,7 +11400,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -11472,14 +11472,14 @@
     "nativeName": "Malta",
     "numericCode": "470",
     "population": 425384,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -11550,9 +11550,9 @@
     "nativeName": "M\u0327aje\u013c",
     "numericCode": "584",
     "population": 54880,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -11614,9 +11614,9 @@
     "nativeName": "Martinique",
     "numericCode": "474",
     "population": 378243,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -11687,7 +11687,7 @@
     "nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
     "numericCode": "478",
     "population": 3718678,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11710,7 +11710,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -11776,7 +11776,7 @@
     "nativeName": "Maurice",
     "numericCode": "480",
     "population": 1262879,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11790,7 +11790,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -11854,7 +11854,7 @@
     "nativeName": "Mayotte",
     "numericCode": "175",
     "population": 226915,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11868,7 +11868,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -11939,7 +11939,7 @@
     "nativeName": "M\u00e9xico",
     "numericCode": "484",
     "population": 122273473,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -11957,7 +11957,7 @@
         ]
       }
     ],
-    "subregion": "North America",
+    "region": "North America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -12023,9 +12023,9 @@
     "nativeName": "Micronesia",
     "numericCode": "583",
     "population": 102800,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+10:00",
       "UTC+11"
@@ -12095,14 +12095,14 @@
     "nativeName": "Moldova",
     "numericCode": "498",
     "population": 3553100,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -12169,9 +12169,9 @@
     "nativeName": "Monaco",
     "numericCode": "492",
     "population": 38400,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Western Europe",
+    "region": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12238,9 +12238,9 @@
     "nativeName": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
     "numericCode": "496",
     "population": 3093100,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+07:00",
       "UTC+08:00"
@@ -12330,14 +12330,14 @@
     "nativeName": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
     "numericCode": "499",
     "population": 621810,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12400,7 +12400,7 @@
     "nativeName": "Montserrat",
     "numericCode": "500",
     "population": 4922,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -12412,7 +12412,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -12482,7 +12482,7 @@
     "nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
     "numericCode": "504",
     "population": 33337529,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12505,7 +12505,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC"
     ],
@@ -12578,7 +12578,7 @@
     "nativeName": "Mo\u00e7ambique",
     "numericCode": "508",
     "population": 26423700,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12592,7 +12592,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -12665,14 +12665,14 @@
     "nativeName": "Myanma",
     "numericCode": "104",
     "population": 51419420,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+06:30"
     ],
@@ -12754,7 +12754,7 @@
     "nativeName": "Namibia",
     "numericCode": "516",
     "population": 2324388,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12768,7 +12768,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12841,9 +12841,9 @@
     "nativeName": "Nauru",
     "numericCode": "520",
     "population": 10084,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -12912,14 +12912,14 @@
     "nativeName": "\u0928\u0947\u092a\u093e\u0932",
     "numericCode": "524",
     "population": 28431500,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+05:45"
     ],
@@ -12988,14 +12988,14 @@
     "nativeName": "Nederland",
     "numericCode": "528",
     "population": 17019800,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Western Europe",
+    "region": "Western Europe",
     "timezones": [
       "UTC-04:00",
       "UTC+01:00"
@@ -13059,9 +13059,9 @@
     "nativeName": "Nouvelle-Cal\u00e9donie",
     "numericCode": "540",
     "population": 268767,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Melanesia",
+    "region": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -13132,9 +13132,9 @@
     "nativeName": "New Zealand",
     "numericCode": "554",
     "population": 4697854,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Australia and New Zealand",
+    "region": "Australia and New Zealand",
     "timezones": [
       "UTC-11:00",
       "UTC-10:00",
@@ -13207,7 +13207,7 @@
     "nativeName": "Nicaragua",
     "numericCode": "558",
     "population": 6262703,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -13220,7 +13220,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -13295,7 +13295,7 @@
     "nativeName": "Niger",
     "numericCode": "562",
     "population": 20715000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13309,7 +13309,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13381,7 +13381,7 @@
     "nativeName": "Nigeria",
     "numericCode": "566",
     "population": 186988000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13395,7 +13395,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13463,9 +13463,9 @@
     "nativeName": "Niu\u0113",
     "numericCode": "570",
     "population": 1470,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC-11:00"
     ],
@@ -13530,9 +13530,9 @@
     "nativeName": "Norfolk Island",
     "numericCode": "574",
     "population": 2302,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Australia and New Zealand",
+    "region": "Australia and New Zealand",
     "timezones": [
       "UTC+11:30"
     ],
@@ -13603,9 +13603,9 @@
     "nativeName": "\ubd81\ud55c",
     "numericCode": "408",
     "population": 25281000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -13676,9 +13676,9 @@
     "nativeName": "Northern Mariana Islands",
     "numericCode": "580",
     "population": 56940,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -13763,14 +13763,14 @@
     "nativeName": "Norge",
     "numericCode": "578",
     "population": 5223256,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13840,7 +13840,7 @@
     "nativeName": "\u0639\u0645\u0627\u0646",
     "numericCode": "512",
     "population": 4420133,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -13852,7 +13852,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -13930,14 +13930,14 @@
     "nativeName": "Pakistan",
     "numericCode": "586",
     "population": 194125062,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -14002,9 +14002,9 @@
     "nativeName": "Palau",
     "numericCode": "585",
     "population": 17950,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Micronesia",
+    "region": "Micronesia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -14073,7 +14073,7 @@
     "nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
     "numericCode": "275",
     "population": 4682467,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -14085,7 +14085,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -14159,7 +14159,7 @@
     "nativeName": "Panam\u00e1",
     "numericCode": "591",
     "population": 3814672,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -14172,7 +14172,7 @@
         ]
       }
     ],
-    "subregion": "Central America",
+    "region": "Central America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -14240,9 +14240,9 @@
     "nativeName": "Papua Niugini",
     "numericCode": "598",
     "population": 8083700,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Melanesia",
+    "region": "Melanesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -14319,7 +14319,7 @@
     "nativeName": "Paraguay",
     "numericCode": "600",
     "population": 6854536,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -14337,7 +14337,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -14409,7 +14409,7 @@
     "nativeName": "Per\u00fa",
     "numericCode": "604",
     "population": 31488700,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -14434,7 +14434,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -14500,14 +14500,14 @@
     "nativeName": "Pilipinas",
     "numericCode": "608",
     "population": 103279800,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -14576,9 +14576,9 @@
     "nativeName": "Pitcairn Islands",
     "numericCode": "612",
     "population": 56,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC-08:00"
     ],
@@ -14652,14 +14652,14 @@
     "nativeName": "Polska",
     "numericCode": "616",
     "population": 38437239,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -14728,14 +14728,14 @@
     "nativeName": "Portugal",
     "numericCode": "620",
     "population": 10374822,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC-01:00",
       "UTC"
@@ -14807,9 +14807,9 @@
     "nativeName": "Puerto Rico",
     "numericCode": "630",
     "population": 3474182,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -14877,7 +14877,7 @@
     "nativeName": "\u0642\u0637\u0631",
     "numericCode": "634",
     "population": 2587564,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -14889,7 +14889,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -14963,14 +14963,14 @@
     "name": "Republic of Kosovo",
     "nativeName": "Republika e Kosov\u00ebs",
     "population": 1733842,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -15027,7 +15027,7 @@
     "nativeName": "La R\u00e9union",
     "numericCode": "638",
     "population": 840974,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -15041,7 +15041,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -15114,14 +15114,14 @@
     "nativeName": "Rom\u00e2nia",
     "numericCode": "642",
     "population": 19861408,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -15204,7 +15204,7 @@
     "nativeName": "\u0420\u043e\u0441\u0441\u0438\u044f",
     "numericCode": "643",
     "population": 146599183,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -15214,7 +15214,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+03:00",
       "UTC+04:00",
@@ -15306,7 +15306,7 @@
     "nativeName": "Rwanda",
     "numericCode": "646",
     "population": 11553188,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -15320,7 +15320,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -15386,9 +15386,9 @@
     "nativeName": "Saint-Barth\u00e9lemy",
     "numericCode": "652",
     "population": 9417,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15450,7 +15450,7 @@
     "nativeName": "Saint Helena",
     "numericCode": "654",
     "population": 4255,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -15464,7 +15464,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -15527,7 +15527,7 @@
     "nativeName": "Saint Kitts and Nevis",
     "numericCode": "659",
     "population": 46204,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15539,7 +15539,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15603,7 +15603,7 @@
     "nativeName": "Saint Lucia",
     "numericCode": "662",
     "population": 186000,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15615,7 +15615,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15695,9 +15695,9 @@
     "nativeName": "Saint-Martin",
     "numericCode": "663",
     "population": 36979,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15764,9 +15764,9 @@
     "nativeName": "Saint-Pierre-et-Miquelon",
     "numericCode": "666",
     "population": 6069,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -15829,7 +15829,7 @@
     "nativeName": "Saint Vincent and the Grenadines",
     "numericCode": "670",
     "population": 109991,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15841,7 +15841,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15912,9 +15912,9 @@
     "nativeName": "Samoa",
     "numericCode": "882",
     "population": 194899,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -15981,9 +15981,9 @@
     "nativeName": "San Marino",
     "numericCode": "674",
     "population": 33005,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16049,7 +16049,7 @@
     "nativeName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
     "numericCode": "678",
     "population": 187356,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16063,7 +16063,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC"
     ],
@@ -16137,7 +16137,7 @@
     "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "numericCode": "682",
     "population": 32248200,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -16149,7 +16149,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -16221,7 +16221,7 @@
     "nativeName": "S\u00e9n\u00e9gal",
     "numericCode": "686",
     "population": 14799859,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16235,7 +16235,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -16312,14 +16312,14 @@
     "nativeName": "\u0421\u0440\u0431\u0438\u0458\u0430",
     "numericCode": "688",
     "population": 7076372,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16392,7 +16392,7 @@
     "nativeName": "Seychelles",
     "numericCode": "690",
     "population": 91400,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16406,7 +16406,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -16474,7 +16474,7 @@
     "nativeName": "Sierra Leone",
     "numericCode": "694",
     "population": 7075641,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16488,7 +16488,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -16578,14 +16578,14 @@
     "nativeName": "Singapore",
     "numericCode": "702",
     "population": 5535000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -16656,9 +16656,9 @@
     "nativeName": "Sint Maarten",
     "numericCode": "534",
     "population": 38247,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -16728,14 +16728,14 @@
     "nativeName": "Slovensko",
     "numericCode": "703",
     "population": 5426252,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16806,14 +16806,14 @@
     "nativeName": "Slovenija",
     "numericCode": "705",
     "population": 2064188,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16876,9 +16876,9 @@
     "nativeName": "Solomon Islands",
     "numericCode": "090",
     "population": 642000,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Melanesia",
+    "region": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -16956,7 +16956,7 @@
     "nativeName": "Soomaaliya",
     "numericCode": "706",
     "population": 11079000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16979,7 +16979,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -17107,7 +17107,7 @@
     "nativeName": "South Africa",
     "numericCode": "710",
     "population": 55653654,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17121,7 +17121,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -17184,7 +17184,7 @@
     "nativeName": "South Georgia",
     "numericCode": "239",
     "population": 30,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -17202,7 +17202,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-02:00"
     ],
@@ -17270,9 +17270,9 @@
     "nativeName": "\ub300\ud55c\ubbfc\uad6d",
     "numericCode": "410",
     "population": 50801405,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -17343,7 +17343,7 @@
     "nativeName": "South Sudan",
     "numericCode": "728",
     "population": 12131000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17357,7 +17357,7 @@
         ]
       }
     ],
-    "subregion": "Middle Africa",
+    "region": "Middle Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -17429,14 +17429,14 @@
     "nativeName": "Espa\u00f1a",
     "numericCode": "724",
     "population": 46438422,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Southern Europe",
+    "region": "Southern Europe",
     "timezones": [
       "UTC",
       "UTC+01:00"
@@ -17511,14 +17511,14 @@
     "nativeName": "\u015br\u012b la\u1e43k\u0101va",
     "numericCode": "144",
     "population": 20966000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "subregion": "Southern Asia",
+    "region": "Southern Asia",
     "timezones": [
       "UTC+05:30"
     ],
@@ -17598,7 +17598,7 @@
     "nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
     "numericCode": "729",
     "population": 39598700,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17621,7 +17621,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -17694,7 +17694,7 @@
     "nativeName": "Suriname",
     "numericCode": "740",
     "population": 541638,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -17721,7 +17721,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -17784,9 +17784,9 @@
     "nativeName": "Svalbard og Jan Mayen",
     "numericCode": "744",
     "population": 2562,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -17864,7 +17864,7 @@
     "nativeName": "Swaziland",
     "numericCode": "748",
     "population": 1132657,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17878,7 +17878,7 @@
         ]
       }
     ],
-    "subregion": "Southern Africa",
+    "region": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -17947,14 +17947,14 @@
     "nativeName": "Sverige",
     "numericCode": "752",
     "population": 9894888,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -18047,14 +18047,14 @@
     "nativeName": "Schweiz",
     "numericCode": "756",
     "population": 8341600,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "subregion": "Central Europe",
+    "region": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -18126,7 +18126,7 @@
     "nativeName": "\u0633\u0648\u0631\u064a\u0627",
     "numericCode": "760",
     "population": 18564000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -18138,7 +18138,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -18206,9 +18206,9 @@
     "nativeName": "\u81fa\u7063",
     "numericCode": "158",
     "population": 23503349,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Eastern Asia",
+    "region": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -18287,9 +18287,9 @@
     "nativeName": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
     "numericCode": "762",
     "population": 8593600,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Central Asia",
+    "region": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -18370,7 +18370,7 @@
     "nativeName": "Tanzania",
     "numericCode": "834",
     "population": 55155000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18384,7 +18384,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -18458,14 +18458,14 @@
     "nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
     "numericCode": "764",
     "population": 65327652,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -18535,9 +18535,9 @@
     "nativeName": "Timor-Leste",
     "numericCode": "626",
     "population": 1167242,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -18608,7 +18608,7 @@
     "nativeName": "Togo",
     "numericCode": "768",
     "population": 7143000,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18622,7 +18622,7 @@
         ]
       }
     ],
-    "subregion": "Western Africa",
+    "region": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -18685,9 +18685,9 @@
     "nativeName": "Tokelau",
     "numericCode": "772",
     "population": 1411,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -18756,9 +18756,9 @@
     "nativeName": "Tonga",
     "numericCode": "776",
     "population": 103252,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -18823,7 +18823,7 @@
     "nativeName": "Trinidad and Tobago",
     "numericCode": "780",
     "population": 1349667,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -18835,7 +18835,7 @@
         ]
       }
     ],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -18904,7 +18904,7 @@
     "nativeName": "\u062a\u0648\u0646\u0633",
     "numericCode": "788",
     "population": 11154400,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18927,7 +18927,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -19002,9 +19002,9 @@
     "nativeName": "T\u00fcrkiye",
     "numericCode": "792",
     "population": 78741053,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -19079,9 +19079,9 @@
     "nativeName": "T\u00fcrkmenistan",
     "numericCode": "795",
     "population": 4751120,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Central Asia",
+    "region": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -19144,9 +19144,9 @@
     "nativeName": "Turks and Caicos Islands",
     "numericCode": "796",
     "population": 31458,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [],
-    "subregion": "Caribbean",
+    "region": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -19214,9 +19214,9 @@
     "nativeName": "Tuvalu",
     "numericCode": "798",
     "population": 10640,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -19294,7 +19294,7 @@
     "nativeName": "Uganda",
     "numericCode": "800",
     "population": 33860700,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -19308,7 +19308,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -19381,9 +19381,9 @@
     "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "numericCode": "804",
     "population": 42692393,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [],
-    "subregion": "Eastern Europe",
+    "region": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -19451,7 +19451,7 @@
     "nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
     "numericCode": "784",
     "population": 9856000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -19463,7 +19463,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+04"
     ],
@@ -19531,14 +19531,14 @@
     "nativeName": "United Kingdom",
     "numericCode": "826",
     "population": 65110000,
-    "region": "Europe",
+    "continent": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "subregion": "Northern Europe",
+    "region": "Northern Europe",
     "timezones": [
       "UTC-08:00",
       "UTC-05:00",
@@ -19615,7 +19615,7 @@
     "nativeName": "United States",
     "numericCode": "840",
     "population": 323947000,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -19626,7 +19626,7 @@
         ]
       }
     ],
-    "subregion": "Northern America",
+    "region": "Northern America",
     "timezones": [
       "UTC-12:00",
       "UTC-11:00",
@@ -19705,7 +19705,7 @@
     "nativeName": "Uruguay",
     "numericCode": "858",
     "population": 3480222,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -19723,7 +19723,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -19801,9 +19801,9 @@
     "nativeName": "O\u2018zbekiston",
     "numericCode": "860",
     "population": 31576400,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [],
-    "subregion": "Central Asia",
+    "region": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -19881,9 +19881,9 @@
     "nativeName": "Vanuatu",
     "numericCode": "548",
     "population": 277500,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Melanesia",
+    "region": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -19953,7 +19953,7 @@
     "nativeName": "Venezuela",
     "numericCode": "862",
     "population": 31028700,
-    "region": "Americas",
+    "continent": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -19971,7 +19971,7 @@
         ]
       }
     ],
-    "subregion": "South America",
+    "region": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -20041,14 +20041,14 @@
     "nativeName": "Vi\u1ec7t Nam",
     "numericCode": "704",
     "population": 92700000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "subregion": "South-Eastern Asia",
+    "region": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -20113,9 +20113,9 @@
     "nativeName": "Wallis et Futuna",
     "numericCode": "876",
     "population": 11750,
-    "region": "Oceania",
+    "continent": "Oceania",
     "regionalBlocs": [],
-    "subregion": "Polynesia",
+    "region": "Polynesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -20188,7 +20188,7 @@
     "nativeName": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
     "numericCode": "732",
     "population": 510713,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20202,7 +20202,7 @@
         ]
       }
     ],
-    "subregion": "Northern Africa",
+    "region": "Northern Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -20271,7 +20271,7 @@
     "nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
     "numericCode": "887",
     "population": 27478000,
-    "region": "Asia",
+    "continent": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -20283,7 +20283,7 @@
         ]
       }
     ],
-    "subregion": "Western Asia",
+    "region": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -20357,7 +20357,7 @@
     "nativeName": "Zambia",
     "numericCode": "894",
     "population": 15933883,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20371,7 +20371,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -20453,7 +20453,7 @@
     "nativeName": "Zimbabwe",
     "numericCode": "716",
     "population": 14240168,
-    "region": "Africa",
+    "continent": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20467,7 +20467,7 @@
         ]
       }
     ],
-    "subregion": "Eastern Africa",
+    "region": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
