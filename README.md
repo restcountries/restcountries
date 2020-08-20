@@ -126,15 +126,15 @@ https://restcountries.com/v2/callingcode/{callingcode}
 https://restcountries.com/v2/callingcode/372
 ```
 
-## Region
+## Continent
 
-Search by region: Africa, Americas, Asia, Europe, Oceania
+Search by continent: Africa, Americas, Asia, Europe, Oceania
 
 ``` javascript
-https://restcountries.com/v2/region/{region}
+https://restcountries.com/v2/continent/{region}
 ```
 ``` html
-https://restcountries.com/v2/region/europe
+https://restcountries.com/v2/continent/europe
 ```
 
 ## Regional Bloc
