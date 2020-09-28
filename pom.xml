@@ -13,7 +13,7 @@
   </parent>
 
   <properties>
-    <jdk.version>1.8</jdk.version>
+    <jdk.version>14</jdk.version>
     <!-- If you are building with JDK 9 or higher, you can uncomment the lines below to set the release version -->
     <!-- <release.version>8</release.version> -->
     <micronaut.version>2.0.1</micronaut.version>
