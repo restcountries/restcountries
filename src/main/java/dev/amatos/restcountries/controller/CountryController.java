@@ -58,7 +58,7 @@ public class CountryController {
         }
     }
 
-    @Get("alpha-codes/")
+    @Get("alpha/")
     public Object getByAlphaList(@QueryParam("codes") String codes, @QueryParam("fields") Optional<String> fields) {
         if (isEmpty(codes) || codes.length() < 2 || (codes.length() > 3 && !codes.contains(","))) {
             return getResponse(Response.Status.BAD_REQUEST);
