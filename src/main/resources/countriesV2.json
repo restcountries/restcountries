@@ -19463,12 +19463,6 @@
     "numericCode": "826",
     "population": 65110000,
     "continent": "Europe",
-    "regionalBlocs": [
-      {
-        "acronym": "EU",
-        "name": "European Union"
-      }
-    ],
     "region": "Northern Europe",
     "timezones": [
       "UTC-08:00",
