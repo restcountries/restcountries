@@ -9862,7 +9862,7 @@
     ],
     "area": 17818,
     "borders": [
-      "IRN",
+      "IRQ",
       "SAU"
     ],
     "callingCodes": [
@@ -19281,7 +19281,7 @@
     "callingCodes": [
       "380"
     ],
-    "capital": "Kiev",
+    "capital": "Kyiv",
     "currencies": [
       {
         "code": "UAH",
