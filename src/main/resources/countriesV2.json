@@ -20237,7 +20237,7 @@
       "ZM",
       "Republic of Zambia"
     ],
-    "area": 752612,
+    "area": 752618,
     "borders": [
       "AGO",
       "BWA",
@@ -20413,5 +20413,89 @@
       "hu": "Zimbabwe"
     },
     "cioc": "ZIM"
+  },
+  {
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE",
+    "altSpellings": [
+      "PS",
+      "State of Palestine"
+    ],
+    "area": 6020,
+    "borders": [
+      "EGY",
+      "ISR",
+      "JOR"
+    ],
+    "callingCodes": [
+      "970"
+    ],
+    "capital": "Jerusalem",
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "\u0045\u00a3"
+      },
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "\u20aa"
+      },
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "\u062f\u002e\u0623"
+      }
+    ],
+    "demonym": "Palestinian",
+    "independent": false,
+    "flags": [
+      "https://restcountries.com/data/pse.svg",
+      "https://restcountries.com/data/png/pse.png"
+    ],
+    "gini": 33.70,
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+      }
+    ],
+    "latlng": [
+      31.95,
+      34.58
+    ],
+    "name": "State of Palestine",
+    "nativeName": "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
+    "numericCode": "970",
+    "population": 5159076,
+    "continent": "Asia",
+    "region": "Western Asia",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "topLevelDomain": [
+      ".ps"
+    ],
+    "translations": {
+      "br": "Estado da Palestina",
+      "de": "Staat Pal\u00e4stina",
+      "es": "Estado de Palestina",
+      "fa": "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646",
+      "fr": "Palestine (\u00c9tat)",
+      "hr": "Dr\u017eava Palestina",
+      "it": "Stato di Palestina",
+      "ja": "\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd",
+      "nl": "Palestina (staat)",
+      "pt": "Estado da Palestina",
+      "hu": "Palesztina"
+    },
+    "cioc": "PSE",
+    "maps": {
+      "gmaps": "https://www.google.com/maps/place/Palestina/@31.9511089,34.5815707,9z",
+      "openstreetmap": "https://www.openstreetmap.org/relation/1703814"
+    }
   }
 ]
