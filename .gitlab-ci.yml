@@ -12,7 +12,7 @@ stages:
 maven-package:
     stage: package
     script:
-        - ./mvnw verify -Dmaven.repo.local=$MAVEN_USER_HOME
+        - ./mvnw clean install -Dmaven.repo.local=$MAVEN_USER_HOME
     artifacts:
         paths:
             - target/*.jar
@@ -28,7 +28,7 @@ docker-push:
         REGISTRY_URL: registry.gitlab.com
         DOCKER_HOST: tcp://docker:2375
         DOCKER_DRIVER: overlay2
-        IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
+        IMAGE_TAG: $CI_REGISTRY_IMAGE:master
     stage: release
     dependencies:
         - maven-package
