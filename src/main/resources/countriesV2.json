@@ -2729,14 +2729,14 @@
     ],
     "borders": [],
     "callingCodes": [
-      "1"
+      "246"
     ],
     "capital": "",
     "currencies": [
       {
-        "code": "USD",
-        "name": "United States Dollar",
-        "symbol": "$"
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "\u00a3"
       }
     ],
     "demonym": "American",
