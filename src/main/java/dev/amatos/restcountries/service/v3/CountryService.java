@@ -75,19 +75,9 @@ public class CountryService {
     // Using 2 different 'for' loops to give priority to 'name' matches over alternative spellings
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
-      if (
-          isNameNormalizedEquals(name, country.getName().getCommon()) ||
-              isNameNormalizedEquals(name, country.getName().getOfficial())
-      ) {
+      if ((name.equalsIgnoreCase(country.getName().getCommon())||name.equalsIgnoreCase(country.getName().getOfficial()))){
         result.add(country);
-      }
-    }
-    for (Country country : countries) {
-      for (String alternative : country.getAltSpellings()) {
-        if (isNameNormalizedEquals(alternative, country.getName().getCommon())
-            && !result.contains(country)) {
-          result.add(country);
-        }
+        return result;
       }
     }
     return result;
