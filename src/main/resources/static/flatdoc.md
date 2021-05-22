@@ -5,10 +5,20 @@ Get information about countries via a RESTful API
 
 *Current version: 3*
 
+New in Version 3
+-
+Version 3 uses [this] project to get the country's structure and adds a couple of new features:
+
+- Search by translations
+- Search by language's name (not just language code)
+- Search by currency's name (not just currency code)
+- Turning back from V2 to V3: continent to region and region to subregion
+
+In addition to those features, I added the flags (svg and png) to each country.
+
 Donate!
 ---------------
-If you want to donate to **this** project to help me pay the server bill, you are welcome to donate 
-[$5], [$10], [$15] o [more]. I would very much appreciate the help 😃
+Please consider donating [$5], [$10], [$15] o [more]. I would very much appreciate the help 😃
 
 The original restcountries project was acquired by apilayer, one of the leading providers of 
 API microservices. As the original project has shown very little activity, I created this project 
@@ -36,7 +46,8 @@ API Endpoints v3
 =======
 
 This version takes countries from [this] project, but it adds the flags. Although the requests 
-have not changed much, the response has as the country structure is different. 
+have not changed much, the response has as the country structure is different. Please refer to the
+example response body.
 
 All
 ---------------
