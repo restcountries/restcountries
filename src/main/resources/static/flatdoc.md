@@ -3,7 +3,7 @@ REST Countries 🇵🇪
 
 Get information about countries via a RESTful API
 
-*Current version: 1*
+*Current version: 3*
 
 Donate!
 ---------------
@@ -32,7 +32,341 @@ Original RESTCountries project has over 1200 users, including:
 - [onefinestay]
 - [Much Better Adventures]
 
-API Endpoints
+API Endpoints v3
+=======
+
+This version takes countries from [this] project, but it adds the flags. Although the requests 
+have not changed much, the response has as the country structure is different. 
+
+All
+---------------
+``` html
+https://restcountries.com/v3/all
+```
+
+Name
+---------------
+
+Search by country name. It can be the native name or partial name
+
+``` html
+https://restcountries.com/v3/name/{name}
+```
+
+``` html
+https://restcountries.com/v3/name/peru
+```
+
+``` html
+https://restcountries.com/v3/name/united
+```
+
+Full Name
+---------------
+
+Search by country full name
+
+``` html
+https://restcountries.com/v3/name/{name}?fullText=true
+```
+
+``` html
+https://restcountries.com/v3/name/aruba?fullText=true
+```
+
+Code
+---------------
+
+Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
+
+``` html
+https://restcountries.com/v3/alpha/{code}
+```
+
+``` html
+https://restcountries.com/v3/alpha/pe
+```
+
+``` html
+https://restcountries.com/v3/alpha/per
+```
+
+List of codes
+---------------
+
+Search by list of cca2, ccn3, cca3 or cioc country codes (yes, any!). The original project used *;* as
+separator. In out case, the *comma* is used to separate values.
+
+``` html
+https://restcountries.com/v3/alpha?codes={code},{code},{code}
+```
+
+``` html
+https://restcountries.com/v3/alpha?codes=col,pe,at
+```
+
+List of codes
+---------------
+
+Search by list of cca2, ccn3, cca3 or cioc country codes (yes, any!). The original project used *;* as
+separator. In out case, the *comma* is used to separate values.
+
+``` html
+https://restcountries.com/v3/alpha?codes={code},{code},{code}
+```
+
+``` html
+https://restcountries.com/v3/alpha?codes=col,pe,at
+```
+
+Currency
+---------------
+
+Search by currency name (_new!_) or code
+
+``` html
+https://restcountries.com/v3/currency/{currency}
+```
+``` html
+https://restcountries.com/v3/currency/pen
+```
+``` html
+https://restcountries.com/v3/currency/dollar
+```
+
+Language
+---------------
+
+Search by language name (_new!_) or iso639_2 code
+
+``` html
+https://restcountries.com/v3/lang/{lang}
+```
+``` html
+https://restcountries.com/v3/lang/spa
+```
+``` html
+https://restcountries.com/v3/lang/german
+```
+
+Translations (new!)
+-
+Now you can search by name in any available translation
+``` html
+https://restcountries.com/v3/translation/Peruánská
+```
+
+Capital city
+---------------
+
+Search by capital city.
+
+``` html
+https://restcountries.com/v3/capital/{capital}
+```
+``` html
+https://restcountries.com/v3/capital/lima
+```
+
+Region
+---------------
+
+Search by Region: Africa, Americas, Asia, Europe, Oceania
+
+``` html
+https://restcountries.com/v3/continent/{region}
+```
+``` html
+https://restcountries.com/v3/continent/europe
+```
+
+Subregion
+---------------
+
+Search by Subregion: South America, Southern Europe, Central America, Eastern Asia, etc.
+
+``` html
+https://restcountries.com/v3/continent/{region}
+```
+``` html
+https://restcountries.com/v3/continent/europe
+```
+
+Demonym
+-
+Now you can search by how a citizen is called.
+
+``` html
+https://restcountries.com/v3/demonym/{region}
+```
+``` html
+https://restcountries.com/v3/demonym/peruvian
+```
+
+Response Example
+-
+``` html
+https://restcountries.com/v3/name/japan
+```
+``` html
+[
+  {
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "nativeName": {
+        "jpn": {
+          "official": "日本",
+          "common": "日本"
+        }
+      }
+    },
+    "tld": [
+      ".jp",
+      ".みんな"
+    ],
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "cioc": "JPN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "Tokyo"
+    ],
+    "altSpellings": [
+      "JP",
+      "Nippon",
+      "Nihon"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "translations": {
+      "ces": {
+        "official": "Japonsko",
+        "common": "Japonsko"
+      },
+      "deu": {
+        "official": "Japan",
+        "common": "Japan"
+      },
+      "est": {
+        "official": "Jaapan",
+        "common": "Jaapan"
+      },
+      "fin": {
+        "official": "Japani",
+        "common": "Japani"
+      },
+      "fra": {
+        "official": "Japon",
+        "common": "Japon"
+      },
+      "hrv": {
+        "official": "Japan",
+        "common": "Japan"
+      },
+      "hun": {
+        "official": "Japán",
+        "common": "Japán"
+      },
+      "ita": {
+        "official": "Giappone",
+        "common": "Giappone"
+      },
+      "jpn": {
+        "official": "日本",
+        "common": "日本"
+      },
+      "kor": {
+        "official": "일본국",
+        "common": "일본"
+      },
+      "nld": {
+        "official": "Japan",
+        "common": "Japan"
+      },
+      "per": {
+        "official": "ژاپن",
+        "common": "ژاپن"
+      },
+      "pol": {
+        "official": "Japonia",
+        "common": "Japonia"
+      },
+      "por": {
+        "official": "Japão",
+        "common": "Japão"
+      },
+      "rus": {
+        "official": "Япония",
+        "common": "Япония"
+      },
+      "slk": {
+        "official": "Japonsko",
+        "common": "Japonsko"
+      },
+      "spa": {
+        "official": "Japón",
+        "common": "Japón"
+      },
+      "swe": {
+        "official": "Japan",
+        "common": "Japan"
+      },
+      "urd": {
+        "official": "جاپان",
+        "common": "جاپان"
+      },
+      "zho": {
+        "official": "日本国",
+        "common": "日本"
+      }
+    },
+    "latlng": [
+      36.0,
+      138.0
+    ],
+    "landlocked": false,
+    "area": 377930.0,
+    "flag": "🇯🇵",
+    "flags": [
+      "https://restcountries.com/data/jpn.svg",
+      "https://restcountries.com/data/png/jpn.png"
+    ],
+    "demonyms": {
+      "eng": {
+        "f": "Japanese",
+        "m": "Japanese"
+      },
+      "fra": {
+        "f": "Japonaise",
+        "m": "Japonais"
+      }
+    }
+  }
+]
+```
+
+---------------------
+
+API Endpoints v2
 =======
 
 Below are described the REST endpoints available that you can use to search for countries
@@ -49,7 +383,7 @@ Name
 
 Search by country name. It can be the native name or partial name
 
-``` javascript
+``` html
 https://restcountries.com/v2/name/{name}
 ```
 
@@ -66,7 +400,7 @@ Full Name
 
 Search by country full name
 
-``` javascript
+``` html
 https://restcountries.com/v2/name/{name}?fullText=true
 ```
 
@@ -79,7 +413,7 @@ Code
 
 Search by ISO 3166-1 2-letter or 3-letter country code
 
-``` javascript
+``` html
 https://restcountries.com/v2/alpha/{code}
 ```
 
@@ -97,7 +431,7 @@ List of codes
 Search by list of ISO 3166-1 2-letter or 3-letter country codes. The original project used *;* as 
 separator. In out case, the *comma* is used to separate values.
 
-``` javascript
+``` html
 https://restcountries.com/v2/alpha?codes={code},{code},{code}
 ```
 
@@ -110,7 +444,7 @@ Currency
 
 Search by ISO 4217 currency code
 
-``` javascript
+``` html
 https://restcountries.com/v2/currency/{currency}
 ```
 ``` html
@@ -134,7 +468,7 @@ Capital city
 
 Search by capital city
 
-``` javascript
+``` html
 https://restcountries.com/v2/capital/{capital}
 ```
 ``` html
@@ -184,7 +518,7 @@ Search by regional bloc:
 - NAFTA (North American Free Trade Agreement)
 - SAARC (South Asian Association for Regional Cooperation)
 
-``` javascript
+``` html
 https://restcountries.com/v2/regionalbloc/{regionalbloc}
 ```
 ``` html
@@ -360,3 +694,4 @@ License
 [onefinestay]: https://www.onefinestay.com/
 [Much Better Adventures]: https://www.muchbetteradventures.com
 [SKROSS]: http://www.skross.com/en
+[this]: https://github.com/mledoze/countries

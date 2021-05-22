@@ -206,12 +206,12 @@ public class CountryController {
     }
 
     private String getCountriesJson(List<Country> countries, List<String> fields) {
-        Gson gson = new Gson();
-        JsonParser parser = new JsonParser();
+        var gson = new Gson();
+        var parser = new JsonParser();
         JsonArray jsonArray = parser.parse(gson.toJson(countries)).getAsJsonArray();
-        JsonArray resultArray = new JsonArray();
-        for (int i = 0; i < jsonArray.size(); i++) {
-            JsonObject jsonObject = (JsonObject) jsonArray.get(i);
+        var resultArray = new JsonArray();
+        for (var i = 0; i < jsonArray.size(); i++) {
+            var jsonObject = (JsonObject) jsonArray.get(i);
 
             List<String> excludedFields = getExcludedFields(fields);
             for (String excludedField : excludedFields) {
@@ -229,7 +229,7 @@ public class CountryController {
     }
 
     private Object getResponse(Response.Status status) {
-        Gson gson = new Gson();
+        var gson = new Gson();
         return Response
                 .status(status)
                 .entity(gson.toJson(new ResponseEntity(status.getStatusCode(),
@@ -245,8 +245,8 @@ public class CountryController {
     }
 
     private String getCountryJson(Country country, List<String> fields) {
-        Gson gson = new Gson();
-        JsonParser parser = new JsonParser();
+        var gson = new Gson();
+        var parser = new JsonParser();
         JsonObject jsonObject = parser.parse(gson.toJson(country)).getAsJsonObject();
 
         List<String> excludedFields = getExcludedFields(fields);

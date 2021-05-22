@@ -143,7 +143,7 @@ public class CountryServiceBase {
         LOG.debug("Loading JSON " + filename);
         List<BaseCountry> countries = new ArrayList<>();
         InputStream is = CountryServiceBase.class.getClassLoader().getResourceAsStream(filename);
-        Gson gson = new Gson();
+        var gson = new Gson();
         JsonReader reader;
         try {
             assert is != null;
