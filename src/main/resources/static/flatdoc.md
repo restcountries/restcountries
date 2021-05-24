@@ -208,7 +208,7 @@ Demonym
 Now you can search by how a citizen is called.
 
 ``` html
-https://restcountries.com/v3/demonym/{region}
+https://restcountries.com/v3/demonym/{demonym}
 ```
 ``` html
 https://restcountries.com/v3/demonym/peruvian

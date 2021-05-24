@@ -10,23 +10,37 @@ You can access API through https://restcountries.com/v2/all
 * [ ] Add Chinese, Taiwanese and Hongkonian
 
 # Contributing
-Any help is welcome! just the file that fits better and I will replicate the changes to the other files. This project uses the `countries.min.json` file
+Any help is welcome! Just edit the file `countriesV2.json`. If you want to edit V3, please refer to 
+[this](https://github.com/mledoze/countries/blob/master/countries.json) file or create an issue in the
+[original project](https://github.com/mledoze/countries).
 
 # Donations
 If you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also [buy me a coffee](https://www.buymeacoffee.com/amatos) :)
 
 # API Endpoints
 
+Currently there are 2 versions:
+- Version 2 is the original version from restcountries.eu by Fayder Florez
+- Version 3 is the implementation from [this project](https://github.com/mledoze/countries)
+
 Below are described the REST endpoints available that you can use to search for countries
 
 ## All
 
+### V2
 ``` html
 https://restcountries.com/v2/all
 ```
 
+### V3
+``` html
+https://restcountries.com/v3/all
+```
+
+
 ## Name
 
+### V2
 Search by country name. It can be the native name or partial name
 
 ``` javascript
@@ -41,11 +55,25 @@ https://restcountries.com/v2/name/eesti
 https://restcountries.com/v2/name/united
 ```
 
+### V3
+Search by country name. It can be the common or official value
+``` html
+https://restcountries.com/v3/name/{name}
+```
+
+``` html
+https://restcountries.com/v3/name/eesti
+```
+
+``` html
+https://restcountries.com/v3/name/deutschland
+```
+
 ## Full Name
+### V2
+Search by country's full name
 
-Search by country full name
-
-``` javascript
+``` html
 https://restcountries.com/v2/name/{name}?fullText=true
 ```
 
@@ -53,12 +81,20 @@ https://restcountries.com/v2/name/{name}?fullText=true
 https://restcountries.com/v2/name/aruba?fullText=true
 ```
 
+### V3
+Search by country's full name. It can be the common or official value
+``` html
+https://restcountries.com/v3/name/{name}?fullText=true
+```
+
+``` html
+https://restcountries.com/v3/name/aruba?fullText=true
+```
 ## Code
-
-
+### V2
 Search by ISO 3166-1 2-letter or 3-letter country code
 
-``` javascript
+``` html
 https://restcountries.com/v2/alpha/{code}
 ```
 
@@ -69,32 +105,75 @@ https://restcountries.com/v2/alpha/co
 ``` html
 https://restcountries.com/v2/alpha/col
 ```
+### V3
+Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
 
+``` html
+https://restcountries.com/v3/alpha/{code}
+```
+
+``` html
+https://restcountries.com/v3/alpha/co
+```
+
+``` html
+https://restcountries.com/v3/alpha/col
+```
+
+``` html
+https://restcountries.com/v3/alpha/170
+```
 ## List of codes
-
+### V2
 Search by list of ISO 3166-1 2-letter or 3-letter country codes
 
-``` javascript
+``` html
 https://restcountries.com/v2/alpha?codes={code},{code},{code}
 ```
 
 ``` html
-https://restcountries.com/v2/alpha?codes=col,no,ee
+https://restcountries.com/v2/alpha?codes=col,no,ee,pe
+```
+### V3
+Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
+``` html
+https://restcountries.com/v3/alpha?codes={code},{code},{code}
 ```
 
+``` html
+https://restcountries.com/v3/alpha?codes=170,no,est,pe
+```
 ## Currency
-
+### V2
 Search by ISO 4217 currency code
 
-``` javascript
+``` html
 https://restcountries.com/v2/currency/{currency}
 ```
 ``` html
 https://restcountries.com/v2/currency/cop
 ```
+### V3
+Search by currency code or name
+``` html
+https://restcountries.com/v3/currency/{currency}
+```
+``` html
+https://restcountries.com/v3/currency/cop
+```
+
+### Demonym
+### V3
+Now you can search by how a citizen is called.
+``` html
+https://restcountries.com/v3/demonym/{demonym}
+```
+``` html
+https://restcountries.com/v3/demonym/peruvian
+```
 
 ## Language
-
+### V2
 Search by ISO 639-1 language code
 
 ``` javascript
@@ -104,7 +183,21 @@ https://restcountries.com/v2/lang/{et}
 https://restcountries.com/v2/lang/es
 ```
 
+### V3
+Search by language code or name
+``` html
+https://restcountries.com/v3/lang/{currency}
+```
+``` html
+https://restcountries.com/v3/lang/cop
+```
+``` html
+https://restcountries.com/v3/lang/spanish
+```
+
 ## Capital city
+
+_This is the same in both versions_
 
 Search by capital city
 
@@ -115,29 +208,60 @@ https://restcountries.com/v2/capital/{capital}
 https://restcountries.com/v2/capital/tallinn
 ```
 
-## Calling code
+``` javascript
+https://restcountries.com/v3/capital/{capital}
+```
+``` html
+https://restcountries.com/v3/capital/tallinn
+```
 
+## Calling code
+### V2
 Search by calling code
 
-``` javascript
+``` html
 https://restcountries.com/v2/callingcode/{callingcode}
 ```
 ``` html
 https://restcountries.com/v2/callingcode/372
 ```
+### V3
+In version 3, calling codes are in the _idd_ object. There is no implementation 
+to search by calling codes in V3.
 
-## Continent
-
+## Region
+### V2
+In version 2 regions are _continent_ and subregions are _region_
 Search by continent: Africa, Americas, Asia, Europe, Oceania
 
-``` javascript
-https://restcountries.com/v2/continent/{region}
+``` html
+https://restcountries.com/v2/continent/{continent}
 ```
 ``` html
 https://restcountries.com/v2/continent/europe
 ```
+### V3
+In version 3, continents are _Regions_ and regions are _Subregions_
 
-## Regional Bloc
+``` html
+https://restcountries.com/v2/region/{region}
+```
+``` html
+https://restcountries.com/v2/region/europe
+```
+## Subregions
+###V3
+You can search by subregions
+``` html
+https://restcountries.com/v2/subregion/{subregion}
+```
+``` html
+https://restcountries.com/v2/subregion/Northern Europe
+```
+
+## Regional Bloc (*Version 2 only*)
+
+
 
 Search by regional bloc:
 
@@ -155,11 +279,26 @@ Search by regional bloc:
 - NAFTA (North American Free Trade Agreement)
 - SAARC (South Asian Association for Regional Cooperation)
 
-``` javascript
+``` html
 https://restcountries.com/v2/regionalbloc/{regionalbloc}
 ```
 ``` html
 https://restcountries.com/v2/regionalbloc/eu
+```
+
+## Translation
+You can search by any translation name
+``` html
+https://restcountries.com/v3/translation/{translation}
+```
+``` html
+https://restcountries.com/v3/translation/germany
+```
+``` html
+https://restcountries.com/v3/translation/alemania
+```
+``` html
+https://restcountries.com/v3/translation/Saksamaa
 ```
 
 ## Response Example

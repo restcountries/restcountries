@@ -61,9 +61,8 @@ public class CountryService {
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
       country.getCurrencies().forEach((key, value) -> {
-        if (key.equalsIgnoreCase(currency) ||
-            value.getName() != null && value.getName().toLowerCase().contains(currency)
-        ) {
+        if ((key.equalsIgnoreCase(currency) || value.getName().toLowerCase().contains(currency))
+            && !result.contains(country)) {
           result.add(country);
         }
       });
@@ -75,7 +74,8 @@ public class CountryService {
     // Using 2 different 'for' loops to give priority to 'name' matches over alternative spellings
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
-      if ((name.equalsIgnoreCase(country.getName().getCommon())||name.equalsIgnoreCase(country.getName().getOfficial()))){
+      if ((name.equalsIgnoreCase(country.getName().getCommon()) || name
+          .equalsIgnoreCase(country.getName().getOfficial()))) {
         result.add(country);
         return result;
       }
@@ -87,17 +87,15 @@ public class CountryService {
     // Using 2 different 'for' loops to give priority to 'name' matches over alternative spellings
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
-      if (
-          isNameNormalizedContaining(name, country.getName().getCommon()) ||
-              isNameNormalizedContaining(name, country.getName().getOfficial())
-      ) {
+      if ((name.toLowerCase().contains(country.getName().getCommon().toLowerCase()) || name
+          .toLowerCase().contains(country.getName().getOfficial().toLowerCase())) && !result
+          .contains(country)) {
         result.add(country);
       }
     }
     for (Country country : countries) {
       for (String alternative : country.getAltSpellings()) {
-        if (isNameNormalizedContaining(alternative, country.getName().getCommon())
-            && !result.contains(country)) {
+        if (alternative.toLowerCase().contains(name.toLowerCase()) && !result.contains(country)) {
           result.add(country);
         }
       }
@@ -157,7 +155,8 @@ public class CountryService {
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
       country.getLanguages().forEach((key, value) -> {
-        if (value.equalsIgnoreCase(language) || key.equalsIgnoreCase(language)) {
+        if ((value.equalsIgnoreCase(language) || key.equalsIgnoreCase(language)) && !result
+            .contains(country)) {
           result.add(country);
         }
       });
@@ -168,8 +167,8 @@ public class CountryService {
   public List<Country> getByDemonym(String demonym) {
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
-      country.getDemonyms().forEach((key, values) -> values.forEach((k, v)-> {
-        if(v.toLowerCase().contains(demonym.toLowerCase())) {
+      country.getDemonyms().forEach((key, values) -> values.forEach((k, v) -> {
+        if ((v.toLowerCase().contains(demonym.toLowerCase())) && !result.contains(country)) {
           result.add(country);
         }
       }));
@@ -180,21 +179,13 @@ public class CountryService {
   public List<Country> getByTranslation(String translation) {
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
-      country.getTranslations().forEach((key, values) -> values.forEach((k, v)-> {
-        if(v.toLowerCase().contains(translation.toLowerCase())) {
+      country.getTranslations().forEach((key, values) -> values.forEach((k, v) -> {
+        if ((v.toLowerCase().contains(translation.toLowerCase())) && !result.contains(country)) {
           result.add(country);
         }
       }));
     }
     return result;
-  }
-
-  private boolean isNameNormalizedEquals(String countryName, String name) {
-    return normalize(countryName.toLowerCase()).equals(name.toLowerCase());
-  }
-
-  private boolean isNameNormalizedContaining(String countryName, String name) {
-    return normalize(countryName.toLowerCase()).contains(name.toLowerCase());
   }
 
   protected String normalize(String string) {
