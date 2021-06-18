@@ -32,7 +32,7 @@
       "https://restcountries.com/data/afg.svg",
       "https://restcountries.com/data/png/afg.png"
     ],
-    "gini": 27.8,
+    "gini": 29.4,
     "languages": [
       {
         "iso639_1": "ps",
@@ -128,7 +128,7 @@
       "https://restcountries.com/data/alb.svg",
       "https://restcountries.com/data/png/alb.png"
     ],
-    "gini": 34.5,
+    "gini": 33.2,
     "languages": [
       {
         "iso639_1": "sq",
@@ -214,7 +214,7 @@
       "https://restcountries.com/data/dza.svg",
       "https://restcountries.com/data/png/dza.png"
     ],
-    "gini": 35.3,
+    "gini": 27.6,
     "languages": [
       {
         "iso639_1": "ar",
@@ -467,7 +467,7 @@
       "https://restcountries.com/data/ago.svg",
       "https://restcountries.com/data/png/ago.png"
     ],
-    "gini": 58.6,
+    "gini": 51.3,
     "languages": [
       {
         "iso639_1": "pt",
@@ -779,7 +779,7 @@
       "https://restcountries.com/data/arg.svg",
       "https://restcountries.com/data/png/arg.png"
     ],
-    "gini": 44.5,
+    "gini": 42.9,
     "languages": [
       {
         "iso639_1": "es",
@@ -879,7 +879,7 @@
       "https://restcountries.com/data/arm.svg",
       "https://restcountries.com/data/png/arm.png"
     ],
-    "gini": 30.9,
+    "gini": 29.9,
     "languages": [
       {
         "iso639_1": "hy",
@@ -1032,7 +1032,7 @@
       "https://restcountries.com/data/aus.svg",
       "https://restcountries.com/data/png/aus.png"
     ],
-    "gini": 30.5,
+    "gini": 34.4,
     "languages": [
       {
         "iso639_1": "en",
@@ -1121,7 +1121,7 @@
       "https://restcountries.com/data/aut.svg",
       "https://restcountries.com/data/png/aut.png"
     ],
-    "gini": 26,
+    "gini": 30.8,
     "languages": [
       {
         "iso639_1": "de",
@@ -1198,7 +1198,7 @@
         "symbol": "\u20bc"
       }
     ],
-    ",demonym": "Azerbaijani",
+    "demonym": "Azerbaijani",
     "flags": [
       "https://restcountries.com/data/aze.svg",
       "https://restcountries.com/data/png/aze.png"
@@ -1438,7 +1438,7 @@
       "https://restcountries.com/data/bgd.svg",
       "https://restcountries.com/data/png/bgd.png"
     ],
-    "gini": 32.1,
+    "gini": 32.4,
     "languages": [
       {
         "iso639_1": "bn",
@@ -1609,7 +1609,7 @@
       "https://restcountries.com/data/blr.svg",
       "https://restcountries.com/data/png/blr.png"
     ],
-    "gini": 26.5,
+    "gini": 25.3,
     "languages": [
       {
         "iso639_1": "be",
@@ -1706,7 +1706,7 @@
       "https://restcountries.com/data/bel.svg",
       "https://restcountries.com/data/png/bel.png"
     ],
-    "gini": 33,
+    "gini": 27.2,
     "languages": [
       {
         "iso639_1": "nl",
@@ -1899,7 +1899,7 @@
       "https://restcountries.com/data/ben.svg",
       "https://restcountries.com/data/png/ben.png"
     ],
-    "gini": 38.6,
+    "gini": 47.8,
     "languages": [
       {
         "iso639_1": "fr",
@@ -2061,7 +2061,7 @@
       "https://restcountries.com/data/btn.svg",
       "https://restcountries.com/data/png/btn.png"
     ],
-    "gini": 38.1,
+    "gini": 37.4,
     "languages": [
       {
         "iso639_1": "dz",
@@ -2149,7 +2149,7 @@
       "https://restcountries.com/data/bol.svg",
       "https://restcountries.com/data/png/bol.png"
     ],
-    "gini": 56.3,
+    "gini": 41.6,
     "languages": [
       {
         "iso639_1": "es",
@@ -2316,7 +2316,7 @@
       "https://restcountries.com/data/bih.svg",
       "https://restcountries.com/data/png/bih.png"
     ],
-    "gini": 36.2,
+    "gini": 33.0,
     "languages": [
       {
         "iso639_1": "bs",
@@ -2406,7 +2406,7 @@
       "https://restcountries.com/data/bwa.svg",
       "https://restcountries.com/data/png/bwa.png"
     ],
-    "gini": 61,
+    "gini": 53.3,
     "languages": [
       {
         "iso639_1": "en",
@@ -2584,7 +2584,7 @@
       "https://restcountries.com/data/bra.svg",
       "https://restcountries.com/data/png/bra.png"
     ],
-    "gini": 54.7,
+    "gini": 53.4,
     "languages": [
       {
         "iso639_1": "pt",
@@ -3028,7 +3028,7 @@
       "https://restcountries.com/data/bgr.svg",
       "https://restcountries.com/data/png/bgr.png"
     ],
-    "gini": 28.2,
+    "gini": 41.3,
     "languages": [
       {
         "iso639_1": "bg",
@@ -3106,7 +3106,7 @@
       "https://restcountries.com/data/bfa.svg",
       "https://restcountries.com/data/png/bfa.png"
     ],
-    "gini": 39.8,
+    "gini": 35.3,
     "languages": [
       {
         "iso639_1": "fr",
@@ -3197,7 +3197,7 @@
       "https://restcountries.com/data/bdi.svg",
       "https://restcountries.com/data/png/bdi.png"
     ],
-    "gini": 33.3,
+    "gini": 38.6,
     "languages": [
       {
         "iso639_1": "fr",
@@ -3371,7 +3371,7 @@
       "https://restcountries.com/data/cmr.svg",
       "https://restcountries.com/data/png/cmr.png"
     ],
-    "gini": 38.9,
+    "gini": 46.6,
     "languages": [
       {
         "iso639_1": "en",
@@ -3457,7 +3457,7 @@
       "https://restcountries.com/data/can.svg",
       "https://restcountries.com/data/png/can.png"
     ],
-    "gini": 32.6,
+    "gini": 33.3,
     "languages": [
       {
         "iso639_1": "en",
@@ -3545,7 +3545,7 @@
       "https://restcountries.com/data/cpv.svg",
       "https://restcountries.com/data/png/cpv.png"
     ],
-    "gini": 50.5,
+    "gini": 42.4,
     "languages": [
       {
         "iso639_1": "pt",
@@ -3792,7 +3792,7 @@
       "https://restcountries.com/data/tcd.svg",
       "https://restcountries.com/data/png/tcd.png"
     ],
-    "gini": 39.8,
+    "gini": 43.3,
     "languages": [
       {
         "iso639_1": "fr",
@@ -3882,7 +3882,7 @@
       "https://restcountries.com/data/chl.svg",
       "https://restcountries.com/data/png/chl.png"
     ],
-    "gini": 52.1,
+    "gini": 44.4,
     "languages": [
       {
         "iso639_1": "es",
@@ -3995,7 +3995,7 @@
       "https://restcountries.com/data/chn.svg",
       "https://restcountries.com/data/png/chn.png"
     ],
-    "gini": 47,
+    "gini": 38.5,
     "languages": [
       {
         "iso639_1": "zh",
@@ -4202,7 +4202,7 @@
       "https://restcountries.com/data/col.svg",
       "https://restcountries.com/data/png/col.png"
     ],
-    "gini": 55.9,
+    "gini": 51.3,
     "languages": [
       {
         "iso639_1": "es",
@@ -4295,7 +4295,7 @@
       "https://restcountries.com/data/com.svg",
       "https://restcountries.com/data/png/com.png"
     ],
-    "gini": 64.3,
+    "gini": 45.3,
     "languages": [
       {
         "iso639_1": "ar",
@@ -4395,7 +4395,7 @@
       "https://restcountries.com/data/cog.svg",
       "https://restcountries.com/data/png/cog.png"
     ],
-    "gini": 47.3,
+    "gini": 48.9,
     "languages": [
       {
         "iso639_1": "fr",
@@ -4492,6 +4492,7 @@
       "https://restcountries.com/data/cod.svg",
       "https://restcountries.com/data/png/cod.png"
     ],
+    "gini": 42.1,
     "languages": [
       {
         "iso639_1": "fr",
@@ -4676,7 +4677,7 @@
       "https://restcountries.com/data/cri.svg",
       "https://restcountries.com/data/png/cri.png"
     ],
-    "gini": 50.7,
+    "gini": 48.2,
     "languages": [
       {
         "iso639_1": "es",
@@ -4762,7 +4763,7 @@
       "https://restcountries.com/data/hrv.svg",
       "https://restcountries.com/data/png/hrv.png"
     ],
-    "gini": 33.7,
+    "gini": 29.7,
     "languages": [
       {
         "iso639_1": "hr",
@@ -4993,7 +4994,7 @@
       "https://restcountries.com/data/cyp.svg",
       "https://restcountries.com/data/png/cyp.png"
     ],
-    "gini": 29.1,
+    "gini": 32.7,
     "languages": [
       {
         "iso639_1": "el",
@@ -5078,7 +5079,7 @@
       "https://restcountries.com/data/cze.svg",
       "https://restcountries.com/data/png/cze.png"
     ],
-    "gini": 26,
+    "gini": 25.0,
     "languages": [
       {
         "iso639_1": "cs",
@@ -5160,7 +5161,7 @@
       "https://restcountries.com/data/dnk.svg",
       "https://restcountries.com/data/png/dnk.png"
     ],
-    "gini": 24,
+    "gini": 28.2,
     "languages": [
       {
         "iso639_1": "da",
@@ -5245,7 +5246,7 @@
       "https://restcountries.com/data/dji.svg",
       "https://restcountries.com/data/png/dji.png"
     ],
-    "gini": 40,
+    "gini": 41.6,
     "languages": [
       {
         "iso639_1": "fr",
@@ -5408,7 +5409,7 @@
       "https://restcountries.com/data/dom.svg",
       "https://restcountries.com/data/png/dom.png"
     ],
-    "gini": 47.2,
+    "gini": 41.9,
     "languages": [
       {
         "iso639_1": "es",
@@ -5499,7 +5500,7 @@
       "https://restcountries.com/data/ecu.svg",
       "https://restcountries.com/data/png/ecu.png"
     ],
-    "gini": 49.3,
+    "gini": 45.7,
     "languages": [
       {
         "iso639_1": "es",
@@ -5587,7 +5588,7 @@
       "https://restcountries.com/data/egy.svg",
       "https://restcountries.com/data/png/egy.png"
     ],
-    "gini": 30.8,
+    "gini": 31.5,
     "languages": [
       {
         "iso639_1": "ar",
@@ -5679,7 +5680,7 @@
       "https://restcountries.com/data/slv.svg",
       "https://restcountries.com/data/png/slv.png"
     ],
-    "gini": 48.3,
+    "gini": 38.8,
     "languages": [
       {
         "iso639_1": "es",
@@ -6000,7 +6001,7 @@
       "https://restcountries.com/data/est.svg",
       "https://restcountries.com/data/png/est.png"
     ],
-    "gini": 36,
+    "gini": 30.3,
     "languages": [
       {
         "iso639_1": "et",
@@ -6081,7 +6082,7 @@
       "https://restcountries.com/data/eth.svg",
       "https://restcountries.com/data/png/eth.png"
     ],
-    "gini": 29.8,
+    "gini": 35.0,
     "languages": [
       {
         "iso639_1": "am",
@@ -6160,6 +6161,7 @@
       "https://restcountries.com/data/flk.svg",
       "https://restcountries.com/data/png/flk.png"
     ],
+    "gini": 36.0,
     "languages": [
       {
         "iso639_1": "en",
@@ -6248,6 +6250,7 @@
       "https://restcountries.com/data/fro.svg",
       "https://restcountries.com/data/png/fro.png"
     ],
+    "gini": 22.7,
     "languages": [
       {
         "iso639_1": "fo",
@@ -6318,7 +6321,7 @@
       "https://restcountries.com/data/fji.svg",
       "https://restcountries.com/data/png/fji.png"
     ],
-    "gini": 42.8,
+    "gini": 36.7,
     "languages": [
       {
         "iso639_1": "en",
@@ -6410,7 +6413,7 @@
       "https://restcountries.com/data/fin.svg",
       "https://restcountries.com/data/png/fin.png"
     ],
-    "gini": 26.9,
+    "gini": 27.3,
     "languages": [
       {
         "iso639_1": "fi",
@@ -6498,7 +6501,7 @@
       "https://restcountries.com/data/fra.svg",
       "https://restcountries.com/data/png/fra.png"
     ],
-    "gini": 32.7,
+    "gini": 32.4,
     "languages": [
       {
         "iso639_1": "fr",
@@ -6824,7 +6827,7 @@
       "https://restcountries.com/data/gab.svg",
       "https://restcountries.com/data/png/gab.png"
     ],
-    "gini": 41.5,
+    "gini": 38.0,
     "languages": [
       {
         "iso639_1": "fr",
@@ -6905,6 +6908,7 @@
       "https://restcountries.com/data/gmb.svg",
       "https://restcountries.com/data/png/gmb.png"
     ],
+    "gini": 35.9,
     "languages": [
       {
         "iso639_1": "en",
@@ -6988,7 +6992,7 @@
       "https://restcountries.com/data/geo.svg",
       "https://restcountries.com/data/png/geo.png"
     ],
-    "gini": 41.3,
+    "gini": 35.9,
     "languages": [
       {
         "iso639_1": "ka",
@@ -7066,7 +7070,7 @@
       "https://restcountries.com/data/deu.svg",
       "https://restcountries.com/data/png/deu.png"
     ],
-    "gini": 28.3,
+    "gini": 31.9,
     "languages": [
       {
         "iso639_1": "de",
@@ -7141,7 +7145,7 @@
       "https://restcountries.com/data/gha.svg",
       "https://restcountries.com/data/png/gha.png"
     ],
-    "gini": 42.8,
+    "gini": 43.5,
     "languages": [
       {
         "iso639_1": "en",
@@ -7299,7 +7303,7 @@
       "https://restcountries.com/data/grc.svg",
       "https://restcountries.com/data/png/grc.png"
     ],
-    "gini": 34.3,
+    "gini": 32.9,
     "languages": [
       {
         "iso639_1": "el",
@@ -7371,6 +7375,7 @@
       "https://restcountries.com/data/grl.svg",
       "https://restcountries.com/data/png/grl.png"
     ],
+    "gini": 33.9,
     "languages": [
       {
         "iso639_1": "kl",
@@ -7662,7 +7667,7 @@
       "https://restcountries.com/data/gtm.svg",
       "https://restcountries.com/data/png/gtm.png"
     ],
-    "gini": 55.9,
+    "gini": 48.3,
     "languages": [
       {
         "iso639_1": "es",
@@ -7826,7 +7831,7 @@
       "https://restcountries.com/data/gin.svg",
       "https://restcountries.com/data/png/gin.png"
     ],
-    "gini": 39.4,
+    "gini": 33.7,
     "languages": [
       {
         "iso639_1": "fr",
@@ -7915,7 +7920,7 @@
       "https://restcountries.com/data/gnb.svg",
       "https://restcountries.com/data/png/gnb.png"
     ],
-    "gini": 35.5,
+    "gini": 50.7,
     "languages": [
       {
         "iso639_1": "pt",
@@ -8094,7 +8099,7 @@
       "https://restcountries.com/data/hti.svg",
       "https://restcountries.com/data/png/hti.png"
     ],
-    "gini": 59.2,
+    "gini": 41.1,
     "languages": [
       {
         "iso639_1": "fr",
@@ -8335,7 +8340,7 @@
       "https://restcountries.com/data/hnd.svg",
       "https://restcountries.com/data/png/hnd.png"
     ],
-    "gini": 57,
+    "gini": 48.2,
     "languages": [
       {
         "iso639_1": "es",
@@ -8420,7 +8425,7 @@
       "https://restcountries.com/data/hun.svg",
       "https://restcountries.com/data/png/hun.png"
     ],
-    "gini": 31.2,
+    "gini": 29.6,
     "languages": [
       {
         "iso639_1": "hu",
@@ -8494,7 +8499,7 @@
       "https://restcountries.com/data/isl.svg",
       "https://restcountries.com/data/png/isl.png"
     ],
-    "gini": 28,
+    "gini": 26.1,
     "languages": [
       {
         "iso639_1": "is",
@@ -8577,7 +8582,7 @@
       "https://restcountries.com/data/ind.svg",
       "https://restcountries.com/data/png/ind.png"
     ],
-    "gini": 33.4,
+    "gini": 35.7,
     "languages": [
       {
         "iso639_1": "hi",
@@ -8660,7 +8665,7 @@
       "https://restcountries.com/data/idn.svg",
       "https://restcountries.com/data/png/idn.png"
     ],
-    "gini": 34,
+    "gini": 38.2,
     "languages": [
       {
         "iso639_1": "id",
@@ -8830,7 +8835,7 @@
       "https://restcountries.com/data/irn.svg",
       "https://restcountries.com/data/png/irn.png"
     ],
-    "gini": 38.3,
+    "gini": 42.0,
     "languages": [
       {
         "iso639_1": "fa",
@@ -8904,7 +8909,7 @@
       "https://restcountries.com/data/irq.svg",
       "https://restcountries.com/data/png/irq.png"
     ],
-    "gini": 30.9,
+    "gini": 29.5,
     "languages": [
       {
         "iso639_1": "ar",
@@ -8991,7 +8996,7 @@
       "https://restcountries.com/data/irl.svg",
       "https://restcountries.com/data/png/irl.png"
     ],
-    "gini": 34.3,
+    "gini": 31.4,
     "languages": [
       {
         "iso639_1": "ga",
@@ -9159,7 +9164,7 @@
       "https://restcountries.com/data/isr.svg",
       "https://restcountries.com/data/png/isr.png"
     ],
-    "gini": 39.2,
+    "gini": 39.0,
     "languages": [
       {
         "iso639_1": "he",
@@ -9311,7 +9316,7 @@
       "https://restcountries.com/data/jam.svg",
       "https://restcountries.com/data/png/jam.png"
     ],
-    "gini": 45.5,
+    "gini": 35.0,
     "languages": [
       {
         "iso639_1": "en",
@@ -9389,7 +9394,7 @@
       "https://restcountries.com/data/jpn.svg",
       "https://restcountries.com/data/png/jpn.png"
     ],
-    "gini": 38.1,
+    "gini": 32.9,
     "languages": [
       {
         "iso639_1": "ja",
@@ -9463,6 +9468,7 @@
       "https://restcountries.com/data/jey.svg",
       "https://restcountries.com/data/png/jey.png"
     ],
+    "gini": 0.3,
     "languages": [
       {
         "iso639_1": "en",
@@ -9541,7 +9547,7 @@
       "https://restcountries.com/data/jor.svg",
       "https://restcountries.com/data/png/jor.png"
     ],
-    "gini": 35.4,
+    "gini": 33.7,
     "languages": [
       {
         "iso639_1": "ar",
@@ -9630,7 +9636,7 @@
       "https://restcountries.com/data/kaz.svg",
       "https://restcountries.com/data/png/kaz.png"
     ],
-    "gini": 29,
+    "gini": 27.8,
     "languages": [
       {
         "iso639_1": "kk",
@@ -9720,7 +9726,7 @@
       "https://restcountries.com/data/ken.svg",
       "https://restcountries.com/data/png/ken.png"
     ],
-    "gini": 47.7,
+    "gini": 40.8,
     "languages": [
       {
         "iso639_1": "en",
@@ -9968,7 +9974,7 @@
       "https://restcountries.com/data/kgz.svg",
       "https://restcountries.com/data/png/kgz.png"
     ],
-    "gini": 36.2,
+    "gini": 29.7,
     "languages": [
       {
         "iso639_1": "ky",
@@ -10058,7 +10064,7 @@
       "https://restcountries.com/data/lao.svg",
       "https://restcountries.com/data/png/lao.png"
     ],
-    "gini": 36.7,
+    "gini": 38.8,
     "languages": [
       {
         "iso639_1": "lo",
@@ -10136,7 +10142,7 @@
       "https://restcountries.com/data/lva.svg",
       "https://restcountries.com/data/png/lva.png"
     ],
-    "gini": 36.6,
+    "gini": 35.1,
     "languages": [
       {
         "iso639_1": "lv",
@@ -10212,7 +10218,7 @@
       "https://restcountries.com/data/lbn.svg",
       "https://restcountries.com/data/png/lbn.png"
     ],
-    "gini": null,
+    "gini": 31.8,
     "languages": [
       {
         "iso639_1": "ar",
@@ -10303,7 +10309,7 @@
       "https://restcountries.com/data/lso.svg",
       "https://restcountries.com/data/png/lso.png"
     ],
-    "gini": 52.5,
+    "gini": 44.9,
     "languages": [
       {
         "iso639_1": "en",
@@ -10392,7 +10398,7 @@
       "https://restcountries.com/data/lbr.svg",
       "https://restcountries.com/data/png/lbr.png"
     ],
-    "gini": 38.2,
+    "gini": 35.3,
     "languages": [
       {
         "iso639_1": "en",
@@ -10648,7 +10654,7 @@
       "https://restcountries.com/data/ltu.svg",
       "https://restcountries.com/data/png/ltu.png"
     ],
-    "gini": 37.6,
+    "gini": 35.7,
     "languages": [
       {
         "iso639_1": "lt",
@@ -10727,7 +10733,7 @@
       "https://restcountries.com/data/lux.svg",
       "https://restcountries.com/data/png/lux.png"
     ],
-    "gini": 30.8,
+    "gini": 35.4,
     "languages": [
       {
         "iso639_1": "fr",
@@ -10816,6 +10822,7 @@
       "https://restcountries.com/data/mac.svg",
       "https://restcountries.com/data/png/mac.png"
     ],
+    "gini": 35.0,
     "languages": [
       {
         "iso639_1": "zh",
@@ -10895,7 +10902,7 @@
       "https://restcountries.com/data/mkd.svg",
       "https://restcountries.com/data/png/mkd.png"
     ],
-    "gini": 43.2,
+    "gini": 31.9,
     "languages": [
       {
         "iso639_1": "mk",
@@ -10969,7 +10976,7 @@
       "https://restcountries.com/data/mdg.svg",
       "https://restcountries.com/data/png/mdg.png"
     ],
-    "gini": 44.1,
+    "gini": 42.6,
     "languages": [
       {
         "iso639_1": "fr",
@@ -11058,7 +11065,7 @@
       "https://restcountries.com/data/mwi.svg",
       "https://restcountries.com/data/png/mwi.png"
     ],
-    "gini": 39,
+    "gini": 44.7,
     "languages": [
       {
         "iso639_1": "en",
@@ -11146,7 +11153,7 @@
       "https://restcountries.com/data/mys.svg",
       "https://restcountries.com/data/png/mys.png"
     ],
-    "gini": 46.2,
+    "gini": 41.1,
     "languages": [
       {
         "iso639_1": "ms",
@@ -11220,7 +11227,7 @@
       "https://restcountries.com/data/mdv.svg",
       "https://restcountries.com/data/png/mdv.png"
     ],
-    "gini": 37.4,
+    "gini": 31.3,
     "languages": [
       {
         "iso639_1": "dv",
@@ -11381,7 +11388,7 @@
       "https://restcountries.com/data/mlt.svg",
       "https://restcountries.com/data/png/mlt.png"
     ],
-    "gini": null,
+    "gini": 28.7,
     "languages": [
       {
         "iso639_1": "mt",
@@ -11602,7 +11609,7 @@
       "https://restcountries.com/data/mrt.svg",
       "https://restcountries.com/data/png/mrt.png"
     ],
-    "gini": 40.5,
+    "gini": 32.6,
     "languages": [
       {
         "iso639_1": "ar",
@@ -11691,7 +11698,7 @@
       "https://restcountries.com/data/mus.svg",
       "https://restcountries.com/data/png/mus.png"
     ],
-    "gini": 35.8,
+    "gini": 36.8,
     "languages": [
       {
         "iso639_1": "en",
@@ -11854,7 +11861,7 @@
       "https://restcountries.com/data/mex.svg",
       "https://restcountries.com/data/png/mex.png"
     ],
-    "gini": 47,
+    "gini": 45.4,
     "languages": [
       {
         "iso639_1": "es",
@@ -11939,6 +11946,7 @@
       "https://restcountries.com/data/fsm.svg",
       "https://restcountries.com/data/png/fsm.png"
     ],
+    "gini": 40.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -12010,7 +12018,7 @@
       "https://restcountries.com/data/mda.svg",
       "https://restcountries.com/data/png/mda.png"
     ],
-    "gini": 33,
+    "gini": 25.7,
     "languages": [
       {
         "iso639_1": "ro",
@@ -12153,7 +12161,7 @@
       "https://restcountries.com/data/mng.svg",
       "https://restcountries.com/data/png/mng.png"
     ],
-    "gini": 36.5,
+    "gini": 32.7,
     "languages": [
       {
         "iso639_1": "mn",
@@ -12227,7 +12235,7 @@
       "https://restcountries.com/data/mne.svg",
       "https://restcountries.com/data/png/mne.png"
     ],
-    "gini": 30,
+    "gini": 38.5,
     "languages": [
       {
         "iso639_1": "sr",
@@ -12397,7 +12405,7 @@
       "https://restcountries.com/data/mar.svg",
       "https://restcountries.com/data/png/mar.png"
     ],
-    "gini": 40.9,
+    "gini": 39.5,
     "languages": [
       {
         "iso639_1": "ar",
@@ -12493,7 +12501,7 @@
       "https://restcountries.com/data/moz.svg",
       "https://restcountries.com/data/png/moz.png"
     ],
-    "gini": 45.7,
+    "gini": 54.0,
     "languages": [
       {
         "iso639_1": "pt",
@@ -12580,7 +12588,7 @@
       "https://restcountries.com/data/mmr.svg",
       "https://restcountries.com/data/png/mmr.png"
     ],
-    "gini": 38.1,
+    "gini": 30.7,
     "languages": [
       {
         "iso639_1": "my",
@@ -12663,7 +12671,7 @@
       "https://restcountries.com/data/nam.svg",
       "https://restcountries.com/data/png/nam.png"
     ],
-    "gini": 63.9,
+    "gini": 59.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -12751,6 +12759,7 @@
       "https://restcountries.com/data/nru.svg",
       "https://restcountries.com/data/png/nru.png"
     ],
+    "gini": 34.8,
     "languages": [
       {
         "iso639_1": "en",
@@ -12903,7 +12912,7 @@
       "https://restcountries.com/data/nld.svg",
       "https://restcountries.com/data/png/nld.png"
     ],
-    "gini": 30.9,
+    "gini": 28.1,
     "languages": [
       {
         "iso639_1": "nl",
@@ -13122,7 +13131,7 @@
       "https://restcountries.com/data/nic.svg",
       "https://restcountries.com/data/png/nic.png"
     ],
-    "gini": 40.5,
+    "gini": 46.2,
     "languages": [
       {
         "iso639_1": "es",
@@ -13210,7 +13219,7 @@
       "https://restcountries.com/data/ner.svg",
       "https://restcountries.com/data/png/ner.png"
     ],
-    "gini": 34.6,
+    "gini": 34.3,
     "languages": [
       {
         "iso639_1": "fr",
@@ -13296,7 +13305,7 @@
       "https://restcountries.com/data/nga.svg",
       "https://restcountries.com/data/png/nga.png"
     ],
-    "gini": 48.8,
+    "gini": 35.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -13666,7 +13675,7 @@
       "https://restcountries.com/data/nor.svg",
       "https://restcountries.com/data/png/nor.png"
     ],
-    "gini": 25.8,
+    "gini": 27.6,
     "languages": [
       {
         "iso639_1": "no",
@@ -13839,7 +13848,7 @@
       "https://restcountries.com/data/pak.svg",
       "https://restcountries.com/data/png/pak.png"
     ],
-    "gini": 30,
+    "gini": 31.6,
     "languages": [
       {
         "iso639_1": "ur",
@@ -14088,7 +14097,7 @@
       "https://restcountries.com/data/pan.svg",
       "https://restcountries.com/data/png/pan.png"
     ],
-    "gini": 51.9,
+    "gini": 49.8,
     "languages": [
       {
         "iso639_1": "es",
@@ -14169,7 +14178,7 @@
       "https://restcountries.com/data/png.svg",
       "https://restcountries.com/data/png/png.png"
     ],
-    "gini": 50.9,
+    "gini": 41.9,
     "languages": [
       {
         "iso639_1": "en",
@@ -14242,7 +14251,7 @@
       "https://restcountries.com/data/pry.svg",
       "https://restcountries.com/data/png/pry.png"
     ],
-    "gini": 52.4,
+    "gini": 45.7,
     "languages": [
       {
         "iso639_1": "es",
@@ -14338,7 +14347,7 @@
       "https://restcountries.com/data/per.svg",
       "https://restcountries.com/data/png/per.png"
     ],
-    "gini": 48.1,
+    "gini": 41.5,
     "languages": [
       {
         "iso639_1": "es",
@@ -14429,7 +14438,7 @@
       "https://restcountries.com/data/phl.svg",
       "https://restcountries.com/data/png/phl.png"
     ],
-    "gini": 43,
+    "gini": 42.3,
     "languages": [
       {
         "iso639_1": "en",
@@ -14581,7 +14590,7 @@
       "https://restcountries.com/data/pol.svg",
       "https://restcountries.com/data/png/pol.png"
     ],
-    "gini": 34.1,
+    "gini": 30.2,
     "languages": [
       {
         "iso639_1": "pl",
@@ -14657,7 +14666,7 @@
       "https://restcountries.com/data/prt.svg",
       "https://restcountries.com/data/png/prt.png"
     ],
-    "gini": 38.5,
+    "gini": 33.5,
     "languages": [
       {
         "iso639_1": "pt",
@@ -14888,6 +14897,7 @@
       "https://restcountries.com/data/kos.svg",
       "https://restcountries.com/data/png/kos.png"
     ],
+    "gini": 29.0,
     "languages": [
       {
         "iso639_1": "sq",
@@ -15043,7 +15053,7 @@
       "https://restcountries.com/data/rou.svg",
       "https://restcountries.com/data/png/rou.png"
     ],
-    "gini": 30,
+    "gini": 35.8,
     "languages": [
       {
         "iso639_1": "ro",
@@ -15133,7 +15143,7 @@
       "https://restcountries.com/data/rus.svg",
       "https://restcountries.com/data/png/rus.png"
     ],
-    "gini": 40.1,
+    "gini": 37.5,
     "languages": [
       {
         "iso639_1": "ru",
@@ -15223,7 +15233,7 @@
       "https://restcountries.com/data/rwa.svg",
       "https://restcountries.com/data/png/rwa.png"
     ],
-    "gini": 50.8,
+    "gini": 43.7,
     "languages": [
       {
         "iso639_1": "rw",
@@ -15532,7 +15542,7 @@
       "https://restcountries.com/data/lca.svg",
       "https://restcountries.com/data/png/lca.png"
     ],
-    "gini": 42.6,
+    "gini": 51.2,
     "languages": [
       {
         "iso639_1": "en",
@@ -15836,6 +15846,7 @@
       "https://restcountries.com/data/wsm.svg",
       "https://restcountries.com/data/png/wsm.png"
     ],
+    "gini": 38.7,
     "languages": [
       {
         "iso639_1": "sm",
@@ -15978,7 +15989,7 @@
       "https://restcountries.com/data/stp.svg",
       "https://restcountries.com/data/png/stp.png"
     ],
-    "gini": 50.8,
+    "gini": 56.3,
     "languages": [
       {
         "iso639_1": "pt",
@@ -16150,7 +16161,7 @@
       "https://restcountries.com/data/sen.svg",
       "https://restcountries.com/data/png/sen.png"
     ],
-    "gini": 39.2,
+    "gini": 40.3,
     "languages": [
       {
         "iso639_1": "fr",
@@ -16241,7 +16252,7 @@
       "https://restcountries.com/data/srb.svg",
       "https://restcountries.com/data/png/srb.png"
     ],
-    "gini": 27.8,
+    "gini": 36.2,
     "languages": [
       {
         "iso639_1": "sr",
@@ -16315,7 +16326,7 @@
       "https://restcountries.com/data/syc.svg",
       "https://restcountries.com/data/png/syc.png"
     ],
-    "gini": 65.8,
+    "gini": 32.1,
     "languages": [
       {
         "iso639_1": "fr",
@@ -16403,7 +16414,7 @@
       "https://restcountries.com/data/sle.svg",
       "https://restcountries.com/data/png/sle.png"
     ],
-    "gini": 42.5,
+    "gini": 35.7,
     "languages": [
       {
         "iso639_1": "en",
@@ -16489,7 +16500,7 @@
       "https://restcountries.com/data/sgp.svg",
       "https://restcountries.com/data/png/sgp.png"
     ],
-    "gini": 48.1,
+    "gini": 45.9,
     "languages": [
       {
         "iso639_1": "en",
@@ -16657,7 +16668,7 @@
       "https://restcountries.com/data/svk.svg",
       "https://restcountries.com/data/png/svk.png"
     ],
-    "gini": 26,
+    "gini": 25.0,
     "languages": [
       {
         "iso639_1": "sk",
@@ -16735,7 +16746,7 @@
       "https://restcountries.com/data/svn.svg",
       "https://restcountries.com/data/png/svn.png"
     ],
-    "gini": 31.2,
+    "gini": 24.6,
     "languages": [
       {
         "iso639_1": "sl",
@@ -16806,6 +16817,7 @@
       "https://restcountries.com/data/slb.svg",
       "https://restcountries.com/data/png/slb.png"
     ],
+    "gini": 37.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -16879,7 +16891,7 @@
       "https://restcountries.com/data/som.svg",
       "https://restcountries.com/data/png/som.png"
     ],
-    "gini": null,
+    "gini": 36.8,
     "languages": [
       {
         "iso639_1": "so",
@@ -17272,7 +17284,7 @@
       "https://restcountries.com/data/ssd.svg",
       "https://restcountries.com/data/png/ssd.png"
     ],
-    "gini": 45.5,
+    "gini": 44.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -17434,7 +17446,7 @@
       "https://restcountries.com/data/lka.svg",
       "https://restcountries.com/data/png/lka.png"
     ],
-    "gini": 40.3,
+    "gini": 39.3,
     "languages": [
       {
         "iso639_1": "si",
@@ -17521,7 +17533,7 @@
       "https://restcountries.com/data/sdn.svg",
       "https://restcountries.com/data/png/sdn.png"
     ],
-    "gini": 35.3,
+    "gini": 34.2,
     "languages": [
       {
         "iso639_1": "ar",
@@ -17623,7 +17635,7 @@
       "https://restcountries.com/data/sur.svg",
       "https://restcountries.com/data/png/sur.png"
     ],
-    "gini": 52.9,
+    "gini": 57.9,
     "languages": [
       {
         "iso639_1": "nl",
@@ -17876,7 +17888,7 @@
       "https://restcountries.com/data/swe.svg",
       "https://restcountries.com/data/png/swe.png"
     ],
-    "gini": 25,
+    "gini": 30.0,
     "languages": [
       {
         "iso639_1": "sv",
@@ -17958,7 +17970,7 @@
       "https://restcountries.com/data/che.svg",
       "https://restcountries.com/data/png/che.png"
     ],
-    "gini": 33.7,
+    "gini": 33.1,
     "languages": [
       {
         "iso639_1": "de",
@@ -18055,7 +18067,7 @@
       "https://restcountries.com/data/syr.svg",
       "https://restcountries.com/data/png/syr.png"
     ],
-    "gini": 35.8,
+    "gini": 37.5,
     "languages": [
       {
         "iso639_1": "ar",
@@ -18210,7 +18222,7 @@
       "https://restcountries.com/data/tjk.svg",
       "https://restcountries.com/data/png/tjk.png"
     ],
-    "gini": 30.8,
+    "gini": 34.0,
     "languages": [
       {
         "iso639_1": "tg",
@@ -18293,7 +18305,7 @@
       "https://restcountries.com/data/tza.svg",
       "https://restcountries.com/data/png/tza.png"
     ],
-    "gini": 37.6,
+    "gini": 40.5,
     "languages": [
       {
         "iso639_1": "sw",
@@ -18387,7 +18399,7 @@
       "https://restcountries.com/data/tha.svg",
       "https://restcountries.com/data/png/tha.png"
     ],
-    "gini": 40,
+    "gini": 34.9,
     "languages": [
       {
         "iso639_1": "th",
@@ -18464,7 +18476,7 @@
       "https://restcountries.com/data/tls.svg",
       "https://restcountries.com/data/png/tls.png"
     ],
-    "gini": 31.9,
+    "gini": 28.7,
     "languages": [
       {
         "iso639_1": "pt",
@@ -18537,7 +18549,7 @@
       "https://restcountries.com/data/tgo.svg",
       "https://restcountries.com/data/png/tgo.png"
     ],
-    "gini": 34.4,
+    "gini": 43.1,
     "languages": [
       {
         "iso639_1": "fr",
@@ -18680,6 +18692,7 @@
       "https://restcountries.com/data/ton.svg",
       "https://restcountries.com/data/png/ton.png"
     ],
+    "gini": 37.6,
     "languages": [
       {
         "iso639_1": "en",
@@ -18833,7 +18846,7 @@
       "https://restcountries.com/data/tun.svg",
       "https://restcountries.com/data/png/tun.png"
     ],
-    "gini": 41.4,
+    "gini": 32.8,
     "languages": [
       {
         "iso639_1": "ar",
@@ -18931,7 +18944,7 @@
       "https://restcountries.com/data/tur.svg",
       "https://restcountries.com/data/png/tur.png"
     ],
-    "gini": 39,
+    "gini": 41.9,
     "languages": [
       {
         "iso639_1": "tr",
@@ -19144,6 +19157,7 @@
       "https://restcountries.com/data/tuv.svg",
       "https://restcountries.com/data/png/tuv.png"
     ],
+    "gini": 39.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -19217,7 +19231,7 @@
       "https://restcountries.com/data/uga.svg",
       "https://restcountries.com/data/png/uga.png"
     ],
-    "gini": 44.3,
+    "gini": 42.8,
     "languages": [
       {
         "iso639_1": "en",
@@ -19310,7 +19324,7 @@
       "https://restcountries.com/data/ukr.svg",
       "https://restcountries.com/data/png/ukr.png"
     ],
-    "gini": 26.4,
+    "gini": 26.6,
     "languages": [
       {
         "iso639_1": "uk",
@@ -19380,7 +19394,7 @@
       "https://restcountries.com/data/are.svg",
       "https://restcountries.com/data/png/are.png"
     ],
-    "gini": 45.9,
+    "gini": 26.0,
     "languages": [
       {
         "iso639_1": "ar",
@@ -19460,7 +19474,7 @@
       "https://restcountries.com/data/gbr.svg",
       "https://restcountries.com/data/png/gbr.png"
     ],
-    "gini": 34,
+    "gini": 35.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -19538,7 +19552,7 @@
       "https://restcountries.com/data/usa.svg",
       "https://restcountries.com/data/png/usa.png"
     ],
-    "gini": 48,
+    "gini": 41.4,
     "languages": [
       {
         "iso639_1": "en",
@@ -19718,7 +19732,7 @@
       "https://restcountries.com/data/uzb.svg",
       "https://restcountries.com/data/png/uzb.png"
     ],
-    "gini": 36.7,
+    "gini": 35.3,
     "languages": [
       {
         "iso639_1": "uz",
@@ -19793,6 +19807,7 @@
       "https://restcountries.com/data/vut.svg",
       "https://restcountries.com/data/png/vut.png"
     ],
+    "gini": 37.6,
     "languages": [
       {
         "iso639_1": "bi",
@@ -19876,7 +19891,7 @@
       "https://restcountries.com/data/ven.svg",
       "https://restcountries.com/data/png/ven.png"
     ],
-    "gini": 44.8,
+    "gini": 39,
     "languages": [
       {
         "iso639_1": "es",
@@ -20194,7 +20209,7 @@
       "https://restcountries.com/data/yem.svg",
       "https://restcountries.com/data/png/yem.png"
     ],
-    "gini": 37.7,
+    "gini": 36.7,
     "languages": [
       {
         "iso639_1": "ar",
@@ -20280,7 +20295,7 @@
       "https://restcountries.com/data/zmb.svg",
       "https://restcountries.com/data/png/zmb.png"
     ],
-    "gini": 54.6,
+    "gini": 57.1,
     "languages": [
       {
         "iso639_1": "en",
@@ -20364,7 +20379,7 @@
       "https://restcountries.com/data/zwe.svg",
       "https://restcountries.com/data/png/zwe.png"
     ],
-    "gini": 57.1,
+    "gini": 50.3,
     "languages": [
       {
         "iso639_1": "en",
