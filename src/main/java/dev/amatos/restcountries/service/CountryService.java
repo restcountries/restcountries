@@ -7,125 +7,133 @@ import dev.amatos.restcountries.v2.domain.Country;
 import dev.amatos.restcountries.v2.domain.Currency;
 import dev.amatos.restcountries.v2.domain.Language;
 import dev.amatos.restcountries.v2.domain.RegionalBloc;
-import org.apache.log4j.Logger;
-
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.log4j.Logger;
 
 public class CountryService extends CountryServiceBase {
 
-    private static final Logger LOG = Logger.getLogger(CountryService.class);
+  private static final Logger LOG = Logger.getLogger(CountryService.class);
 
-    private static List<Country> countries;
+  private static List<Country> countries;
 
-    private CountryService() {
-        initialize();
-    }
+  private CountryService() {
+    initialize();
+  }
 
-    private static class InstanceHolder {
-        private static final CountryService INSTANCE = new CountryService();
-    }
+  private static class InstanceHolder {
 
-    public static CountryService getInstance() {
-        return InstanceHolder.INSTANCE;
-    }
+    private static final CountryService INSTANCE = new CountryService();
+  }
 
-    public List<Country> getAll() {
-        return countries;
-    }
+  public static CountryService getInstance() {
+    return InstanceHolder.INSTANCE;
+  }
 
-    public Country getByAlpha(String alpha) {
-        return super.getByAlpha(alpha, countries);
-    }
+  public List<Country> getAll() {
+    return countries;
+  }
 
-    public List<Country> getByCodeList(String codeList) {
-        return (List<Country>) super.getByCodeList(codeList, countries);
-    }
+  public Country getByAlpha(String alpha) {
+    return super.getByAlpha(alpha, countries);
+  }
 
-    @SuppressWarnings("unchecked")
-    public List<Country> getByName(String name, boolean isFullText) {
-        return (List<Country>) super.getByName(name, isFullText, countries);
-    }
+  public List<Country> getByCodeList(String codeList) {
+    return (List<Country>) super.getByCodeList(codeList, countries);
+  }
 
-    @SuppressWarnings("unchecked")
-    public List<Country> getByCallingCode(String callingcode) {
-        return (List<Country>) super.getByCallingCode(callingcode, countries);
-    }
+  @SuppressWarnings("unchecked")
+  public List<Country> getByName(String name, boolean isFullText) {
+    return (List<Country>) super.getByName(name, isFullText, countries);
+  }
 
-    @SuppressWarnings("unchecked")
-    public List<Country> getByCapital(String capital) {
-        return (List<Country>) super.getByCapital(capital, countries);
-    }
+  @SuppressWarnings("unchecked")
+  public List<Country> getByCallingCode(String callingcode) {
+    return (List<Country>) super.getByCallingCode(callingcode, countries);
+  }
 
-    @SuppressWarnings("unchecked")
-    public List<Country> getByContinent(String region) {
-        return (List<Country>) super.getByContinent(region, countries);
-    }
+  @SuppressWarnings("unchecked")
+  public List<Country> getByCapital(String capital) {
+    return (List<Country>) super.getByCapital(capital, countries);
+  }
 
-    @SuppressWarnings("unchecked")
-    public List<Country> getByRegion(String subregion) {
-        return (List<Country>) super.getByRegion(subregion, countries);
-    }
+  @SuppressWarnings("unchecked")
+  public List<Country> getByContinent(String region) {
+    return (List<Country>) super.getByContinent(region, countries);
+  }
 
-    public List<Country> getByCurrency(String currency) {
-        List<Country> result = new ArrayList<>();
-        for (Country country : countries) {
-            for (Currency curr : country.getCurrencies()) {
-                if (curr.getCode() != null && currency.toLowerCase().equals(curr.getCode().toLowerCase())) {
-                    result.add(country);
-                }
-            }
+  @SuppressWarnings("unchecked")
+  public List<Country> getByRegion(String subregion) {
+    return (List<Country>) super.getByRegion(subregion, countries);
+  }
+
+  public List<Country> getByCurrency(String currency) {
+    List<Country> result = new ArrayList<>();
+    for (Country country : countries) {
+      for (Currency curr : country.getCurrencies()) {
+        if (curr.getCode() != null && currency.toLowerCase().equals(curr.getCode().toLowerCase())) {
+          result.add(country);
         }
-        return result;
+      }
     }
+    return result;
+  }
 
-    public List<Country> getByLanguage(String language) {
-        List<Country> result = new ArrayList<>();
-        if (language.length() == 2) {
-            for (Country country : countries) {
-                for (Language lang : country.getLanguages()) {
-                    if (language.toLowerCase().equals(lang.getIso639_1())) {
-                        result.add(country);
-                    }
-                }
-            }
-        } else if (language.length() == 3) {
-            for (Country country : countries) {
-                for (Language lang : country.getLanguages()) {
-                    if (language.toLowerCase().equals(lang.getIso639_2())) {
-                        result.add(country);
-                    }
-                }
-            }
+  public List<Country> getByLanguage(String language) {
+    List<Country> result = new ArrayList<>();
+    if (language.length() == 2) {
+      for (Country country : countries) {
+        for (Language lang : country.getLanguages()) {
+          if (language.toLowerCase().equals(lang.getIso639_1())) {
+            result.add(country);
+          }
         }
-        return result;
-    }
-
-    public List<Country> getByDemonym(String demonym) {
-        List<Country> result = new ArrayList<>();
-        for (Country country : countries) {
-            if (country.getDemonym().toLowerCase().equals(normalize(demonym.toLowerCase()))) {
-                result.add(country);
-            }
+      }
+    } else if (language.length() == 3) {
+      for (Country country : countries) {
+        for (Language lang : country.getLanguages()) {
+          if (language.toLowerCase().equals(lang.getIso639_2())) {
+            result.add(country);
+          }
         }
-        return result;
+      }
     }
+    return result;
+  }
 
-    public List<Country> getByRegionalBloc(String regionalBloc) {
-        List<Country> result = new ArrayList<>();
-        for (Country country : countries) {
-            for (RegionalBloc countryRegionalBloc : country.getRegionalBlocs()) {
-                if (countryRegionalBloc.getAcronym().toUpperCase().equals(regionalBloc.toUpperCase())
-                        || countryRegionalBloc.getOtherAcronyms().contains(regionalBloc.toUpperCase())) {
-                    result.add(country);
-                }
-            }
+  public List<Country> getByDemonym(String demonym) {
+    List<Country> result = new ArrayList<>();
+    for (Country country : countries) {
+      if (country.getDemonym().toLowerCase().equals(normalize(demonym.toLowerCase()))) {
+        result.add(country);
+      }
+    }
+    return result;
+  }
+
+  public List<Country> getByRegionalBloc(String regionalBloc) {
+    List<Country> result = new ArrayList<>();
+    for (Country country : countries) {
+      if (null != country.getRegionalBlocs()) {
+        for (RegionalBloc countryRegionalBloc : country.getRegionalBlocs()) {
+          if (getRegionalBlockMatch(countryRegionalBloc.getAcronym(),
+              countryRegionalBloc.getOtherAcronyms(), regionalBloc)) {
+            result.add(country);
+          }
         }
-        return result;
+      }
     }
+    return result;
+  }
 
-    @SuppressWarnings("unchecked")
-    private void initialize() {
-        countries = (List<Country>) super.loadJson("countriesV2.json", Country.class);
-    }
+  private boolean getRegionalBlockMatch(String acronym, List<String> otherAcronym,
+      String regionalBlock) {
+    return acronym != null && otherAcronym != null && ((acronym.equalsIgnoreCase(regionalBlock)
+        || otherAcronym.contains(regionalBlock)));
+  }
+
+  @SuppressWarnings("unchecked")
+  private void initialize() {
+    countries = (List<Country>) super.loadJson("countriesV2.json", Country.class);
+  }
 }
