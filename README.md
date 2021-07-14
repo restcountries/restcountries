@@ -2,7 +2,7 @@
 This project is inspired on restcountries.eu by Fayder Florez. As it hasn't had any activity in at least 14 months, I decided to take action :)
 
 # REST Countries
-You can access API through https://restcountries.com/v2/all
+You can access API through https://restcountries.com/v3/all
 
 # TODO:
 * [x] Add SSL
