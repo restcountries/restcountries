@@ -1,6 +1,11 @@
 # About this Project
 This project is inspired on restcountries.eu by Fayder Florez. As it hasn't had any activity in at least 14 months, I decided to take action :)
 
+# CORS
+If you're getting issue with CORS while in localhost, please call it using this URL:
+
+https://cors-anywhere.herokuapp.com/https://restcountries.com/v2/all
+
 # REST Countries
 You can access API through https://restcountries.com/v3/all
 
