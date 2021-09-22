@@ -5,3 +5,10 @@ micronaut:
     enabled: true
     paths: classpath:static
     mapping: "/**"
+  server:
+    cors:
+      enabled: true
+      configurations:
+        web:
+          allowedMethods:
+          - GET
