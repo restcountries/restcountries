@@ -638,7 +638,7 @@
     "population": 1000,
     "continent": "Polar",
     "regionalBlocs": [],
-    "region": "",
+    "region": "Antarctica",
     "timezones": [
       "UTC-03:00",
       "UTC+03:00",
@@ -8199,7 +8199,7 @@
     "population": 0,
     "continent": "",
     "regionalBlocs": [],
-    "region": "",
+    "region": "Antarctic",
     "timezones": [
       "UTC+05:00"
     ],

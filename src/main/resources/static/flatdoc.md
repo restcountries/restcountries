@@ -90,6 +90,8 @@ Code
 
 Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
 
+**UPDATE**: this will now return an array.
+
 ``` html
 https://restcountries.com/v3/alpha/{code}
 ```
@@ -100,20 +102,6 @@ https://restcountries.com/v3/alpha/pe
 
 ``` html
 https://restcountries.com/v3/alpha/per
-```
-
-List of codes
----------------
-
-Search by list of cca2, ccn3, cca3 or cioc country codes (yes, any!). The original project used *;* as
-separator. In out case, the *comma* is used to separate values.
-
-``` html
-https://restcountries.com/v3/alpha?codes={code},{code},{code}
-```
-
-``` html
-https://restcountries.com/v3/alpha?codes=col,pe,at
 ```
 
 List of codes
@@ -182,25 +170,31 @@ https://restcountries.com/v3/capital/lima
 Region
 ---------------
 
-Search by Region: Africa, Americas, Asia, Europe, Oceania
+Search by Region: Africa, Americas, Asia, Europe, Oceania. The search can be using the full region's name or just part of it
 
 ``` html
-https://restcountries.com/v3/continent/{region}
+https://restcountries.com/v3/region/{region}
 ```
 ``` html
-https://restcountries.com/v3/continent/europe
+https://restcountries.com/v3/region/europe
+```
+``` html
+https://restcountries.com/v3/region/ame
 ```
 
 Subregion
 ---------------
 
-Search by Subregion: South America, Southern Europe, Central America, Eastern Asia, etc.
+Search by Subregion: South America, Southern Europe, Central America, Eastern Asia, etc. The search can be using the full subregion's name or just part of it
 
 ``` html
-https://restcountries.com/v3/continent/{region}
+https://restcountries.com/v3/subregion/{region}
 ```
 ``` html
-https://restcountries.com/v3/continent/europe
+https://restcountries.com/v3/subregion/europe
+```
+``` html
+https://restcountries.com/v3/subregion/south
 ```
 
 Demonym

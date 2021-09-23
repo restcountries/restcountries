@@ -4,13 +4,10 @@ import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.v3.domain.Country;
-
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.text.Normalizer;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -23,6 +20,7 @@ public class CountryService {
   }
 
   private static class InstanceHolder {
+
     private static final CountryService INSTANCE = new CountryService();
   }
 
@@ -38,9 +36,9 @@ public class CountryService {
     var result = new HashSet<Country>();
     for (var country : countries) {
       if (country.getCca2().equalsIgnoreCase(alpha) ||
-              country.getCcn3().equalsIgnoreCase(alpha) ||
-              country.getCca3().equalsIgnoreCase(alpha) ||
-              country.getCioc().equalsIgnoreCase(alpha)
+          country.getCcn3().equalsIgnoreCase(alpha) ||
+          country.getCca3().equalsIgnoreCase(alpha) ||
+          country.getCioc().equalsIgnoreCase(alpha)
       ) {
         result.add(country);
       }
@@ -72,7 +70,7 @@ public class CountryService {
     Set<Country> result = new HashSet<>();
     for (Country country : countries) {
       if ((name.equalsIgnoreCase(country.getName().getCommon()) || name
-              .equalsIgnoreCase(country.getName().getOfficial()))) {
+          .equalsIgnoreCase(country.getName().getOfficial()))) {
         result.add(country);
         return result;
       }
@@ -85,7 +83,7 @@ public class CountryService {
     Set<Country> result = new HashSet<>();
     for (Country country : countries) {
       if (name.toLowerCase().contains(country.getName().getCommon().toLowerCase()) ||
-              name.toLowerCase().contains(country.getName().getOfficial().toLowerCase())) {
+          name.toLowerCase().contains(country.getName().getOfficial().toLowerCase())) {
         result.add(country);
       }
     }
@@ -125,20 +123,22 @@ public class CountryService {
     return result;
   }
 
-  public Set<Country> getByRegion(String subregion) {
+  public Set<Country> getByRegion(String region) {
     Set<Country> result = new HashSet<>();
     for (Country country : countries) {
-      if (country.getRegion().equalsIgnoreCase(subregion)) {
+      if (country.getRegion().toLowerCase().contains(region.toLowerCase()) || country.getSubregion()
+          .equalsIgnoreCase(region)) {
         result.add(country);
       }
     }
     return result;
   }
 
-  public Set<Country> getBySubregion(String region) {
+  public Set<Country> getBySubregion(String subregion) {
     Set<Country> result = new HashSet<>();
     for (Country country : countries) {
-      if (country.getSubregion().equalsIgnoreCase(region)) {
+      if (country.getSubregion().toLowerCase().contains(subregion.toLowerCase())
+          || country.getSubregion().equalsIgnoreCase(subregion)) {
         result.add(country);
       }
     }
@@ -183,12 +183,13 @@ public class CountryService {
 
   protected String normalize(String string) {
     return Normalizer.normalize(string, Normalizer.Form.NFD)
-            .replaceAll("\\p{InCombiningDiacriticalMarks}+", "");
+        .replaceAll("\\p{InCombiningDiacriticalMarks}+", "");
   }
 
   protected static Set<Country> loadJson() {
     try {
-      InputStream is = CountryService.class.getClassLoader().getResourceAsStream("countriesV3.json");
+      InputStream is = CountryService.class.getClassLoader()
+          .getResourceAsStream("countriesV3.json");
       var gson = new Gson();
       JsonReader reader;
       countries = new HashSet<>();
