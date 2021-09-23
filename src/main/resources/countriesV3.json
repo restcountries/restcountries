@@ -7702,7 +7702,7 @@
       },
       "urd": {
         "official": "جمہوری جمہوریہ کانگو",
-        "common": "\nکانگو"
+        "common": "کانگو"
       },
       "zho": {
         "official": "刚果民主共和国",
@@ -9516,7 +9516,7 @@
       "official": "Czech Republic",
       "nativeName": {
         "ces": {
-          "official": "česká republika",
+          "official": "Česká republika",
           "common": "Česko"
         },
         "slk": {
@@ -18733,8 +18733,8 @@
     "idd": {
       "root": "+7",
       "suffixes": [
-        "6XX",
-        "7XX"
+        "6",
+        "7"
       ]
     },
     "capital": [
@@ -23908,7 +23908,7 @@
       "common": "Montenegro",
       "official": "Montenegro",
       "nativeName": {
-        "srp": {
+        "cnr": {
           "official": "Црна Гора",
           "common": "Црна Гора"
         }
@@ -23946,7 +23946,7 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": {
-      "srp": "Montenegrin"
+      "cnr": "Montenegrin"
     },
     "translations": {
       "ces": {
@@ -30422,11 +30422,11 @@
     "idd": {
       "root": "+7",
       "suffixes": [
-        "3XX",
-        "4XX",
-        "5XX",
-        "8XX",
-        "9XX"
+        "3",
+        "4",
+        "5",
+        "8",
+        "9"
       ]
     },
     "capital": [
