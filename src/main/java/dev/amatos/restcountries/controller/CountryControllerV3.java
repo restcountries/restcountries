@@ -8,6 +8,7 @@ import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.domain.ResponseEntity;
 import dev.amatos.restcountries.service.v3.CountryService;
 import dev.amatos.restcountries.v3.domain.Country;
+import io.micronaut.http.HttpResponse;
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
@@ -42,13 +43,13 @@ public class CountryControllerV3 {
       alpha = alpha.replace("codes=", "");
     }
     if (isEmpty(alpha) || alpha.length() < 2 || alpha.length() > 3) {
-      return getResponse(Response.Status.BAD_REQUEST);
+      return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
     }
     var country = CountryService.getInstance().getByAlpha(alpha);
     if (country != null) {
       return checkFieldsAndParseCountry(country, fields);
     }
-    return getResponse(Response.Status.NOT_FOUND);
+    return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
   }
 
   private Object checkFieldsAndParseCountry(Set<Country> countries, Optional<String> fields) {
@@ -63,16 +64,16 @@ public class CountryControllerV3 {
   public Object getByAlphaList(@QueryParam("codes") String codes,
                                @QueryParam("fields") Optional<String> fields) {
     if (isEmpty(codes) || codes.length() < 2 || (codes.length() > 3 && !codes.contains(","))) {
-      return getResponse(Response.Status.BAD_REQUEST);
+      return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
     }
     try {
       var countries = CountryService.getInstance().getByCodeList(codes);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(getResponse(Response.Status.INTERNAL_SERVER_ERROR));
     }
 
   }
@@ -88,9 +89,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(getResponse(Response.Status.INTERNAL_SERVER_ERROR));
     }
   }
 
@@ -104,9 +105,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -118,9 +119,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -133,9 +134,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -147,9 +148,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -161,9 +162,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
 
   }
@@ -176,9 +177,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -190,9 +191,9 @@ public class CountryControllerV3 {
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
-      return getResponse(Response.Status.NOT_FOUND);
+      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
     } catch (Exception e) {
-      return getResponse(Response.Status.INTERNAL_SERVER_ERROR);
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
 
@@ -276,7 +277,7 @@ public class CountryControllerV3 {
           "landlocked",
           "borders",
           "area",
-          "flag",
+          "flags",
           "demonyms"
   };
 
