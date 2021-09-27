@@ -16,6 +16,10 @@ Version 3 uses [this] project to get the country's structure and adds a couple o
 
 In addition to those features, I added the flags (svg and png) to each country.
 
+Important Information About Version 2
+--
+The structure has been reverted to its original form from the [Original Project] to maintain compatibility.
+
 Donate!
 ---------------
 Please consider donating [$5], [$10], [$15] o [more]. I would very much appreciate the help 😃

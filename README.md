@@ -1,10 +1,8 @@
 # About this Project
 This project is inspired on restcountries.eu by Fayder Florez. As it hasn't had any activity in at least 14 months, I decided to take action :)
 
-# CORS
-If you're getting issue with CORS while in localhost, please call it using this URL:
-
-https://cors-anywhere.herokuapp.com/https://restcountries.com/v2/all
+## Important Information About Version 2
+The structure has been reverted to its original form from the [Original Project] to maintain compatibility.
 
 # REST Countries
 You can access API through https://restcountries.com/v3/all
@@ -397,3 +395,4 @@ https://restcountries.com/v2/all?fields=name,capital,currencies
 [REST Countries Python]: https://github.com/SteinRobert/python-restcountries
 [Countries of the world]: http://countries.petethompson.net
 [REST Countries]: https://github.com/apilayer/restcountries
+[Original Project]: https://github.com/apilayer/restcountries/
