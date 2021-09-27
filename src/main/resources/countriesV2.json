@@ -29,6 +29,10 @@
     "demonym": "Afghan",
     "independent": true,
     "flag": "https://restcountries.com/data/afg.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/afg.svg",
+      "png": "https://restcountries.com/data/afg.png"
+    },
     "gini": 29.4,
     "languages": [
       {
@@ -122,6 +126,10 @@
     "demonym": "Albanian",
     "independent": true,
     "flag": "https://restcountries.com/data/alb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/alb.svg",
+      "png": "https://restcountries.com/data/alb.png"
+    },
     "gini": 33.2,
     "languages": [
       {
@@ -205,6 +213,10 @@
     "demonym": "Algerian",
     "independent": true,
     "flag": "https://restcountries.com/data/dza.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/dza.svg",
+      "png": "https://restcountries.com/data/dza.png"
+    },
     "gini": 27.6,
     "languages": [
       {
@@ -297,6 +309,10 @@
     "demonym": "American Samoan",
     "independent": false,
     "flag": "https://restcountries.com/data/asm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/asm.svg",
+      "png": "https://restcountries.com/data/asm.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -375,6 +391,10 @@
     "demonym": "Andorran",
     "independent": true,
     "flag": "https://restcountries.com/data/and.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/and.svg",
+      "png": "https://restcountries.com/data/and.png"
+    },
     "languages": [
       {
         "iso639_1": "ca",
@@ -449,6 +469,10 @@
     "demonym": "Angolan",
     "independent": true,
     "flag": "https://restcountries.com/data/ago.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ago.svg",
+      "png": "https://restcountries.com/data/ago.png"
+    },
     "gini": 51.3,
     "languages": [
       {
@@ -528,6 +552,10 @@
     "demonym": "Anguillian",
     "independent": false,
     "flag":"https://restcountries.com/data/aia.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/aia.svg",
+      "png": "https://restcountries.com/data/aia.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -586,6 +614,10 @@
     "demonym": "Antarctic",
     "independent": false,
     "flag": "https://restcountries.com/data/ata.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ata.svg",
+      "png": "https://restcountries.com/data/ata.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -665,6 +697,10 @@
     "demonym": "Antiguan, Barbudan",
     "independent": true,
     "flag": "https://restcountries.com/data/atg.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/atg.svg",
+      "png": "https://restcountries.com/data/atg.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -749,6 +785,10 @@
     "demonym": "Argentinean",
     "independent": true,
     "flag": "https://restcountries.com/data/arg.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/arg.svg",
+      "png": "https://restcountries.com/data/arg.png"
+    },
     "gini": 42.9,
     "languages": [
       {
@@ -846,6 +886,10 @@
     "demonym": "Armenian",
     "independent": true,
     "flag": "https://restcountries.com/data/arm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/arm.svg",
+      "png": "https://restcountries.com/data/arm.png"
+    },
     "gini": 29.9,
     "languages": [
       {
@@ -921,6 +965,10 @@
     "demonym": "Aruban",
     "independent": true,
     "flag": "https://restcountries.com/data/abw.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/abw.svg",
+      "png": "https://restcountries.com/data/abw.png"
+    },
     "languages": [
       {
         "iso639_1": "nl",
@@ -993,6 +1041,10 @@
     "demonym": "Australian",
     "independent": true,
     "flag": "https://restcountries.com/data/aus.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/aus.svg",
+      "png": "https://restcountries.com/data/aus.png"
+    },
     "gini": 34.4,
     "languages": [
       {
@@ -1079,6 +1131,10 @@
     "demonym": "Austrian",
     "independent": true,
     "flag": "https://restcountries.com/data/aut.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/aut.svg",
+      "png": "https://restcountries.com/data/aut.png"
+    },
     "gini": 30.8,
     "languages": [
       {
@@ -1158,6 +1214,10 @@
     ],
     "demonym": "Azerbaijani",
     "flag": "https://restcountries.com/data/aze.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/aze.svg",
+      "png": "https://restcountries.com/data/aze.png"
+    },
     "gini": 33.7,
     "languages": [
       {
@@ -1224,6 +1284,10 @@
     "demonym": "Bahamian",
     "independent": true,
     "flag": "https://restcountries.com/data/bhs.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bhs.svg",
+      "png": "https://restcountries.com/data/bhs.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -1302,6 +1366,10 @@
     "demonym": "Bahraini",
     "independent": true,
     "flag": "https://restcountries.com/data/bhr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bhr.svg",
+      "png": "https://restcountries.com/data/bhr.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -1384,6 +1452,10 @@
     "demonym": "Bangladeshi",
     "independent": true,
     "flag": "https://restcountries.com/data/bgd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bgd.svg",
+      "png": "https://restcountries.com/data/bgd.png"
+    },
     "gini": 32.4,
     "languages": [
       {
@@ -1456,6 +1528,10 @@
     "demonym": "Barbadian",
     "independent": true,
     "flag": "https://restcountries.com/data/brb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/brb.svg",
+      "png": "https://restcountries.com/data/brb.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -1549,6 +1625,10 @@
     "demonym": "Belarusian",
     "independent": true,
     "flag": "https://restcountries.com/data/blr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/blr.svg",
+      "png": "https://restcountries.com/data/blr.png"
+    },
     "gini": 25.3,
     "languages": [
       {
@@ -1643,6 +1723,10 @@
     "demonym": "Belgian",
     "independent": true,
     "flag": "https://restcountries.com/data/bel.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bel.svg",
+      "png": "https://restcountries.com/data/bel.png"
+    },
     "gini": 27.2,
     "languages": [
       {
@@ -1730,6 +1814,10 @@
     "demonym": "Belizean",
     "independent": true,
     "flag": "https://restcountries.com/data/blz.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/blz.svg",
+      "png": "https://restcountries.com/data/blz.png"
+    },
     "gini": 53.1,
     "languages": [
       {
@@ -1830,6 +1918,10 @@
     "demonym": "Beninese",
     "independent": true,
     "flag": "https://restcountries.com/data/ben.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ben.svg",
+      "png": "https://restcountries.com/data/ben.png"
+    },
     "gini": 47.8,
     "languages": [
       {
@@ -1911,6 +2003,10 @@
     "demonym": "Bermudian",
     "independent": false,
     "flag": "https://restcountries.com/data/bmu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bmu.svg",
+      "png": "https://restcountries.com/data/bmu.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -1986,6 +2082,10 @@
     "demonym": "Bhutanese",
     "independent": true,
     "flag": "https://restcountries.com/data/btn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/btn.svg",
+      "png": "https://restcountries.com/data/btn.png"
+    },
     "gini": 37.4,
     "languages": [
       {
@@ -2071,6 +2171,10 @@
     "demonym": "Bolivian",
     "independent": true,
     "flag": "https://restcountries.com/data/bol.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bol.svg",
+      "png": "https://restcountries.com/data/bol.png"
+    },
     "gini": 41.6,
     "languages": [
       {
@@ -2167,6 +2271,10 @@
     "demonym": "Dutch",
     "independent": true,
     "flag": "https://restcountries.com/data/bes.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bes.svg",
+      "png": "https://restcountries.com/data/bes.png"
+    },
     "languages": [
       {
         "iso639_1": "nl",
@@ -2232,6 +2340,10 @@
     "demonym": "Bosnian, Herzegovinian",
     "independent": true,
     "flag": "https://restcountries.com/data/bih.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bih.svg",
+      "png": "https://restcountries.com/data/bih.png"
+    },
     "gini": 33.0,
     "languages": [
       {
@@ -2319,6 +2431,10 @@
     "demonym": "Motswana",
     "independent": true,
     "flag": "https://restcountries.com/data/bwa.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bwa.svg",
+      "png": "https://restcountries.com/data/bwa.png"
+    },
     "gini": 53.3,
     "languages": [
       {
@@ -2402,6 +2518,10 @@
     "demonym": "",
     "independent": false,
     "flag": "https://restcountries.com/data/bvt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bvt.svg",
+      "png": "https://restcountries.com/data/bvt.png"
+    },
     "languages": [
       {
         "iso639_1": "no",
@@ -2491,6 +2611,10 @@
     "demonym": "Brazilian",
     "independent": true,
     "flag": "https://restcountries.com/data/bra.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bra.svg",
+      "png": "https://restcountries.com/data/bra.png"
+    },
     "gini": 53.4,
     "languages": [
       {
@@ -2573,6 +2697,10 @@
     "demonym": "Indian",
     "independent": true,
     "flag": "https://restcountries.com/data/iot.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/iot.svg",
+      "png": "https://restcountries.com/data/iot.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -2646,6 +2774,10 @@
     "demonym": "American",
     "independent": false,
     "flag": "https://restcountries.com/data/umi.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/umi.svg",
+      "png": "https://restcountries.com/data/umi.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -2707,6 +2839,10 @@
     "demonym": "Virgin Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/vgb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vgb.svg",
+      "png": "https://restcountries.com/data/vgb.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -2772,6 +2908,10 @@
     "demonym": "Virgin Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/vir.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vir.svg",
+      "png": "https://restcountries.com/data/vir.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -2842,6 +2982,10 @@
     "demonym": "Bruneian",
     "independent": true,
     "flag": "https://restcountries.com/data/brn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/brn.svg",
+      "png": "https://restcountries.com/data/brn.png"
+    },
     "languages": [
       {
         "iso639_1": "ms",
@@ -2917,6 +3061,10 @@
     "demonym": "Bulgarian",
     "independent": true,
     "flag": "https://restcountries.com/data/bgr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bgr.svg",
+      "png": "https://restcountries.com/data/bgr.png"
+    },
     "gini": 41.3,
     "languages": [
       {
@@ -2992,6 +3140,10 @@
     "demonym": "Burkinabe",
     "independent": true,
     "flag": "https://restcountries.com/data/bfa.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bfa.svg",
+      "png": "https://restcountries.com/data/bfa.png"
+    },
     "gini": 35.3,
     "languages": [
       {
@@ -3080,6 +3232,10 @@
     "demonym": "Burundian",
     "independent": true,
     "flag": "https://restcountries.com/data/bdi.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/bdi.svg",
+      "png": "https://restcountries.com/data/bdi.png"
+    },
     "gini": 38.6,
     "languages": [
       {
@@ -3171,6 +3327,10 @@
     "demonym": "Cambodian",
     "independent": true,
     "flag": "https://restcountries.com/data/khm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/khm.svg",
+      "png": "https://restcountries.com/data/khm.png"
+    },
     "gini": 37.9,
     "languages": [
       {
@@ -3248,6 +3408,10 @@
     "demonym": "Cameroonian",
     "independent": true,
     "flag": "https://restcountries.com/data/cmr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cmr.svg",
+      "png": "https://restcountries.com/data/cmr.png"
+    },
     "gini": 46.6,
     "languages": [
       {
@@ -3331,6 +3495,10 @@
     "demonym": "Canadian",
     "independent": true,
     "flag": "https://restcountries.com/data/can.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/can.svg",
+      "png": "https://restcountries.com/data/can.png"
+    },
     "gini": 33.3,
     "languages": [
       {
@@ -3416,6 +3584,10 @@
     "demonym": "Cape Verdian",
     "independent": true,
     "flag": "https://restcountries.com/data/cpv.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cpv.svg",
+      "png": "https://restcountries.com/data/cpv.png"
+    },
     "gini": 42.4,
     "languages": [
       {
@@ -3491,6 +3663,10 @@
     "demonym": "Caymanian",
     "independent": false,
     "flag": "https://restcountries.com/data/cym.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cym.svg",
+      "png": "https://restcountries.com/data/cym.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -3563,6 +3739,10 @@
     "demonym": "Central African",
     "independent": true,
     "flag": "https://restcountries.com/data/caf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/caf.svg",
+      "png": "https://restcountries.com/data/caf.png"
+    },
     "gini": 56.3,
     "languages": [
       {
@@ -3654,6 +3834,10 @@
     "demonym": "Chadian",
     "independent": true,
     "flag": "https://restcountries.com/data/tcd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tcd.svg",
+      "png": "https://restcountries.com/data/tcd.png"
+    },
     "gini": 43.3,
     "languages": [
       {
@@ -3741,6 +3925,10 @@
     "demonym": "Chilean",
     "independent": true,
     "flag": "https://restcountries.com/data/chl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/chl.svg",
+      "png": "https://restcountries.com/data/chl.png"
+    },
     "gini": 44.4,
     "languages": [
       {
@@ -3851,6 +4039,10 @@
     "demonym": "Chinese",
     "independent": true,
     "flag": "https://restcountries.com/data/chn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/chn.svg",
+      "png": "https://restcountries.com/data/chn.png"
+    },
     "gini": 38.5,
     "languages": [
       {
@@ -3915,6 +4107,10 @@
     "demonym": "Christmas Island",
     "independent": false,
     "flag": "https://restcountries.com/data/cxr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cxr.svg",
+      "png": "https://restcountries.com/data/cxr.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -3979,6 +4175,10 @@
     "demonym": "Cocos Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/cck.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cck.svg",
+      "png": "https://restcountries.com/data/cck.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -4049,6 +4249,10 @@
     "demonym": "Colombian",
     "independent": true,
     "flag": "https://restcountries.com/data/col.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/col.svg",
+      "png": "https://restcountries.com/data/col.png"
+    },
     "gini": 51.3,
     "languages": [
       {
@@ -4139,6 +4343,10 @@
     "demonym": "Comoran",
     "independent": true,
     "flag": "https://restcountries.com/data/com.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/com.svg",
+      "png": "https://restcountries.com/data/com.png"
+    },
     "gini": 45.3,
     "languages": [
       {
@@ -4236,6 +4444,10 @@
     "demonym": "Congolese",
     "independent": true,
     "flag": "https://restcountries.com/data/cog.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cog.svg",
+      "png": "https://restcountries.com/data/cog.png"
+    },
     "gini": 48.9,
     "languages": [
       {
@@ -4330,6 +4542,10 @@
     "demonym": "Congolese",
     "independent": true,
     "flag": "https://restcountries.com/data/cod.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cod.svg",
+      "png": "https://restcountries.com/data/cod.png"
+    },
     "gini": 42.1,
     "languages": [
       {
@@ -4436,6 +4652,10 @@
     "demonym": "Cook Islander",
     "independent": true,
     "flag": "https://restcountries.com/data/cok.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cok.svg",
+      "png": "https://restcountries.com/data/cok.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -4509,6 +4729,10 @@
     "demonym": "Costa Rican",
     "independent": true,
     "flag": "https://restcountries.com/data/cri.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cri.svg",
+      "png": "https://restcountries.com/data/cri.png"
+    },
     "gini": 48.2,
     "languages": [
       {
@@ -4592,6 +4816,10 @@
     "demonym": "Croatian",
     "independent": true,
     "flag": "https://restcountries.com/data/hrv.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/hrv.svg",
+      "png": "https://restcountries.com/data/hrv.png"
+    },
     "gini": 29.7,
     "languages": [
       {
@@ -4667,6 +4895,10 @@
     "demonym": "Cuban",
     "independent": true,
     "flag": "https://restcountries.com/data/cub.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cub.svg",
+      "png": "https://restcountries.com/data/cub.png"
+    },
     "gini": 38,
     "languages": [
       {
@@ -4735,6 +4967,10 @@
     "demonym": "Dutch",
     "independent": false,
     "flag": "https://restcountries.com/data/cuw.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cuw.svg",
+      "png": "https://restcountries.com/data/cuw.png"
+    },
     "languages": [
       {
         "iso639_1": "nl",
@@ -4814,6 +5050,10 @@
     "demonym": "Cypriot",
     "independent": true,
     "flag": "https://restcountries.com/data/cyp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cyp.svg",
+      "png": "https://restcountries.com/data/cyp.png"
+    },
     "gini": 32.7,
     "languages": [
       {
@@ -4896,6 +5136,10 @@
     "demonym": "Czech",
     "independent": true,
     "flag": "https://restcountries.com/data/cze.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/cze.svg",
+      "png": "https://restcountries.com/data/cze.png"
+    },
     "gini": 25.0,
     "languages": [
       {
@@ -4975,6 +5219,10 @@
     "demonym": "Danish",
     "independent": true,
     "flag": "https://restcountries.com/data/dnk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/dnk.svg",
+      "png": "https://restcountries.com/data/dnk.png"
+    },
     "gini": 28.2,
     "languages": [
       {
@@ -5057,6 +5305,10 @@
     "demonym": "Djibouti",
     "independent": true,
     "flag": "https://restcountries.com/data/dji.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/dji.svg",
+      "png": "https://restcountries.com/data/dji.png"
+    },
     "gini": 41.6,
     "languages": [
       {
@@ -5150,6 +5402,10 @@
     "demonym": "Dominican",
     "independent": true,
     "flag": "https://restcountries.com/data/dma.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/dma.svg",
+      "png": "https://restcountries.com/data/dma.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -5214,6 +5470,10 @@
     "demonym": "Dominican",
     "independent": true,
     "flag": "https://restcountries.com/data/dom.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/dom.svg",
+      "png": "https://restcountries.com/data/dom.png"
+    },
     "gini": 41.9,
     "languages": [
       {
@@ -5302,6 +5562,10 @@
     "demonym": "Ecuadorean",
     "independent": true,
     "flag": "https://restcountries.com/data/ecu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ecu.svg",
+      "png": "https://restcountries.com/data/ecu.png"
+    },
     "gini": 45.7,
     "languages": [
       {
@@ -5387,6 +5651,10 @@
     "demonym": "Egyptian",
     "independent": true,
     "flag": "https://restcountries.com/data/egy.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/egy.svg",
+      "png": "https://restcountries.com/data/egy.png"
+    },
     "gini": 31.5,
     "languages": [
       {
@@ -5476,6 +5744,10 @@
     "demonym": "Salvadoran",
     "independent": true,
     "flag": "https://restcountries.com/data/slv.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/slv.svg",
+      "png": "https://restcountries.com/data/slv.png"
+    },
     "gini": 38.8,
     "languages": [
       {
@@ -5557,6 +5829,10 @@
     "demonym": "Equatorial Guinean",
     "independent": true,
     "flag": "https://restcountries.com/data/gnq.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gnq.svg",
+      "png": "https://restcountries.com/data/gnq.png"
+    },
     "gini": 39.4,
     "languages": [
       {
@@ -5660,6 +5936,10 @@
     "demonym": "Eritrean",
     "independent": true,
     "flag": "https://restcountries.com/data/eri.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/eri.svg",
+      "png": "https://restcountries.com/data/eri.png"
+    },
     "languages": [
       {
         "iso639_1": "ti",
@@ -5788,6 +6068,10 @@
     "demonym": "Estonian",
     "independent": true,
     "flag": "https://restcountries.com/data/est.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/est.svg",
+      "png": "https://restcountries.com/data/est.png"
+    },
     "gini": 30.3,
     "languages": [
       {
@@ -5866,6 +6150,10 @@
     "demonym": "Ethiopian",
     "independent": true,
     "flag": "https://restcountries.com/data/eth.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/eth.svg",
+      "png": "https://restcountries.com/data/eth.png"
+    },
     "gini": 35.0,
     "languages": [
       {
@@ -5942,6 +6230,10 @@
     "demonym": "Falkland Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/flk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/flk.svg",
+      "png": "https://restcountries.com/data/flk.png"
+    },
     "gini": 36.0,
     "languages": [
       {
@@ -6028,6 +6320,10 @@
     "demonym": "Faroese",
     "independent": false,
     "flag": "https://restcountries.com/data/fro.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/fro.svg",
+      "png": "https://restcountries.com/data/fro.png"
+    },
     "gini": 22.7,
     "languages": [
       {
@@ -6096,6 +6392,10 @@
     "demonym": "Fijian",
     "independent": true,
     "flag": "https://restcountries.com/data/fji.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/fji.svg",
+      "png": "https://restcountries.com/data/fji.png"
+    },
     "gini": 36.7,
     "languages": [
       {
@@ -6185,6 +6485,10 @@
     "demonym": "Finnish",
     "independent": true,
     "flag": "https://restcountries.com/data/fin.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/fin.svg",
+      "png": "https://restcountries.com/data/fin.png"
+    },
     "gini": 27.3,
     "languages": [
       {
@@ -6270,6 +6574,10 @@
     "demonym": "French",
     "independent": true,
     "flag": "https://restcountries.com/data/fra.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/fra.svg",
+      "png": "https://restcountries.com/data/fra.png"
+    },
     "gini": 32.4,
     "languages": [
       {
@@ -6355,6 +6663,10 @@
     "demonym": "",
     "independent": false,
     "flag": "https://restcountries.com/data/guf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/guf.svg",
+      "png": "https://restcountries.com/data/guf.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -6440,6 +6752,10 @@
     "demonym": "French Polynesian",
     "independent": false,
     "flag": "https://restcountries.com/data/pyf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pyf.svg",
+      "png": "https://restcountries.com/data/pyf.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -6504,6 +6820,10 @@
     "demonym": "French",
     "independent": false,
     "flag": "https://restcountries.com/data/atf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/atf.svg",
+      "png": "https://restcountries.com/data/atf.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -6584,6 +6904,10 @@
     "demonym": "Gabonese",
     "independent": true,
     "flag": "https://restcountries.com/data/gab.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gab.svg",
+      "png": "https://restcountries.com/data/gab.png"
+    },
     "gini": 38.0,
     "languages": [
       {
@@ -6662,6 +6986,10 @@
     "demonym": "Gambian",
     "independent": true,
     "flag": "https://restcountries.com/data/gmb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gmb.svg",
+      "png": "https://restcountries.com/data/gmb.png"
+    },
     "gini": 35.9,
     "languages": [
       {
@@ -6743,6 +7071,10 @@
     "demonym": "Georgian",
     "independent": true,
     "flag": "https://restcountries.com/data/geo.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/geo.svg",
+      "png": "https://restcountries.com/data/geo.png"
+    },
     "gini": 35.9,
     "languages": [
       {
@@ -6818,6 +7150,10 @@
     "demonym": "German",
     "independent": true,
     "flag": "https://restcountries.com/data/deu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/deu.svg",
+      "png": "https://restcountries.com/data/deu.png"
+    },
     "gini": 31.9,
     "languages": [
       {
@@ -6890,6 +7226,10 @@
     "demonym": "Ghanaian",
     "independent": true,
     "flag": "https://restcountries.com/data/gha.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gha.svg",
+      "png": "https://restcountries.com/data/gha.png"
+    },
     "gini": 43.5,
     "languages": [
       {
@@ -6967,6 +7307,10 @@
     "demonym": "Gibraltar",
     "independent": false,
     "flag": "https://restcountries.com/data/gib.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gib.svg",
+      "png": "https://restcountries.com/data/gib.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -7042,6 +7386,10 @@
     "demonym": "Greek",
     "independent": true,
     "flag": "https://restcountries.com/data/grc.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/grc.svg",
+      "png": "https://restcountries.com/data/grc.png"
+    },
     "gini": 32.9,
     "languages": [
       {
@@ -7111,6 +7459,10 @@
     "demonym": "Greenlandic",
     "independent": false,
     "flag": "https://restcountries.com/data/grl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/grl.svg",
+      "png": "https://restcountries.com/data/grl.png"
+    },
     "gini": 33.9,
     "languages": [
       {
@@ -7177,6 +7529,10 @@
     "demonym": "Grenadian",
     "independent": true,
     "flag": "https://restcountries.com/data/grd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/grd.svg",
+      "png": "https://restcountries.com/data/grd.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -7249,6 +7605,10 @@
     "demonym": "Guadeloupian",
     "independent": false,
     "flag": "https://restcountries.com/data/glp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/glp.svg",
+      "png": "https://restcountries.com/data/glp.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -7312,6 +7672,10 @@
     "demonym": "Guamanian",
     "independent": false,
     "flag": "https://restcountries.com/data/gum.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gum.svg",
+      "png": "https://restcountries.com/data/gum.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -7391,6 +7755,10 @@
     "demonym": "Guatemalan",
     "independent": true,
     "flag": "https://restcountries.com/data/gtm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gtm.svg",
+      "png": "https://restcountries.com/data/gtm.png"
+    },
     "gini": 48.3,
     "languages": [
       {
@@ -7472,6 +7840,10 @@
     "demonym": "Channel Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/ggy.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ggy.svg",
+      "png": "https://restcountries.com/data/ggy.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -7549,6 +7921,10 @@
     "demonym": "Guinean",
     "independent": true,
     "flag": "https://restcountries.com/data/gin.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gin.svg",
+      "png": "https://restcountries.com/data/gin.png"
+    },
     "gini": 33.7,
     "languages": [
       {
@@ -7635,6 +8011,10 @@
     "demonym": "Guinea-Bissauan",
     "independent": true,
     "flag": "https://restcountries.com/data/gnb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gnb.svg",
+      "png": "https://restcountries.com/data/gnb.png"
+    },
     "gini": 50.7,
     "languages": [
       {
@@ -7715,6 +8095,10 @@
     "demonym": "Guyanese",
     "independent": true,
     "flag": "https://restcountries.com/data/guy.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/guy.svg",
+      "png": "https://restcountries.com/data/guy.png"
+    },
     "gini": 44.5,
     "languages": [
       {
@@ -7808,6 +8192,10 @@
     "demonym": "Haitian",
     "independent": true,
     "flag": "https://restcountries.com/data/hti.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/hti.svg",
+      "png": "https://restcountries.com/data/hti.png"
+    },
     "gini": 41.1,
     "languages": [
       {
@@ -7887,6 +8275,10 @@
     "demonym": "Heard and McDonald Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/hmd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/hmd.svg",
+      "png": "https://restcountries.com/data/hmd.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -7953,6 +8345,10 @@
     "demonym": "Vatican",
     "independent": true,
     "flag": "https://restcountries.com/data/vat.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vat.svg",
+      "png": "https://restcountries.com/data/vat.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -8040,6 +8436,10 @@
     "demonym": "Honduran",
     "independent": true,
     "flag": "https://restcountries.com/data/hnd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/hnd.svg",
+      "png": "https://restcountries.com/data/hnd.png"
+    },
     "gini": 48.2,
     "languages": [
       {
@@ -8122,6 +8522,10 @@
     "demonym": "Hungarian",
     "independent": true,
     "flag": "https://restcountries.com/data/hun.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/hun.svg",
+      "png": "https://restcountries.com/data/hun.png"
+    },
     "gini": 29.6,
     "languages": [
       {
@@ -8193,6 +8597,10 @@
     "demonym": "Icelander",
     "independent": true,
     "flag": "https://restcountries.com/data/isl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/isl.svg",
+      "png": "https://restcountries.com/data/isl.png"
+    },
     "gini": 26.1,
     "languages": [
       {
@@ -8273,6 +8681,10 @@
     "demonym": "Indian",
     "independent": true,
     "flag": "https://restcountries.com/data/ind.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ind.svg",
+      "png": "https://restcountries.com/data/ind.png"
+    },
     "gini": 35.7,
     "languages": [
       {
@@ -8353,6 +8765,10 @@
     "demonym": "Indonesian",
     "independent": true,
     "flag": "https://restcountries.com/data/idn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/idn.svg",
+      "png": "https://restcountries.com/data/idn.png"
+    },
     "gini": 38.2,
     "languages": [
       {
@@ -8432,6 +8848,10 @@
     "demonym": "Ivorian",
     "independent": true,
     "flag": "https://restcountries.com/data/civ.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/civ.svg",
+      "png": "https://restcountries.com/data/civ.png"
+    },
     "gini": 41.5,
     "languages": [
       {
@@ -8517,6 +8937,10 @@
     "demonym": "Iranian",
     "independent": true,
     "flag": "https://restcountries.com/data/irn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/irn.svg",
+      "png": "https://restcountries.com/data/irn.png"
+    },
     "gini": 42.0,
     "languages": [
       {
@@ -8588,6 +9012,10 @@
     "demonym": "Iraqi",
     "independent": true,
     "flag": "https://restcountries.com/data/irq.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/irq.svg",
+      "png": "https://restcountries.com/data/irq.png"
+    },
     "gini": 29.5,
     "languages": [
       {
@@ -8672,6 +9100,10 @@
     "demonym": "Irish",
     "independent": true,
     "flag": "https://restcountries.com/data/irl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/irl.svg",
+      "png": "https://restcountries.com/data/irl.png"
+    },
     "gini": 31.4,
     "languages": [
       {
@@ -8754,6 +9186,10 @@
     "demonym": "Manx",
     "independent": false,
     "flag": "https://restcountries.com/data/imn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/imn.svg",
+      "png": "https://restcountries.com/data/imn.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -8834,6 +9270,10 @@
     "demonym": "Israeli",
     "independent": true,
     "flag": "https://restcountries.com/data/isr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/isr.svg",
+      "png": "https://restcountries.com/data/isr.png"
+    },
     "gini": 39.0,
     "languages": [
       {
@@ -8912,6 +9352,10 @@
     "demonym": "Italian",
     "independent": true,
     "flag": "https://restcountries.com/data/ita.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ita.svg",
+      "png": "https://restcountries.com/data/ita.png"
+    },
     "gini": 36,
     "languages": [
       {
@@ -8980,6 +9424,10 @@
     "demonym": "Jamaican",
     "independent": true,
     "flag": "https://restcountries.com/data/jam.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/jam.svg",
+      "png": "https://restcountries.com/data/jam.png"
+    },
     "gini": 35.0,
     "languages": [
       {
@@ -9055,6 +9503,10 @@
     "demonym": "Japanese",
     "independent": true,
     "flag": "https://restcountries.com/data/jpn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/jpn.svg",
+      "png": "https://restcountries.com/data/jpn.png"
+    },
     "gini": 32.9,
     "languages": [
       {
@@ -9126,6 +9578,10 @@
     "demonym": "Channel Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/jey.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/jey.svg",
+      "png": "https://restcountries.com/data/jey.png"
+    },
     "gini": 0.3,
     "languages": [
       {
@@ -9202,6 +9658,10 @@
     "demonym": "Jordanian",
     "independent": true,
     "flag": "https://restcountries.com/data/jor.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/jor.svg",
+      "png": "https://restcountries.com/data/jor.png"
+    },
     "gini": 33.7,
     "languages": [
       {
@@ -9288,6 +9748,10 @@
     ],
     ",demonym": "Kazakhstani",
     "flag": "https://restcountries.com/data/kaz.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kaz.svg",
+      "png": "https://restcountries.com/data/kaz.png"
+    },
     "gini": 27.8,
     "languages": [
       {
@@ -9375,6 +9839,10 @@
     "demonym": "Kenyan",
     "independent": true,
     "flag": "https://restcountries.com/data/ken.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ken.svg",
+      "png": "https://restcountries.com/data/ken.png"
+    },
     "gini": 40.8,
     "languages": [
       {
@@ -9463,6 +9931,10 @@
     "demonym": "I-Kiribati",
     "independent": true,
     "flag": "https://restcountries.com/data/kir.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kir.svg",
+      "png": "https://restcountries.com/data/kir.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -9532,6 +10004,10 @@
     "demonym": "Kuwaiti",
     "independent": true,
     "flag": "https://restcountries.com/data/kwt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kwt.svg",
+      "png": "https://restcountries.com/data/kwt.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -9614,6 +10090,10 @@
     "demonym": "Kirghiz",
     "independent": true,
     "flag": "https://restcountries.com/data/kgz.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kgz.svg",
+      "png": "https://restcountries.com/data/kgz.png"
+    },
     "gini": 29.7,
     "languages": [
       {
@@ -9701,6 +10181,10 @@
     "demonym": "Laotian",
     "independent": true,
     "flag": "https://restcountries.com/data/lao.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lao.svg",
+      "png": "https://restcountries.com/data/lao.png"
+    },
     "gini": 38.8,
     "languages": [
       {
@@ -9776,6 +10260,10 @@
     "demonym": "Latvian",
     "independent": true,
     "flag": "https://restcountries.com/data/lva.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lva.svg",
+      "png": "https://restcountries.com/data/lva.png"
+    },
     "gini": 35.1,
     "languages": [
       {
@@ -9849,6 +10337,10 @@
     "demonym": "Lebanese",
     "independent": true,
     "flag": "https://restcountries.com/data/lbn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lbn.svg",
+      "png": "https://restcountries.com/data/lbn.png"
+    },
     "gini": 31.8,
     "languages": [
       {
@@ -9937,6 +10429,10 @@
     "demonym": "Mosotho",
     "independent": true,
     "flag": "https://restcountries.com/data/lso.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lso.svg",
+      "png": "https://restcountries.com/data/lso.png"
+    },
     "gini": 44.9,
     "languages": [
       {
@@ -10023,6 +10519,10 @@
     "demonym": "Liberian",
     "independent": true,
     "flag": "https://restcountries.com/data/lbr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lbr.svg",
+      "png": "https://restcountries.com/data/lbr.png"
+    },
     "gini": 35.3,
     "languages": [
       {
@@ -10107,6 +10607,10 @@
     "demonym": "Libyan",
     "independent": true,
     "flag": "https://restcountries.com/data/lby.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lby.svg",
+      "png": "https://restcountries.com/data/lby.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -10196,6 +10700,10 @@
     "demonym": "Liechtensteiner",
     "independent": true,
     "flag": "https://restcountries.com/data/lie.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lie.svg",
+      "png": "https://restcountries.com/data/lie.png"
+    },
     "languages": [
       {
         "iso639_1": "de",
@@ -10270,6 +10778,10 @@
     "demonym": "Lithuanian",
     "independent": true,
     "flag": "https://restcountries.com/data/ltu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ltu.svg",
+      "png": "https://restcountries.com/data/ltu.png"
+    },
     "gini": 35.7,
     "languages": [
       {
@@ -10346,6 +10858,10 @@
     "demonym": "Luxembourger",
     "independent": true,
     "flag": "https://restcountries.com/data/lux.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lux.svg",
+      "png": "https://restcountries.com/data/lux.png"
+    },
     "gini": 35.4,
     "languages": [
       {
@@ -10432,6 +10948,10 @@
     "demonym": "Chinese",
     "independent": false,
     "flag": "https://restcountries.com/data/mac.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mac.svg",
+      "png": "https://restcountries.com/data/mac.png"
+    },
     "gini": 35.0,
     "languages": [
       {
@@ -10509,6 +11029,10 @@
     "demonym": "Macedonian",
     "independent": true,
     "flag": "https://restcountries.com/data/mkd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mkd.svg",
+      "png": "https://restcountries.com/data/mkd.png"
+    },
     "gini": 31.9,
     "languages": [
       {
@@ -10580,6 +11104,10 @@
     "demonym": "Malagasy",
     "independent": true,
     "flag": "https://restcountries.com/data/mdg.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mdg.svg",
+      "png": "https://restcountries.com/data/mdg.png"
+    },
     "gini": 42.6,
     "languages": [
       {
@@ -10666,6 +11194,10 @@
     "demonym": "Malawian",
     "independent": true,
     "flag": "https://restcountries.com/data/mwi.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mwi.svg",
+      "png": "https://restcountries.com/data/mwi.png"
+    },
     "gini": 44.7,
     "languages": [
       {
@@ -10751,6 +11283,10 @@
     "demonym": "Malaysian",
     "independent": true,
     "flag": "https://restcountries.com/data/mys.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mys.svg",
+      "png": "https://restcountries.com/data/mys.png"
+    },
     "gini": 41.1,
     "languages": [
       {
@@ -10822,6 +11358,10 @@
     "demonym": "Maldivan",
     "independent": true,
     "flag": "https://restcountries.com/data/mdv.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mdv.svg",
+      "png": "https://restcountries.com/data/mdv.png"
+    },
     "gini": 31.3,
     "languages": [
       {
@@ -10900,6 +11440,10 @@
     "demonym": "Malian",
     "independent": true,
     "flag": "https://restcountries.com/data/mli.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mli.svg",
+      "png": "https://restcountries.com/data/mli.png"
+    },
     "gini": 33,
     "languages": [
       {
@@ -10977,6 +11521,10 @@
     "demonym": "Maltese",
     "independent": true,
     "flag": "https://restcountries.com/data/mlt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mlt.svg",
+      "png": "https://restcountries.com/data/mlt.png"
+    },
     "gini": 28.7,
     "languages": [
       {
@@ -11053,6 +11601,10 @@
     "demonym": "Marshallese",
     "independent": true,
     "flag": "https://restcountries.com/data/mhl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mhl.svg",
+      "png": "https://restcountries.com/data/mhl.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -11120,6 +11672,10 @@
     "demonym": "French",
     "independent": false,
     "flag": "https://restcountries.com/data/mtq.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mtq.svg",
+      "png": "https://restcountries.com/data/mtq.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -11189,6 +11745,10 @@
     "demonym": "Mauritanian",
     "independent": true,
     "flag": "https://restcountries.com/data/mrt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mrt.svg",
+      "png": "https://restcountries.com/data/mrt.png"
+    },
     "gini": 32.6,
     "languages": [
       {
@@ -11275,6 +11835,10 @@
     "demonym": "Mauritian",
     "independent": true,
     "flag": "https://restcountries.com/data/mus.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mus.svg",
+      "png": "https://restcountries.com/data/mus.png"
+    },
     "gini": 36.8,
     "languages": [
       {
@@ -11351,6 +11915,10 @@
     "demonym": "French",
     "independent": false,
     "flag": "https://restcountries.com/data/myt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/myt.svg",
+      "png": "https://restcountries.com/data/myt.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -11432,6 +12000,10 @@
     "demonym": "Mexican",
     "independent": true,
     "flag": "https://restcountries.com/data/mex.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mex.svg",
+      "png": "https://restcountries.com/data/mex.png"
+    },
     "gini": 45.4,
     "languages": [
       {
@@ -11514,6 +12086,10 @@
     "demonym": "Micronesian",
     "independent": true,
     "flag": "https://restcountries.com/data/fsm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/fsm.svg",
+      "png": "https://restcountries.com/data/fsm.png"
+    },
     "gini": 40.1,
     "languages": [
       {
@@ -11583,6 +12159,10 @@
     "demonym": "Moldovan",
     "independent": true,
     "flag": "https://restcountries.com/data/mda.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mda.svg",
+      "png": "https://restcountries.com/data/mda.png"
+    },
     "gini": 25.7,
     "languages": [
       {
@@ -11655,6 +12235,10 @@
     "demonym": "Monegasque",
     "independent": true,
     "flag": "https://restcountries.com/data/mco.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mco.svg",
+      "png": "https://restcountries.com/data/mco.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -11720,6 +12304,10 @@
     "demonym": "Mongolian",
     "independent": true,
     "flag": "https://restcountries.com/data/mng.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mng.svg",
+      "png": "https://restcountries.com/data/mng.png"
+    },
     "gini": 32.7,
     "languages": [
       {
@@ -11791,6 +12379,10 @@
     "demonym": "Montenegrin",
     "independent": true,
     "flag": "https://restcountries.com/data/mne.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mne.svg",
+      "png": "https://restcountries.com/data/mne.png"
+    },
     "gini": 38.5,
     "languages": [
       {
@@ -11877,6 +12469,10 @@
     "demonym": "Montserratian",
     "independent": false,
     "flag": "https://restcountries.com/data/msr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/msr.svg",
+      "png": "https://restcountries.com/data/msr.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -11955,6 +12551,10 @@
     "demonym": "Moroccan",
     "independent": true,
     "flag": "https://restcountries.com/data/mar.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mar.svg",
+      "png": "https://restcountries.com/data/mar.png"
+    },
     "gini": 39.5,
     "languages": [
       {
@@ -12048,6 +12648,10 @@
     "demonym": "Mozambican",
     "independent": true,
     "flag": "https://restcountries.com/data/moz.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/moz.svg",
+      "png": "https://restcountries.com/data/moz.png"
+    },
     "gini": 54.0,
     "languages": [
       {
@@ -12132,6 +12736,10 @@
     "demonym": "Burmese",
     "independent": true,
     "flag": "https://restcountries.com/data/mmr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mmr.svg",
+      "png": "https://restcountries.com/data/mmr.png"
+    },
     "gini": 30.7,
     "languages": [
       {
@@ -12212,6 +12820,10 @@
     "demonym": "Namibian",
     "independent": true,
     "flag": "https://restcountries.com/data/nam.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nam.svg",
+      "png": "https://restcountries.com/data/nam.png"
+    },
     "gini": 59.1,
     "languages": [
       {
@@ -12297,6 +12909,10 @@
     "demonym": "Nauruan",
     "independent": true,
     "flag": "https://restcountries.com/data/nru.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nru.svg",
+      "png": "https://restcountries.com/data/nru.png"
+    },
     "gini": 34.8,
     "languages": [
       {
@@ -12371,6 +12987,10 @@
     "demonym": "Nepalese",
     "independent": true,
     "flag": "https://restcountries.com/data/npl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/npl.svg",
+      "png": "https://restcountries.com/data/npl.png"
+    },
     "gini": 32.8,
     "languages": [
       {
@@ -12444,6 +13064,10 @@
     "demonym": "Dutch",
     "independent": true,
     "flag": "https://restcountries.com/data/nld.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nld.svg",
+      "png": "https://restcountries.com/data/nld.png"
+    },
     "gini": 28.1,
     "languages": [
       {
@@ -12513,6 +13137,10 @@
     "demonym": "New Caledonian",
     "independent": false,
     "flag": "https://restcountries.com/data/ncl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ncl.svg",
+      "png": "https://restcountries.com/data/ncl.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -12576,6 +13204,10 @@
     "demonym": "New Zealander",
     "independent": true,
     "flag": "https://restcountries.com/data/nzl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nzl.svg",
+      "png": "https://restcountries.com/data/nzl.png"
+    },
     "gini": 36.2,
     "languages": [
       {
@@ -12654,6 +13286,10 @@
     "demonym": "Nicaraguan",
     "independent": true,
     "flag": "https://restcountries.com/data/nic.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nic.svg",
+      "png": "https://restcountries.com/data/nic.png"
+    },
     "gini": 46.2,
     "languages": [
       {
@@ -12739,6 +13375,10 @@
     "demonym": "Nigerien",
     "independent": true,
     "flag": "https://restcountries.com/data/ner.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ner.svg",
+      "png": "https://restcountries.com/data/ner.png"
+    },
     "gini": 34.3,
     "languages": [
       {
@@ -12822,6 +13462,10 @@
     "demonym": "Nigerian",
     "independent": true,
     "flag": "https://restcountries.com/data/nga.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nga.svg",
+      "png": "https://restcountries.com/data/nga.png"
+    },
     "gini": 35.1,
     "languages": [
       {
@@ -12902,6 +13546,10 @@
     "demonym": "Niuean",
     "independent": true,
     "flag": "https://restcountries.com/data/niu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/niu.svg",
+      "png": "https://restcountries.com/data/niu.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -12966,6 +13614,10 @@
     "demonym": "Norfolk Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/nfk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nfk.svg",
+      "png": "https://restcountries.com/data/nfk.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -13035,6 +13687,10 @@
     "demonym": "North Korean",
     "independent": true,
     "flag": "https://restcountries.com/data/prk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/prk.svg",
+      "png": "https://restcountries.com/data/prk.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -13100,6 +13756,10 @@
     "demonym": "American",
     "independent": false,
     "flag": "https://restcountries.com/data/mnp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/mnp.svg",
+      "png": "https://restcountries.com/data/mnp.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -13177,6 +13837,10 @@
     "demonym": "Norwegian",
     "independent": true,
     "flag": "https://restcountries.com/data/nor.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/nor.svg",
+      "png": "https://restcountries.com/data/nor.png"
+    },
     "gini": 27.6,
     "languages": [
       {
@@ -13263,6 +13927,10 @@
     "demonym": "Omani",
     "independent": true,
     "flag": "https://restcountries.com/data/omn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/omn.svg",
+      "png": "https://restcountries.com/data/omn.png"
+    },
     "gini": null,
     "languages": [
       {
@@ -13344,6 +14012,10 @@
     "demonym": "Pakistani",
     "independent": true,
     "flag": "https://restcountries.com/data/pak.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pak.svg",
+      "png": "https://restcountries.com/data/pak.png"
+    },
     "gini": 31.6,
     "languages": [
       {
@@ -13420,6 +14092,10 @@
     "demonym": "Palauan",
     "independent": true,
     "flag": "https://restcountries.com/data/plw.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/plw.svg",
+      "png": "https://restcountries.com/data/plw.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -13497,6 +14173,10 @@
     "demonym": "Palestinian",
     "independent": true,
     "flag": "https://restcountries.com/data/pse.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pse.svg",
+      "png": "https://restcountries.com/data/pse.png"
+    },
     "gini": 35.5,
     "languages": [
       {
@@ -13584,6 +14264,10 @@
     "demonym": "Panamanian",
     "independent": true,
     "flag": "https://restcountries.com/data/pan.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pan.svg",
+      "png": "https://restcountries.com/data/pan.png"
+    },
     "gini": 49.8,
     "languages": [
       {
@@ -13662,6 +14346,10 @@
     "demonym": "Papua New Guinean",
     "independent": true,
     "flag": "https://restcountries.com/data/png.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/png.svg",
+      "png": "https://restcountries.com/data/png.png"
+    },
     "gini": 41.9,
     "languages": [
       {
@@ -13732,6 +14420,10 @@
     "demonym": "Paraguayan",
     "independent": true,
     "flag": "https://restcountries.com/data/pry.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pry.svg",
+      "png": "https://restcountries.com/data/pry.png"
+    },
     "gini": 45.7,
     "languages": [
       {
@@ -13825,6 +14517,10 @@
     "demonym": "Peruvian",
     "independent": true,
     "flag": "https://restcountries.com/data/per.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/per.svg",
+      "png": "https://restcountries.com/data/per.png"
+    },
     "gini": 41.5,
     "languages": [
       {
@@ -13913,6 +14609,10 @@
     "demonym": "Filipino",
     "independent": true,
     "flag": "https://restcountries.com/data/phl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/phl.svg",
+      "png": "https://restcountries.com/data/phl.png"
+    },
     "gini": 42.3,
     "languages": [
       {
@@ -13987,6 +14687,10 @@
     "demonym": "Pitcairn Islander",
     "independent": true,
     "flag": "https://restcountries.com/data/pcn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pcn.svg",
+      "png": "https://restcountries.com/data/pcn.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -14059,6 +14763,10 @@
     "demonym": "Polish",
     "independent": true,
     "flag": "https://restcountries.com/data/pol.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pol.svg",
+      "png": "https://restcountries.com/data/pol.png"
+    },
     "gini": 30.2,
     "languages": [
       {
@@ -14132,6 +14840,10 @@
     "demonym": "Portuguese",
     "independent": true,
     "flag": "https://restcountries.com/data/prt.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/prt.svg",
+      "png": "https://restcountries.com/data/prt.png"
+    },
     "gini": 33.5,
     "languages": [
       {
@@ -14203,6 +14915,10 @@
     "demonym": "Puerto Rican",
     "independent": false,
     "flag": "https://restcountries.com/data/pri.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/pri.svg",
+      "png": "https://restcountries.com/data/pri.png"
+    },
     "languages": [
       {
         "iso639_1": "es",
@@ -14275,6 +14991,10 @@
     "demonym": "Qatari",
     "independent": true,
     "flag": "https://restcountries.com/data/qat.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/qat.svg",
+      "png": "https://restcountries.com/data/qat.png"
+    },
     "gini": 41.1,
     "languages": [
       {
@@ -14354,6 +15074,10 @@
     "demonym": "Kosovar",
     "independent": true,
     "flag": "https://restcountries.com/data/kos.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kos.svg",
+      "png": "https://restcountries.com/data/kos.png"
+    },
     "gini": 29.0,
     "languages": [
       {
@@ -14423,6 +15147,10 @@
     "demonym": "French",
     "independent": false,
     "flag": "https://restcountries.com/data/reu.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/reu.svg",
+      "png": "https://restcountries.com/data/reu.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -14506,6 +15234,10 @@
     "demonym": "Romanian",
     "independent": true,
     "flag": "https://restcountries.com/data/rou.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/rou.svg",
+      "png": "https://restcountries.com/data/rou.png"
+    },
     "gini": 35.8,
     "languages": [
       {
@@ -14593,6 +15325,10 @@
     "demonym": "Russian",
     "independent": true,
     "flag": "https://restcountries.com/data/rus.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/rus.svg",
+      "png": "https://restcountries.com/data/rus.png"
+    },
     "gini": 37.5,
     "languages": [
       {
@@ -14680,6 +15416,10 @@
     "demonym": "Rwandan",
     "independent": true,
     "flag": "https://restcountries.com/data/rwa.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/rwa.svg",
+      "png": "https://restcountries.com/data/rwa.png"
+    },
     "gini": 43.7,
     "languages": [
       {
@@ -14770,6 +15510,10 @@
     "demonym": "Saint Barth\u00e9lemy Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/blm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/blm.svg",
+      "png": "https://restcountries.com/data/blm.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -14831,6 +15575,10 @@
     "demonym": "Saint Helenian",
     "independent": false,
     "flag": "https://restcountries.com/data/shn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/shn.svg",
+      "png": "https://restcountries.com/data/shn.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -14905,6 +15653,10 @@
     "demonym": "Kittian and Nevisian",
     "independent": true,
     "flag": "https://restcountries.com/data/kna.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kna.svg",
+      "png": "https://restcountries.com/data/kna.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -14977,6 +15729,10 @@
     "demonym": "Saint Lucian",
     "independent": true,
     "flag": "https://restcountries.com/data/lca.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lca.svg",
+      "png": "https://restcountries.com/data/lca.png"
+    },
     "gini": 51.2,
     "languages": [
       {
@@ -15055,6 +15811,10 @@
     "demonym": "Saint Martin Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/maf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/maf.svg",
+      "png": "https://restcountries.com/data/maf.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -15133,6 +15893,10 @@
     "demonym": "French",
     "independent": false,
     "flag": "https://restcountries.com/data/spm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/spm.svg",
+      "png": "https://restcountries.com/data/spm.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -15195,6 +15959,10 @@
     "demonym": "Saint Vincentian",
     "independent": true,
     "flag": "https://restcountries.com/data/vct.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vct.svg",
+      "png": "https://restcountries.com/data/vct.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -15269,6 +16037,10 @@
     "demonym": "Samoan",
     "independent": true,
     "flag": "https://restcountries.com/data/wsm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/wsm.svg",
+      "png": "https://restcountries.com/data/wsm.png"
+    },
     "gini": 38.7,
     "languages": [
       {
@@ -15342,6 +16114,10 @@
     "demonym": "Sammarinese",
     "independent": true,
     "flag": "https://restcountries.com/data/smr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/smr.svg",
+      "png": "https://restcountries.com/data/smr.png"
+    },
     "languages": [
       {
         "iso639_1": "it",
@@ -15406,6 +16182,10 @@
     "demonym": "Sao Tomean",
     "independent": true,
     "flag": "https://restcountries.com/data/stp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/stp.svg",
+      "png": "https://restcountries.com/data/stp.png"
+    },
     "gini": 56.3,
     "languages": [
       {
@@ -15491,6 +16271,10 @@
     "demonym": "Saudi Arabian",
     "independent": true,
     "flag": "https://restcountries.com/data/sau.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sau.svg",
+      "png": "https://restcountries.com/data/sau.png"
+    },
     "gini": 45.9,
     "languages": [
       {
@@ -15572,6 +16356,10 @@
     "demonym": "Senegalese",
     "independent": true,
     "flag": "https://restcountries.com/data/sen.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sen.svg",
+      "png": "https://restcountries.com/data/sen.png"
+    },
     "gini": 40.3,
     "languages": [
       {
@@ -15660,6 +16448,10 @@
     "demonym": "Serbian",
     "independent": true,
     "flag": "https://restcountries.com/data/srb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/srb.svg",
+      "png": "https://restcountries.com/data/srb.png"
+    },
     "gini": 36.2,
     "languages": [
       {
@@ -15731,6 +16523,10 @@
     "demonym": "Seychellois",
     "independent": true,
     "flag": "https://restcountries.com/data/syc.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/syc.svg",
+      "png": "https://restcountries.com/data/syc.png"
+    },
     "gini": 32.1,
     "languages": [
       {
@@ -15816,6 +16612,10 @@
     "demonym": "Sierra Leonean",
     "independent": true,
     "flag": "https://restcountries.com/data/sle.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sle.svg",
+      "png": "https://restcountries.com/data/sle.png"
+    },
     "gini": 35.7,
     "languages": [
       {
@@ -15899,6 +16699,10 @@
     "demonym": "Singaporean",
     "independent": true,
     "flag": "https://restcountries.com/data/sgp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sgp.svg",
+      "png": "https://restcountries.com/data/sgp.png"
+    },
     "gini": 45.9,
     "languages": [
       {
@@ -15987,6 +16791,10 @@
     "demonym": "Dutch",
     "independent": false,
     "flag": "https://restcountries.com/data/sxm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sxm.svg",
+      "png": "https://restcountries.com/data/sxm.png"
+    },
     "languages": [
       {
         "iso639_1": "nl",
@@ -16061,6 +16869,10 @@
     "demonym": "Slovak",
     "independent": true,
     "flag": "https://restcountries.com/data/svk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/svk.svg",
+      "png": "https://restcountries.com/data/svk.png"
+    },
     "gini": 25.0,
     "languages": [
       {
@@ -16136,6 +16948,10 @@
     "demonym": "Slovene",
     "independent": true,
     "flag": "https://restcountries.com/data/svn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/svn.svg",
+      "png": "https://restcountries.com/data/svn.png"
+    },
     "gini": 24.6,
     "languages": [
       {
@@ -16204,6 +17020,10 @@
     "demonym": "Solomon Islander",
     "independent": true,
     "flag": "https://restcountries.com/data/slb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/slb.svg",
+      "png": "https://restcountries.com/data/slb.png"
+    },
     "gini": 37.1,
     "languages": [
       {
@@ -16275,6 +17095,10 @@
     "demonym": "Somali",
     "independent": true,
     "flag": "https://restcountries.com/data/som.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/som.svg",
+      "png": "https://restcountries.com/data/som.png"
+    },
     "gini": 36.8,
     "languages": [
       {
@@ -16375,6 +17199,10 @@
     "demonym": "South African",
     "independent": true,
     "flag": "https://restcountries.com/data/zaf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/zaf.svg",
+      "png": "https://restcountries.com/data/zaf.png"
+    },
     "gini": 63.1,
     "languages": [
       {
@@ -16504,6 +17332,10 @@
     "demonym": "South Georgia and the South Sandwich Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/sgs.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sgs.svg",
+      "png": "https://restcountries.com/data/sgs.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -16586,6 +17418,10 @@
     "demonym": "South Korean",
     "independent": true,
     "flag": "https://restcountries.com/data/kor.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/kor.svg",
+      "png": "https://restcountries.com/data/kor.png"
+    },
     "gini": 31.3,
     "languages": [
       {
@@ -16656,6 +17492,10 @@
     "demonym": "South Sudanese",
     "independent": true,
     "flag": "https://restcountries.com/data/ssd.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ssd.svg",
+      "png": "https://restcountries.com/data/ssd.png"
+    },
     "gini": 44.1,
     "languages": [
       {
@@ -16739,6 +17579,10 @@
     "demonym": "Spanish",
     "independent": true,
     "flag": "https://restcountries.com/data/esp.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/esp.svg",
+      "png": "https://restcountries.com/data/esp.png"
+    },
     "gini": 34.7,
     "languages": [
       {
@@ -16812,6 +17656,10 @@
     "demonym": "Sri Lankan",
     "independent": true,
     "flag": "https://restcountries.com/data/lka.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/lka.svg",
+      "png": "https://restcountries.com/data/lka.png"
+    },
     "gini": 39.3,
     "languages": [
       {
@@ -16896,6 +17744,10 @@
     "demonym": "Sudanese",
     "independent": true,
     "flag": "https://restcountries.com/data/sdn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sdn.svg",
+      "png": "https://restcountries.com/data/sdn.png"
+    },
     "gini": 34.2,
     "languages": [
       {
@@ -16995,6 +17847,10 @@
     "demonym": "Surinamer",
     "independent": true,
     "flag": "https://restcountries.com/data/sur.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sur.svg",
+      "png": "https://restcountries.com/data/sur.png"
+    },
     "gini": 57.9,
     "languages": [
       {
@@ -17083,6 +17939,10 @@
     "demonym": "Norwegian",
     "independent": false,
     "flag": "https://restcountries.com/data/sjm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/sjm.svg",
+      "png": "https://restcountries.com/data/sjm.png"
+    },
     "languages": [
       {
         "iso639_1": "no",
@@ -17153,6 +18013,10 @@
     "demonym": "Swazi",
     "independent": true,
     "flag": "https://restcountries.com/data/swz.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/swz.svg",
+      "png": "https://restcountries.com/data/swz.png"
+    },
     "gini": 51.5,
     "languages": [
       {
@@ -17239,6 +18103,10 @@
     "demonym": "Swedish",
     "independent": true,
     "flag": "https://restcountries.com/data/swe.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/swe.svg",
+      "png": "https://restcountries.com/data/swe.png"
+    },
     "gini": 30.0,
     "languages": [
       {
@@ -17318,6 +18186,10 @@
     "demonym": "Swiss",
     "independent": true,
     "flag": "https://restcountries.com/data/che.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/che.svg",
+      "png": "https://restcountries.com/data/che.png"
+    },
     "gini": 33.1,
     "languages": [
       {
@@ -17412,6 +18284,10 @@
     "demonym": "Syrian",
     "independent": true,
     "flag": "https://restcountries.com/data/syr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/syr.svg",
+      "png": "https://restcountries.com/data/syr.png"
+    },
     "gini": 37.5,
     "languages": [
       {
@@ -17489,6 +18365,10 @@
     "demonym": "Taiwanese",
     "independent": true,
     "flag": "https://restcountries.com/data/twn.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/twn.svg",
+      "png": "https://restcountries.com/data/twn.png"
+    },
     "gini": 33.6,
     "languages": [
       {
@@ -17561,6 +18441,10 @@
     "demonym": "Tadzhik",
     "independent": true,
     "flag": "https://restcountries.com/data/tjk.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tjk.svg",
+      "png": "https://restcountries.com/data/tjk.png"
+    },
     "gini": 34.0,
     "languages": [
       {
@@ -17641,6 +18525,10 @@
     "demonym": "Tanzanian",
     "independent": true,
     "flag": "https://restcountries.com/data/tza.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tza.svg",
+      "png": "https://restcountries.com/data/tza.png"
+    },
     "gini": 40.5,
     "languages": [
       {
@@ -17732,6 +18620,10 @@
     "demonym": "Thai",
     "independent": true,
     "flag": "https://restcountries.com/data/tha.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tha.svg",
+      "png": "https://restcountries.com/data/tha.png"
+    },
     "gini": 34.9,
     "languages": [
       {
@@ -17806,6 +18698,10 @@
     "demonym": "East Timorese",
     "independent": true,
     "flag": "https://restcountries.com/data/tls.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tls.svg",
+      "png": "https://restcountries.com/data/tls.png"
+    },
     "gini": 28.7,
     "languages": [
       {
@@ -17876,6 +18772,10 @@
     "demonym": "Togolese",
     "independent": true,
     "flag": "https://restcountries.com/data/tgo.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tgo.svg",
+      "png": "https://restcountries.com/data/tgo.png"
+    },
     "gini": 43.1,
     "languages": [
       {
@@ -17951,6 +18851,10 @@
     "demonym": "Tokelauan",
     "independent": false,
     "flag": "https://restcountries.com/data/tkl.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tkl.svg",
+      "png": "https://restcountries.com/data/tkl.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -18013,6 +18917,10 @@
     "demonym": "Tongan",
     "independent": true,
     "flag": "https://restcountries.com/data/ton.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ton.svg",
+      "png": "https://restcountries.com/data/ton.png"
+    },
     "gini": 37.6,
     "languages": [
       {
@@ -18083,6 +18991,10 @@
     "demonym": "Trinidadian",
     "independent": true,
     "flag": "https://restcountries.com/data/tto.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tto.svg",
+      "png": "https://restcountries.com/data/tto.png"
+    },
     "gini": 40.3,
     "languages": [
       {
@@ -18161,6 +19073,10 @@
     "demonym": "Tunisian",
     "independent": true,
     "flag": "https://restcountries.com/data/tun.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tun.svg",
+      "png": "https://restcountries.com/data/tun.png"
+    },
     "gini": 32.8,
     "languages": [
       {
@@ -18256,6 +19172,10 @@
     ],
     ",demonym": "Turkish",
     "flag": "https://restcountries.com/data/tur.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tur.svg",
+      "png": "https://restcountries.com/data/tur.png"
+    },
     "gini": 41.9,
     "languages": [
       {
@@ -18324,6 +19244,10 @@
     "demonym": "Turkmen",
     "independent": true,
     "flag": "https://restcountries.com/data/tkm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tkm.svg",
+      "png": "https://restcountries.com/data/tkm.png"
+    },
     "gini": 40.8,
     "languages": [
       {
@@ -18393,6 +19317,10 @@
     "demonym": "Turks and Caicos Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/tca.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tca.svg",
+      "png": "https://restcountries.com/data/tca.png"
+    },
     "languages": [
       {
         "iso639_1": "en",
@@ -18460,6 +19388,10 @@
     "demonym": "Tuvaluan",
     "independent": true,
     "flag": "https://restcountries.com/data/tuv.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/tuv.svg",
+      "png": "https://restcountries.com/data/tuv.png"
+    },
     "gini": 39.1,
     "languages": [
       {
@@ -18531,6 +19463,10 @@
     "demonym": "Ugandan",
     "independent": true,
     "flag": "https://restcountries.com/data/uga.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/uga.svg",
+      "png": "https://restcountries.com/data/uga.png"
+    },
     "gini": 42.8,
     "languages": [
       {
@@ -18621,6 +19557,10 @@
     "demonym": "Ukrainian",
     "independent": true,
     "flag": "https://restcountries.com/data/ukr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ukr.svg",
+      "png": "https://restcountries.com/data/ukr.png"
+    },
     "gini": 26.6,
     "languages": [
       {
@@ -18688,6 +19628,10 @@
     "demonym": "Emirati",
     "independent": true,
     "flag": "https://restcountries.com/data/are.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/are.svg",
+      "png": "https://restcountries.com/data/are.png"
+    },
     "gini": 26.0,
     "languages": [
       {
@@ -18765,6 +19709,10 @@
     "demonym": "British",
     "independent": true,
     "flag": "https://restcountries.com/data/gbr.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/gbr.svg",
+      "png": "https://restcountries.com/data/gbr.png"
+    },
     "gini": 35.1,
     "languages": [
       {
@@ -18840,6 +19788,10 @@
     "demonym": "American",
     "independent": true,
     "flag": "https://restcountries.com/data/usa.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/usa.svg",
+      "png": "https://restcountries.com/data/usa.png"
+    },
     "gini": 41.4,
     "languages": [
       {
@@ -18927,6 +19879,10 @@
     "demonym": "Uruguayan",
     "independent": true,
     "flag": "https://restcountries.com/data/ury.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ury.svg",
+      "png": "https://restcountries.com/data/ury.png"
+    },
     "gini": 39.7,
     "languages": [
       {
@@ -19014,6 +19970,10 @@
     ],
     ",demonym": "Uzbekistani",
     "flag": "https://restcountries.com/data/uzb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/uzb.svg",
+      "png": "https://restcountries.com/data/uzb.png"
+    },
     "gini": 35.3,
     "languages": [
       {
@@ -19086,6 +20046,10 @@
     "demonym": "Ni-Vanuatu",
     "independent": true,
     "flag": "https://restcountries.com/data/vut.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vut.svg",
+      "png": "https://restcountries.com/data/vut.png"
+    },
     "gini": 37.6,
     "languages": [
       {
@@ -19167,6 +20131,10 @@
     "demonym": "Venezuelan",
     "independent": true,
     "flag": "https://restcountries.com/data/ven.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/ven.svg",
+      "png": "https://restcountries.com/data/ven.png"
+    },
     "gini": 39,
     "languages": [
       {
@@ -19252,6 +20220,10 @@
     "demonym": "Vietnamese",
     "independent": true,
     "flag": "https://restcountries.com/data/vnm.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/vnm.svg",
+      "png": "https://restcountries.com/data/vnm.png"
+    },
     "gini": 35.6,
     "languages": [
       {
@@ -19322,6 +20294,10 @@
     "demonym": "Wallis and Futuna Islander",
     "independent": false,
     "flag": "https://restcountries.com/data/wlf.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/wlf.svg",
+      "png": "https://restcountries.com/data/wlf.png"
+    },
     "languages": [
       {
         "iso639_1": "fr",
@@ -19394,6 +20370,10 @@
     "demonym": "Sahrawi",
     "independent": false,
     "flag": "https://restcountries.com/data/esh.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/esh.svg",
+      "png": "https://restcountries.com/data/esh.png"
+    },
     "languages": [
       {
         "iso639_1": "es",
@@ -19473,6 +20453,10 @@
     "demonym": "Yemeni",
     "independent": true,
     "flag": "https://restcountries.com/data/yem.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/yem.svg",
+      "png": "https://restcountries.com/data/yem.png"
+    },
     "gini": 36.7,
     "languages": [
       {
@@ -19556,6 +20540,10 @@
     "demonym": "Zambian",
     "independent": true,
     "flag": "https://restcountries.com/data/zmb.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/zmb.svg",
+      "png": "https://restcountries.com/data/zmb.png"
+    },
     "gini": 57.1,
     "languages": [
       {
@@ -19637,6 +20625,10 @@
     "demonym": "Zimbabwean",
     "independent": true,
     "flag": "https://restcountries.com/data/zwe.svg",
+    "flags": {
+      "svg": "https://restcountries.com/data/zwe.svg",
+      "png": "https://restcountries.com/data/zwe.png"
+    },
     "gini": 50.3,
     "languages": [
       {
