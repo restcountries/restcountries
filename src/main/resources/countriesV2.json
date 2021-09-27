@@ -65,7 +65,7 @@
     "name": "Afghanistan",
     "nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
     "numericCode": "004",
-    "population": 27657145,
+    "population": 38928341,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -90,7 +90,7 @@
       "it": "Afghanistan",
       "ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
       "nl": "Afghanistan",
-      "pl":"Afganistan",
+      "pl": "Afganistan",
       "pt": "Afeganist\u00e3o",
       "hu": "Afganiszt\u00e1n"
     },
@@ -150,7 +150,7 @@
     "name": "Albania",
     "nativeName": "Shqip\u00ebria",
     "numericCode": "008",
-    "population": 2886026,
+    "population": 2837743,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -175,7 +175,7 @@
       "it": "Albania",
       "ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
       "nl": "Albani\u00eb",
-      "pl":"Albania",
+      "pl": "Albania",
       "pt": "Alb\u00e2nia",
       "hu": "Alb\u00e1nia"
     },
@@ -237,7 +237,7 @@
     "name": "Algeria",
     "nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
     "numericCode": "012",
-    "population": 40400000,
+    "population": 43851043,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -278,7 +278,7 @@
       "it": "Algeria",
       "ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
       "nl": "Algerije",
-      "pl":"Algieria",
+      "pl": "Algieria",
       "pt": "Arg\u00e9lia",
       "hu": "Alg\u00e9ria"
     },
@@ -338,7 +338,7 @@
     "name": "American Samoa",
     "nativeName": "American Samoa",
     "numericCode": "016",
-    "population": 57100,
+    "population": 55197,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Polynesia",
@@ -358,7 +358,7 @@
       "it": "Samoa Americane",
       "ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
       "nl": "Amerikaans Samoa",
-      "pl":"Samoa Ameryka\u0144skie",
+      "pl": "Samoa Ameryka\u0144skie",
       "pt": "Samoa Americana",
       "hu": "Amerikai Szamoa"
     },
@@ -414,7 +414,7 @@
     "name": "Andorra",
     "nativeName": "Andorra",
     "numericCode": "020",
-    "population": 78014,
+    "population": 77265,
     "region": "Europe",
     "regionalBlocs": [],
     "subregion": "Southern Europe",
@@ -434,7 +434,7 @@
       "it": "Andorra",
       "ja": "\u30a2\u30f3\u30c9\u30e9",
       "nl": "Andorra",
-      "pl":"Andora",
+      "pl": "Andora",
       "pt": "Andorra",
       "hu": "Andorra"
     },
@@ -493,7 +493,7 @@
     "name": "Angola",
     "nativeName": "Angola",
     "numericCode": "024",
-    "population": 25868000,
+    "population": 32866268,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -720,7 +720,7 @@
     "name": "Antigua and Barbuda",
     "nativeName": "Antigua and Barbuda",
     "numericCode": "028",
-    "population": 86295,
+    "population": 97928,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -815,7 +815,7 @@
     "name": "Argentina",
     "nativeName": "Argentina",
     "numericCode": "032",
-    "population": 43590400,
+    "population": 45376763,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -910,7 +910,7 @@
     "name": "Armenia",
     "nativeName": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
     "numericCode": "051",
-    "population": 2994400,
+    "population": 2963234,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -994,7 +994,7 @@
     "name": "Aruba",
     "nativeName": "Aruba",
     "numericCode": "533",
-    "population": 107394,
+    "population": 106766,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -1065,7 +1065,7 @@
     "name": "Australia",
     "nativeName": "Australia",
     "numericCode": "036",
-    "population": 24117360,
+    "population": 25687041,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Australia and New Zealand",
@@ -1155,7 +1155,7 @@
     "name": "Austria",
     "nativeName": "\u00d6sterreich",
     "numericCode": "040",
-    "population": 8725931,
+    "population": 8917205,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -1236,7 +1236,7 @@
     "name": "Azerbaijan",
     "nativeName": "Az\u0259rbaycan",
     "numericCode": "031",
-    "population": 9730500,
+    "population": 10110116,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Western Asia",
@@ -1307,7 +1307,7 @@
     "name": "Bahamas",
     "nativeName": "Bahamas",
     "numericCode": "044",
-    "population": 378040,
+    "population": 393248,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -1390,7 +1390,7 @@
     "name": "Bahrain",
     "nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "numericCode": "048",
-    "population": 1404900,
+    "population": 1701583,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -1476,7 +1476,7 @@
     "name": "Bangladesh",
     "nativeName": "Bangladesh",
     "numericCode": "050",
-    "population": 161006790,
+    "population": 164689383,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -1551,7 +1551,7 @@
     "name": "Barbados",
     "nativeName": "Barbados",
     "numericCode": "052",
-    "population": 285000,
+    "population": 287371,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -1655,7 +1655,7 @@
     "name": "Belarus",
     "nativeName": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
     "numericCode": "112",
-    "population": 9498700,
+    "population": 9398861,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -1759,7 +1759,7 @@
     "name": "Belgium",
     "nativeName": "Belgi\u00eb",
     "numericCode": "056",
-    "population": 11319511,
+    "population": 11555997,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -1844,7 +1844,7 @@
     "name": "Belize",
     "nativeName": "Belize",
     "numericCode": "084",
-    "population": 370300,
+    "population": 397621,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -1942,7 +1942,7 @@
     "name": "Benin",
     "nativeName": "B\u00e9nin",
     "numericCode": "204",
-    "population": 10653654,
+    "population": 12123198,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -2026,7 +2026,7 @@
     "name": "Bermuda",
     "nativeName": "Bermuda",
     "numericCode": "060",
-    "population": 61954,
+    "population": 63903,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Northern America",
@@ -2106,7 +2106,7 @@
     "name": "Bhutan",
     "nativeName": "\u02bcbrug-yul",
     "numericCode": "064",
-    "population": 775620,
+    "population": 771612,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -2207,7 +2207,7 @@
     "name": "Bolivia (Plurinational State of)",
     "nativeName": "Bolivia",
     "numericCode": "068",
-    "population": 10985059,
+    "population": 11673029,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -2309,7 +2309,7 @@
       "it": "Bonaire, Saint-Eustache e Saba",
       "pt": "Bonaire",
       "hu": "Bonaire",
-      "se": "Karibiska Nederländerna"
+      "se": "Karibiska Nederl\u00e4nderna"
     }
   },
   {
@@ -2344,7 +2344,7 @@
       "svg": "https://restcountries.com/data/bih.svg",
       "png": "https://restcountries.com/data/bih.png"
     },
-    "gini": 33.0,
+    "gini": 33,
     "languages": [
       {
         "iso639_1": "bs",
@@ -2372,7 +2372,7 @@
     "name": "Bosnia and Herzegovina",
     "nativeName": "Bosna i Hercegovina",
     "numericCode": "070",
-    "population": 3531159,
+    "population": 3280815,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -2457,7 +2457,7 @@
     "name": "Botswana",
     "nativeName": "Botswana",
     "numericCode": "072",
-    "population": 2141206,
+    "population": 2351625,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -2631,7 +2631,7 @@
     "name": "Brazil",
     "nativeName": "Brasil",
     "numericCode": "076",
-    "population": 206135893,
+    "population": 212559409,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -2858,7 +2858,7 @@
     "name": "Virgin Islands (British)",
     "nativeName": "British Virgin Islands",
     "numericCode": "092",
-    "population": 28514,
+    "population": 30237,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -2927,7 +2927,7 @@
     "name": "Virgin Islands (U.S.)",
     "nativeName": "Virgin Islands of the United States",
     "numericCode": "850",
-    "population": 114743,
+    "population": 106290,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -3001,7 +3001,7 @@
     "name": "Brunei Darussalam",
     "nativeName": "Negara Brunei Darussalam",
     "numericCode": "096",
-    "population": 411900,
+    "population": 437483,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -3081,7 +3081,7 @@
     "name": "Bulgaria",
     "nativeName": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "numericCode": "100",
-    "population": 7153784,
+    "population": 6927288,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -3166,7 +3166,7 @@
     "name": "Burkina Faso",
     "nativeName": "Burkina Faso",
     "numericCode": "854",
-    "population": 19034397,
+    "population": 20903278,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3258,7 +3258,7 @@
     "name": "Burundi",
     "nativeName": "Burundi",
     "numericCode": "108",
-    "population": 10114505,
+    "population": 11890781,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3347,7 +3347,7 @@
     "name": "Cambodia",
     "nativeName": "K\u00e2mp\u016dch\u00e9a",
     "numericCode": "116",
-    "population": 15626444,
+    "population": 16718971,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -3434,7 +3434,7 @@
     "name": "Cameroon",
     "nativeName": "Cameroon",
     "numericCode": "120",
-    "population": 22709892,
+    "population": 26545864,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3521,7 +3521,7 @@
     "name": "Canada",
     "nativeName": "Canada",
     "numericCode": "124",
-    "population": 36155487,
+    "population": 38005238,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -3604,7 +3604,7 @@
     "name": "Cabo Verde",
     "nativeName": "Cabo Verde",
     "numericCode": "132",
-    "population": 531239,
+    "population": 555988,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3682,7 +3682,7 @@
     "name": "Cayman Islands",
     "nativeName": "Cayman Islands",
     "numericCode": "136",
-    "population": 58238,
+    "population": 65720,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -3703,7 +3703,7 @@
       "ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
       "nl": "Caymaneilanden",
       "pt": "Ilhas Caim\u00e3o",
-      "se": "Caymanöarna",
+      "se": "Cayman\u00f6arna",
       "hu": "Kajm\u00e1n-szigetek"
     },
     "cioc": "CAY"
@@ -3765,7 +3765,7 @@
     "name": "Central African Republic",
     "nativeName": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
     "numericCode": "140",
-    "population": 4998000,
+    "population": 4829764,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3860,7 +3860,7 @@
     "name": "Chad",
     "nativeName": "Tchad",
     "numericCode": "148",
-    "population": 14497000,
+    "population": 16425859,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -3945,7 +3945,7 @@
     "name": "Chile",
     "nativeName": "Chile",
     "numericCode": "152",
-    "population": 18191900,
+    "population": 19116209,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -4059,7 +4059,7 @@
     "name": "China",
     "nativeName": "\u4e2d\u56fd",
     "numericCode": "156",
-    "population": 1377422166,
+    "population": 1402112000,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -4080,7 +4080,7 @@
       "ja": "\u4e2d\u56fd",
       "nl": "China",
       "pt": "China",
-      "hu": "Kína"
+      "hu": "K\u00edna"
     },
     "cioc": "CHN"
   },
@@ -4269,7 +4269,7 @@
     "name": "Colombia",
     "nativeName": "Colombia",
     "numericCode": "170",
-    "population": 48759958,
+    "population": 50882884,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -4369,7 +4369,7 @@
     "name": "Comoros",
     "nativeName": "Komori",
     "numericCode": "174",
-    "population": 806153,
+    "population": 869595,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -4470,7 +4470,7 @@
     "name": "Congo",
     "nativeName": "R\u00e9publique du Congo",
     "numericCode": "178",
-    "population": 4741000,
+    "population": 5518092,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -4586,7 +4586,7 @@
     "name": "Congo (Democratic Republic of the)",
     "nativeName": "R\u00e9publique d\u00e9mocratique du Congo",
     "numericCode": "180",
-    "population": 85026000,
+    "population": 89561404,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -4620,7 +4620,7 @@
       "ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
       "nl": "Congo [DRC]",
       "pt": "RD Congo",
-      "hu": "Kong\u00f3i Demokratikus K\u00f6ztársaság"
+      "hu": "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
     },
     "cioc": "COD"
   },
@@ -4749,7 +4749,7 @@
     "name": "Costa Rica",
     "nativeName": "Costa Rica",
     "numericCode": "188",
-    "population": 4890379,
+    "population": 5094114,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -4836,7 +4836,7 @@
     "name": "Croatia",
     "nativeName": "Hrvatska",
     "numericCode": "191",
-    "population": 4190669,
+    "population": 4047200,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -4915,7 +4915,7 @@
     "name": "Cuba",
     "nativeName": "Cuba",
     "numericCode": "192",
-    "population": 11239004,
+    "population": 11326616,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -4998,7 +4998,7 @@
     "name": "Cura\u00e7ao",
     "nativeName": "Cura\u00e7ao",
     "numericCode": "531",
-    "population": 154843,
+    "population": 155014,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -5017,7 +5017,7 @@
       "nl": "Cura\u00e7ao",
       "pt": "Cura\u00e7ao",
       "se": "Cura\u00e7ao",
-      "hu": "Cura\u007eao"
+      "hu": "Cura~ao"
     },
     "cioc": ""
   },
@@ -5082,7 +5082,7 @@
     "name": "Cyprus",
     "nativeName": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "numericCode": "196",
-    "population": 847000,
+    "population": 1207361,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -5140,7 +5140,7 @@
       "svg": "https://restcountries.com/data/cze.svg",
       "png": "https://restcountries.com/data/cze.png"
     },
-    "gini": 25.0,
+    "gini": 25,
     "languages": [
       {
         "iso639_1": "cs",
@@ -5162,7 +5162,7 @@
     "name": "Czech Republic",
     "nativeName": "\u010cesk\u00e1 republika",
     "numericCode": "203",
-    "population": 10558524,
+    "population": 10698896,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -5239,7 +5239,7 @@
     "name": "Denmark",
     "nativeName": "Danmark",
     "numericCode": "208",
-    "population": 5717014,
+    "population": 5831404,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -5331,7 +5331,7 @@
     "name": "Djibouti",
     "nativeName": "Djibouti",
     "numericCode": "262",
-    "population": 900000,
+    "population": 988002,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -5421,7 +5421,7 @@
     "name": "Dominica",
     "nativeName": "Dominica",
     "numericCode": "212",
-    "population": 71293,
+    "population": 71991,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -5490,7 +5490,7 @@
     "name": "Dominican Republic",
     "nativeName": "Rep\u00fablica Dominicana",
     "numericCode": "214",
-    "population": 10075045,
+    "population": 10847904,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -5582,7 +5582,7 @@
     "name": "Ecuador",
     "nativeName": "Ecuador",
     "numericCode": "218",
-    "population": 16545799,
+    "population": 17643060,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -5671,7 +5671,7 @@
     "name": "Egypt",
     "nativeName": "\u0645\u0635\u0631\u200e",
     "numericCode": "818",
-    "population": 91290000,
+    "population": 102334403,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -5764,7 +5764,7 @@
     "name": "El Salvador",
     "nativeName": "El Salvador",
     "numericCode": "222",
-    "population": 6520675,
+    "population": 6486201,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -5867,7 +5867,7 @@
     "name": "Equatorial Guinea",
     "nativeName": "Guinea Ecuatorial",
     "numericCode": "226",
-    "population": 1222442,
+    "population": 1402985,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -6088,7 +6088,7 @@
     "name": "Estonia",
     "nativeName": "Eesti",
     "numericCode": "233",
-    "population": 1315944,
+    "population": 1331057,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -6154,7 +6154,7 @@
       "svg": "https://restcountries.com/data/eth.svg",
       "png": "https://restcountries.com/data/eth.png"
     },
-    "gini": 35.0,
+    "gini": 35,
     "languages": [
       {
         "iso639_1": "am",
@@ -6170,7 +6170,7 @@
     "name": "Ethiopia",
     "nativeName": "\u12a2\u1275\u12ee\u1335\u12eb",
     "numericCode": "231",
-    "population": 92206005,
+    "population": 114963583,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -6234,7 +6234,7 @@
       "svg": "https://restcountries.com/data/flk.svg",
       "png": "https://restcountries.com/data/flk.png"
     },
-    "gini": 36.0,
+    "gini": 36,
     "languages": [
       {
         "iso639_1": "en",
@@ -6340,10 +6340,9 @@
     "name": "Faroe Islands",
     "nativeName": "F\u00f8royar",
     "numericCode": "234",
-    "population": 49376,
+    "population": 48865,
     "region": "Europe",
-    "regionalBlocs": [
-    ],
+    "regionalBlocs": [],
     "subregion": "Northern Europe",
     "timezones": [
       "UTC+00:00"
@@ -6430,7 +6429,7 @@
     "name": "Fiji",
     "nativeName": "Fiji",
     "numericCode": "242",
-    "population": 867000,
+    "population": 896444,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Melanesia",
@@ -6511,7 +6510,7 @@
     "name": "Finland",
     "nativeName": "Suomi",
     "numericCode": "246",
-    "population": 5491817,
+    "population": 5530719,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -6594,7 +6593,7 @@
     "name": "France",
     "nativeName": "France",
     "numericCode": "250",
-    "population": 66710000,
+    "population": 67391582,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -6771,7 +6770,7 @@
     "name": "French Polynesia",
     "nativeName": "Polyn\u00e9sie fran\u00e7aise",
     "numericCode": "258",
-    "population": 271800,
+    "population": 280904,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Polynesia",
@@ -6908,7 +6907,7 @@
       "svg": "https://restcountries.com/data/gab.svg",
       "png": "https://restcountries.com/data/gab.png"
     },
-    "gini": 38.0,
+    "gini": 38,
     "languages": [
       {
         "iso639_1": "fr",
@@ -6924,7 +6923,7 @@
     "name": "Gabon",
     "nativeName": "Gabon",
     "numericCode": "266",
-    "population": 1802278,
+    "population": 2225728,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -7006,7 +7005,7 @@
     "name": "Gambia",
     "nativeName": "Gambia",
     "numericCode": "270",
-    "population": 1882450,
+    "population": 2416664,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -7091,7 +7090,7 @@
     "name": "Georgia",
     "nativeName": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
     "numericCode": "268",
-    "population": 3720400,
+    "population": 3714000,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Western Asia",
@@ -7170,7 +7169,7 @@
     "name": "Germany",
     "nativeName": "Deutschland",
     "numericCode": "276",
-    "population": 81770900,
+    "population": 83240525,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -7246,7 +7245,7 @@
     "name": "Ghana",
     "nativeName": "Ghana",
     "numericCode": "288",
-    "population": 27670174,
+    "population": 31072945,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -7326,7 +7325,7 @@
     "name": "Gibraltar",
     "nativeName": "Gibraltar",
     "numericCode": "292",
-    "population": 33140,
+    "population": 33691,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -7406,7 +7405,7 @@
     "name": "Greece",
     "nativeName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "numericCode": "300",
-    "population": 10858018,
+    "population": 10715549,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -7479,7 +7478,7 @@
     "name": "Greenland",
     "nativeName": "Kalaallit Nunaat",
     "numericCode": "304",
-    "population": 55847,
+    "population": 56367,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Northern America",
@@ -7548,7 +7547,7 @@
     "name": "Grenada",
     "nativeName": "Grenada",
     "numericCode": "308",
-    "population": 103328,
+    "population": 112519,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -7703,7 +7702,7 @@
     "name": "Guam",
     "nativeName": "Guam",
     "numericCode": "316",
-    "population": 184200,
+    "population": 168783,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -7775,7 +7774,7 @@
     "name": "Guatemala",
     "nativeName": "Guatemala",
     "numericCode": "320",
-    "population": 16176133,
+    "population": 16858333,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -7947,7 +7946,7 @@
     "name": "Guinea",
     "nativeName": "Guin\u00e9e",
     "numericCode": "324",
-    "population": 12947000,
+    "population": 13132792,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -8031,7 +8030,7 @@
     "name": "Guinea-Bissau",
     "nativeName": "Guin\u00e9-Bissau",
     "numericCode": "624",
-    "population": 1547777,
+    "population": 1967998,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -8115,7 +8114,7 @@
     "name": "Guyana",
     "nativeName": "Guyana",
     "numericCode": "328",
-    "population": 746900,
+    "population": 786559,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -8218,7 +8217,7 @@
     "name": "Haiti",
     "nativeName": "Ha\u00efti",
     "numericCode": "332",
-    "population": 11078033,
+    "population": 11402533,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -8456,7 +8455,7 @@
     "name": "Honduras",
     "nativeName": "Honduras",
     "numericCode": "340",
-    "population": 8576532,
+    "population": 9904608,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -8542,7 +8541,7 @@
     "name": "Hungary",
     "nativeName": "Magyarorsz\u00e1g",
     "numericCode": "348",
-    "population": 9823000,
+    "population": 9749763,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -8617,7 +8616,7 @@
     "name": "Iceland",
     "nativeName": "\u00cdsland",
     "numericCode": "352",
-    "population": 334300,
+    "population": 366425,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -8707,7 +8706,7 @@
     "name": "India",
     "nativeName": "\u092d\u093e\u0930\u0924",
     "numericCode": "356",
-    "population": 1378712489,
+    "population": 1380004385,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -8785,7 +8784,7 @@
     "name": "Indonesia",
     "nativeName": "Indonesia",
     "numericCode": "360",
-    "population": 258705000,
+    "population": 273523621,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -8868,7 +8867,7 @@
     "name": "Ivory Coast",
     "nativeName": "C\u00f4te d'Ivoire",
     "numericCode": "384",
-    "population": 22671331,
+    "population": 26378275,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -8941,7 +8940,7 @@
       "svg": "https://restcountries.com/data/irn.svg",
       "png": "https://restcountries.com/data/irn.png"
     },
-    "gini": 42.0,
+    "gini": 42,
     "languages": [
       {
         "iso639_1": "fa",
@@ -8957,7 +8956,7 @@
     "name": "Iran (Islamic Republic of)",
     "nativeName": "\u0627\u06cc\u0631\u0627\u0646",
     "numericCode": "364",
-    "population": 79369900,
+    "population": 83992953,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Southern Asia",
@@ -9038,7 +9037,7 @@
     "name": "Iraq",
     "nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
     "numericCode": "368",
-    "population": 37883543,
+    "population": 40222503,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -9126,7 +9125,7 @@
     "name": "Ireland",
     "nativeName": "\u00c9ire",
     "numericCode": "372",
-    "population": 6378000,
+    "population": 4994724,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -9211,7 +9210,7 @@
     "name": "Isle of Man",
     "nativeName": "Isle of Man",
     "numericCode": "833",
-    "population": 84497,
+    "population": 85032,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -9274,7 +9273,7 @@
       "svg": "https://restcountries.com/data/isr.svg",
       "png": "https://restcountries.com/data/isr.png"
     },
-    "gini": 39.0,
+    "gini": 39,
     "languages": [
       {
         "iso639_1": "he",
@@ -9296,7 +9295,7 @@
     "name": "Israel",
     "nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
     "numericCode": "376",
-    "population": 8527400,
+    "population": 9216900,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Western Asia",
@@ -9372,7 +9371,7 @@
     "name": "Italy",
     "nativeName": "Italia",
     "numericCode": "380",
-    "population": 60665551,
+    "population": 59554023,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -9428,7 +9427,7 @@
       "svg": "https://restcountries.com/data/jam.svg",
       "png": "https://restcountries.com/data/jam.png"
     },
-    "gini": 35.0,
+    "gini": 35,
     "languages": [
       {
         "iso639_1": "en",
@@ -9444,7 +9443,7 @@
     "name": "Jamaica",
     "nativeName": "Jamaica",
     "numericCode": "388",
-    "population": 2723246,
+    "population": 2961161,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -9523,7 +9522,7 @@
     "name": "Japan",
     "nativeName": "\u65e5\u672c",
     "numericCode": "392",
-    "population": 126960000,
+    "population": 125836021,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -9678,7 +9677,7 @@
     "name": "Jordan",
     "nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
     "numericCode": "400",
-    "population": 9531712,
+    "population": 10203140,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -9774,7 +9773,7 @@
     "name": "Kazakhstan",
     "nativeName": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
     "numericCode": "398",
-    "population": 17753200,
+    "population": 18754440,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -9865,7 +9864,7 @@
     "name": "Kenya",
     "nativeName": "Kenya",
     "numericCode": "404",
-    "population": 47251000,
+    "population": 53771300,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -9950,7 +9949,7 @@
     "name": "Kiribati",
     "nativeName": "Kiribati",
     "numericCode": "296",
-    "population": 113400,
+    "population": 119446,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -10024,7 +10023,7 @@
     "name": "Kuwait",
     "nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
     "numericCode": "414",
-    "population": 4183658,
+    "population": 4270563,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -10116,7 +10115,7 @@
     "name": "Kyrgyzstan",
     "nativeName": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
     "numericCode": "417",
-    "population": 6047800,
+    "population": 6591600,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -10201,7 +10200,7 @@
     "name": "Lao People's Democratic Republic",
     "nativeName": "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
     "numericCode": "418",
-    "population": 6492400,
+    "population": 7275556,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -10280,7 +10279,7 @@
     "name": "Latvia",
     "nativeName": "Latvija",
     "numericCode": "428",
-    "population": 1961600,
+    "population": 1901548,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -10363,7 +10362,7 @@
     "name": "Lebanon",
     "nativeName": "\u0644\u0628\u0646\u0627\u0646",
     "numericCode": "422",
-    "population": 5988000,
+    "population": 6825442,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -10455,7 +10454,7 @@
     "name": "Lesotho",
     "nativeName": "Lesotho",
     "numericCode": "426",
-    "population": 1894194,
+    "population": 2142252,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -10539,7 +10538,7 @@
     "name": "Liberia",
     "nativeName": "Liberia",
     "numericCode": "430",
-    "population": 4615000,
+    "population": 5057677,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -10627,7 +10626,7 @@
     "name": "Libya",
     "nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
     "numericCode": "434",
-    "population": 6385000,
+    "population": 6871287,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -10719,7 +10718,7 @@
     "name": "Liechtenstein",
     "nativeName": "Liechtenstein",
     "numericCode": "438",
-    "population": 37623,
+    "population": 38137,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -10798,7 +10797,7 @@
     "name": "Lithuania",
     "nativeName": "Lietuva",
     "numericCode": "440",
-    "population": 2872294,
+    "population": 2794700,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -10890,7 +10889,7 @@
     "name": "Luxembourg",
     "nativeName": "L\u00ebtzebuerg",
     "numericCode": "442",
-    "population": 576200,
+    "population": 632275,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -10952,7 +10951,7 @@
       "svg": "https://restcountries.com/data/mac.svg",
       "png": "https://restcountries.com/data/mac.png"
     },
-    "gini": 35.0,
+    "gini": 35,
     "languages": [
       {
         "iso639_1": "zh",
@@ -10974,7 +10973,7 @@
     "name": "Macao",
     "nativeName": "\u6fb3\u9580",
     "numericCode": "446",
-    "population": 649100,
+    "population": 649342,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -11049,7 +11048,7 @@
     "name": "Macedonia (the former Yugoslav Republic of)",
     "nativeName": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
     "numericCode": "807",
-    "population": 2058539,
+    "population": 2083380,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -11130,7 +11129,7 @@
     "name": "Madagascar",
     "nativeName": "Madagasikara",
     "numericCode": "450",
-    "population": 22434363,
+    "population": 27691019,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -11220,7 +11219,7 @@
     "name": "Malawi",
     "nativeName": "Malawi",
     "numericCode": "454",
-    "population": 16832910,
+    "population": 19129955,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -11303,7 +11302,7 @@
     "name": "Malaysia",
     "nativeName": "Malaysia",
     "numericCode": "458",
-    "population": 31405416,
+    "population": 32365998,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -11378,7 +11377,7 @@
     "name": "Maldives",
     "nativeName": "Maldives",
     "numericCode": "462",
-    "population": 344023,
+    "population": 540542,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -11460,7 +11459,7 @@
     "name": "Mali",
     "nativeName": "Mali",
     "numericCode": "466",
-    "population": 18135000,
+    "population": 20250834,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -11547,7 +11546,7 @@
     "name": "Malta",
     "nativeName": "Malta",
     "numericCode": "470",
-    "population": 425384,
+    "population": 525285,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -11626,7 +11625,7 @@
     "name": "Marshall Islands",
     "nativeName": "M\u0327aje\u013c",
     "numericCode": "584",
-    "population": 54880,
+    "population": 59194,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -11765,7 +11764,7 @@
     "name": "Mauritania",
     "nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
     "numericCode": "478",
-    "population": 3718678,
+    "population": 4649660,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -11855,7 +11854,7 @@
     "name": "Mauritius",
     "nativeName": "Maurice",
     "numericCode": "480",
-    "population": 1262879,
+    "population": 1265740,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -12020,7 +12019,7 @@
     "name": "Mexico",
     "nativeName": "M\u00e9xico",
     "numericCode": "484",
-    "population": 122273473,
+    "population": 128932753,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -12106,7 +12105,7 @@
     "name": "Micronesia (Federated States of)",
     "nativeName": "Micronesia",
     "numericCode": "583",
-    "population": 102800,
+    "population": 115021,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -12179,7 +12178,7 @@
     "name": "Moldova (Republic of)",
     "nativeName": "Moldova",
     "numericCode": "498",
-    "population": 3553100,
+    "population": 2617820,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -12254,7 +12253,7 @@
     "name": "Monaco",
     "nativeName": "Monaco",
     "numericCode": "492",
-    "population": 38400,
+    "population": 39244,
     "region": "Europe",
     "regionalBlocs": [],
     "subregion": "Western Europe",
@@ -12324,7 +12323,7 @@
     "name": "Mongolia",
     "nativeName": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
     "numericCode": "496",
-    "population": 3093100,
+    "population": 3278292,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -12417,7 +12416,7 @@
     "name": "Montenegro",
     "nativeName": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
     "numericCode": "499",
-    "population": 621810,
+    "population": 621718,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -12571,7 +12570,7 @@
     "name": "Morocco",
     "nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
     "numericCode": "504",
-    "population": 33337529,
+    "population": 36910558,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -12652,7 +12651,7 @@
       "svg": "https://restcountries.com/data/moz.svg",
       "png": "https://restcountries.com/data/moz.png"
     },
-    "gini": 54.0,
+    "gini": 54,
     "languages": [
       {
         "iso639_1": "pt",
@@ -12668,7 +12667,7 @@
     "name": "Mozambique",
     "nativeName": "Mo\u00e7ambique",
     "numericCode": "508",
-    "population": 26423700,
+    "population": 31255435,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -12756,7 +12755,7 @@
     "name": "Myanmar",
     "nativeName": "Myanma",
     "numericCode": "104",
-    "population": 51419420,
+    "population": 54409794,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -12846,7 +12845,7 @@
     "name": "Namibia",
     "nativeName": "Namibia",
     "numericCode": "516",
-    "population": 2324388,
+    "population": 2540916,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -12935,7 +12934,7 @@
     "name": "Nauru",
     "nativeName": "Nauru",
     "numericCode": "520",
-    "population": 10084,
+    "population": 10834,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -13007,7 +13006,7 @@
     "name": "Nepal",
     "nativeName": "\u0928\u0947\u092a\u093e\u0932",
     "numericCode": "524",
-    "population": 28431500,
+    "population": 29136808,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -13084,7 +13083,7 @@
     "name": "Netherlands",
     "nativeName": "Nederland",
     "numericCode": "528",
-    "population": 17019800,
+    "population": 17441139,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -13156,7 +13155,7 @@
     "name": "New Caledonia",
     "nativeName": "Nouvelle-Cal\u00e9donie",
     "numericCode": "540",
-    "population": 268767,
+    "population": 271960,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Melanesia",
@@ -13230,7 +13229,7 @@
     "name": "New Zealand",
     "nativeName": "New Zealand",
     "numericCode": "554",
-    "population": 4697854,
+    "population": 5084300,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Australia and New Zealand",
@@ -13306,7 +13305,7 @@
     "name": "Nicaragua",
     "nativeName": "Nicaragua",
     "numericCode": "558",
-    "population": 6262703,
+    "population": 6624554,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -13395,7 +13394,7 @@
     "name": "Niger",
     "nativeName": "Niger",
     "numericCode": "562",
-    "population": 20715000,
+    "population": 24206636,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -13482,7 +13481,7 @@
     "name": "Nigeria",
     "nativeName": "Nigeria",
     "numericCode": "566",
-    "population": 186988000,
+    "population": 206139587,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -13707,7 +13706,7 @@
     "name": "Korea (Democratic People's Republic of)",
     "nativeName": "\ubd81\ud55c",
     "numericCode": "408",
-    "population": 25281000,
+    "population": 25778815,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -13781,7 +13780,7 @@
     "name": "Northern Mariana Islands",
     "nativeName": "Northern Mariana Islands",
     "numericCode": "580",
-    "population": 56940,
+    "population": 57557,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -13869,7 +13868,7 @@
     "name": "Norway",
     "nativeName": "Norge",
     "numericCode": "578",
-    "population": 5223256,
+    "population": 5379475,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -13947,7 +13946,7 @@
     "name": "Oman",
     "nativeName": "\u0639\u0645\u0627\u0646",
     "numericCode": "512",
-    "population": 4420133,
+    "population": 5106622,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -14038,7 +14037,7 @@
     "name": "Pakistan",
     "nativeName": "Pakistan",
     "numericCode": "586",
-    "population": 194125062,
+    "population": 220892331,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -14111,7 +14110,7 @@
     "name": "Palau",
     "nativeName": "Palau",
     "numericCode": "585",
-    "population": 17950,
+    "population": 18092,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Micronesia",
@@ -14157,7 +14156,7 @@
       {
         "code": "EGP",
         "name": "Egyptian pound",
-        "symbol": "\u0045\u00a3"
+        "symbol": "E\u00a3"
       },
       {
         "code": "ILS",
@@ -14167,7 +14166,7 @@
       {
         "code": "JOD",
         "name": "Jordanian dinar",
-        "symbol": "\u062f\u002e\u0623"
+        "symbol": "\u062f.\u0623"
       }
     ],
     "demonym": "Palestinian",
@@ -14193,7 +14192,7 @@
     "name": "Palestine, State of",
     "nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
     "numericCode": "275",
-    "population": 5159076,
+    "population": 4803269,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -14284,7 +14283,7 @@
     "name": "Panama",
     "nativeName": "Panam\u00e1",
     "numericCode": "591",
-    "population": 3814672,
+    "population": 4314768,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -14366,7 +14365,7 @@
     "name": "Papua New Guinea",
     "nativeName": "Papua Niugini",
     "numericCode": "598",
-    "population": 8083700,
+    "population": 8947027,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Melanesia",
@@ -14446,7 +14445,7 @@
     "name": "Paraguay",
     "nativeName": "Paraguay",
     "numericCode": "600",
-    "population": 6854536,
+    "population": 7132530,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -14537,7 +14536,7 @@
     "name": "Peru",
     "nativeName": "Per\u00fa",
     "numericCode": "604",
-    "population": 31488700,
+    "population": 32971846,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -14629,7 +14628,7 @@
     "name": "Philippines",
     "nativeName": "Pilipinas",
     "numericCode": "608",
-    "population": 103279800,
+    "population": 109581085,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -14783,7 +14782,7 @@
     "name": "Poland",
     "nativeName": "Polska",
     "numericCode": "616",
-    "population": 38437239,
+    "population": 37950802,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -14860,7 +14859,7 @@
     "name": "Portugal",
     "nativeName": "Portugal",
     "numericCode": "620",
-    "population": 10374822,
+    "population": 10305564,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -14940,7 +14939,7 @@
     "name": "Puerto Rico",
     "nativeName": "Puerto Rico",
     "numericCode": "630",
-    "population": 3474182,
+    "population": 3194034,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -15011,7 +15010,7 @@
     "name": "Qatar",
     "nativeName": "\u0642\u0637\u0631",
     "numericCode": "634",
-    "population": 2587564,
+    "population": 2881060,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -15078,7 +15077,7 @@
       "svg": "https://restcountries.com/data/kos.svg",
       "png": "https://restcountries.com/data/kos.png"
     },
-    "gini": 29.0,
+    "gini": 29,
     "languages": [
       {
         "iso639_1": "sq",
@@ -15099,8 +15098,8 @@
     ],
     "name": "Republic of Kosovo",
     "nativeName": "Republika e Kosov\u00ebs",
-    "numericCode" : 926,
-    "population": 1733842,
+    "numericCode": 926,
+    "population": 1775378,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -15254,7 +15253,7 @@
     "name": "Romania",
     "nativeName": "Rom\u00e2nia",
     "numericCode": "642",
-    "population": 19861408,
+    "population": 19286123,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -15345,7 +15344,7 @@
     "name": "Russian Federation",
     "nativeName": "\u0420\u043e\u0441\u0441\u0438\u044f",
     "numericCode": "643",
-    "population": 146599183,
+    "population": 144104080,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -15448,7 +15447,7 @@
     "name": "Rwanda",
     "nativeName": "Rwanda",
     "numericCode": "646",
-    "population": 11553188,
+    "population": 12952209,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -15672,7 +15671,7 @@
     "name": "Saint Kitts and Nevis",
     "nativeName": "Saint Kitts and Nevis",
     "numericCode": "659",
-    "population": 46204,
+    "population": 53192,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -15749,7 +15748,7 @@
     "name": "Saint Lucia",
     "nativeName": "Saint Lucia",
     "numericCode": "662",
-    "population": 186000,
+    "population": 183629,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -15842,7 +15841,7 @@
     "name": "Saint Martin (French part)",
     "nativeName": "Saint-Martin",
     "numericCode": "663",
-    "population": 36979,
+    "population": 38659,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -15978,7 +15977,7 @@
     "name": "Saint Vincent and the Grenadines",
     "nativeName": "Saint Vincent and the Grenadines",
     "numericCode": "670",
-    "population": 109991,
+    "population": 110947,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -16063,7 +16062,7 @@
     "name": "Samoa",
     "nativeName": "Samoa",
     "numericCode": "882",
-    "population": 194899,
+    "population": 198410,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Polynesia",
@@ -16133,7 +16132,7 @@
     "name": "San Marino",
     "nativeName": "San Marino",
     "numericCode": "674",
-    "population": 33005,
+    "population": 33938,
     "region": "Europe",
     "regionalBlocs": [],
     "subregion": "Southern Europe",
@@ -16202,7 +16201,7 @@
     "name": "Sao Tome and Principe",
     "nativeName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
     "numericCode": "678",
-    "population": 187356,
+    "population": 219161,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -16291,7 +16290,7 @@
     "name": "Saudi Arabia",
     "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "numericCode": "682",
-    "population": 32248200,
+    "population": 34813867,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -16376,7 +16375,7 @@
     "name": "Senegal",
     "nativeName": "S\u00e9n\u00e9gal",
     "numericCode": "686",
-    "population": 14799859,
+    "population": 16743930,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -16468,7 +16467,7 @@
     "name": "Serbia",
     "nativeName": "\u0421\u0440\u0431\u0438\u0458\u0430",
     "numericCode": "688",
-    "population": 7076372,
+    "population": 6908224,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -16549,7 +16548,7 @@
     "name": "Seychelles",
     "nativeName": "Seychelles",
     "numericCode": "690",
-    "population": 91400,
+    "population": 98462,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -16632,7 +16631,7 @@
     "name": "Sierra Leone",
     "nativeName": "Sierra Leone",
     "numericCode": "694",
-    "population": 7075641,
+    "population": 7976985,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -16737,7 +16736,7 @@
     "name": "Singapore",
     "nativeName": "Singapore",
     "numericCode": "702",
-    "population": 5535000,
+    "population": 5685807,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -16816,7 +16815,7 @@
     "name": "Sint Maarten (Dutch part)",
     "nativeName": "Sint Maarten",
     "numericCode": "534",
-    "population": 38247,
+    "population": 40812,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -16873,7 +16872,7 @@
       "svg": "https://restcountries.com/data/svk.svg",
       "png": "https://restcountries.com/data/svk.png"
     },
-    "gini": 25.0,
+    "gini": 25,
     "languages": [
       {
         "iso639_1": "sk",
@@ -16889,7 +16888,7 @@
     "name": "Slovakia",
     "nativeName": "Slovensko",
     "numericCode": "703",
-    "population": 5426252,
+    "population": 5458827,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -16968,7 +16967,7 @@
     "name": "Slovenia",
     "nativeName": "Slovenija",
     "numericCode": "705",
-    "population": 2064188,
+    "population": 2100126,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -17040,7 +17039,7 @@
     "name": "Solomon Islands",
     "nativeName": "Solomon Islands",
     "numericCode": "090",
-    "population": 642000,
+    "population": 686878,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Melanesia",
@@ -17121,7 +17120,7 @@
     "name": "Somalia",
     "nativeName": "Soomaaliya",
     "numericCode": "706",
-    "population": 11079000,
+    "population": 15893219,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -17273,7 +17272,7 @@
     "name": "South Africa",
     "nativeName": "South Africa",
     "numericCode": "710",
-    "population": 55653654,
+    "population": 59308690,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -17438,7 +17437,7 @@
     "name": "Korea (Republic of)",
     "nativeName": "\ub300\ud55c\ubbfc\uad6d",
     "numericCode": "410",
-    "population": 50801405,
+    "population": 51780579,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Eastern Asia",
@@ -17512,7 +17511,7 @@
     "name": "South Sudan",
     "nativeName": "South Sudan",
     "numericCode": "728",
-    "population": 12131000,
+    "population": 11193729,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -17599,7 +17598,7 @@
     "name": "Spain",
     "nativeName": "Espa\u00f1a",
     "numericCode": "724",
-    "population": 46438422,
+    "population": 47351567,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -17682,7 +17681,7 @@
     "name": "Sri Lanka",
     "nativeName": "\u015br\u012b la\u1e43k\u0101va",
     "numericCode": "144",
-    "population": 20966000,
+    "population": 21919000,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -17708,7 +17707,7 @@
       "ja": "\u30b9\u30ea\u30e9\u30f3\u30ab",
       "nl": "Sri Lanka",
       "pt": "Sri Lanka",
-      "hu": "Srí Lanka"
+      "hu": "Sr\u00ed Lanka"
     },
     "cioc": "SRI"
   },
@@ -17770,7 +17769,7 @@
     "name": "Sudan",
     "nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
     "numericCode": "729",
-    "population": 39598700,
+    "population": 43849269,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -17867,7 +17866,7 @@
     "name": "Suriname",
     "nativeName": "Suriname",
     "numericCode": "740",
-    "population": 541638,
+    "population": 586634,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -18039,7 +18038,7 @@
     "name": "Swaziland",
     "nativeName": "Swaziland",
     "numericCode": "748",
-    "population": 1132657,
+    "population": 1160164,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -18107,7 +18106,7 @@
       "svg": "https://restcountries.com/data/swe.svg",
       "png": "https://restcountries.com/data/swe.png"
     },
-    "gini": 30.0,
+    "gini": 30,
     "languages": [
       {
         "iso639_1": "sv",
@@ -18123,7 +18122,7 @@
     "name": "Sweden",
     "nativeName": "Sverige",
     "numericCode": "752",
-    "population": 9894888,
+    "population": 10353442,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -18224,7 +18223,7 @@
     "name": "Switzerland",
     "nativeName": "Schweiz",
     "numericCode": "756",
-    "population": 8341600,
+    "population": 8636896,
     "region": "Europe",
     "regionalBlocs": [
       {
@@ -18304,7 +18303,7 @@
     "name": "Syrian Arab Republic",
     "nativeName": "\u0633\u0648\u0631\u064a\u0627",
     "numericCode": "760",
-    "population": 18564000,
+    "population": 17500657,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -18445,7 +18444,7 @@
       "svg": "https://restcountries.com/data/tjk.svg",
       "png": "https://restcountries.com/data/tjk.png"
     },
-    "gini": 34.0,
+    "gini": 34,
     "languages": [
       {
         "iso639_1": "tg",
@@ -18467,7 +18466,7 @@
     "name": "Tajikistan",
     "nativeName": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
     "numericCode": "762",
-    "population": 8593600,
+    "population": 9537642,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Central Asia",
@@ -18551,7 +18550,7 @@
     "name": "Tanzania, United Republic of",
     "nativeName": "Tanzania",
     "numericCode": "834",
-    "population": 55155000,
+    "population": 59734213,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -18640,7 +18639,7 @@
     "name": "Thailand",
     "nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
     "numericCode": "764",
-    "population": 65327652,
+    "population": 69799978,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -18718,7 +18717,7 @@
     "name": "Timor-Leste",
     "nativeName": "Timor-Leste",
     "numericCode": "626",
-    "population": 1167242,
+    "population": 1318442,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "South-Eastern Asia",
@@ -18792,7 +18791,7 @@
     "name": "Togo",
     "nativeName": "Togo",
     "numericCode": "768",
-    "population": 7143000,
+    "population": 8278737,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -18943,7 +18942,7 @@
     "name": "Tonga",
     "nativeName": "Tonga",
     "numericCode": "776",
-    "population": 103252,
+    "population": 105697,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Polynesia",
@@ -19011,7 +19010,7 @@
     "name": "Trinidad and Tobago",
     "nativeName": "Trinidad and Tobago",
     "numericCode": "780",
-    "population": 1349667,
+    "population": 1399491,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -19093,7 +19092,7 @@
     "name": "Tunisia",
     "nativeName": "\u062a\u0648\u0646\u0633",
     "numericCode": "788",
-    "population": 11154400,
+    "population": 11818618,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -19192,7 +19191,7 @@
     "name": "Turkey",
     "nativeName": "T\u00fcrkiye",
     "numericCode": "792",
-    "population": 78741053,
+    "population": 84339067,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Western Asia",
@@ -19270,7 +19269,7 @@
     "name": "Turkmenistan",
     "nativeName": "T\u00fcrkmenistan",
     "numericCode": "795",
-    "population": 4751120,
+    "population": 6031187,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Central Asia",
@@ -19336,7 +19335,7 @@
     "name": "Turks and Caicos Islands",
     "nativeName": "Turks and Caicos Islands",
     "numericCode": "796",
-    "population": 31458,
+    "population": 38718,
     "region": "Americas",
     "regionalBlocs": [],
     "subregion": "Caribbean",
@@ -19408,7 +19407,7 @@
     "name": "Tuvalu",
     "nativeName": "Tuvalu",
     "numericCode": "798",
-    "population": 10640,
+    "population": 11792,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Polynesia",
@@ -19489,7 +19488,7 @@
     "name": "Uganda",
     "nativeName": "Uganda",
     "numericCode": "800",
-    "population": 33860700,
+    "population": 45741000,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -19577,7 +19576,7 @@
     "name": "Ukraine",
     "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "numericCode": "804",
-    "population": 42692393,
+    "population": 44134693,
     "region": "Europe",
     "regionalBlocs": [],
     "subregion": "Eastern Europe",
@@ -19632,7 +19631,7 @@
       "svg": "https://restcountries.com/data/are.svg",
       "png": "https://restcountries.com/data/are.png"
     },
-    "gini": 26.0,
+    "gini": 26,
     "languages": [
       {
         "iso639_1": "ar",
@@ -19648,7 +19647,7 @@
     "name": "United Arab Emirates",
     "nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
     "numericCode": "784",
-    "population": 9856000,
+    "population": 9890400,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -19729,7 +19728,7 @@
     "name": "United Kingdom of Great Britain and Northern Ireland",
     "nativeName": "United Kingdom",
     "numericCode": "826",
-    "population": 65110000,
+    "population": 67215293,
     "region": "Europe",
     "subregion": "Northern Europe",
     "timezones": [
@@ -19808,7 +19807,7 @@
     "name": "United States of America",
     "nativeName": "United States",
     "numericCode": "840",
-    "population": 323947000,
+    "population": 329484123,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -19899,7 +19898,7 @@
     "name": "Uruguay",
     "nativeName": "Uruguay",
     "numericCode": "858",
-    "population": 3480222,
+    "population": 3473727,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -19996,7 +19995,7 @@
     "name": "Uzbekistan",
     "nativeName": "O\u2018zbekiston",
     "numericCode": "860",
-    "population": 31576400,
+    "population": 34232050,
     "region": "Asia",
     "regionalBlocs": [],
     "subregion": "Central Asia",
@@ -20078,7 +20077,7 @@
     "name": "Vanuatu",
     "nativeName": "Vanuatu",
     "numericCode": "548",
-    "population": 277500,
+    "population": 307150,
     "region": "Oceania",
     "regionalBlocs": [],
     "subregion": "Melanesia",
@@ -20151,7 +20150,7 @@
     "name": "Venezuela (Bolivarian Republic of)",
     "nativeName": "Venezuela",
     "numericCode": "862",
-    "population": 31028700,
+    "population": 28435943,
     "region": "Americas",
     "regionalBlocs": [
       {
@@ -20240,7 +20239,7 @@
     "name": "Vietnam",
     "nativeName": "Vi\u1ec7t Nam",
     "numericCode": "704",
-    "population": 92700000,
+    "population": 97338583,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -20473,7 +20472,7 @@
     "name": "Yemen",
     "nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
     "numericCode": "887",
-    "population": 27478000,
+    "population": 29825968,
     "region": "Asia",
     "regionalBlocs": [
       {
@@ -20560,7 +20559,7 @@
     "name": "Zambia",
     "nativeName": "Zambia",
     "numericCode": "894",
-    "population": 15933883,
+    "population": 18383956,
     "region": "Africa",
     "regionalBlocs": [
       {
@@ -20657,7 +20656,7 @@
     "name": "Zimbabwe",
     "nativeName": "Zimbabwe",
     "numericCode": "716",
-    "population": 14240168,
+    "population": 14862927,
     "region": "Africa",
     "regionalBlocs": [
       {
