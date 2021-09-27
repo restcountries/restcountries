@@ -28,10 +28,7 @@
     ],
     "demonym": "Afghan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/afg.svg",
-      "https://restcountries.com/data/png/afg.png"
-    ],
+    "flag": "https://restcountries.com/data/afg.svg",
     "gini": 29.4,
     "languages": [
       {
@@ -65,14 +62,14 @@
     "nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
     "numericCode": "004",
     "population": 27657145,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+04:30"
     ],
@@ -124,10 +121,7 @@
     ],
     "demonym": "Albanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/alb.svg",
-      "https://restcountries.com/data/png/alb.png"
-    ],
+    "flag": "https://restcountries.com/data/alb.svg",
     "gini": 33.2,
     "languages": [
       {
@@ -149,14 +143,14 @@
     "nativeName": "Shqip\u00ebria",
     "numericCode": "008",
     "population": 2886026,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -210,10 +204,7 @@
     ],
     "demonym": "Algerian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/dza.svg",
-      "https://restcountries.com/data/png/dza.png"
-    ],
+    "flag": "https://restcountries.com/data/dza.svg",
     "gini": 27.6,
     "languages": [
       {
@@ -235,7 +226,7 @@
     "nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
     "numericCode": "012",
     "population": 40400000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -258,7 +249,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -305,10 +296,7 @@
     ],
     "demonym": "American Samoan",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/asm.svg",
-      "https://restcountries.com/data/png/asm.png"
-    ],
+    "flag": "https://restcountries.com/data/asm.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -335,9 +323,9 @@
     "nativeName": "American Samoa",
     "numericCode": "016",
     "population": 57100,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC-11:00"
     ],
@@ -386,10 +374,7 @@
     ],
     "demonym": "Andorran",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/and.svg",
-      "https://restcountries.com/data/png/and.png"
-    ],
+    "flag": "https://restcountries.com/data/and.svg",
     "languages": [
       {
         "iso639_1": "ca",
@@ -410,9 +395,9 @@
     "nativeName": "Andorra",
     "numericCode": "020",
     "population": 78014,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -463,10 +448,7 @@
     ],
     "demonym": "Angolan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ago.svg",
-      "https://restcountries.com/data/png/ago.png"
-    ],
+    "flag": "https://restcountries.com/data/ago.svg",
     "gini": 51.3,
     "languages": [
       {
@@ -488,7 +470,7 @@
     "nativeName": "Angola",
     "numericCode": "024",
     "population": 25868000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -502,7 +484,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -545,10 +527,7 @@
     ],
     "demonym": "Anguillian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/aia.svg",
-      "https://restcountries.com/data/png/aia.png"
-    ],
+    "flag":"https://restcountries.com/data/aia.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -569,9 +548,9 @@
     "nativeName": "Anguilla",
     "numericCode": "660",
     "population": 13452,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -606,10 +585,7 @@
     "currencies": [],
     "demonym": "Antarctic",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/ata.svg",
-      "https://restcountries.com/data/png/ata.png"
-    ],
+    "flag": "https://restcountries.com/data/ata.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -636,9 +612,9 @@
     "nativeName": "Antarctica",
     "numericCode": "010",
     "population": 1000,
-    "continent": "Polar",
+    "region": "Polar",
     "regionalBlocs": [],
-    "region": "Antarctica",
+    "subregion": "Antarctica",
     "timezones": [
       "UTC-03:00",
       "UTC+03:00",
@@ -688,10 +664,7 @@
     ],
     "demonym": "Antiguan, Barbudan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/atg.svg",
-      "https://restcountries.com/data/png/atg.png"
-    ],
+    "flag": "https://restcountries.com/data/atg.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -712,7 +685,7 @@
     "nativeName": "Antigua and Barbuda",
     "numericCode": "028",
     "population": 86295,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -724,7 +697,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -775,10 +748,7 @@
     ],
     "demonym": "Argentinean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/arg.svg",
-      "https://restcountries.com/data/png/arg.png"
-    ],
+    "flag": "https://restcountries.com/data/arg.svg",
     "gini": 42.9,
     "languages": [
       {
@@ -806,7 +776,7 @@
     "nativeName": "Argentina",
     "numericCode": "032",
     "population": 43590400,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -824,7 +794,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -875,10 +845,7 @@
     ],
     "demonym": "Armenian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/arm.svg",
-      "https://restcountries.com/data/png/arm.png"
-    ],
+    "flag": "https://restcountries.com/data/arm.svg",
     "gini": 29.9,
     "languages": [
       {
@@ -900,7 +867,7 @@
     "nativeName": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
     "numericCode": "051",
     "population": 2994400,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -910,7 +877,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -953,10 +920,7 @@
     ],
     "demonym": "Aruban",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/abw.svg",
-      "https://restcountries.com/data/png/abw.png"
-    ],
+    "flag": "https://restcountries.com/data/abw.svg",
     "languages": [
       {
         "iso639_1": "nl",
@@ -983,9 +947,9 @@
     "nativeName": "Aruba",
     "numericCode": "533",
     "population": 107394,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -1028,10 +992,7 @@
     ],
     "demonym": "Australian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/aus.svg",
-      "https://restcountries.com/data/png/aus.png"
-    ],
+    "flag": "https://restcountries.com/data/aus.svg",
     "gini": 34.4,
     "languages": [
       {
@@ -1053,9 +1014,9 @@
     "nativeName": "Australia",
     "numericCode": "036",
     "population": 24117360,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Australia and New Zealand",
+    "subregion": "Australia and New Zealand",
     "timezones": [
       "UTC+05:00",
       "UTC+06:30",
@@ -1117,10 +1078,7 @@
     ],
     "demonym": "Austrian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/aut.svg",
-      "https://restcountries.com/data/png/aut.png"
-    ],
+    "flag": "https://restcountries.com/data/aut.svg",
     "gini": 30.8,
     "languages": [
       {
@@ -1142,14 +1100,14 @@
     "nativeName": "\u00d6sterreich",
     "numericCode": "040",
     "population": 8725931,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1199,10 +1157,7 @@
       }
     ],
     "demonym": "Azerbaijani",
-    "flags": [
-      "https://restcountries.com/data/aze.svg",
-      "https://restcountries.com/data/png/aze.png"
-    ],
+    "flag": "https://restcountries.com/data/aze.svg",
     "gini": 33.7,
     "languages": [
       {
@@ -1222,9 +1177,9 @@
     "nativeName": "Az\u0259rbaycan",
     "numericCode": "031",
     "population": 9730500,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -1268,10 +1223,7 @@
     ],
     "demonym": "Bahamian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bhs.svg",
-      "https://restcountries.com/data/png/bhs.png"
-    ],
+    "flag": "https://restcountries.com/data/bhs.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -1292,7 +1244,7 @@
     "nativeName": "Bahamas",
     "numericCode": "044",
     "population": 378040,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1304,7 +1256,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -1349,10 +1301,7 @@
     ],
     "demonym": "Bahraini",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bhr.svg",
-      "https://restcountries.com/data/png/bhr.png"
-    ],
+    "flag": "https://restcountries.com/data/bhr.svg",
     "gini": null,
     "languages": [
       {
@@ -1374,7 +1323,7 @@
     "nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "numericCode": "048",
     "population": 1404900,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -1386,7 +1335,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -1434,10 +1383,7 @@
     ],
     "demonym": "Bangladeshi",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bgd.svg",
-      "https://restcountries.com/data/png/bgd.png"
-    ],
+    "flag": "https://restcountries.com/data/bgd.svg",
     "gini": 32.4,
     "languages": [
       {
@@ -1459,14 +1405,14 @@
     "nativeName": "Bangladesh",
     "numericCode": "050",
     "population": 161006790,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -1509,10 +1455,7 @@
     ],
     "demonym": "Barbadian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/brb.svg",
-      "https://restcountries.com/data/png/brb.png"
-    ],
+    "flag": "https://restcountries.com/data/brb.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -1533,7 +1476,7 @@
     "nativeName": "Barbados",
     "numericCode": "052",
     "population": 285000,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1545,7 +1488,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -1605,10 +1548,7 @@
     ],
     "demonym": "Belarusian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/blr.svg",
-      "https://restcountries.com/data/png/blr.png"
-    ],
+    "flag": "https://restcountries.com/data/blr.svg",
     "gini": 25.3,
     "languages": [
       {
@@ -1636,7 +1576,7 @@
     "nativeName": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
     "numericCode": "112",
     "population": 9498700,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -1646,7 +1586,7 @@
         ]
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+03:00"
     ],
@@ -1702,10 +1642,7 @@
     ],
     "demonym": "Belgian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bel.svg",
-      "https://restcountries.com/data/png/bel.png"
-    ],
+    "flag": "https://restcountries.com/data/bel.svg",
     "gini": 27.2,
     "languages": [
       {
@@ -1739,14 +1676,14 @@
     "nativeName": "Belgi\u00eb",
     "numericCode": "056",
     "population": 11319511,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Western Europe",
+    "subregion": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1792,10 +1729,7 @@
     ],
     "demonym": "Belizean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/blz.svg",
-      "https://restcountries.com/data/png/blz.png"
-    ],
+    "flag": "https://restcountries.com/data/blz.svg",
     "gini": 53.1,
     "languages": [
       {
@@ -1823,7 +1757,7 @@
     "nativeName": "Belize",
     "numericCode": "084",
     "population": 370300,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1845,7 +1779,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -1895,10 +1829,7 @@
     ],
     "demonym": "Beninese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ben.svg",
-      "https://restcountries.com/data/png/ben.png"
-    ],
+    "flag": "https://restcountries.com/data/ben.svg",
     "gini": 47.8,
     "languages": [
       {
@@ -1920,7 +1851,7 @@
     "nativeName": "B\u00e9nin",
     "numericCode": "204",
     "population": 10653654,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -1934,7 +1865,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -1979,10 +1910,7 @@
     ],
     "demonym": "Bermudian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/bmu.svg",
-      "https://restcountries.com/data/png/bmu.png"
-    ],
+    "flag": "https://restcountries.com/data/bmu.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -2003,9 +1931,9 @@
     "nativeName": "Bermuda",
     "numericCode": "060",
     "population": 61954,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2057,10 +1985,7 @@
     ],
     "demonym": "Bhutanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/btn.svg",
-      "https://restcountries.com/data/png/btn.png"
-    ],
+    "flag": "https://restcountries.com/data/btn.svg",
     "gini": 37.4,
     "languages": [
       {
@@ -2082,14 +2007,14 @@
     "nativeName": "\u02bcbrug-yul",
     "numericCode": "064",
     "population": 775620,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -2145,10 +2070,7 @@
     ],
     "demonym": "Bolivian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bol.svg",
-      "https://restcountries.com/data/png/bol.png"
-    ],
+    "flag": "https://restcountries.com/data/bol.svg",
     "gini": 41.6,
     "languages": [
       {
@@ -2182,7 +2104,7 @@
     "nativeName": "Bolivia",
     "numericCode": "068",
     "population": 10985059,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -2200,7 +2122,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2244,10 +2166,7 @@
     ],
     "demonym": "Dutch",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bes.svg",
-      "https://restcountries.com/data/png/bes.png"
-    ],
+    "flag": "https://restcountries.com/data/bes.svg",
     "languages": [
       {
         "iso639_1": "nl",
@@ -2264,9 +2183,9 @@
     "nativeName": "Bonaire",
     "numericCode": "535",
     "population": 17408,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2312,10 +2231,7 @@
     ],
     "demonym": "Bosnian, Herzegovinian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bih.svg",
-      "https://restcountries.com/data/png/bih.png"
-    ],
+    "flag": "https://restcountries.com/data/bih.svg",
     "gini": 33.0,
     "languages": [
       {
@@ -2345,14 +2261,14 @@
     "nativeName": "Bosna i Hercegovina",
     "numericCode": "070",
     "population": 3531159,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -2402,10 +2318,7 @@
     ],
     "demonym": "Motswana",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bwa.svg",
-      "https://restcountries.com/data/png/bwa.png"
-    ],
+    "flag": "https://restcountries.com/data/bwa.svg",
     "gini": 53.3,
     "languages": [
       {
@@ -2429,7 +2342,7 @@
     "nativeName": "Botswana",
     "numericCode": "072",
     "population": 2141206,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2443,7 +2356,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -2488,10 +2401,7 @@
     ],
     "demonym": "",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/bvt.svg",
-      "https://restcountries.com/data/png/bvt.png"
-    ],
+    "flag": "https://restcountries.com/data/bvt.svg",
     "languages": [
       {
         "iso639_1": "no",
@@ -2520,9 +2430,9 @@
     "nativeName": "Bouvet\u00f8ya",
     "numericCode": "074",
     "population": 0,
-    "continent": "Antarctic Ocean",
+    "region": "Antarctic Ocean",
     "regionalBlocs": [],
-    "region": "South Antarctic Ocean",
+    "subregion": "South Antarctic Ocean",
     "timezones": [
       "UTC+01:00"
     ],
@@ -2580,10 +2490,7 @@
     ],
     "demonym": "Brazilian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bra.svg",
-      "https://restcountries.com/data/png/bra.png"
-    ],
+    "flag": "https://restcountries.com/data/bra.svg",
     "gini": 53.4,
     "languages": [
       {
@@ -2601,7 +2508,7 @@
     "nativeName": "Brasil",
     "numericCode": "076",
     "population": 206135893,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -2619,7 +2526,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-05:00",
       "UTC-04:00",
@@ -2665,10 +2572,7 @@
     ],
     "demonym": "Indian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/iot.svg",
-      "https://restcountries.com/data/png/iot.png"
-    ],
+    "flag": "https://restcountries.com/data/iot.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -2685,7 +2589,7 @@
     "nativeName": "British Indian Ocean Territory",
     "numericCode": "086",
     "population": 3000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2699,7 +2603,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+06:00"
     ],
@@ -2741,10 +2645,7 @@
     ],
     "demonym": "American",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/umi.svg",
-      "https://restcountries.com/data/png/umi.png"
-    ],
+    "flag": "https://restcountries.com/data/umi.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -2758,9 +2659,9 @@
     "nativeName": "United States Minor Outlying Islands",
     "numericCode": "581",
     "population": 300,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-11:00",
       "UTC-10:00",
@@ -2805,10 +2706,7 @@
     ],
     "demonym": "Virgin Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/vgb.svg",
-      "https://restcountries.com/data/png/vgb.png"
-    ],
+    "flag": "https://restcountries.com/data/vgb.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -2825,9 +2723,9 @@
     "nativeName": "British Virgin Islands",
     "numericCode": "092",
     "population": 28514,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2873,10 +2771,7 @@
     ],
     "demonym": "Virgin Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/vir.svg",
-      "https://restcountries.com/data/png/vir.png"
-    ],
+    "flag": "https://restcountries.com/data/vir.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -2893,9 +2788,9 @@
     "nativeName": "Virgin Islands of the United States",
     "numericCode": "850",
     "population": 114743,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -2946,10 +2841,7 @@
     ],
     "demonym": "Bruneian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/brn.svg",
-      "https://restcountries.com/data/png/brn.png"
-    ],
+    "flag": "https://restcountries.com/data/brn.svg",
     "languages": [
       {
         "iso639_1": "ms",
@@ -2966,14 +2858,14 @@
     "nativeName": "Negara Brunei Darussalam",
     "numericCode": "096",
     "population": 411900,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -3024,10 +2916,7 @@
     ],
     "demonym": "Bulgarian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bgr.svg",
-      "https://restcountries.com/data/png/bgr.png"
-    ],
+    "flag": "https://restcountries.com/data/bgr.svg",
     "gini": 41.3,
     "languages": [
       {
@@ -3045,14 +2934,14 @@
     "nativeName": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "numericCode": "100",
     "population": 7153784,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -3102,10 +2991,7 @@
     ],
     "demonym": "Burkinabe",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bfa.svg",
-      "https://restcountries.com/data/png/bfa.png"
-    ],
+    "flag": "https://restcountries.com/data/bfa.svg",
     "gini": 35.3,
     "languages": [
       {
@@ -3129,7 +3015,7 @@
     "nativeName": "Burkina Faso",
     "numericCode": "854",
     "population": 19034397,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3143,7 +3029,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -3193,10 +3079,7 @@
     ],
     "demonym": "Burundian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/bdi.svg",
-      "https://restcountries.com/data/png/bdi.png"
-    ],
+    "flag": "https://restcountries.com/data/bdi.svg",
     "gini": 38.6,
     "languages": [
       {
@@ -3220,7 +3103,7 @@
     "nativeName": "Burundi",
     "numericCode": "108",
     "population": 10114505,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3234,7 +3117,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -3287,10 +3170,7 @@
     ],
     "demonym": "Cambodian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/khm.svg",
-      "https://restcountries.com/data/png/khm.png"
-    ],
+    "flag": "https://restcountries.com/data/khm.svg",
     "gini": 37.9,
     "languages": [
       {
@@ -3308,14 +3188,14 @@
     "nativeName": "K\u00e2mp\u016dch\u00e9a",
     "numericCode": "116",
     "population": 15626444,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -3367,10 +3247,7 @@
     ],
     "demonym": "Cameroonian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cmr.svg",
-      "https://restcountries.com/data/png/cmr.png"
-    ],
+    "flag": "https://restcountries.com/data/cmr.svg",
     "gini": 46.6,
     "languages": [
       {
@@ -3394,7 +3271,7 @@
     "nativeName": "Cameroon",
     "numericCode": "120",
     "population": 22709892,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3408,7 +3285,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3453,10 +3330,7 @@
     ],
     "demonym": "Canadian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/can.svg",
-      "https://restcountries.com/data/png/can.png"
-    ],
+    "flag": "https://restcountries.com/data/can.svg",
     "gini": 33.3,
     "languages": [
       {
@@ -3480,7 +3354,7 @@
     "nativeName": "Canada",
     "numericCode": "124",
     "population": 36155487,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -3491,7 +3365,7 @@
         ]
       }
     ],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -3541,10 +3415,7 @@
     ],
     "demonym": "Cape Verdian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cpv.svg",
-      "https://restcountries.com/data/png/cpv.png"
-    ],
+    "flag": "https://restcountries.com/data/cpv.svg",
     "gini": 42.4,
     "languages": [
       {
@@ -3562,7 +3433,7 @@
     "nativeName": "Cabo Verde",
     "numericCode": "132",
     "population": 531239,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3576,7 +3447,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC-01:00"
     ],
@@ -3619,10 +3490,7 @@
     ],
     "demonym": "Caymanian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/cym.svg",
-      "https://restcountries.com/data/png/cym.png"
-    ],
+    "flag": "https://restcountries.com/data/cym.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -3639,9 +3507,9 @@
     "nativeName": "Cayman Islands",
     "numericCode": "136",
     "population": 58238,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -3694,10 +3562,7 @@
     ],
     "demonym": "Central African",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/caf.svg",
-      "https://restcountries.com/data/png/caf.png"
-    ],
+    "flag": "https://restcountries.com/data/caf.svg",
     "gini": 56.3,
     "languages": [
       {
@@ -3721,7 +3586,7 @@
     "nativeName": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
     "numericCode": "140",
     "population": 4998000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3735,7 +3600,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3788,10 +3653,7 @@
     ],
     "demonym": "Chadian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tcd.svg",
-      "https://restcountries.com/data/png/tcd.png"
-    ],
+    "flag": "https://restcountries.com/data/tcd.svg",
     "gini": 43.3,
     "languages": [
       {
@@ -3815,7 +3677,7 @@
     "nativeName": "Tchad",
     "numericCode": "148",
     "population": 14497000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3829,7 +3691,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -3878,10 +3740,7 @@
     ],
     "demonym": "Chilean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/chl.svg",
-      "https://restcountries.com/data/png/chl.png"
-    ],
+    "flag": "https://restcountries.com/data/chl.svg",
     "gini": 44.4,
     "languages": [
       {
@@ -3899,7 +3758,7 @@
     "nativeName": "Chile",
     "numericCode": "152",
     "population": 18191900,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -3924,7 +3783,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-06:00",
       "UTC-04:00"
@@ -3991,10 +3850,7 @@
     ],
     "demonym": "Chinese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/chn.svg",
-      "https://restcountries.com/data/png/chn.png"
-    ],
+    "flag": "https://restcountries.com/data/chn.svg",
     "gini": 38.5,
     "languages": [
       {
@@ -4012,9 +3868,9 @@
     "nativeName": "\u4e2d\u56fd",
     "numericCode": "156",
     "population": 1377422166,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -4058,10 +3914,7 @@
     ],
     "demonym": "Christmas Island",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/cxr.svg",
-      "https://restcountries.com/data/png/cxr.png"
-    ],
+    "flag": "https://restcountries.com/data/cxr.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -4078,9 +3931,9 @@
     "nativeName": "Christmas Island",
     "numericCode": "162",
     "population": 2072,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Australia and New Zealand",
+    "subregion": "Australia and New Zealand",
     "timezones": [
       "UTC+07:00"
     ],
@@ -4125,10 +3978,7 @@
     ],
     "demonym": "Cocos Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/cck.svg",
-      "https://restcountries.com/data/png/cck.png"
-    ],
+    "flag": "https://restcountries.com/data/cck.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -4145,9 +3995,9 @@
     "nativeName": "Cocos (Keeling) Islands",
     "numericCode": "166",
     "population": 550,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Australia and New Zealand",
+    "subregion": "Australia and New Zealand",
     "timezones": [
       "UTC+06:30"
     ],
@@ -4198,10 +4048,7 @@
     ],
     "demonym": "Colombian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/col.svg",
-      "https://restcountries.com/data/png/col.png"
-    ],
+    "flag": "https://restcountries.com/data/col.svg",
     "gini": 51.3,
     "languages": [
       {
@@ -4219,7 +4066,7 @@
     "nativeName": "Colombia",
     "numericCode": "170",
     "population": 48759958,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -4244,7 +4091,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -4291,10 +4138,7 @@
     ],
     "demonym": "Comoran",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/com.svg",
-      "https://restcountries.com/data/png/com.png"
-    ],
+    "flag": "https://restcountries.com/data/com.svg",
     "gini": 45.3,
     "languages": [
       {
@@ -4318,7 +4162,7 @@
     "nativeName": "Komori",
     "numericCode": "174",
     "population": 806153,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4341,7 +4185,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -4391,10 +4235,7 @@
     ],
     "demonym": "Congolese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cog.svg",
-      "https://restcountries.com/data/png/cog.png"
-    ],
+    "flag": "https://restcountries.com/data/cog.svg",
     "gini": 48.9,
     "languages": [
       {
@@ -4418,7 +4259,7 @@
     "nativeName": "R\u00e9publique du Congo",
     "numericCode": "178",
     "population": 4741000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4432,7 +4273,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -4488,10 +4329,7 @@
     ],
     "demonym": "Congolese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cod.svg",
-      "https://restcountries.com/data/png/cod.png"
-    ],
+    "flag": "https://restcountries.com/data/cod.svg",
     "gini": 42.1,
     "languages": [
       {
@@ -4533,7 +4371,7 @@
     "nativeName": "R\u00e9publique d\u00e9mocratique du Congo",
     "numericCode": "180",
     "population": 85026000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4547,7 +4385,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00",
       "UTC+02:00"
@@ -4597,10 +4435,7 @@
     ],
     "demonym": "Cook Islander",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cok.svg",
-      "https://restcountries.com/data/png/cok.png"
-    ],
+    "flag": "https://restcountries.com/data/cok.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -4623,9 +4458,9 @@
     "nativeName": "Cook Islands",
     "numericCode": "184",
     "population": 18100,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC-10:00"
     ],
@@ -4673,10 +4508,7 @@
     ],
     "demonym": "Costa Rican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cri.svg",
-      "https://restcountries.com/data/png/cri.png"
-    ],
+    "flag": "https://restcountries.com/data/cri.svg",
     "gini": 48.2,
     "languages": [
       {
@@ -4694,7 +4526,7 @@
     "nativeName": "Costa Rica",
     "numericCode": "188",
     "population": 4890379,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -4707,7 +4539,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -4759,10 +4591,7 @@
     ],
     "demonym": "Croatian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/hrv.svg",
-      "https://restcountries.com/data/png/hrv.png"
-    ],
+    "flag": "https://restcountries.com/data/hrv.svg",
     "gini": 29.7,
     "languages": [
       {
@@ -4780,14 +4609,14 @@
     "nativeName": "Hrvatska",
     "numericCode": "191",
     "population": 4190669,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -4837,10 +4666,7 @@
     ],
     "demonym": "Cuban",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cub.svg",
-      "https://restcountries.com/data/png/cub.png"
-    ],
+    "flag": "https://restcountries.com/data/cub.svg",
     "gini": 38,
     "languages": [
       {
@@ -4858,9 +4684,9 @@
     "nativeName": "Cuba",
     "numericCode": "192",
     "population": 11239004,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -4908,10 +4734,7 @@
     ],
     "demonym": "Dutch",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/cuw.svg",
-      "https://restcountries.com/data/png/cuw.png"
-    ],
+    "flag": "https://restcountries.com/data/cuw.svg",
     "languages": [
       {
         "iso639_1": "nl",
@@ -4940,9 +4763,9 @@
     "nativeName": "Cura\u00e7ao",
     "numericCode": "531",
     "population": 154843,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -4990,10 +4813,7 @@
     ],
     "demonym": "Cypriot",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cyp.svg",
-      "https://restcountries.com/data/png/cyp.png"
-    ],
+    "flag": "https://restcountries.com/data/cyp.svg",
     "gini": 32.7,
     "languages": [
       {
@@ -5023,14 +4843,14 @@
     "nativeName": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "numericCode": "196",
     "population": 847000,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -5075,10 +4895,7 @@
     ],
     "demonym": "Czech",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/cze.svg",
-      "https://restcountries.com/data/png/cze.png"
-    ],
+    "flag": "https://restcountries.com/data/cze.svg",
     "gini": 25.0,
     "languages": [
       {
@@ -5102,14 +4919,14 @@
     "nativeName": "\u010cesk\u00e1 republika",
     "numericCode": "203",
     "population": 10558524,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -5157,10 +4974,7 @@
     ],
     "demonym": "Danish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/dnk.svg",
-      "https://restcountries.com/data/png/dnk.png"
-    ],
+    "flag": "https://restcountries.com/data/dnk.svg",
     "gini": 28.2,
     "languages": [
       {
@@ -5178,14 +4992,14 @@
     "nativeName": "Danmark",
     "numericCode": "208",
     "population": 5717014,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC-04:00",
       "UTC-03:00",
@@ -5242,10 +5056,7 @@
     ],
     "demonym": "Djibouti",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/dji.svg",
-      "https://restcountries.com/data/png/dji.png"
-    ],
+    "flag": "https://restcountries.com/data/dji.svg",
     "gini": 41.6,
     "languages": [
       {
@@ -5269,7 +5080,7 @@
     "nativeName": "Djibouti",
     "numericCode": "262",
     "population": 900000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5292,7 +5103,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -5338,10 +5149,7 @@
     ],
     "demonym": "Dominican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/dma.svg",
-      "https://restcountries.com/data/png/dma.png"
-    ],
+    "flag": "https://restcountries.com/data/dma.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -5358,9 +5166,9 @@
     "nativeName": "Dominica",
     "numericCode": "212",
     "population": 71293,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -5405,10 +5213,7 @@
     ],
     "demonym": "Dominican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/dom.svg",
-      "https://restcountries.com/data/png/dom.png"
-    ],
+    "flag": "https://restcountries.com/data/dom.svg",
     "gini": 41.9,
     "languages": [
       {
@@ -5426,7 +5231,7 @@
     "nativeName": "Rep\u00fablica Dominicana",
     "numericCode": "214",
     "population": 10075045,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -5448,7 +5253,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -5496,10 +5301,7 @@
     ],
     "demonym": "Ecuadorean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ecu.svg",
-      "https://restcountries.com/data/png/ecu.png"
-    ],
+    "flag": "https://restcountries.com/data/ecu.svg",
     "gini": 45.7,
     "languages": [
       {
@@ -5517,7 +5319,7 @@
     "nativeName": "Ecuador",
     "numericCode": "218",
     "population": 16545799,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -5535,7 +5337,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-06:00",
       "UTC-05:00"
@@ -5584,10 +5386,7 @@
     ],
     "demonym": "Egyptian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/egy.svg",
-      "https://restcountries.com/data/png/egy.png"
-    ],
+    "flag": "https://restcountries.com/data/egy.svg",
     "gini": 31.5,
     "languages": [
       {
@@ -5605,7 +5404,7 @@
     "nativeName": "\u0645\u0635\u0631\u200e",
     "numericCode": "818",
     "population": 91290000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5628,7 +5427,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -5676,10 +5475,7 @@
     ],
     "demonym": "Salvadoran",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/slv.svg",
-      "https://restcountries.com/data/png/slv.png"
-    ],
+    "flag": "https://restcountries.com/data/slv.svg",
     "gini": 38.8,
     "languages": [
       {
@@ -5697,7 +5493,7 @@
     "nativeName": "El Salvador",
     "numericCode": "222",
     "population": 6520675,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -5710,7 +5506,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -5760,10 +5556,7 @@
     ],
     "demonym": "Equatorial Guinean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gnq.svg",
-      "https://restcountries.com/data/png/gnq.png"
-    ],
+    "flag": "https://restcountries.com/data/gnq.svg",
     "gini": 39.4,
     "languages": [
       {
@@ -5799,7 +5592,7 @@
     "nativeName": "Guinea Ecuatorial",
     "numericCode": "226",
     "population": 1222442,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5813,7 +5606,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -5866,10 +5659,7 @@
     ],
     "demonym": "Eritrean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/eri.svg",
-      "https://restcountries.com/data/png/eri.png"
-    ],
+    "flag": "https://restcountries.com/data/eri.svg",
     "languages": [
       {
         "iso639_1": "ti",
@@ -5934,7 +5724,7 @@
     "nativeName": "\u12a4\u122d\u1275\u122b",
     "numericCode": "232",
     "population": 5352000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5948,7 +5738,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -5997,10 +5787,7 @@
     ],
     "demonym": "Estonian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/est.svg",
-      "https://restcountries.com/data/png/est.png"
-    ],
+    "flag": "https://restcountries.com/data/est.svg",
     "gini": 30.3,
     "languages": [
       {
@@ -6018,14 +5805,14 @@
     "nativeName": "Eesti",
     "numericCode": "233",
     "population": 1315944,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -6078,10 +5865,7 @@
     ],
     "demonym": "Ethiopian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/eth.svg",
-      "https://restcountries.com/data/png/eth.png"
-    ],
+    "flag": "https://restcountries.com/data/eth.svg",
     "gini": 35.0,
     "languages": [
       {
@@ -6099,7 +5883,7 @@
     "nativeName": "\u12a2\u1275\u12ee\u1335\u12eb",
     "numericCode": "231",
     "population": 92206005,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6113,7 +5897,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -6157,10 +5941,7 @@
     ],
     "demonym": "Falkland Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/flk.svg",
-      "https://restcountries.com/data/png/flk.png"
-    ],
+    "flag": "https://restcountries.com/data/flk.svg",
     "gini": 36.0,
     "languages": [
       {
@@ -6178,7 +5959,7 @@
     "nativeName": "Falkland Islands",
     "numericCode": "238",
     "population": 2563,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -6196,7 +5977,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -6246,10 +6027,7 @@
     ],
     "demonym": "Faroese",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/fro.svg",
-      "https://restcountries.com/data/png/fro.png"
-    ],
+    "flag": "https://restcountries.com/data/fro.svg",
     "gini": 22.7,
     "languages": [
       {
@@ -6267,10 +6045,10 @@
     "nativeName": "F\u00f8royar",
     "numericCode": "234",
     "population": 49376,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -6317,10 +6095,7 @@
     ],
     "demonym": "Fijian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/fji.svg",
-      "https://restcountries.com/data/png/fji.png"
-    ],
+    "flag": "https://restcountries.com/data/fji.svg",
     "gini": 36.7,
     "languages": [
       {
@@ -6356,9 +6131,9 @@
     "nativeName": "Fiji",
     "numericCode": "242",
     "population": 867000,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Melanesia",
+    "subregion": "Melanesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -6409,10 +6184,7 @@
     ],
     "demonym": "Finnish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/fin.svg",
-      "https://restcountries.com/data/png/fin.png"
-    ],
+    "flag": "https://restcountries.com/data/fin.svg",
     "gini": 27.3,
     "languages": [
       {
@@ -6436,14 +6208,14 @@
     "nativeName": "Suomi",
     "numericCode": "246",
     "population": 5491817,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -6497,10 +6269,7 @@
     ],
     "demonym": "French",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/fra.svg",
-      "https://restcountries.com/data/png/fra.png"
-    ],
+    "flag": "https://restcountries.com/data/fra.svg",
     "gini": 32.4,
     "languages": [
       {
@@ -6518,14 +6287,14 @@
     "nativeName": "France",
     "numericCode": "250",
     "population": 66710000,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Western Europe",
+    "subregion": "Western Europe",
     "timezones": [
       "UTC-10:00",
       "UTC-09:30",
@@ -6585,10 +6354,7 @@
     ],
     "demonym": "",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/guf.svg",
-      "https://restcountries.com/data/png/guf.png"
-    ],
+    "flag": "https://restcountries.com/data/guf.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -6605,7 +6371,7 @@
     "nativeName": "Guyane fran\u00e7aise",
     "numericCode": "254",
     "population": 254541,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -6627,7 +6393,7 @@
         "name": "European Union"
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -6673,10 +6439,7 @@
     ],
     "demonym": "French Polynesian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/pyf.svg",
-      "https://restcountries.com/data/png/pyf.png"
-    ],
+    "flag": "https://restcountries.com/data/pyf.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -6693,9 +6456,9 @@
     "nativeName": "Polyn\u00e9sie fran\u00e7aise",
     "numericCode": "258",
     "population": 271800,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC-10:00",
       "UTC-09:30",
@@ -6740,10 +6503,7 @@
     ],
     "demonym": "French",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/atf.svg",
-      "https://restcountries.com/data/png/atf.png"
-    ],
+    "flag": "https://restcountries.com/data/atf.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -6760,7 +6520,7 @@
     "nativeName": "Territoire des Terres australes et antarctiques fran\u00e7aises",
     "numericCode": "260",
     "population": 140,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6774,7 +6534,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+05:00"
     ],
@@ -6823,10 +6583,7 @@
     ],
     "demonym": "Gabonese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gab.svg",
-      "https://restcountries.com/data/png/gab.png"
-    ],
+    "flag": "https://restcountries.com/data/gab.svg",
     "gini": 38.0,
     "languages": [
       {
@@ -6844,7 +6601,7 @@
     "nativeName": "Gabon",
     "numericCode": "266",
     "population": 1802278,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6858,7 +6615,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -6904,10 +6661,7 @@
     ],
     "demonym": "Gambian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gmb.svg",
-      "https://restcountries.com/data/png/gmb.png"
-    ],
+    "flag": "https://restcountries.com/data/gmb.svg",
     "gini": 35.9,
     "languages": [
       {
@@ -6925,7 +6679,7 @@
     "nativeName": "Gambia",
     "numericCode": "270",
     "population": 1882450,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6939,7 +6693,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -6988,10 +6742,7 @@
     ],
     "demonym": "Georgian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/geo.svg",
-      "https://restcountries.com/data/png/geo.png"
-    ],
+    "flag": "https://restcountries.com/data/geo.svg",
     "gini": 35.9,
     "languages": [
       {
@@ -7009,9 +6760,9 @@
     "nativeName": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
     "numericCode": "268",
     "population": 3720400,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC-04:00"
     ],
@@ -7066,10 +6817,7 @@
     ],
     "demonym": "German",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/deu.svg",
-      "https://restcountries.com/data/png/deu.png"
-    ],
+    "flag": "https://restcountries.com/data/deu.svg",
     "gini": 31.9,
     "languages": [
       {
@@ -7087,14 +6835,14 @@
     "nativeName": "Deutschland",
     "numericCode": "276",
     "population": 81770900,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -7141,10 +6889,7 @@
     ],
     "demonym": "Ghanaian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gha.svg",
-      "https://restcountries.com/data/png/gha.png"
-    ],
+    "flag": "https://restcountries.com/data/gha.svg",
     "gini": 43.5,
     "languages": [
       {
@@ -7162,7 +6907,7 @@
     "nativeName": "Ghana",
     "numericCode": "288",
     "population": 27670174,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7176,7 +6921,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -7221,10 +6966,7 @@
     ],
     "demonym": "Gibraltar",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/gib.svg",
-      "https://restcountries.com/data/png/gib.png"
-    ],
+    "flag": "https://restcountries.com/data/gib.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -7241,14 +6983,14 @@
     "nativeName": "Gibraltar",
     "numericCode": "292",
     "population": 33140,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -7299,10 +7041,7 @@
     ],
     "demonym": "Greek",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/grc.svg",
-      "https://restcountries.com/data/png/grc.png"
-    ],
+    "flag": "https://restcountries.com/data/grc.svg",
     "gini": 32.9,
     "languages": [
       {
@@ -7320,14 +7059,14 @@
     "nativeName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "numericCode": "300",
     "population": 10858018,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -7371,10 +7110,7 @@
     ],
     "demonym": "Greenlandic",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/grl.svg",
-      "https://restcountries.com/data/png/grl.png"
-    ],
+    "flag": "https://restcountries.com/data/grl.svg",
     "gini": 33.9,
     "languages": [
       {
@@ -7392,9 +7128,9 @@
     "nativeName": "Kalaallit Nunaat",
     "numericCode": "304",
     "population": 55847,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-04:00",
       "UTC-03:00",
@@ -7440,10 +7176,7 @@
     ],
     "demonym": "Grenadian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/grd.svg",
-      "https://restcountries.com/data/png/grd.png"
-    ],
+    "flag": "https://restcountries.com/data/grd.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -7460,7 +7193,7 @@
     "nativeName": "Grenada",
     "numericCode": "308",
     "population": 103328,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -7472,7 +7205,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -7515,10 +7248,7 @@
     ],
     "demonym": "Guadeloupian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/glp.svg",
-      "https://restcountries.com/data/png/glp.png"
-    ],
+    "flag": "https://restcountries.com/data/glp.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -7535,9 +7265,9 @@
     "nativeName": "Guadeloupe",
     "numericCode": "312",
     "population": 400132,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -7581,10 +7311,7 @@
     ],
     "demonym": "Guamanian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/gum.svg",
-      "https://restcountries.com/data/png/gum.png"
-    ],
+    "flag": "https://restcountries.com/data/gum.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -7613,9 +7340,9 @@
     "nativeName": "Guam",
     "numericCode": "316",
     "population": 184200,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -7663,10 +7390,7 @@
     ],
     "demonym": "Guatemalan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gtm.svg",
-      "https://restcountries.com/data/png/gtm.png"
-    ],
+    "flag": "https://restcountries.com/data/gtm.svg",
     "gini": 48.3,
     "languages": [
       {
@@ -7684,7 +7408,7 @@
     "nativeName": "Guatemala",
     "numericCode": "320",
     "population": 16176133,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -7697,7 +7421,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -7747,10 +7471,7 @@
     ],
     "demonym": "Channel Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/ggy.svg",
-      "https://restcountries.com/data/png/ggy.png"
-    ],
+    "flag": "https://restcountries.com/data/ggy.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -7773,9 +7494,9 @@
     "nativeName": "Guernsey",
     "numericCode": "831",
     "population": 62999,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -7827,10 +7548,7 @@
     ],
     "demonym": "Guinean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gin.svg",
-      "https://restcountries.com/data/png/gin.png"
-    ],
+    "flag": "https://restcountries.com/data/gin.svg",
     "gini": 33.7,
     "languages": [
       {
@@ -7854,7 +7572,7 @@
     "nativeName": "Guin\u00e9e",
     "numericCode": "324",
     "population": 12947000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7868,7 +7586,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -7916,10 +7634,7 @@
     ],
     "demonym": "Guinea-Bissauan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gnb.svg",
-      "https://restcountries.com/data/png/gnb.png"
-    ],
+    "flag": "https://restcountries.com/data/gnb.svg",
     "gini": 50.7,
     "languages": [
       {
@@ -7937,7 +7652,7 @@
     "nativeName": "Guin\u00e9-Bissau",
     "numericCode": "624",
     "population": 1547777,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7951,7 +7666,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -7999,10 +7714,7 @@
     ],
     "demonym": "Guyanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/guy.svg",
-      "https://restcountries.com/data/png/guy.png"
-    ],
+    "flag": "https://restcountries.com/data/guy.svg",
     "gini": 44.5,
     "languages": [
       {
@@ -8020,7 +7732,7 @@
     "nativeName": "Guyana",
     "numericCode": "328",
     "population": 746900,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -8047,7 +7759,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -8095,10 +7807,7 @@
     ],
     "demonym": "Haitian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/hti.svg",
-      "https://restcountries.com/data/png/hti.png"
-    ],
+    "flag": "https://restcountries.com/data/hti.svg",
     "gini": 41.1,
     "languages": [
       {
@@ -8122,7 +7831,7 @@
     "nativeName": "Ha\u00efti",
     "numericCode": "332",
     "population": 11078033,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -8134,7 +7843,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -8177,10 +7886,7 @@
     ],
     "demonym": "Heard and McDonald Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/hmd.svg",
-      "https://restcountries.com/data/png/hmd.png"
-    ],
+    "flag": "https://restcountries.com/data/hmd.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -8197,9 +7903,9 @@
     "nativeName": "Heard Island and McDonald Islands",
     "numericCode": "334",
     "population": 0,
-    "continent": "Antarctic",
-    "regionalBlocs": [],
     "region": "Antarctic",
+    "regionalBlocs": [],
+    "subregion": "Antarctic",
     "timezones": [
       "UTC+05:00"
     ],
@@ -8246,10 +7952,7 @@
     ],
     "demonym": "Vatican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/vat.svg",
-      "https://restcountries.com/data/png/vat.png"
-    ],
+    "flag": "https://restcountries.com/data/vat.svg",
     "gini": null,
     "languages": [
       {
@@ -8285,9 +7988,9 @@
     "nativeName": "Status Civitatis Vaticanae",
     "numericCode": "336",
     "population": 451,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -8336,10 +8039,7 @@
     ],
     "demonym": "Honduran",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/hnd.svg",
-      "https://restcountries.com/data/png/hnd.png"
-    ],
+    "flag": "https://restcountries.com/data/hnd.svg",
     "gini": 48.2,
     "languages": [
       {
@@ -8357,7 +8057,7 @@
     "nativeName": "Honduras",
     "numericCode": "340",
     "population": 8576532,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -8370,7 +8070,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -8421,10 +8121,7 @@
     ],
     "demonym": "Hungarian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/hun.svg",
-      "https://restcountries.com/data/png/hun.png"
-    ],
+    "flag": "https://restcountries.com/data/hun.svg",
     "gini": 29.6,
     "languages": [
       {
@@ -8442,14 +8139,14 @@
     "nativeName": "Magyarorsz\u00e1g",
     "numericCode": "348",
     "population": 9823000,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -8495,10 +8192,7 @@
     ],
     "demonym": "Icelander",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/isl.svg",
-      "https://restcountries.com/data/png/isl.png"
-    ],
+    "flag": "https://restcountries.com/data/isl.svg",
     "gini": 26.1,
     "languages": [
       {
@@ -8516,14 +8210,14 @@
     "nativeName": "\u00cdsland",
     "numericCode": "352",
     "population": 334300,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC"
     ],
@@ -8578,10 +8272,7 @@
     ],
     "demonym": "Indian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ind.svg",
-      "https://restcountries.com/data/png/ind.png"
-    ],
+    "flag": "https://restcountries.com/data/ind.svg",
     "gini": 35.7,
     "languages": [
       {
@@ -8605,14 +8296,14 @@
     "nativeName": "\u092d\u093e\u0930\u0924",
     "numericCode": "356",
     "population": 1378712489,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+05:30"
     ],
@@ -8661,10 +8352,7 @@
     ],
     "demonym": "Indonesian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/idn.svg",
-      "https://restcountries.com/data/png/idn.png"
-    ],
+    "flag": "https://restcountries.com/data/idn.svg",
     "gini": 38.2,
     "languages": [
       {
@@ -8682,14 +8370,14 @@
     "nativeName": "Indonesia",
     "numericCode": "360",
     "population": 258705000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00",
       "UTC+08:00",
@@ -8743,10 +8431,7 @@
     ],
     "demonym": "Ivorian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/civ.svg",
-      "https://restcountries.com/data/png/civ.png"
-    ],
+    "flag": "https://restcountries.com/data/civ.svg",
     "gini": 41.5,
     "languages": [
       {
@@ -8764,7 +8449,7 @@
     "nativeName": "C\u00f4te d'Ivoire",
     "numericCode": "384",
     "population": 22671331,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8778,7 +8463,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -8831,10 +8516,7 @@
     ],
     "demonym": "Iranian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/irn.svg",
-      "https://restcountries.com/data/png/irn.png"
-    ],
+    "flag": "https://restcountries.com/data/irn.svg",
     "gini": 42.0,
     "languages": [
       {
@@ -8852,9 +8534,9 @@
     "nativeName": "\u0627\u06cc\u0631\u0627\u0646",
     "numericCode": "364",
     "population": 79369900,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+03:30"
     ],
@@ -8905,10 +8587,7 @@
     ],
     "demonym": "Iraqi",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/irq.svg",
-      "https://restcountries.com/data/png/irq.png"
-    ],
+    "flag": "https://restcountries.com/data/irq.svg",
     "gini": 29.5,
     "languages": [
       {
@@ -8932,7 +8611,7 @@
     "nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
     "numericCode": "368",
     "population": 37883543,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -8944,7 +8623,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -8992,10 +8671,7 @@
     ],
     "demonym": "Irish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/irl.svg",
-      "https://restcountries.com/data/png/irl.png"
-    ],
+    "flag": "https://restcountries.com/data/irl.svg",
     "gini": 31.4,
     "languages": [
       {
@@ -9019,14 +8695,14 @@
     "nativeName": "\u00c9ire",
     "numericCode": "372",
     "population": 6378000,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC"
     ],
@@ -9077,10 +8753,7 @@
     ],
     "demonym": "Manx",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/imn.svg",
-      "https://restcountries.com/data/png/imn.png"
-    ],
+    "flag": "https://restcountries.com/data/imn.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -9103,14 +8776,14 @@
     "nativeName": "Isle of Man",
     "numericCode": "833",
     "population": 84497,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+00:00"
     ],
@@ -9160,10 +8833,7 @@
     ],
     "demonym": "Israeli",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/isr.svg",
-      "https://restcountries.com/data/png/isr.png"
-    ],
+    "flag": "https://restcountries.com/data/isr.svg",
     "gini": 39.0,
     "languages": [
       {
@@ -9187,9 +8857,9 @@
     "nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
     "numericCode": "376",
     "population": 8527400,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -9241,10 +8911,7 @@
     ],
     "demonym": "Italian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ita.svg",
-      "https://restcountries.com/data/png/ita.png"
-    ],
+    "flag": "https://restcountries.com/data/ita.svg",
     "gini": 36,
     "languages": [
       {
@@ -9262,14 +8929,14 @@
     "nativeName": "Italia",
     "numericCode": "380",
     "population": 60665551,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -9312,10 +8979,7 @@
     ],
     "demonym": "Jamaican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/jam.svg",
-      "https://restcountries.com/data/png/jam.png"
-    ],
+    "flag": "https://restcountries.com/data/jam.svg",
     "gini": 35.0,
     "languages": [
       {
@@ -9333,7 +8997,7 @@
     "nativeName": "Jamaica",
     "numericCode": "388",
     "population": 2723246,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -9345,7 +9009,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-05:00"
     ],
@@ -9390,10 +9054,7 @@
     ],
     "demonym": "Japanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/jpn.svg",
-      "https://restcountries.com/data/png/jpn.png"
-    ],
+    "flag": "https://restcountries.com/data/jpn.svg",
     "gini": 32.9,
     "languages": [
       {
@@ -9411,9 +9072,9 @@
     "nativeName": "\u65e5\u672c",
     "numericCode": "392",
     "population": 126960000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -9464,10 +9125,7 @@
     ],
     "demonym": "Channel Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/jey.svg",
-      "https://restcountries.com/data/png/jey.png"
-    ],
+    "flag": "https://restcountries.com/data/jey.svg",
     "gini": 0.3,
     "languages": [
       {
@@ -9491,9 +9149,9 @@
     "nativeName": "Jersey",
     "numericCode": "832",
     "population": 100800,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -9543,10 +9201,7 @@
     ],
     "demonym": "Jordanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/jor.svg",
-      "https://restcountries.com/data/png/jor.png"
-    ],
+    "flag": "https://restcountries.com/data/jor.svg",
     "gini": 33.7,
     "languages": [
       {
@@ -9564,7 +9219,7 @@
     "nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
     "numericCode": "400",
     "population": 9531712,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9576,7 +9231,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9632,10 +9287,7 @@
       }
     ],
     ",demonym": "Kazakhstani",
-    "flags": [
-      "https://restcountries.com/data/kaz.svg",
-      "https://restcountries.com/data/png/kaz.png"
-    ],
+    "flag": "https://restcountries.com/data/kaz.svg",
     "gini": 27.8,
     "languages": [
       {
@@ -9659,7 +9311,7 @@
     "nativeName": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
     "numericCode": "398",
     "population": 17753200,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -9669,7 +9321,7 @@
         ]
       }
     ],
-    "region": "Central Asia",
+    "subregion": "Central Asia",
     "timezones": [
       "UTC+05:00",
       "UTC+06:00"
@@ -9722,10 +9374,7 @@
     ],
     "demonym": "Kenyan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ken.svg",
-      "https://restcountries.com/data/png/ken.png"
-    ],
+    "flag": "https://restcountries.com/data/ken.svg",
     "gini": 40.8,
     "languages": [
       {
@@ -9749,7 +9398,7 @@
     "nativeName": "Kenya",
     "numericCode": "404",
     "population": 47251000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -9763,7 +9412,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9813,10 +9462,7 @@
     ],
     "demonym": "I-Kiribati",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kir.svg",
-      "https://restcountries.com/data/png/kir.png"
-    ],
+    "flag": "https://restcountries.com/data/kir.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -9833,9 +9479,9 @@
     "nativeName": "Kiribati",
     "numericCode": "296",
     "population": 113400,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+12:00",
       "UTC+13:00",
@@ -9885,10 +9531,7 @@
     ],
     "demonym": "Kuwaiti",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kwt.svg",
-      "https://restcountries.com/data/png/kwt.png"
-    ],
+    "flag": "https://restcountries.com/data/kwt.svg",
     "gini": null,
     "languages": [
       {
@@ -9906,7 +9549,7 @@
     "nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
     "numericCode": "414",
     "population": 4183658,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9918,7 +9561,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -9970,10 +9613,7 @@
     ],
     "demonym": "Kirghiz",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kgz.svg",
-      "https://restcountries.com/data/png/kgz.png"
-    ],
+    "flag": "https://restcountries.com/data/kgz.svg",
     "gini": 29.7,
     "languages": [
       {
@@ -9997,7 +9637,7 @@
     "nativeName": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
     "numericCode": "417",
     "population": 6047800,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -10007,7 +9647,7 @@
         ]
       }
     ],
-    "region": "Central Asia",
+    "subregion": "Central Asia",
     "timezones": [
       "UTC+06:00"
     ],
@@ -10060,10 +9700,7 @@
     ],
     "demonym": "Laotian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lao.svg",
-      "https://restcountries.com/data/png/lao.png"
-    ],
+    "flag": "https://restcountries.com/data/lao.svg",
     "gini": 38.8,
     "languages": [
       {
@@ -10081,14 +9718,14 @@
     "nativeName": "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
     "numericCode": "418",
     "population": 6492400,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -10138,10 +9775,7 @@
     ],
     "demonym": "Latvian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lva.svg",
-      "https://restcountries.com/data/png/lva.png"
-    ],
+    "flag": "https://restcountries.com/data/lva.svg",
     "gini": 35.1,
     "languages": [
       {
@@ -10159,14 +9793,14 @@
     "nativeName": "Latvija",
     "numericCode": "428",
     "population": 1961600,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10214,10 +9848,7 @@
     ],
     "demonym": "Lebanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lbn.svg",
-      "https://restcountries.com/data/png/lbn.png"
-    ],
+    "flag": "https://restcountries.com/data/lbn.svg",
     "gini": 31.8,
     "languages": [
       {
@@ -10241,7 +9872,7 @@
     "nativeName": "\u0644\u0628\u0646\u0627\u0646",
     "numericCode": "422",
     "population": 5988000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -10253,7 +9884,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10305,10 +9936,7 @@
     ],
     "demonym": "Mosotho",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lso.svg",
-      "https://restcountries.com/data/png/lso.png"
-    ],
+    "flag": "https://restcountries.com/data/lso.svg",
     "gini": 44.9,
     "languages": [
       {
@@ -10332,7 +9960,7 @@
     "nativeName": "Lesotho",
     "numericCode": "426",
     "population": 1894194,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10346,7 +9974,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10394,10 +10022,7 @@
     ],
     "demonym": "Liberian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lbr.svg",
-      "https://restcountries.com/data/png/lbr.png"
-    ],
+    "flag": "https://restcountries.com/data/lbr.svg",
     "gini": 35.3,
     "languages": [
       {
@@ -10415,7 +10040,7 @@
     "nativeName": "Liberia",
     "numericCode": "430",
     "population": 4615000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10429,7 +10054,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -10481,10 +10106,7 @@
     ],
     "demonym": "Libyan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lby.svg",
-      "https://restcountries.com/data/png/lby.png"
-    ],
+    "flag": "https://restcountries.com/data/lby.svg",
     "gini": null,
     "languages": [
       {
@@ -10502,7 +10124,7 @@
     "nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
     "numericCode": "434",
     "population": 6385000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10525,7 +10147,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10573,10 +10195,7 @@
     ],
     "demonym": "Liechtensteiner",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lie.svg",
-      "https://restcountries.com/data/png/lie.png"
-    ],
+    "flag": "https://restcountries.com/data/lie.svg",
     "languages": [
       {
         "iso639_1": "de",
@@ -10593,14 +10212,14 @@
     "nativeName": "Liechtenstein",
     "numericCode": "438",
     "population": 37623,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10650,10 +10269,7 @@
     ],
     "demonym": "Lithuanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ltu.svg",
-      "https://restcountries.com/data/png/ltu.png"
-    ],
+    "flag": "https://restcountries.com/data/ltu.svg",
     "gini": 35.7,
     "languages": [
       {
@@ -10671,14 +10287,14 @@
     "nativeName": "Lietuva",
     "numericCode": "440",
     "population": 2872294,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -10729,10 +10345,7 @@
     ],
     "demonym": "Luxembourger",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lux.svg",
-      "https://restcountries.com/data/png/lux.png"
-    ],
+    "flag": "https://restcountries.com/data/lux.svg",
     "gini": 35.4,
     "languages": [
       {
@@ -10762,14 +10375,14 @@
     "nativeName": "L\u00ebtzebuerg",
     "numericCode": "442",
     "population": 576200,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Western Europe",
+    "subregion": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10818,10 +10431,7 @@
     ],
     "demonym": "Chinese",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/mac.svg",
-      "https://restcountries.com/data/png/mac.png"
-    ],
+    "flag": "https://restcountries.com/data/mac.svg",
     "gini": 35.0,
     "languages": [
       {
@@ -10845,9 +10455,9 @@
     "nativeName": "\u6fb3\u9580",
     "numericCode": "446",
     "population": 649100,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -10898,10 +10508,7 @@
     ],
     "demonym": "Macedonian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mkd.svg",
-      "https://restcountries.com/data/png/mkd.png"
-    ],
+    "flag": "https://restcountries.com/data/mkd.svg",
     "gini": 31.9,
     "languages": [
       {
@@ -10919,14 +10526,14 @@
     "nativeName": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
     "numericCode": "807",
     "population": 2058539,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -10972,10 +10579,7 @@
     ],
     "demonym": "Malagasy",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mdg.svg",
-      "https://restcountries.com/data/png/mdg.png"
-    ],
+    "flag": "https://restcountries.com/data/mdg.svg",
     "gini": 42.6,
     "languages": [
       {
@@ -10999,7 +10603,7 @@
     "nativeName": "Madagasikara",
     "numericCode": "450",
     "population": 22434363,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11013,7 +10617,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -11061,10 +10665,7 @@
     ],
     "demonym": "Malawian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mwi.svg",
-      "https://restcountries.com/data/png/mwi.png"
-    ],
+    "flag": "https://restcountries.com/data/mwi.svg",
     "gini": 44.7,
     "languages": [
       {
@@ -11088,7 +10689,7 @@
     "nativeName": "Malawi",
     "numericCode": "454",
     "population": 16832910,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11102,7 +10703,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -11149,10 +10750,7 @@
     ],
     "demonym": "Malaysian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mys.svg",
-      "https://restcountries.com/data/png/mys.png"
-    ],
+    "flag": "https://restcountries.com/data/mys.svg",
     "gini": 41.1,
     "languages": [
       {
@@ -11170,14 +10768,14 @@
     "nativeName": "Malaysia",
     "numericCode": "458",
     "population": 31405416,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -11223,10 +10821,7 @@
     ],
     "demonym": "Maldivan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mdv.svg",
-      "https://restcountries.com/data/png/mdv.png"
-    ],
+    "flag": "https://restcountries.com/data/mdv.svg",
     "gini": 31.3,
     "languages": [
       {
@@ -11244,14 +10839,14 @@
     "nativeName": "Maldives",
     "numericCode": "462",
     "population": 344023,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -11304,10 +10899,7 @@
     ],
     "demonym": "Malian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mli.svg",
-      "https://restcountries.com/data/png/mli.png"
-    ],
+    "flag": "https://restcountries.com/data/mli.svg",
     "gini": 33,
     "languages": [
       {
@@ -11325,7 +10917,7 @@
     "nativeName": "Mali",
     "numericCode": "466",
     "population": 18135000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11339,7 +10931,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -11384,10 +10976,7 @@
     ],
     "demonym": "Maltese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mlt.svg",
-      "https://restcountries.com/data/png/mlt.png"
-    ],
+    "flag": "https://restcountries.com/data/mlt.svg",
     "gini": 28.7,
     "languages": [
       {
@@ -11411,14 +11000,14 @@
     "nativeName": "Malta",
     "numericCode": "470",
     "population": 425384,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -11463,10 +11052,7 @@
     ],
     "demonym": "Marshallese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mhl.svg",
-      "https://restcountries.com/data/png/mhl.png"
-    ],
+    "flag": "https://restcountries.com/data/mhl.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -11489,9 +11075,9 @@
     "nativeName": "M\u0327aje\u013c",
     "numericCode": "584",
     "population": 54880,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -11533,10 +11119,7 @@
     ],
     "demonym": "French",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/mtq.svg",
-      "https://restcountries.com/data/png/mtq.png"
-    ],
+    "flag": "https://restcountries.com/data/mtq.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -11553,9 +11136,9 @@
     "nativeName": "Martinique",
     "numericCode": "474",
     "population": 378243,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -11605,10 +11188,7 @@
     ],
     "demonym": "Mauritanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mrt.svg",
-      "https://restcountries.com/data/png/mrt.png"
-    ],
+    "flag": "https://restcountries.com/data/mrt.svg",
     "gini": 32.6,
     "languages": [
       {
@@ -11626,7 +11206,7 @@
     "nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
     "numericCode": "478",
     "population": 3718678,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11649,7 +11229,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -11694,10 +11274,7 @@
     ],
     "demonym": "Mauritian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mus.svg",
-      "https://restcountries.com/data/png/mus.png"
-    ],
+    "flag": "https://restcountries.com/data/mus.svg",
     "gini": 36.8,
     "languages": [
       {
@@ -11715,7 +11292,7 @@
     "nativeName": "Maurice",
     "numericCode": "480",
     "population": 1262879,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11729,7 +11306,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -11773,10 +11350,7 @@
     ],
     "demonym": "French",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/myt.svg",
-      "https://restcountries.com/data/png/myt.png"
-    ],
+    "flag": "https://restcountries.com/data/myt.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -11793,7 +11367,7 @@
     "nativeName": "Mayotte",
     "numericCode": "175",
     "population": 226915,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11807,7 +11381,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -11857,10 +11431,7 @@
     ],
     "demonym": "Mexican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mex.svg",
-      "https://restcountries.com/data/png/mex.png"
-    ],
+    "flag": "https://restcountries.com/data/mex.svg",
     "gini": 45.4,
     "languages": [
       {
@@ -11878,7 +11449,7 @@
     "nativeName": "M\u00e9xico",
     "numericCode": "484",
     "population": 122273473,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -11896,7 +11467,7 @@
         ]
       }
     ],
-    "region": "North America",
+    "subregion": "North America",
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -11942,10 +11513,7 @@
     ],
     "demonym": "Micronesian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/fsm.svg",
-      "https://restcountries.com/data/png/fsm.png"
-    ],
+    "flag": "https://restcountries.com/data/fsm.svg",
     "gini": 40.1,
     "languages": [
       {
@@ -11963,9 +11531,9 @@
     "nativeName": "Micronesia",
     "numericCode": "583",
     "population": 102800,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+10:00",
       "UTC+11"
@@ -12014,10 +11582,7 @@
     ],
     "demonym": "Moldovan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mda.svg",
-      "https://restcountries.com/data/png/mda.png"
-    ],
+    "flag": "https://restcountries.com/data/mda.svg",
     "gini": 25.7,
     "languages": [
       {
@@ -12035,14 +11600,14 @@
     "nativeName": "Moldova",
     "numericCode": "498",
     "population": 3553100,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -12089,10 +11654,7 @@
     ],
     "demonym": "Monegasque",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mco.svg",
-      "https://restcountries.com/data/png/mco.png"
-    ],
+    "flag": "https://restcountries.com/data/mco.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -12109,9 +11671,9 @@
     "nativeName": "Monaco",
     "numericCode": "492",
     "population": 38400,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Western Europe",
+    "subregion": "Western Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12157,10 +11719,7 @@
     ],
     "demonym": "Mongolian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mng.svg",
-      "https://restcountries.com/data/png/mng.png"
-    ],
+    "flag": "https://restcountries.com/data/mng.svg",
     "gini": 32.7,
     "languages": [
       {
@@ -12178,9 +11737,9 @@
     "nativeName": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
     "numericCode": "496",
     "population": 3093100,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+07:00",
       "UTC+08:00"
@@ -12231,10 +11790,7 @@
     ],
     "demonym": "Montenegrin",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mne.svg",
-      "https://restcountries.com/data/png/mne.png"
-    ],
+    "flag": "https://restcountries.com/data/mne.svg",
     "gini": 38.5,
     "languages": [
       {
@@ -12270,14 +11826,14 @@
     "nativeName": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
     "numericCode": "499",
     "population": 621810,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12320,10 +11876,7 @@
     ],
     "demonym": "Montserratian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/msr.svg",
-      "https://restcountries.com/data/png/msr.png"
-    ],
+    "flag": "https://restcountries.com/data/msr.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -12340,7 +11893,7 @@
     "nativeName": "Montserrat",
     "numericCode": "500",
     "population": 4922,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -12352,7 +11905,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -12401,10 +11954,7 @@
     ],
     "demonym": "Moroccan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mar.svg",
-      "https://restcountries.com/data/png/mar.png"
-    ],
+    "flag": "https://restcountries.com/data/mar.svg",
     "gini": 39.5,
     "languages": [
       {
@@ -12422,7 +11972,7 @@
     "nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
     "numericCode": "504",
     "population": 33337529,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12445,7 +11995,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC"
     ],
@@ -12497,10 +12047,7 @@
     ],
     "demonym": "Mozambican",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/moz.svg",
-      "https://restcountries.com/data/png/moz.png"
-    ],
+    "flag": "https://restcountries.com/data/moz.svg",
     "gini": 54.0,
     "languages": [
       {
@@ -12518,7 +12065,7 @@
     "nativeName": "Mo\u00e7ambique",
     "numericCode": "508",
     "population": 26423700,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12532,7 +12079,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -12584,10 +12131,7 @@
     ],
     "demonym": "Burmese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/mmr.svg",
-      "https://restcountries.com/data/png/mmr.png"
-    ],
+    "flag": "https://restcountries.com/data/mmr.svg",
     "gini": 30.7,
     "languages": [
       {
@@ -12605,14 +12149,14 @@
     "nativeName": "Myanma",
     "numericCode": "104",
     "population": 51419420,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+06:30"
     ],
@@ -12667,10 +12211,7 @@
     ],
     "demonym": "Namibian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nam.svg",
-      "https://restcountries.com/data/png/nam.png"
-    ],
+    "flag": "https://restcountries.com/data/nam.svg",
     "gini": 59.1,
     "languages": [
       {
@@ -12694,7 +12235,7 @@
     "nativeName": "Namibia",
     "numericCode": "516",
     "population": 2324388,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12708,7 +12249,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -12755,10 +12296,7 @@
     ],
     "demonym": "Nauruan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nru.svg",
-      "https://restcountries.com/data/png/nru.png"
-    ],
+    "flag": "https://restcountries.com/data/nru.svg",
     "gini": 34.8,
     "languages": [
       {
@@ -12782,9 +12320,9 @@
     "nativeName": "Nauru",
     "numericCode": "520",
     "population": 10084,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -12832,10 +12370,7 @@
     ],
     "demonym": "Nepalese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/npl.svg",
-      "https://restcountries.com/data/png/npl.png"
-    ],
+    "flag": "https://restcountries.com/data/npl.svg",
     "gini": 32.8,
     "languages": [
       {
@@ -12853,14 +12388,14 @@
     "nativeName": "\u0928\u0947\u092a\u093e\u0932",
     "numericCode": "524",
     "population": 28431500,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+05:45"
     ],
@@ -12908,10 +12443,7 @@
     ],
     "demonym": "Dutch",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nld.svg",
-      "https://restcountries.com/data/png/nld.png"
-    ],
+    "flag": "https://restcountries.com/data/nld.svg",
     "gini": 28.1,
     "languages": [
       {
@@ -12929,14 +12461,14 @@
     "nativeName": "Nederland",
     "numericCode": "528",
     "population": 17019800,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Western Europe",
+    "subregion": "Western Europe",
     "timezones": [
       "UTC-04:00",
       "UTC+01:00"
@@ -12980,10 +12512,7 @@
     ],
     "demonym": "New Caledonian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/ncl.svg",
-      "https://restcountries.com/data/png/ncl.png"
-    ],
+    "flag": "https://restcountries.com/data/ncl.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -13000,9 +12529,9 @@
     "nativeName": "Nouvelle-Cal\u00e9donie",
     "numericCode": "540",
     "population": 268767,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Melanesia",
+    "subregion": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -13046,10 +12575,7 @@
     ],
     "demonym": "New Zealander",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nzl.svg",
-      "https://restcountries.com/data/png/nzl.png"
-    ],
+    "flag": "https://restcountries.com/data/nzl.svg",
     "gini": 36.2,
     "languages": [
       {
@@ -13073,9 +12599,9 @@
     "nativeName": "New Zealand",
     "numericCode": "554",
     "population": 4697854,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Australia and New Zealand",
+    "subregion": "Australia and New Zealand",
     "timezones": [
       "UTC-11:00",
       "UTC-10:00",
@@ -13127,10 +12653,7 @@
     ],
     "demonym": "Nicaraguan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nic.svg",
-      "https://restcountries.com/data/png/nic.png"
-    ],
+    "flag": "https://restcountries.com/data/nic.svg",
     "gini": 46.2,
     "languages": [
       {
@@ -13148,7 +12671,7 @@
     "nativeName": "Nicaragua",
     "numericCode": "558",
     "population": 6262703,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -13161,7 +12684,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-06:00"
     ],
@@ -13215,10 +12738,7 @@
     ],
     "demonym": "Nigerien",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ner.svg",
-      "https://restcountries.com/data/png/ner.png"
-    ],
+    "flag": "https://restcountries.com/data/ner.svg",
     "gini": 34.3,
     "languages": [
       {
@@ -13236,7 +12756,7 @@
     "nativeName": "Niger",
     "numericCode": "562",
     "population": 20715000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13250,7 +12770,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13301,10 +12821,7 @@
     ],
     "demonym": "Nigerian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nga.svg",
-      "https://restcountries.com/data/png/nga.png"
-    ],
+    "flag": "https://restcountries.com/data/nga.svg",
     "gini": 35.1,
     "languages": [
       {
@@ -13322,7 +12839,7 @@
     "nativeName": "Nigeria",
     "numericCode": "566",
     "population": 186988000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13336,7 +12853,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13384,10 +12901,7 @@
     ],
     "demonym": "Niuean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/niu.svg",
-      "https://restcountries.com/data/png/niu.png"
-    ],
+    "flag": "https://restcountries.com/data/niu.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -13404,9 +12918,9 @@
     "nativeName": "Niu\u0113",
     "numericCode": "570",
     "population": 1470,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC-11:00"
     ],
@@ -13451,10 +12965,7 @@
     ],
     "demonym": "Norfolk Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/nfk.svg",
-      "https://restcountries.com/data/png/nfk.png"
-    ],
+    "flag": "https://restcountries.com/data/nfk.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -13471,9 +12982,9 @@
     "nativeName": "Norfolk Island",
     "numericCode": "574",
     "population": 2302,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Australia and New Zealand",
+    "subregion": "Australia and New Zealand",
     "timezones": [
       "UTC+11:30"
     ],
@@ -13523,10 +13034,7 @@
     ],
     "demonym": "North Korean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/prk.svg",
-      "https://restcountries.com/data/png/prk.png"
-    ],
+    "flag": "https://restcountries.com/data/prk.svg",
     "gini": null,
     "languages": [
       {
@@ -13544,9 +13052,9 @@
     "nativeName": "\ubd81\ud55c",
     "numericCode": "408",
     "population": 25281000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -13591,10 +13099,7 @@
     ],
     "demonym": "American",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/mnp.svg",
-      "https://restcountries.com/data/png/mnp.png"
-    ],
+    "flag": "https://restcountries.com/data/mnp.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -13617,9 +13122,9 @@
     "nativeName": "Northern Mariana Islands",
     "numericCode": "580",
     "population": 56940,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -13671,10 +13176,7 @@
     ],
     "demonym": "Norwegian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/nor.svg",
-      "https://restcountries.com/data/png/nor.png"
-    ],
+    "flag": "https://restcountries.com/data/nor.svg",
     "gini": 27.6,
     "languages": [
       {
@@ -13704,14 +13206,14 @@
     "nativeName": "Norge",
     "numericCode": "578",
     "population": 5223256,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -13760,10 +13262,7 @@
     ],
     "demonym": "Omani",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/omn.svg",
-      "https://restcountries.com/data/png/omn.png"
-    ],
+    "flag": "https://restcountries.com/data/omn.svg",
     "gini": null,
     "languages": [
       {
@@ -13781,7 +13280,7 @@
     "nativeName": "\u0639\u0645\u0627\u0646",
     "numericCode": "512",
     "population": 4420133,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -13793,7 +13292,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+04:00"
     ],
@@ -13844,10 +13343,7 @@
     ],
     "demonym": "Pakistani",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pak.svg",
-      "https://restcountries.com/data/png/pak.png"
-    ],
+    "flag": "https://restcountries.com/data/pak.svg",
     "gini": 31.6,
     "languages": [
       {
@@ -13871,14 +13367,14 @@
     "nativeName": "Pakistan",
     "numericCode": "586",
     "population": 194125062,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -13923,10 +13419,7 @@
     ],
     "demonym": "Palauan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/plw.svg",
-      "https://restcountries.com/data/png/plw.png"
-    ],
+    "flag": "https://restcountries.com/data/plw.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -13943,9 +13436,9 @@
     "nativeName": "Palau",
     "numericCode": "585",
     "population": 17950,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Micronesia",
+    "subregion": "Micronesia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -14003,10 +13496,7 @@
     ],
     "demonym": "Palestinian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pse.svg",
-      "https://restcountries.com/data/png/pse.png"
-    ],
+    "flag": "https://restcountries.com/data/pse.svg",
     "gini": 35.5,
     "languages": [
       {
@@ -14024,7 +13514,7 @@
     "nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
     "numericCode": "275",
     "population": 5159076,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -14036,7 +13526,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -14093,10 +13583,7 @@
     ],
     "demonym": "Panamanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pan.svg",
-      "https://restcountries.com/data/png/pan.png"
-    ],
+    "flag": "https://restcountries.com/data/pan.svg",
     "gini": 49.8,
     "languages": [
       {
@@ -14114,7 +13601,7 @@
     "nativeName": "Panam\u00e1",
     "numericCode": "591",
     "population": 3814672,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -14127,7 +13614,7 @@
         ]
       }
     ],
-    "region": "Central America",
+    "subregion": "Central America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -14174,10 +13661,7 @@
     ],
     "demonym": "Papua New Guinean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/png.svg",
-      "https://restcountries.com/data/png/png.png"
-    ],
+    "flag": "https://restcountries.com/data/png.svg",
     "gini": 41.9,
     "languages": [
       {
@@ -14195,9 +13679,9 @@
     "nativeName": "Papua Niugini",
     "numericCode": "598",
     "population": 8083700,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Melanesia",
+    "subregion": "Melanesia",
     "timezones": [
       "UTC+10:00"
     ],
@@ -14247,10 +13731,7 @@
     ],
     "demonym": "Paraguayan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pry.svg",
-      "https://restcountries.com/data/png/pry.png"
-    ],
+    "flag": "https://restcountries.com/data/pry.svg",
     "gini": 45.7,
     "languages": [
       {
@@ -14274,7 +13755,7 @@
     "nativeName": "Paraguay",
     "numericCode": "600",
     "population": 6854536,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -14292,7 +13773,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -14343,10 +13824,7 @@
     ],
     "demonym": "Peruvian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/per.svg",
-      "https://restcountries.com/data/png/per.png"
-    ],
+    "flag": "https://restcountries.com/data/per.svg",
     "gini": 41.5,
     "languages": [
       {
@@ -14364,7 +13842,7 @@
     "nativeName": "Per\u00fa",
     "numericCode": "604",
     "population": 31488700,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -14389,7 +13867,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-05:00"
     ],
@@ -14434,10 +13912,7 @@
     ],
     "demonym": "Filipino",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/phl.svg",
-      "https://restcountries.com/data/png/phl.png"
-    ],
+    "flag": "https://restcountries.com/data/phl.svg",
     "gini": 42.3,
     "languages": [
       {
@@ -14455,14 +13930,14 @@
     "nativeName": "Pilipinas",
     "numericCode": "608",
     "population": 103279800,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -14511,10 +13986,7 @@
     ],
     "demonym": "Pitcairn Islander",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pcn.svg",
-      "https://restcountries.com/data/png/pcn.png"
-    ],
+    "flag": "https://restcountries.com/data/pcn.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -14531,9 +14003,9 @@
     "nativeName": "Pitcairn Islands",
     "numericCode": "612",
     "population": 56,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC-08:00"
     ],
@@ -14586,10 +14058,7 @@
     ],
     "demonym": "Polish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/pol.svg",
-      "https://restcountries.com/data/png/pol.png"
-    ],
+    "flag": "https://restcountries.com/data/pol.svg",
     "gini": 30.2,
     "languages": [
       {
@@ -14607,14 +14076,14 @@
     "nativeName": "Polska",
     "numericCode": "616",
     "population": 38437239,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -14662,10 +14131,7 @@
     ],
     "demonym": "Portuguese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/prt.svg",
-      "https://restcountries.com/data/png/prt.png"
-    ],
+    "flag": "https://restcountries.com/data/prt.svg",
     "gini": 33.5,
     "languages": [
       {
@@ -14683,14 +14149,14 @@
     "nativeName": "Portugal",
     "numericCode": "620",
     "population": 10374822,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC-01:00",
       "UTC"
@@ -14736,10 +14202,7 @@
     ],
     "demonym": "Puerto Rican",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/pri.svg",
-      "https://restcountries.com/data/png/pri.png"
-    ],
+    "flag": "https://restcountries.com/data/pri.svg",
     "languages": [
       {
         "iso639_1": "es",
@@ -14762,9 +14225,9 @@
     "nativeName": "Puerto Rico",
     "numericCode": "630",
     "population": 3474182,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -14811,10 +14274,7 @@
     ],
     "demonym": "Qatari",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/qat.svg",
-      "https://restcountries.com/data/png/qat.png"
-    ],
+    "flag": "https://restcountries.com/data/qat.svg",
     "gini": 41.1,
     "languages": [
       {
@@ -14832,7 +14292,7 @@
     "nativeName": "\u0642\u0637\u0631",
     "numericCode": "634",
     "population": 2587564,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -14844,7 +14304,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -14893,10 +14353,7 @@
     ],
     "demonym": "Kosovar",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kos.svg",
-      "https://restcountries.com/data/png/kos.png"
-    ],
+    "flag": "https://restcountries.com/data/kos.svg",
     "gini": 29.0,
     "languages": [
       {
@@ -14920,14 +14377,14 @@
     "nativeName": "Republika e Kosov\u00ebs",
     "numericCode" : 926,
     "population": 1733842,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -14965,10 +14422,7 @@
     ],
     "demonym": "French",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/reu.svg",
-      "https://restcountries.com/data/png/reu.png"
-    ],
+    "flag": "https://restcountries.com/data/reu.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -14985,7 +14439,7 @@
     "nativeName": "La R\u00e9union",
     "numericCode": "638",
     "population": 840974,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -14999,7 +14453,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -15051,10 +14505,7 @@
     ],
     "demonym": "Romanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/rou.svg",
-      "https://restcountries.com/data/png/rou.png"
-    ],
+    "flag": "https://restcountries.com/data/rou.svg",
     "gini": 35.8,
     "languages": [
       {
@@ -15072,14 +14523,14 @@
     "nativeName": "Rom\u00e2nia",
     "numericCode": "642",
     "population": 19861408,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -15141,10 +14592,7 @@
     ],
     "demonym": "Russian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/rus.svg",
-      "https://restcountries.com/data/png/rus.png"
-    ],
+    "flag": "https://restcountries.com/data/rus.svg",
     "gini": 37.5,
     "languages": [
       {
@@ -15162,7 +14610,7 @@
     "nativeName": "\u0420\u043e\u0441\u0441\u0438\u044f",
     "numericCode": "643",
     "population": 146599183,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -15172,7 +14620,7 @@
         ]
       }
     ],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+03:00",
       "UTC+04:00",
@@ -15231,10 +14679,7 @@
     ],
     "demonym": "Rwandan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/rwa.svg",
-      "https://restcountries.com/data/png/rwa.png"
-    ],
+    "flag": "https://restcountries.com/data/rwa.svg",
     "gini": 43.7,
     "languages": [
       {
@@ -15264,7 +14709,7 @@
     "nativeName": "Rwanda",
     "numericCode": "646",
     "population": 11553188,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -15278,7 +14723,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -15324,10 +14769,7 @@
     ],
     "demonym": "Saint Barth\u00e9lemy Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/blm.svg",
-      "https://restcountries.com/data/png/blm.png"
-    ],
+    "flag": "https://restcountries.com/data/blm.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -15344,9 +14786,9 @@
     "nativeName": "Saint-Barth\u00e9lemy",
     "numericCode": "652",
     "population": 9417,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15388,10 +14830,7 @@
     ],
     "demonym": "Saint Helenian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/shn.svg",
-      "https://restcountries.com/data/png/shn.png"
-    ],
+    "flag": "https://restcountries.com/data/shn.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -15408,7 +14847,7 @@
     "nativeName": "Saint Helena",
     "numericCode": "654",
     "population": 4255,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -15422,7 +14861,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -15465,10 +14904,7 @@
     ],
     "demonym": "Kittian and Nevisian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kna.svg",
-      "https://restcountries.com/data/png/kna.png"
-    ],
+    "flag": "https://restcountries.com/data/kna.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -15485,7 +14921,7 @@
     "nativeName": "Saint Kitts and Nevis",
     "numericCode": "659",
     "population": 46204,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15497,7 +14933,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15540,10 +14976,7 @@
     ],
     "demonym": "Saint Lucian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lca.svg",
-      "https://restcountries.com/data/png/lca.png"
-    ],
+    "flag": "https://restcountries.com/data/lca.svg",
     "gini": 51.2,
     "languages": [
       {
@@ -15561,7 +14994,7 @@
     "nativeName": "Saint Lucia",
     "numericCode": "662",
     "population": 186000,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15573,7 +15006,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15621,10 +15054,7 @@
     ],
     "demonym": "Saint Martin Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/maf.svg",
-      "https://restcountries.com/data/png/maf.png"
-    ],
+    "flag": "https://restcountries.com/data/maf.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -15653,9 +15083,9 @@
     "nativeName": "Saint-Martin",
     "numericCode": "663",
     "population": 36979,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15702,10 +15132,7 @@
     ],
     "demonym": "French",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/spm.svg",
-      "https://restcountries.com/data/png/spm.png"
-    ],
+    "flag": "https://restcountries.com/data/spm.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -15722,9 +15149,9 @@
     "nativeName": "Saint-Pierre-et-Miquelon",
     "numericCode": "666",
     "population": 6069,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -15767,10 +15194,7 @@
     ],
     "demonym": "Saint Vincentian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/vct.svg",
-      "https://restcountries.com/data/png/vct.png"
-    ],
+    "flag": "https://restcountries.com/data/vct.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -15787,7 +15211,7 @@
     "nativeName": "Saint Vincent and the Grenadines",
     "numericCode": "670",
     "population": 109991,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -15799,7 +15223,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -15844,10 +15268,7 @@
     ],
     "demonym": "Samoan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/wsm.svg",
-      "https://restcountries.com/data/png/wsm.png"
-    ],
+    "flag": "https://restcountries.com/data/wsm.svg",
     "gini": 38.7,
     "languages": [
       {
@@ -15871,9 +15292,9 @@
     "nativeName": "Samoa",
     "numericCode": "882",
     "population": 194899,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -15920,10 +15341,7 @@
     ],
     "demonym": "Sammarinese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/smr.svg",
-      "https://restcountries.com/data/png/smr.png"
-    ],
+    "flag": "https://restcountries.com/data/smr.svg",
     "languages": [
       {
         "iso639_1": "it",
@@ -15940,9 +15358,9 @@
     "nativeName": "San Marino",
     "numericCode": "674",
     "population": 33005,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -15987,10 +15405,7 @@
     ],
     "demonym": "Sao Tomean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/stp.svg",
-      "https://restcountries.com/data/png/stp.png"
-    ],
+    "flag": "https://restcountries.com/data/stp.svg",
     "gini": 56.3,
     "languages": [
       {
@@ -16008,7 +15423,7 @@
     "nativeName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
     "numericCode": "678",
     "population": 187356,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16022,7 +15437,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC"
     ],
@@ -16075,10 +15490,7 @@
     ],
     "demonym": "Saudi Arabian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sau.svg",
-      "https://restcountries.com/data/png/sau.png"
-    ],
+    "flag": "https://restcountries.com/data/sau.svg",
     "gini": 45.9,
     "languages": [
       {
@@ -16096,7 +15508,7 @@
     "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "numericCode": "682",
     "population": 32248200,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -16108,7 +15520,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -16159,10 +15571,7 @@
     ],
     "demonym": "Senegalese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sen.svg",
-      "https://restcountries.com/data/png/sen.png"
-    ],
+    "flag": "https://restcountries.com/data/sen.svg",
     "gini": 40.3,
     "languages": [
       {
@@ -16180,7 +15589,7 @@
     "nativeName": "S\u00e9n\u00e9gal",
     "numericCode": "686",
     "population": 14799859,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16194,7 +15603,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -16250,10 +15659,7 @@
     ],
     "demonym": "Serbian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/srb.svg",
-      "https://restcountries.com/data/png/srb.png"
-    ],
+    "flag": "https://restcountries.com/data/srb.svg",
     "gini": 36.2,
     "languages": [
       {
@@ -16271,14 +15677,14 @@
     "nativeName": "\u0421\u0440\u0431\u0438\u0458\u0430",
     "numericCode": "688",
     "population": 7076372,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16324,10 +15730,7 @@
     ],
     "demonym": "Seychellois",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/syc.svg",
-      "https://restcountries.com/data/png/syc.png"
-    ],
+    "flag": "https://restcountries.com/data/syc.svg",
     "gini": 32.1,
     "languages": [
       {
@@ -16351,7 +15754,7 @@
     "nativeName": "Seychelles",
     "numericCode": "690",
     "population": 91400,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16365,7 +15768,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+04:00"
     ],
@@ -16412,10 +15815,7 @@
     ],
     "demonym": "Sierra Leonean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sle.svg",
-      "https://restcountries.com/data/png/sle.png"
-    ],
+    "flag": "https://restcountries.com/data/sle.svg",
     "gini": 35.7,
     "languages": [
       {
@@ -16433,7 +15833,7 @@
     "nativeName": "Sierra Leone",
     "numericCode": "694",
     "population": 7075641,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16447,7 +15847,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -16498,10 +15898,7 @@
     ],
     "demonym": "Singaporean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sgp.svg",
-      "https://restcountries.com/data/png/sgp.png"
-    ],
+    "flag": "https://restcountries.com/data/sgp.svg",
     "gini": 45.9,
     "languages": [
       {
@@ -16537,14 +15934,14 @@
     "nativeName": "Singapore",
     "numericCode": "702",
     "population": 5535000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -16589,10 +15986,7 @@
     ],
     "demonym": "Dutch",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/sxm.svg",
-      "https://restcountries.com/data/png/sxm.png"
-    ],
+    "flag": "https://restcountries.com/data/sxm.svg",
     "languages": [
       {
         "iso639_1": "nl",
@@ -16615,9 +16009,9 @@
     "nativeName": "Sint Maarten",
     "numericCode": "534",
     "population": 38247,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -16666,10 +16060,7 @@
     ],
     "demonym": "Slovak",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/svk.svg",
-      "https://restcountries.com/data/png/svk.png"
-    ],
+    "flag": "https://restcountries.com/data/svk.svg",
     "gini": 25.0,
     "languages": [
       {
@@ -16687,14 +16078,14 @@
     "nativeName": "Slovensko",
     "numericCode": "703",
     "population": 5426252,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16744,10 +16135,7 @@
     ],
     "demonym": "Slovene",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/svn.svg",
-      "https://restcountries.com/data/png/svn.png"
-    ],
+    "flag": "https://restcountries.com/data/svn.svg",
     "gini": 24.6,
     "languages": [
       {
@@ -16765,14 +16153,14 @@
     "nativeName": "Slovenija",
     "numericCode": "705",
     "population": 2064188,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -16815,10 +16203,7 @@
     ],
     "demonym": "Solomon Islander",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/slb.svg",
-      "https://restcountries.com/data/png/slb.png"
-    ],
+    "flag": "https://restcountries.com/data/slb.svg",
     "gini": 37.1,
     "languages": [
       {
@@ -16836,9 +16221,9 @@
     "nativeName": "Solomon Islands",
     "numericCode": "090",
     "population": 642000,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Melanesia",
+    "subregion": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -16889,10 +16274,7 @@
     ],
     "demonym": "Somali",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/som.svg",
-      "https://restcountries.com/data/png/som.png"
-    ],
+    "flag": "https://restcountries.com/data/som.svg",
     "gini": 36.8,
     "languages": [
       {
@@ -16916,7 +16298,7 @@
     "nativeName": "Soomaaliya",
     "numericCode": "706",
     "population": 11079000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -16939,7 +16321,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -16992,10 +16374,7 @@
     ],
     "demonym": "South African",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/zaf.svg",
-      "https://restcountries.com/data/png/zaf.png"
-    ],
+    "flag": "https://restcountries.com/data/zaf.svg",
     "gini": 63.1,
     "languages": [
       {
@@ -17067,7 +16446,7 @@
     "nativeName": "South Africa",
     "numericCode": "710",
     "population": 55653654,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17081,7 +16460,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -17124,10 +16503,7 @@
     ],
     "demonym": "South Georgia and the South Sandwich Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/sgs.svg",
-      "https://restcountries.com/data/png/sgs.png"
-    ],
+    "flag": "https://restcountries.com/data/sgs.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -17144,7 +16520,7 @@
     "nativeName": "South Georgia",
     "numericCode": "239",
     "population": 30,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -17162,7 +16538,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-02:00"
     ],
@@ -17209,10 +16585,7 @@
     ],
     "demonym": "South Korean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/kor.svg",
-      "https://restcountries.com/data/png/kor.png"
-    ],
+    "flag": "https://restcountries.com/data/kor.svg",
     "gini": 31.3,
     "languages": [
       {
@@ -17230,9 +16603,9 @@
     "nativeName": "\ub300\ud55c\ubbfc\uad6d",
     "numericCode": "410",
     "population": 50801405,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -17282,10 +16655,7 @@
     ],
     "demonym": "South Sudanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ssd.svg",
-      "https://restcountries.com/data/png/ssd.png"
-    ],
+    "flag": "https://restcountries.com/data/ssd.svg",
     "gini": 44.1,
     "languages": [
       {
@@ -17303,7 +16673,7 @@
     "nativeName": "South Sudan",
     "numericCode": "728",
     "population": 12131000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17317,7 +16687,7 @@
         ]
       }
     ],
-    "region": "Middle Africa",
+    "subregion": "Middle Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -17368,10 +16738,7 @@
     ],
     "demonym": "Spanish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/esp.svg",
-      "https://restcountries.com/data/png/esp.png"
-    ],
+    "flag": "https://restcountries.com/data/esp.svg",
     "gini": 34.7,
     "languages": [
       {
@@ -17389,14 +16756,14 @@
     "nativeName": "Espa\u00f1a",
     "numericCode": "724",
     "population": 46438422,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Southern Europe",
+    "subregion": "Southern Europe",
     "timezones": [
       "UTC",
       "UTC+01:00"
@@ -17444,10 +16811,7 @@
     ],
     "demonym": "Sri Lankan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/lka.svg",
-      "https://restcountries.com/data/png/lka.png"
-    ],
+    "flag": "https://restcountries.com/data/lka.svg",
     "gini": 39.3,
     "languages": [
       {
@@ -17471,14 +16835,14 @@
     "nativeName": "\u015br\u012b la\u1e43k\u0101va",
     "numericCode": "144",
     "population": 20966000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation"
       }
     ],
-    "region": "Southern Asia",
+    "subregion": "Southern Asia",
     "timezones": [
       "UTC+05:30"
     ],
@@ -17531,10 +16895,7 @@
     ],
     "demonym": "Sudanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sdn.svg",
-      "https://restcountries.com/data/png/sdn.png"
-    ],
+    "flag": "https://restcountries.com/data/sdn.svg",
     "gini": 34.2,
     "languages": [
       {
@@ -17558,7 +16919,7 @@
     "nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
     "numericCode": "729",
     "population": 39598700,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17581,7 +16942,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -17633,10 +16994,7 @@
     ],
     "demonym": "Surinamer",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/sur.svg",
-      "https://restcountries.com/data/png/sur.png"
-    ],
+    "flag": "https://restcountries.com/data/sur.svg",
     "gini": 57.9,
     "languages": [
       {
@@ -17654,7 +17012,7 @@
     "nativeName": "Suriname",
     "numericCode": "740",
     "population": 541638,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -17681,7 +17039,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -17724,10 +17082,7 @@
     ],
     "demonym": "Norwegian",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/sjm.svg",
-      "https://restcountries.com/data/png/sjm.png"
-    ],
+    "flag": "https://restcountries.com/data/sjm.svg",
     "languages": [
       {
         "iso639_1": "no",
@@ -17744,9 +17099,9 @@
     "nativeName": "Svalbard og Jan Mayen",
     "numericCode": "744",
     "population": 2562,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -17797,10 +17152,7 @@
     ],
     "demonym": "Swazi",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/swz.svg",
-      "https://restcountries.com/data/png/swz.png"
-    ],
+    "flag": "https://restcountries.com/data/swz.svg",
     "gini": 51.5,
     "languages": [
       {
@@ -17824,7 +17176,7 @@
     "nativeName": "Swaziland",
     "numericCode": "748",
     "population": 1132657,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -17838,7 +17190,7 @@
         ]
       }
     ],
-    "region": "Southern Africa",
+    "subregion": "Southern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -17886,10 +17238,7 @@
     ],
     "demonym": "Swedish",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/swe.svg",
-      "https://restcountries.com/data/png/swe.png"
-    ],
+    "flag": "https://restcountries.com/data/swe.svg",
     "gini": 30.0,
     "languages": [
       {
@@ -17907,14 +17256,14 @@
     "nativeName": "Sverige",
     "numericCode": "752",
     "population": 9894888,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EU",
         "name": "European Union"
       }
     ],
-    "region": "Northern Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -17968,10 +17317,7 @@
     ],
     "demonym": "Swiss",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/che.svg",
-      "https://restcountries.com/data/png/che.png"
-    ],
+    "flag": "https://restcountries.com/data/che.svg",
     "gini": 33.1,
     "languages": [
       {
@@ -18007,14 +17353,14 @@
     "nativeName": "Schweiz",
     "numericCode": "756",
     "population": 8341600,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association"
       }
     ],
-    "region": "Central Europe",
+    "subregion": "Central Europe",
     "timezones": [
       "UTC+01:00"
     ],
@@ -18065,10 +17411,7 @@
     ],
     "demonym": "Syrian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/syr.svg",
-      "https://restcountries.com/data/png/syr.png"
-    ],
+    "flag": "https://restcountries.com/data/syr.svg",
     "gini": 37.5,
     "languages": [
       {
@@ -18086,7 +17429,7 @@
     "nativeName": "\u0633\u0648\u0631\u064a\u0627",
     "numericCode": "760",
     "population": 18564000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -18098,7 +17441,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+02:00"
     ],
@@ -18145,10 +17488,7 @@
     ],
     "demonym": "Taiwanese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/twn.svg",
-      "https://restcountries.com/data/png/twn.png"
-    ],
+    "flag": "https://restcountries.com/data/twn.svg",
     "gini": 33.6,
     "languages": [
       {
@@ -18166,9 +17506,9 @@
     "nativeName": "\u81fa\u7063",
     "numericCode": "158",
     "population": 23503349,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Eastern Asia",
+    "subregion": "Eastern Asia",
     "timezones": [
       "UTC+08:00"
     ],
@@ -18220,10 +17560,7 @@
     ],
     "demonym": "Tadzhik",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tjk.svg",
-      "https://restcountries.com/data/png/tjk.png"
-    ],
+    "flag": "https://restcountries.com/data/tjk.svg",
     "gini": 34.0,
     "languages": [
       {
@@ -18247,9 +17584,9 @@
     "nativeName": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
     "numericCode": "762",
     "population": 8593600,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Central Asia",
+    "subregion": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -18303,10 +17640,7 @@
     ],
     "demonym": "Tanzanian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tza.svg",
-      "https://restcountries.com/data/png/tza.png"
-    ],
+    "flag": "https://restcountries.com/data/tza.svg",
     "gini": 40.5,
     "languages": [
       {
@@ -18330,7 +17664,7 @@
     "nativeName": "Tanzania",
     "numericCode": "834",
     "population": 55155000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18344,7 +17678,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -18397,10 +17731,7 @@
     ],
     "demonym": "Thai",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tha.svg",
-      "https://restcountries.com/data/png/tha.png"
-    ],
+    "flag": "https://restcountries.com/data/tha.svg",
     "gini": 34.9,
     "languages": [
       {
@@ -18418,14 +17749,14 @@
     "nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
     "numericCode": "764",
     "population": 65327652,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -18474,10 +17805,7 @@
     ],
     "demonym": "East Timorese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tls.svg",
-      "https://restcountries.com/data/png/tls.png"
-    ],
+    "flag": "https://restcountries.com/data/tls.svg",
     "gini": 28.7,
     "languages": [
       {
@@ -18495,9 +17823,9 @@
     "nativeName": "Timor-Leste",
     "numericCode": "626",
     "population": 1167242,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+09:00"
     ],
@@ -18547,10 +17875,7 @@
     ],
     "demonym": "Togolese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tgo.svg",
-      "https://restcountries.com/data/png/tgo.png"
-    ],
+    "flag": "https://restcountries.com/data/tgo.svg",
     "gini": 43.1,
     "languages": [
       {
@@ -18568,7 +17893,7 @@
     "nativeName": "Togo",
     "numericCode": "768",
     "population": 7143000,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18582,7 +17907,7 @@
         ]
       }
     ],
-    "region": "Western Africa",
+    "subregion": "Western Africa",
     "timezones": [
       "UTC"
     ],
@@ -18625,10 +17950,7 @@
     ],
     "demonym": "Tokelauan",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/tkl.svg",
-      "https://restcountries.com/data/png/tkl.png"
-    ],
+    "flag": "https://restcountries.com/data/tkl.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -18645,9 +17967,9 @@
     "nativeName": "Tokelau",
     "numericCode": "772",
     "population": 1411,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -18690,10 +18012,7 @@
     ],
     "demonym": "Tongan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ton.svg",
-      "https://restcountries.com/data/png/ton.png"
-    ],
+    "flag": "https://restcountries.com/data/ton.svg",
     "gini": 37.6,
     "languages": [
       {
@@ -18717,9 +18036,9 @@
     "nativeName": "Tonga",
     "numericCode": "776",
     "population": 103252,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC+13:00"
     ],
@@ -18763,10 +18082,7 @@
     ],
     "demonym": "Trinidadian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tto.svg",
-      "https://restcountries.com/data/png/tto.png"
-    ],
+    "flag": "https://restcountries.com/data/tto.svg",
     "gini": 40.3,
     "languages": [
       {
@@ -18784,7 +18100,7 @@
     "nativeName": "Trinidad and Tobago",
     "numericCode": "780",
     "population": 1349667,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -18796,7 +18112,7 @@
         ]
       }
     ],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -18844,10 +18160,7 @@
     ],
     "demonym": "Tunisian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tun.svg",
-      "https://restcountries.com/data/png/tun.png"
-    ],
+    "flag": "https://restcountries.com/data/tun.svg",
     "gini": 32.8,
     "languages": [
       {
@@ -18865,7 +18178,7 @@
     "nativeName": "\u062a\u0648\u0646\u0633",
     "numericCode": "788",
     "population": 11154400,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -18888,7 +18201,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+01:00"
     ],
@@ -18942,10 +18255,7 @@
       }
     ],
     ",demonym": "Turkish",
-    "flags": [
-      "https://restcountries.com/data/tur.svg",
-      "https://restcountries.com/data/png/tur.png"
-    ],
+    "flag": "https://restcountries.com/data/tur.svg",
     "gini": 41.9,
     "languages": [
       {
@@ -18963,9 +18273,9 @@
     "nativeName": "T\u00fcrkiye",
     "numericCode": "792",
     "population": 78741053,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -19013,10 +18323,7 @@
     ],
     "demonym": "Turkmen",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tkm.svg",
-      "https://restcountries.com/data/png/tkm.png"
-    ],
+    "flag": "https://restcountries.com/data/tkm.svg",
     "gini": 40.8,
     "languages": [
       {
@@ -19040,9 +18347,9 @@
     "nativeName": "T\u00fcrkmenistan",
     "numericCode": "795",
     "population": 4751120,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Central Asia",
+    "subregion": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -19085,10 +18392,7 @@
     ],
     "demonym": "Turks and Caicos Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/tca.svg",
-      "https://restcountries.com/data/png/tca.png"
-    ],
+    "flag": "https://restcountries.com/data/tca.svg",
     "languages": [
       {
         "iso639_1": "en",
@@ -19105,9 +18409,9 @@
     "nativeName": "Turks and Caicos Islands",
     "numericCode": "796",
     "population": 31458,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [],
-    "region": "Caribbean",
+    "subregion": "Caribbean",
     "timezones": [
       "UTC-04:00"
     ],
@@ -19155,10 +18459,7 @@
     ],
     "demonym": "Tuvaluan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/tuv.svg",
-      "https://restcountries.com/data/png/tuv.png"
-    ],
+    "flag": "https://restcountries.com/data/tuv.svg",
     "gini": 39.1,
     "languages": [
       {
@@ -19176,9 +18477,9 @@
     "nativeName": "Tuvalu",
     "numericCode": "798",
     "population": 10640,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -19229,10 +18530,7 @@
     ],
     "demonym": "Ugandan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/uga.svg",
-      "https://restcountries.com/data/png/uga.png"
-    ],
+    "flag": "https://restcountries.com/data/uga.svg",
     "gini": 42.8,
     "languages": [
       {
@@ -19256,7 +18554,7 @@
     "nativeName": "Uganda",
     "numericCode": "800",
     "population": 33860700,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -19270,7 +18568,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+03:00"
     ],
@@ -19322,10 +18620,7 @@
     ],
     "demonym": "Ukrainian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ukr.svg",
-      "https://restcountries.com/data/png/ukr.png"
-    ],
+    "flag": "https://restcountries.com/data/ukr.svg",
     "gini": 26.6,
     "languages": [
       {
@@ -19343,9 +18638,9 @@
     "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "numericCode": "804",
     "population": 42692393,
-    "continent": "Europe",
+    "region": "Europe",
     "regionalBlocs": [],
-    "region": "Eastern Europe",
+    "subregion": "Eastern Europe",
     "timezones": [
       "UTC+02:00"
     ],
@@ -19392,10 +18687,7 @@
     ],
     "demonym": "Emirati",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/are.svg",
-      "https://restcountries.com/data/png/are.png"
-    ],
+    "flag": "https://restcountries.com/data/are.svg",
     "gini": 26.0,
     "languages": [
       {
@@ -19413,7 +18705,7 @@
     "nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
     "numericCode": "784",
     "population": 9856000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -19425,7 +18717,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+04"
     ],
@@ -19472,10 +18764,7 @@
     ],
     "demonym": "British",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/gbr.svg",
-      "https://restcountries.com/data/png/gbr.png"
-    ],
+    "flag": "https://restcountries.com/data/gbr.svg",
     "gini": 35.1,
     "languages": [
       {
@@ -19493,8 +18782,8 @@
     "nativeName": "United Kingdom",
     "numericCode": "826",
     "population": 65110000,
-    "continent": "Europe",
-    "region": "Northern Europe",
+    "region": "Europe",
+    "subregion": "Northern Europe",
     "timezones": [
       "UTC-08:00",
       "UTC-05:00",
@@ -19550,10 +18839,7 @@
     ],
     "demonym": "American",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/usa.svg",
-      "https://restcountries.com/data/png/usa.png"
-    ],
+    "flag": "https://restcountries.com/data/usa.svg",
     "gini": 41.4,
     "languages": [
       {
@@ -19571,7 +18857,7 @@
     "nativeName": "United States",
     "numericCode": "840",
     "population": 323947000,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -19582,7 +18868,7 @@
         ]
       }
     ],
-    "region": "Northern America",
+    "subregion": "Northern America",
     "timezones": [
       "UTC-12:00",
       "UTC-11:00",
@@ -19640,10 +18926,7 @@
     ],
     "demonym": "Uruguayan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ury.svg",
-      "https://restcountries.com/data/png/ury.png"
-    ],
+    "flag": "https://restcountries.com/data/ury.svg",
     "gini": 39.7,
     "languages": [
       {
@@ -19661,7 +18944,7 @@
     "nativeName": "Uruguay",
     "numericCode": "858",
     "population": 3480222,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -19679,7 +18962,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-03:00"
     ],
@@ -19730,10 +19013,7 @@
       }
     ],
     ",demonym": "Uzbekistani",
-    "flags": [
-      "https://restcountries.com/data/uzb.svg",
-      "https://restcountries.com/data/png/uzb.png"
-    ],
+    "flag": "https://restcountries.com/data/uzb.svg",
     "gini": 35.3,
     "languages": [
       {
@@ -19757,9 +19037,9 @@
     "nativeName": "O\u2018zbekiston",
     "numericCode": "860",
     "population": 31576400,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [],
-    "region": "Central Asia",
+    "subregion": "Central Asia",
     "timezones": [
       "UTC+05:00"
     ],
@@ -19805,10 +19085,7 @@
     ],
     "demonym": "Ni-Vanuatu",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/vut.svg",
-      "https://restcountries.com/data/png/vut.png"
-    ],
+    "flag": "https://restcountries.com/data/vut.svg",
     "gini": 37.6,
     "languages": [
       {
@@ -19838,9 +19115,9 @@
     "nativeName": "Vanuatu",
     "numericCode": "548",
     "population": 277500,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Melanesia",
+    "subregion": "Melanesia",
     "timezones": [
       "UTC+11:00"
     ],
@@ -19889,10 +19166,7 @@
     ],
     "demonym": "Venezuelan",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/ven.svg",
-      "https://restcountries.com/data/png/ven.png"
-    ],
+    "flag": "https://restcountries.com/data/ven.svg",
     "gini": 39,
     "languages": [
       {
@@ -19910,7 +19184,7 @@
     "nativeName": "Venezuela",
     "numericCode": "862",
     "population": 31028700,
-    "continent": "Americas",
+    "region": "Americas",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -19928,7 +19202,7 @@
         ]
       }
     ],
-    "region": "South America",
+    "subregion": "South America",
     "timezones": [
       "UTC-04:00"
     ],
@@ -19977,10 +19251,7 @@
     ],
     "demonym": "Vietnamese",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/vnm.svg",
-      "https://restcountries.com/data/png/vnm.png"
-    ],
+    "flag": "https://restcountries.com/data/vnm.svg",
     "gini": 35.6,
     "languages": [
       {
@@ -19998,14 +19269,14 @@
     "nativeName": "Vi\u1ec7t Nam",
     "numericCode": "704",
     "population": 92700000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations"
       }
     ],
-    "region": "South-Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "timezones": [
       "UTC+07:00"
     ],
@@ -20050,10 +19321,7 @@
     ],
     "demonym": "Wallis and Futuna Islander",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/wlf.svg",
-      "https://restcountries.com/data/png/wlf.png"
-    ],
+    "flag": "https://restcountries.com/data/wlf.svg",
     "languages": [
       {
         "iso639_1": "fr",
@@ -20070,9 +19338,9 @@
     "nativeName": "Wallis et Futuna",
     "numericCode": "876",
     "population": 11750,
-    "continent": "Oceania",
+    "region": "Oceania",
     "regionalBlocs": [],
-    "region": "Polynesia",
+    "subregion": "Polynesia",
     "timezones": [
       "UTC+12:00"
     ],
@@ -20125,10 +19393,7 @@
     ],
     "demonym": "Sahrawi",
     "independent": false,
-    "flags": [
-      "https://restcountries.com/data/esh.svg",
-      "https://restcountries.com/data/png/esh.png"
-    ],
+    "flag": "https://restcountries.com/data/esh.svg",
     "languages": [
       {
         "iso639_1": "es",
@@ -20145,7 +19410,7 @@
     "nativeName": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
     "numericCode": "732",
     "population": 510713,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20159,7 +19424,7 @@
         ]
       }
     ],
-    "region": "Northern Africa",
+    "subregion": "Northern Africa",
     "timezones": [
       "UTC+00:00"
     ],
@@ -20207,10 +19472,7 @@
     ],
     "demonym": "Yemeni",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/yem.svg",
-      "https://restcountries.com/data/png/yem.png"
-    ],
+    "flag": "https://restcountries.com/data/yem.svg",
     "gini": 36.7,
     "languages": [
       {
@@ -20228,7 +19490,7 @@
     "nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
     "numericCode": "887",
     "population": 27478000,
-    "continent": "Asia",
+    "region": "Asia",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -20240,7 +19502,7 @@
         ]
       }
     ],
-    "region": "Western Asia",
+    "subregion": "Western Asia",
     "timezones": [
       "UTC+03:00"
     ],
@@ -20293,10 +19555,7 @@
     ],
     "demonym": "Zambian",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/zmb.svg",
-      "https://restcountries.com/data/png/zmb.png"
-    ],
+    "flag": "https://restcountries.com/data/zmb.svg",
     "gini": 57.1,
     "languages": [
       {
@@ -20314,7 +19573,7 @@
     "nativeName": "Zambia",
     "numericCode": "894",
     "population": 15933883,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20328,7 +19587,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],
@@ -20377,10 +19636,7 @@
     ],
     "demonym": "Zimbabwean",
     "independent": true,
-    "flags": [
-      "https://restcountries.com/data/zwe.svg",
-      "https://restcountries.com/data/png/zwe.png"
-    ],
+    "flag": "https://restcountries.com/data/zwe.svg",
     "gini": 50.3,
     "languages": [
       {
@@ -20410,7 +19666,7 @@
     "nativeName": "Zimbabwe",
     "numericCode": "716",
     "population": 14240168,
-    "continent": "Africa",
+    "region": "Africa",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -20424,7 +19680,7 @@
         ]
       }
     ],
-    "region": "Eastern Africa",
+    "subregion": "Eastern Africa",
     "timezones": [
       "UTC+02:00"
     ],

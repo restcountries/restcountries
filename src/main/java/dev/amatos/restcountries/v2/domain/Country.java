@@ -12,7 +12,7 @@ public class Country extends BaseCountry {
     private List<Currency> currencies;
     private List<Language> languages;
     private Translations translations;
-    private List<String> flags;
+    private String flag;
     private List<RegionalBloc> regionalBlocs;
     private String cioc;
     private boolean independent;
@@ -29,8 +29,8 @@ public class Country extends BaseCountry {
         return translations;
     }
 
-    public List<String> getFlags() {
-        return flags;
+    public String getFlag() {
+        return flag;
     }
 
     public List<RegionalBloc> getRegionalBlocs() {

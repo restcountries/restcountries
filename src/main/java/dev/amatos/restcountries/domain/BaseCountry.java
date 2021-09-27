@@ -18,9 +18,9 @@ public class BaseCountry {
 
     private List<String> altSpellings;
 
-    protected String region;
+    protected String subregion;
 
-    protected String continent;
+    protected String region;
 
     protected Integer population;
 
@@ -68,12 +68,12 @@ public class BaseCountry {
         return altSpellings;
     }
 
-    public String getRegion() {
-        return region;
+    public String getSubregion() {
+        return subregion;
     }
 
-    public String getContinent() {
-        return continent;
+    public String getRegion() {
+        return region;
     }
 
     public Integer getPopulation() {

@@ -79,7 +79,7 @@ public class CountryServiceBase {
     protected List<? extends BaseCountry> getByContinent(String region, List<? extends BaseCountry> countries) {
         List<BaseCountry> result = new ArrayList<>();
         for (BaseCountry country : countries) {
-            if (country.getContinent().equalsIgnoreCase(region)) {
+            if (country.getRegion().equalsIgnoreCase(region)) {
                 result.add(country);
             }
         }
@@ -89,7 +89,7 @@ public class CountryServiceBase {
     protected List<? extends BaseCountry> getByRegion(String subregion, List<? extends BaseCountry> countries) {
         List<BaseCountry> result = new ArrayList<>();
         for (BaseCountry country : countries) {
-            if (country.getRegion().equalsIgnoreCase(subregion)) {
+            if (country.getSubregion().equalsIgnoreCase(subregion)) {
                 result.add(country);
             }
         }
