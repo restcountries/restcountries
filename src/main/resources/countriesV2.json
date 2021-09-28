@@ -6312,7 +6312,7 @@
         "symbol": "kr"
       },
       {
-        "code": "(none)",
+        "code": "FOK",
         "name": "Faroese kr\u00f3na",
         "symbol": "kr"
       }
@@ -7831,7 +7831,7 @@
         "symbol": "\u00a3"
       },
       {
-        "code": "(none)",
+        "code": "GGP",
         "name": "Guernsey pound",
         "symbol": "\u00a3"
       }
@@ -9922,7 +9922,7 @@
         "symbol": "$"
       },
       {
-        "code": "(none)",
+        "code": "KID",
         "name": "Kiribati dollar",
         "symbol": "$"
       }
@@ -13537,7 +13537,7 @@
         "symbol": "$"
       },
       {
-        "code": "(none)",
+        "code": "NZD",
         "name": "Niue dollar",
         "symbol": "$"
       }
