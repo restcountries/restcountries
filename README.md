@@ -11,10 +11,14 @@ You can access API through https://restcountries.com/v3/all
 Please reffer to the [issue website](https://gitlab.com/amatos/rest-countries/-/issues)
 
 # Contributing
-Any help is welcome! Just edit the file relevant file and create a new Merge Request or you can also [donate](https://www.paypal.me/amatosg/15).
+Any help is welcome! Just edit the file relevant file and create a new Merge Request or you can also 
+[donate](https://www.paypal.me/amatosg/15).
 
 # Donations
-If you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also [buy me a coffee](https://www.buymeacoffee.com/amatos) :)
+Donation will help me paying the server's bills and any upgrade the server might need due to usage so if 
+you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also 
+[buy me a coffee](https://www.buymeacoffee.com/amatos). 
+
 
 # Changelog
 ### V3

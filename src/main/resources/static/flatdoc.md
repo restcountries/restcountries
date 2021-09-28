@@ -40,7 +40,7 @@ The structure has been reverted to its original form from the [Original Project]
 
 Donate!
 ---------------
-Please consider donating [$5], [$10], [$15] o [more]. I would very much appreciate the help 😃
+Please consider donating [$5], [$10], [$15] o [more]. This will allow me to pay the server's bills 😃
 
 The original restcountries project was acquired by apilayer, one of the leading providers of 
 API microservices. As the original project has shown very little activity, I created this project 
