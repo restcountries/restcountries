@@ -1,9 +1,9 @@
-package dev.amatos.restcountries.v3.domain;
+package dev.amatos.restcountries.domain.base;
 
 import java.util.List;
 import java.util.Map;
 
-public class Country {
+public class BaseCountry {
   private Name name;
   private List<String> tld;
   private String cca2;
@@ -25,10 +25,9 @@ public class Country {
   private Boolean landlocked;
   private List<String> borders;
   private Double area;
-  private String flag;
-  private List<String> flags;
   private Map<String, Map<String, String>> demonyms;
   private List<String> callingCodes;
+  private String flag;
 
   public Name getName() {
     return name;
@@ -183,22 +182,6 @@ public class Country {
     this.area = area;
   }
 
-  public String getFlag() {
-    return flag;
-  }
-
-  public void setFlag(String flag) {
-    this.flag = flag;
-  }
-
-  public List<String> getFlags() {
-    return flags;
-  }
-
-  public void setFlags(List<String> flags) {
-    this.flags = flags;
-  }
-
   public Map<String, Map<String, String>> getDemonyms() {
     return demonyms;
   }
@@ -232,8 +215,6 @@ public class Country {
         ", landlocked=" + landlocked + "\n" +
         ", borders=" + borders + "\n" +
         ", area=" + area + "\n" +
-        ", flag='" + flag + '\'' + "\n" +
-        ", flags=" + flags + "\n" +
         ", demonyms=" + demonyms + "\n" +
         '}';
   }
@@ -260,5 +241,13 @@ public class Country {
 
   public void setCallingCodes(List<String> callingCodes) {
     this.callingCodes = callingCodes;
+  }
+
+  public String getFlag() {
+    return flag;
+  }
+
+  public void setFlag(String flag) {
+    this.flag = flag;
   }
 }

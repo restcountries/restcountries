@@ -1,32 +1,32 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
-package dev.amatos.restcountries.service;
+package dev.amatos.restcountries.service.v2;
 
-import dev.amatos.restcountries.v2.domain.Country;
-import dev.amatos.restcountries.v2.domain.Currency;
-import dev.amatos.restcountries.v2.domain.Language;
-import dev.amatos.restcountries.v2.domain.RegionalBloc;
+import dev.amatos.restcountries.domain.v2.Country;
+import dev.amatos.restcountries.domain.v2.Currency;
+import dev.amatos.restcountries.domain.v2.Language;
+import dev.amatos.restcountries.domain.v2.RegionalBloc;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.log4j.Logger;
 
-public class CountryService extends CountryServiceBase {
+public class CountryServiceV2 extends CountryServiceBaseV2 {
 
-  private static final Logger LOG = Logger.getLogger(CountryService.class);
+  private static final Logger LOG = Logger.getLogger(CountryServiceV2.class);
 
   private static List<Country> countries;
 
-  private CountryService() {
+  private CountryServiceV2() {
     initialize();
   }
 
   private static class InstanceHolder {
 
-    private static final CountryService INSTANCE = new CountryService();
+    private static final CountryServiceV2 INSTANCE = new CountryServiceV2();
   }
 
-  public static CountryService getInstance() {
+  public static CountryServiceV2 getInstance() {
     return InstanceHolder.INSTANCE;
   }
 

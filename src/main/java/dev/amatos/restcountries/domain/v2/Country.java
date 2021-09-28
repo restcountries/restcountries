@@ -1,11 +1,12 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
-package dev.amatos.restcountries.v2.domain;
+package dev.amatos.restcountries.domain.v2;
 
 import dev.amatos.restcountries.domain.BaseCountry;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class Country extends BaseCountry {
 
@@ -16,17 +17,16 @@ public class Country extends BaseCountry {
   private List<RegionalBloc> regionalBlocs;
   private String cioc;
   private boolean independent;
-  private List<Flag> flags;
 
-  public List<dev.amatos.restcountries.v2.domain.Currency> getCurrencies() {
+  public List<Currency> getCurrencies() {
     return currencies;
   }
 
-  public List<dev.amatos.restcountries.v2.domain.Language> getLanguages() {
+  public List<Language> getLanguages() {
     return languages;
   }
 
-  public dev.amatos.restcountries.v2.domain.Translations getTranslations() {
+  public Translations getTranslations() {
     return translations;
   }
 
@@ -44,16 +44,5 @@ public class Country extends BaseCountry {
 
   public boolean isIndependent() {
     return independent;
-  }
-
-  public List<Flag> getFlags() {
-    if (null == flags) {
-      return new ArrayList<>();
-    }
-    return flags;
-  }
-
-  public void setFlags(List<Flag> flags) {
-    this.flags = flags;
   }
 }

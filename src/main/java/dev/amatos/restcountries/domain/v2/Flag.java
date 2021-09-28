@@ -1,4 +1,4 @@
-package dev.amatos.restcountries.v2.domain;
+package dev.amatos.restcountries.domain.v2;
 
 public class Flag {
   private String svg;

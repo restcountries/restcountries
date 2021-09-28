@@ -149,10 +149,10 @@
         "m": "Arubais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/abw.svg",
-      "https://restcountries.com/data/png/abw.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/abw.svg",
+      "png": "https://restcountries.com/data/png/abw.png"
+    },
     "population": 106766
   },
   {
@@ -321,10 +321,10 @@
         "m": "Afghan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/afg.svg",
-      "https://restcountries.com/data/png/afg.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/afg.svg",
+      "png": "https://restcountries.com/data/png/afg.png"
+    },
     "population": 2837743
   },
   {
@@ -482,10 +482,10 @@
         "m": "Angolais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ago.svg",
-      "https://restcountries.com/data/png/ago.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ago.svg",
+      "png": "https://restcountries.com/data/png/ago.png"
+    },
     "population": 32866268
   },
   {
@@ -633,10 +633,10 @@
         "m": "Anguillan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/aia.svg",
-      "https://restcountries.com/data/png/aia.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/aia.svg",
+      "png": "https://restcountries.com/data/png/aia.png"
+    },
     "population": 13452
   },
   {
@@ -787,10 +787,10 @@
         "m": "Ålandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ax.svg",
-      "https://restcountries.com/data/png/ax.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ax.svg",
+      "png": "https://restcountries.com/data/png/ax.png"
+    },
     "population": 29458
   },
   {
@@ -949,10 +949,10 @@
         "m": "Albanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/alb.svg",
-      "https://restcountries.com/data/png/alb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/alb.svg",
+      "png": "https://restcountries.com/data/png/alb.png"
+    },
     "population": 2837743
   },
   {
@@ -1108,10 +1108,10 @@
         "m": "Andorran"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/and.svg",
-      "https://restcountries.com/data/png/and.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/and.svg",
+      "png": "https://restcountries.com/data/png/and.png"
+    },
     "population": 77265
   },
   {
@@ -1264,10 +1264,10 @@
         "m": "Emirien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/are.svg",
-      "https://restcountries.com/data/png/are.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/are.svg",
+      "png": "https://restcountries.com/data/png/are.png"
+    },
     "population": 9890400
   },
   {
@@ -1431,10 +1431,10 @@
         "m": "Argentin"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/arg.svg",
-      "https://restcountries.com/data/png/arg.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/arg.svg",
+      "png": "https://restcountries.com/data/png/arg.png"
+    },
     "population": 45376763
   },
   {
@@ -1593,10 +1593,10 @@
         "m": "Arménien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/arm.svg",
-      "https://restcountries.com/data/png/arm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/arm.svg",
+      "png": "https://restcountries.com/data/png/arm.png"
+    },
     "population": 2963234
   },
   {
@@ -1752,10 +1752,10 @@
         "m": "Samoan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/asm.svg",
-      "https://restcountries.com/data/png/asm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/asm.svg",
+      "png": "https://restcountries.com/data/png/asm.png"
+    },
     "population": 55197
   },
   {
@@ -1897,10 +1897,10 @@
         "m": "Antarcticain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ata.svg",
-      "https://restcountries.com/data/png/ata.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ata.svg",
+      "png": "https://restcountries.com/data/png/ata.png"
+    },
     "population": 1000
   },
   {
@@ -2049,10 +2049,10 @@
         "m": "Français"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/atf.svg",
-      "https://restcountries.com/data/png/atf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/atf.svg",
+      "png": "https://restcountries.com/data/png/atf.png"
+    },
     "population": 400
   },
   {
@@ -2204,10 +2204,10 @@
         "m": "Antiguaise et barbudien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/atg.svg",
-      "https://restcountries.com/data/png/atg.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/atg.svg",
+      "png": "https://restcountries.com/data/png/atg.png"
+    },
     "population": 97928
   },
   {
@@ -2359,10 +2359,10 @@
         "m": "Australien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/aus.svg",
-      "https://restcountries.com/data/png/aus.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/aus.svg",
+      "png": "https://restcountries.com/data/png/aus.png"
+    },
     "population": 25687041
   },
   {
@@ -2524,10 +2524,10 @@
         "m": "Autrichien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/aut.svg",
-      "https://restcountries.com/data/png/aut.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/aut.svg",
+      "png": "https://restcountries.com/data/png/aut.png"
+    },
     "population": 8917205
   },
   {
@@ -2691,10 +2691,10 @@
         "m": "Azerbaïdjanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/aze.svg",
-      "https://restcountries.com/data/png/aze.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/aze.svg",
+      "png": "https://restcountries.com/data/png/aze.png"
+    },
     "population": 10110116
   },
   {
@@ -2857,10 +2857,10 @@
         "m": "Burundais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bdi.svg",
-      "https://restcountries.com/data/png/bdi.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bdi.svg",
+      "png": "https://restcountries.com/data/png/bdi.png"
+    },
     "population": 11890781
   },
   {
@@ -3034,10 +3034,10 @@
         "m": "Belge"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bel.svg",
-      "https://restcountries.com/data/png/bel.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bel.svg",
+      "png": "https://restcountries.com/data/png/bel.png"
+    },
     "population": 11555997
   },
   {
@@ -3195,10 +3195,10 @@
         "m": "Béninois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ben.svg",
-      "https://restcountries.com/data/png/ben.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ben.svg",
+      "png": "https://restcountries.com/data/png/ben.png"
+    },
     "population": 12123198
   },
   {
@@ -3356,10 +3356,10 @@
         "m": "Burkinabé"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bfa.svg",
-      "https://restcountries.com/data/png/bfa.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bfa.svg",
+      "png": "https://restcountries.com/data/png/bfa.png"
+    },
     "population": 20903278
   },
   {
@@ -3515,10 +3515,10 @@
         "m": "Bangladais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bgd.svg",
-      "https://restcountries.com/data/bgd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bgd.svg",
+      "png": "https://restcountries.com/data/bgd.png"
+    },
     "population": 164689383
   },
   {
@@ -3677,10 +3677,10 @@
         "m": "Bulgare"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bgr.svg",
-      "https://restcountries.com/data/bgr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bgr.svg",
+      "png": "https://restcountries.com/data/bgr.png"
+    },
     "population": 6927288
   },
   {
@@ -3834,10 +3834,10 @@
         "m": "Bahreïnien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bhr.svg",
-      "https://restcountries.com/data/bhr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bhr.svg",
+      "png": "https://restcountries.com/data/bhr.png"
+    },
     "population": 1701583
   },
   {
@@ -3994,10 +3994,10 @@
         "m": "Bahamien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bhs.svg",
-      "https://restcountries.com/data/png/bhs.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bhs.svg",
+      "png": "https://restcountries.com/data/png/bhs.png"
+    },
     "population": 393248
   },
   {
@@ -4164,10 +4164,10 @@
         "m": "Bosnien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bih.svg",
-      "https://restcountries.com/data/png/bih.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bih.svg",
+      "png": "https://restcountries.com/data/png/bih.png"
+    },
     "population": 3280815
   },
   {
@@ -4318,10 +4318,10 @@
         "m": "Barthéloméen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/blm.svg",
-      "https://restcountries.com/data/png/blm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/blm.svg",
+      "png": "https://restcountries.com/data/png/blm.png"
+    },
     "population": 4255
   },
   {
@@ -4476,10 +4476,10 @@
         "m": "Sainte-Hélènois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/shn.svg",
-      "https://restcountries.com/data/png/shn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/shn.svg",
+      "png": "https://restcountries.com/data/png/shn.png"
+    },
     "population": 53192
   },
   {
@@ -4645,10 +4645,10 @@
         "m": "Biélorusse"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/blr.svg",
-      "https://restcountries.com/data/png/blr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/blr.svg",
+      "png": "https://restcountries.com/data/png/blr.png"
+    },
     "population": 9398861
   },
   {
@@ -4812,10 +4812,10 @@
         "m": "Bélizien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/blz.svg",
-      "https://restcountries.com/data/png/blz.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/blz.svg",
+      "png": "https://restcountries.com/data/png/blz.png"
+    },
     "population": 397621
   },
   {
@@ -4970,10 +4970,10 @@
         "m": "Bermudien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bmu.svg",
-      "https://restcountries.com/data/png/bmu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bmu.svg",
+      "png": "https://restcountries.com/data/png/bmu.png"
+    },
     "population": 63903
   },
   {
@@ -5153,10 +5153,10 @@
         "m": "Bolivien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bol.svg",
-      "https://restcountries.com/data/png/bol.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bol.svg",
+      "png": "https://restcountries.com/data/png/bol.png"
+    },
     "population": 11673029
   },
   {
@@ -5310,10 +5310,10 @@
         "m": "Néerlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nld.svg",
-      "https://restcountries.com/data/png/nld.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nld.svg",
+      "png": "https://restcountries.com/data/png/nld.png"
+    },
     "population": 25987
   },
   {
@@ -5478,10 +5478,10 @@
         "m": "Brésilien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bra.svg",
-      "https://restcountries.com/data/png/bra.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bra.svg",
+      "png": "https://restcountries.com/data/png/bra.png"
+    },
     "population": 212559409
   },
   {
@@ -5633,10 +5633,10 @@
         "m": "Barbadien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/brb.svg",
-      "https://restcountries.com/data/png/brb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/brb.svg",
+      "png": "https://restcountries.com/data/png/brb.png"
+    },
     "population": 287371
   },
   {
@@ -5796,10 +5796,10 @@
         "m": "Brunéien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/brn.svg",
-      "https://restcountries.com/data/png/brn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/brn.svg",
+      "png": "https://restcountries.com/data/png/brn.png"
+    },
     "population": 437483
   },
   {
@@ -5958,10 +5958,10 @@
         "m": "Bhoutanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/btn.svg",
-      "https://restcountries.com/data/png/btn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/btn.svg",
+      "png": "https://restcountries.com/data/png/btn.png"
+    },
     "population": 771612
   },
   {
@@ -6107,10 +6107,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bvt.svg",
-      "https://restcountries.com/data/png/bvt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bvt.svg",
+      "png": "https://restcountries.com/data/png/bvt.png"
+    },
     "population": 0
   },
   {
@@ -6269,10 +6269,10 @@
         "m": "Botswanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/bwa.svg",
-      "https://restcountries.com/data/png/bwa.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/bwa.svg",
+      "png": "https://restcountries.com/data/png/bwa.png"
+    },
     "population": 2351625
   },
   {
@@ -6437,10 +6437,10 @@
         "m": "Centrafricain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/caf.svg",
-      "https://restcountries.com/data/png/caf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/caf.svg",
+      "png": "https://restcountries.com/data/png/caf.png"
+    },
     "population": 4829764
   },
   {
@@ -6598,10 +6598,10 @@
         "m": "Canadien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/can.svg",
-      "https://restcountries.com/data/png/can.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/can.svg",
+      "png": "https://restcountries.com/data/png/can.png"
+    },
     "population": 38005238
   },
   {
@@ -6755,10 +6755,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cck.svg",
-      "https://restcountries.com/data/png/cck.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cck.svg",
+      "png": "https://restcountries.com/data/png/cck.png"
+    },
     "population": 544
   },
   {
@@ -6931,10 +6931,10 @@
         "m": "Suisse"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/che.svg",
-      "https://restcountries.com/data/png/che.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/che.svg",
+      "png": "https://restcountries.com/data/png/che.png"
+    },
     "population": 17500657
   },
   {
@@ -7091,10 +7091,10 @@
         "m": "Chilien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/chl.svg",
-      "https://restcountries.com/data/png/chl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/chl.svg",
+      "png": "https://restcountries.com/data/png/chl.png"
+    },
     "population": 19116209
   },
   {
@@ -7268,10 +7268,10 @@
         "m": "Chinois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/chn.svg",
-      "https://restcountries.com/data/png/chn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/chn.svg",
+      "png": "https://restcountries.com/data/png/chn.png"
+    },
     "population": 1402112000
   },
   {
@@ -7428,10 +7428,10 @@
         "m": "Ivoirien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/civ.svg",
-      "https://restcountries.com/data/png/civ.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/civ.svg",
+      "png": "https://restcountries.com/data/png/civ.png"
+    },
     "population": 26378275
   },
   {
@@ -7596,10 +7596,10 @@
         "m": "Camerounais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cmr.svg",
-      "https://restcountries.com/data/png/cmr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cmr.svg",
+      "png": "https://restcountries.com/data/png/cmr.png"
+    },
     "population": 26545864
   },
   {
@@ -7784,10 +7784,10 @@
         "m": "Congolais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cod.svg",
-      "https://restcountries.com/data/png/cod.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cod.svg",
+      "png": "https://restcountries.com/data/png/cod.png"
+    },
     "population": 89561404
   },
   {
@@ -7956,10 +7956,10 @@
         "m": "Congolais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cog.svg",
-      "https://restcountries.com/data/png/cog.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cog.svg",
+      "png": "https://restcountries.com/data/png/cog.png"
+    },
     "population": 89561404
   },
   {
@@ -8121,10 +8121,10 @@
         "m": "Cookien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cok.svg",
-      "https://restcountries.com/data/png/cok.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cok.svg",
+      "png": "https://restcountries.com/data/png/cok.png"
+    },
     "population": 18100
   },
   {
@@ -8283,10 +8283,10 @@
         "m": "Colombien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/col.svg",
-      "https://restcountries.com/data/png/col.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/col.svg",
+      "png": "https://restcountries.com/data/png/col.png"
+    },
     "population": 50882884
   },
   {
@@ -8452,10 +8452,10 @@
         "m": "Comorien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/com.svg",
-      "https://restcountries.com/data/png/com.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/com.svg",
+      "png": "https://restcountries.com/data/png/com.png"
+    },
     "population": 869595
   },
   {
@@ -8609,10 +8609,10 @@
         "m": "Cap-verdien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cpv.svg",
-      "https://restcountries.com/data/png/cpv.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cpv.svg",
+      "png": "https://restcountries.com/data/png/cpv.png"
+    },
     "population": 555988
   },
   {
@@ -8768,10 +8768,10 @@
         "m": "Costaricain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cri.svg",
-      "https://restcountries.com/data/png/cri.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cri.svg",
+      "png": "https://restcountries.com/data/png/cri.png"
+    },
     "population": 5094114
   },
   {
@@ -8929,10 +8929,10 @@
         "m": "Cubain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cub.svg",
-      "https://restcountries.com/data/png/cub.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cub.svg",
+      "png": "https://restcountries.com/data/png/cub.png"
+    },
     "population": 11326616
   },
   {
@@ -9087,10 +9087,10 @@
         "m": "Curacien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cuw.svg",
-      "https://restcountries.com/data/png/cuw.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cuw.svg",
+      "png": "https://restcountries.com/data/png/cuw.png"
+    },
     "population": 155014
   },
   {
@@ -9243,10 +9243,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cxr.svg",
-      "https://restcountries.com/data/png/cxr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cxr.svg",
+      "png": "https://restcountries.com/data/png/cxr.png"
+    },
     "population": 2072
   },
   {
@@ -9398,10 +9398,10 @@
         "m": "Caïmanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cym.svg",
-      "https://restcountries.com/data/png/cym.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cym.svg",
+      "png": "https://restcountries.com/data/png/cym.png"
+    },
     "population": 65720
   },
   {
@@ -9563,10 +9563,10 @@
         "m": "Chypriote"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cyp.svg",
-      "https://restcountries.com/data/png/cyp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cyp.svg",
+      "png": "https://restcountries.com/data/png/cyp.png"
+    },
     "population": 1207361
   },
   {
@@ -9729,10 +9729,10 @@
         "m": "Tchèque"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/cze.svg",
-      "https://restcountries.com/data/png/cze.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/cze.svg",
+      "png": "https://restcountries.com/data/png/cze.png"
+    },
     "population": 10698896
   },
   {
@@ -9891,10 +9891,10 @@
         "m": "Allemand"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/deu.svg",
-      "https://restcountries.com/data/png/deu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/deu.svg",
+      "png": "https://restcountries.com/data/png/deu.png"
+    },
     "population": 83240525
   },
   {
@@ -10060,10 +10060,10 @@
         "m": "Djiboutien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/dji.svg",
-      "https://restcountries.com/data/png/dji.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/dji.svg",
+      "png": "https://restcountries.com/data/png/dji.png"
+    },
     "population": 988002
   },
   {
@@ -10218,10 +10218,10 @@
         "m": "Dominiquais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/dma.svg",
-      "https://restcountries.com/data/png/dma.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/dma.svg",
+      "png": "https://restcountries.com/data/png/dma.png"
+    },
     "population": 71991
   },
   {
@@ -10377,10 +10377,10 @@
         "m": "Danois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/dnk.svg",
-      "https://restcountries.com/data/png/dnk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/dnk.svg",
+      "png": "https://restcountries.com/data/png/dnk.png"
+    },
     "population": 5831404
   },
   {
@@ -10535,10 +10535,10 @@
         "m": "Dominicain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/dom.svg",
-      "https://restcountries.com/data/png/dom.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/dom.svg",
+      "png": "https://restcountries.com/data/png/dom.png"
+    },
     "population": 10847904
   },
   {
@@ -10700,10 +10700,10 @@
         "m": "Algérien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/dza.svg",
-      "https://restcountries.com/data/png/dza.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/dza.svg",
+      "png": "https://restcountries.com/data/png/dza.png"
+    },
     "population": 510713
   },
   {
@@ -10859,10 +10859,10 @@
         "m": "Équatorien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ecu.svg",
-      "https://restcountries.com/data/png/ecu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ecu.svg",
+      "png": "https://restcountries.com/data/png/ecu.png"
+    },
     "population": 17643060
   },
   {
@@ -11020,10 +11020,10 @@
         "m": "Égyptien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/egy.svg",
-      "https://restcountries.com/data/png/egy.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/egy.svg",
+      "png": "https://restcountries.com/data/png/egy.png"
+    },
     "population": 102334403
   },
   {
@@ -11193,10 +11193,10 @@
         "m": "Érythréen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/eri.svg",
-      "https://restcountries.com/data/png/eri.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/eri.svg",
+      "png": "https://restcountries.com/data/png/eri.png"
+    },
     "population": 5352000
   },
   {
@@ -11367,10 +11367,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/esh.svg",
-      "https://restcountries.com/data/png/esh.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/esh.svg",
+      "png": "https://restcountries.com/data/png/esh.png"
+    },
     "population": 510713
   },
   {
@@ -11525,10 +11525,10 @@
         "m": "Espagnol"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/esp.svg",
-      "https://restcountries.com/data/png/esp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/esp.svg",
+      "png": "https://restcountries.com/data/png/esp.png"
+    },
     "population": 47351567
   },
   {
@@ -11685,10 +11685,10 @@
         "m": "Estonien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/est.svg",
-      "https://restcountries.com/data/png/est.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/est.svg",
+      "png": "https://restcountries.com/data/png/est.png"
+    },
     "population": 1331057
   },
   {
@@ -11849,10 +11849,10 @@
         "m": "Éthiopien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/eth.svg",
-      "https://restcountries.com/data/png/eth.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/eth.svg",
+      "png": "https://restcountries.com/data/png/eth.png"
+    },
     "population": 114963583
   },
   {
@@ -12012,10 +12012,10 @@
         "m": "Finlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/fin.svg",
-      "https://restcountries.com/data/png/fin.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/fin.svg",
+      "png": "https://restcountries.com/data/png/fin.png"
+    },
     "population": 5530719
   },
   {
@@ -12177,10 +12177,10 @@
         "m": "Fidjien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/fji.svg",
-      "https://restcountries.com/data/png/fji.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/fji.svg",
+      "png": "https://restcountries.com/data/png/fji.png"
+    },
     "population": 896444
   },
   {
@@ -12330,10 +12330,10 @@
         "m": "Malouin"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/flk.svg",
-      "https://restcountries.com/data/png/flk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/flk.svg",
+      "png": "https://restcountries.com/data/png/flk.png"
+    },
     "population": 2563
   },
   {
@@ -12491,10 +12491,10 @@
         "m": "Français"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/fra.svg",
-      "https://restcountries.com/data/png/fra.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/fra.svg",
+      "png": "https://restcountries.com/data/png/fra.png"
+    },
     "population": 67391582
   },
   {
@@ -12653,10 +12653,10 @@
         "m": "Féroïen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/fro.svg",
-      "https://restcountries.com/data/png/fro.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/fro.svg",
+      "png": "https://restcountries.com/data/png/fro.png"
+    },
     "population": 48865
   },
   {
@@ -12802,10 +12802,10 @@
         "m": "Micronésien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/fsm.svg",
-      "https://restcountries.com/data/png/fsm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/fsm.svg",
+      "png": "https://restcountries.com/data/png/fsm.png"
+    },
     "population": 115021
   },
   {
@@ -12958,10 +12958,10 @@
         "m": "Gabonais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gab.svg",
-      "https://restcountries.com/data/png/gab.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gab.svg",
+      "png": "https://restcountries.com/data/png/gab.png"
+    },
     "population": 2225728
   },
   {
@@ -13112,10 +13112,10 @@
         "m": "Britannique"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gbr.svg",
-      "https://restcountries.com/data/png/gbr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gbr.svg",
+      "png": "https://restcountries.com/data/png/gbr.png"
+    },
     "population": 67215293
   },
   {
@@ -13268,10 +13268,10 @@
         "m": "Géorgien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/geo.svg",
-      "https://restcountries.com/data/png/geo.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/geo.svg",
+      "png": "https://restcountries.com/data/png/geo.png"
+    },
     "population": 3714000
   },
   {
@@ -13435,10 +13435,10 @@
         "m": "Guernesiais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ggy.svg",
-      "https://restcountries.com/data/png/ggy.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ggy.svg",
+      "png": "https://restcountries.com/data/png/ggy.png"
+    },
     "population": 62999
   },
   {
@@ -13589,10 +13589,10 @@
         "m": "Ghanéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gha.svg",
-      "https://restcountries.com/data/png/gha.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gha.svg",
+      "png": "https://restcountries.com/data/png/gha.png"
+    },
     "population": 31072945
   },
   {
@@ -13741,10 +13741,10 @@
         "m": "Gibraltarien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gib.svg",
-      "https://restcountries.com/data/png/gib.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gib.svg",
+      "png": "https://restcountries.com/data/png/gib.png"
+    },
     "population": 33691
   },
   {
@@ -13900,10 +13900,10 @@
         "m": "Guinéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gnq.svg",
-      "https://restcountries.com/data/png/gnq.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gnq.svg",
+      "png": "https://restcountries.com/data/png/gnq.png"
+    },
     "population": 13132792
   },
   {
@@ -14052,10 +14052,10 @@
         "m": "Guadeloupéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/glp.svg",
-      "https://restcountries.com/data/png/glp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/glp.svg",
+      "png": "https://restcountries.com/data/png/glp.png"
+    },
     "population": 400132
   },
   {
@@ -14205,10 +14205,10 @@
         "m": "Gambien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gmb.svg",
-      "https://restcountries.com/data/png/gmb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gmb.svg",
+      "png": "https://restcountries.com/data/png/gmb.png"
+    },
     "population": 2416664
   },
   {
@@ -14365,10 +14365,10 @@
         "m": "Bissau-Guinéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gnb.svg",
-      "https://restcountries.com/data/png/gnb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gnb.svg",
+      "png": "https://restcountries.com/data/png/gnb.png"
+    },
     "population": 1967998
   },
   {
@@ -14536,10 +14536,10 @@
         "m": "Équato-guinéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gnq.svg",
-      "https://restcountries.com/data/png/gnq.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gnq.svg",
+      "png": "https://restcountries.com/data/png/gnq.png"
+    },
     "population": 1402985
   },
   {
@@ -14694,10 +14694,10 @@
         "m": "Grec"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/grc.svg",
-      "https://restcountries.com/data/png/grc.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/grc.svg",
+      "png": "https://restcountries.com/data/png/grc.png"
+    },
     "population": 10715549
   },
   {
@@ -14845,10 +14845,10 @@
         "m": "Grenadien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/grd.svg",
-      "https://restcountries.com/data/png/grd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/grd.svg",
+      "png": "https://restcountries.com/data/png/grd.png"
+    },
     "population": 112519
   },
   {
@@ -14997,10 +14997,10 @@
         "m": "Groenlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/grl.svg",
-      "https://restcountries.com/data/png/grl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/grl.svg",
+      "png": "https://restcountries.com/data/png/grl.png"
+    },
     "population": 56367
   },
   {
@@ -15152,10 +15152,10 @@
         "m": "Guatémaltèque"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gtm.svg",
-      "https://restcountries.com/data/png/gtm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gtm.svg",
+      "png": "https://restcountries.com/data/png/gtm.png"
+    },
     "population": 16858333
   },
   {
@@ -15307,10 +15307,10 @@
         "m": "Guyanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/guf.svg",
-      "https://restcountries.com/data/png/guf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/guf.svg",
+      "png": "https://restcountries.com/data/png/guf.png"
+    },
     "population": 254541
   },
   {
@@ -15469,10 +15469,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/gum.svg",
-      "https://restcountries.com/data/png/gum.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/gum.svg",
+      "png": "https://restcountries.com/data/png/gum.png"
+    },
     "population": 168783
   },
   {
@@ -15624,10 +15624,10 @@
         "m": "Guyanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/guy.svg",
-      "https://restcountries.com/data/png/guy.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/guy.svg",
+      "png": "https://restcountries.com/data/png/guy.png"
+    },
     "population": 786559
   },
   {
@@ -15778,10 +15778,10 @@
         "m": "Hongkongais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hkg.svg",
-      "https://restcountries.com/data/png/hkg.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hkg.svg",
+      "png": "https://restcountries.com/data/png/hkg.png"
+    },
     "population": 7500700
   },
   {
@@ -15927,10 +15927,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hmd.svg",
-      "https://restcountries.com/data/png/hmd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hmd.svg",
+      "png": "https://restcountries.com/data/png/hmd.png"
+    },
     "population": 0
   },
   {
@@ -16083,10 +16083,10 @@
         "m": "Hondurien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hnd.svg",
-      "https://restcountries.com/data/png/hnd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hnd.svg",
+      "png": "https://restcountries.com/data/png/hnd.png"
+    },
     "population": 9904608
   },
   {
@@ -16246,10 +16246,10 @@
         "m": "Croate"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hrv.svg",
-      "https://restcountries.com/data/png/hrv.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hrv.svg",
+      "png": "https://restcountries.com/data/png/hrv.png"
+    },
     "population": 4047200
   },
   {
@@ -16406,10 +16406,10 @@
         "m": "Haïtien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hti.svg",
-      "https://restcountries.com/data/png/hti.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hti.svg",
+      "png": "https://restcountries.com/data/png/hti.png"
+    },
     "population": 11402533
   },
   {
@@ -16564,10 +16564,10 @@
         "m": "Hongrois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/hun.svg",
-      "https://restcountries.com/data/png/hun.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/hun.svg",
+      "png": "https://restcountries.com/data/png/hun.png"
+    },
     "population": 9749763
   },
   {
@@ -16720,10 +16720,10 @@
         "m": "Indonésien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/idn.svg",
-      "https://restcountries.com/data/png/idn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/idn.svg",
+      "png": "https://restcountries.com/data/png/idn.png"
+    },
     "population": 273523621
   },
   {
@@ -16883,10 +16883,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/imn.svg",
-      "https://restcountries.com/data/png/imn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/imn.svg",
+      "png": "https://restcountries.com/data/png/imn.png"
+    },
     "population": 85032
   },
   {
@@ -17054,10 +17054,10 @@
         "m": "Indien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ind.svg",
-      "https://restcountries.com/data/png/ind.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ind.svg",
+      "png": "https://restcountries.com/data/png/ind.png"
+    },
     "population": 1380004385
   },
   {
@@ -17209,10 +17209,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/iot.svg",
-      "https://restcountries.com/data/png/iot.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/iot.svg",
+      "png": "https://restcountries.com/data/png/iot.png"
+    },
     "population": 3000
   },
   {
@@ -17369,10 +17369,10 @@
         "m": "Irlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/irl.svg",
-      "https://restcountries.com/data/png/irl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/irl.svg",
+      "png": "https://restcountries.com/data/png/irl.png"
+    },
     "population": 4994724
   },
   {
@@ -17527,10 +17527,10 @@
         "m": "Iranien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/irn.svg",
-      "https://restcountries.com/data/png/irn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/irn.svg",
+      "png": "https://restcountries.com/data/png/irn.png"
+    },
     "population": 83992953
   },
   {
@@ -17696,10 +17696,10 @@
         "m": "Irakien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/irq.svg",
-      "https://restcountries.com/data/png/irq.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/irq.svg",
+      "png": "https://restcountries.com/data/png/irq.png"
+    },
     "population": 40222503
   },
   {
@@ -17850,10 +17850,10 @@
         "m": "Islandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/isl.svg",
-      "https://restcountries.com/data/png/isl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/isl.svg",
+      "png": "https://restcountries.com/data/png/isl.png"
+    },
     "population": 366425
   },
   {
@@ -18013,10 +18013,10 @@
         "m": "Israélien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/isr.svg",
-      "https://restcountries.com/data/png/isr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/isr.svg",
+      "png": "https://restcountries.com/data/png/isr.png"
+    },
     "population": 9216900
   },
   {
@@ -18172,10 +18172,10 @@
         "m": "Italien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ita.svg",
-      "https://restcountries.com/data/png/ita.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ita.svg",
+      "png": "https://restcountries.com/data/png/ita.png"
+    },
     "population": 59554023
   },
   {
@@ -18328,10 +18328,10 @@
         "m": "Jamaïcain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/jam.svg",
-      "https://restcountries.com/data/png/jam.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/jam.svg",
+      "png": "https://restcountries.com/data/png/jam.png"
+    },
     "population": 2961161
   },
   {
@@ -18496,10 +18496,10 @@
         "m": "Jersiais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/jey.svg",
-      "https://restcountries.com/data/png/jey.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/jey.svg",
+      "png": "https://restcountries.com/data/png/jey.png"
+    },
     "population": 100800
   },
   {
@@ -18655,10 +18655,10 @@
         "m": "Jordanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/jor.svg",
-      "https://restcountries.com/data/png/jor.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/jor.svg",
+      "png": "https://restcountries.com/data/png/jor.png"
+    },
     "population": 10203140
   },
   {
@@ -18809,10 +18809,10 @@
         "m": "Japonais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/jpn.svg",
-      "https://restcountries.com/data/png/jpn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/jpn.svg",
+      "png": "https://restcountries.com/data/png/jpn.png"
+    },
     "population": 125836021
   },
   {
@@ -18979,10 +18979,10 @@
         "m": "Kazakhstanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kaz.svg",
-      "https://restcountries.com/data/png/kaz.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kaz.svg",
+      "png": "https://restcountries.com/data/png/kaz.png"
+    },
     "population": 18754440
   },
   {
@@ -19142,10 +19142,10 @@
         "m": "Kényan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ken.svg",
-      "https://restcountries.com/data/png/ken.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ken.svg",
+      "png": "https://restcountries.com/data/png/ken.png"
+    },
     "population": 53771300
   },
   {
@@ -19306,10 +19306,10 @@
         "m": "Kirghize"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kgz.svg",
-      "https://restcountries.com/data/png/kgz.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kgz.svg",
+      "png": "https://restcountries.com/data/png/kgz.png"
+    },
     "population": 6591600
   },
   {
@@ -19469,10 +19469,10 @@
         "m": "Cambodgien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/khm.svg",
-      "https://restcountries.com/data/png/khm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/khm.svg",
+      "png": "https://restcountries.com/data/png/khm.png"
+    },
     "population": 16718971
   },
   {
@@ -19631,10 +19631,10 @@
         "m": "Kiribatien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kir.svg",
-      "https://restcountries.com/data/png/kir.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kir.svg",
+      "png": "https://restcountries.com/data/png/kir.png"
+    },
     "population": 119446
   },
   {
@@ -19783,10 +19783,10 @@
         "m": "Kittitien-et-nevicien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kna.svg",
-      "https://restcountries.com/data/png/kna.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kna.svg",
+      "png": "https://restcountries.com/data/png/kna.png"
+    },
     "population": 53192
   },
   {
@@ -19940,10 +19940,10 @@
         "m": "Sud-coréen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kor.svg",
-      "https://restcountries.com/data/png/kor.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kor.svg",
+      "png": "https://restcountries.com/data/png/kor.png"
+    },
     "population": 51780579
   },
   {
@@ -20096,10 +20096,10 @@
         "m": "Kosovar"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kos.svg",
-      "https://restcountries.com/data/png/kos.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kos.svg",
+      "png": "https://restcountries.com/data/png/kos.png"
+    },
     "population": 1775378
   },
   {
@@ -20251,10 +20251,10 @@
         "m": "Koweïtien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/kwt.svg",
-      "https://restcountries.com/data/png/kwt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/kwt.svg",
+      "png": "https://restcountries.com/data/png/kwt.png"
+    },
     "population": 4270563
   },
   {
@@ -20410,10 +20410,10 @@
         "m": "Laotien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lao.svg",
-      "https://restcountries.com/data/png/lao.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lao.svg",
+      "png": "https://restcountries.com/data/png/lao.png"
+    },
     "population": 7275556
   },
   {
@@ -20570,10 +20570,10 @@
         "m": "Libanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lbn.svg",
-      "https://restcountries.com/data/png/lbn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lbn.svg",
+      "png": "https://restcountries.com/data/png/lbn.png"
+    },
     "population": 6825442
   },
   {
@@ -20725,10 +20725,10 @@
         "m": "Libérien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lbr.svg",
-      "https://restcountries.com/data/png/lbr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lbr.svg",
+      "png": "https://restcountries.com/data/png/lbr.png"
+    },
     "population": 5057677
   },
   {
@@ -20884,10 +20884,10 @@
         "m": "Libyen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lby.svg",
-      "https://restcountries.com/data/png/lby.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lby.svg",
+      "png": "https://restcountries.com/data/png/lby.png"
+    },
     "population": 6871287
   },
   {
@@ -21035,10 +21035,10 @@
         "m": "Saint-Lucien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lca.svg",
-      "https://restcountries.com/data/png/lca.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lca.svg",
+      "png": "https://restcountries.com/data/png/lca.png"
+    },
     "population": 183629
   },
   {
@@ -21190,10 +21190,10 @@
         "m": "Liechtensteinois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lie.svg",
-      "https://restcountries.com/data/png/lie.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lie.svg",
+      "png": "https://restcountries.com/data/png/lie.png"
+    },
     "population": 38137
   },
   {
@@ -21351,10 +21351,10 @@
         "m": "Sri-lankais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lka.svg",
-      "https://restcountries.com/data/png/lka.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lka.svg",
+      "png": "https://restcountries.com/data/png/lka.png"
+    },
     "population": 21919000
   },
   {
@@ -21514,10 +21514,10 @@
         "m": "Lésothien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lso.svg",
-      "https://restcountries.com/data/png/lso.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lso.svg",
+      "png": "https://restcountries.com/data/png/lso.png"
+    },
     "population": 2142252
   },
   {
@@ -21671,10 +21671,10 @@
         "m": "Lituanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ltu.svg",
-      "https://restcountries.com/data/png/ltu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ltu.svg",
+      "png": "https://restcountries.com/data/png/ltu.png"
+    },
     "population": 2794700
   },
   {
@@ -21839,10 +21839,10 @@
         "m": "Luxembourgeois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lux.svg",
-      "https://restcountries.com/data/png/lux.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lux.svg",
+      "png": "https://restcountries.com/data/png/lux.png"
+    },
     "population": 632275
   },
   {
@@ -21996,10 +21996,10 @@
         "m": "Letton"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/lva.svg",
-      "https://restcountries.com/data/png/lva.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/lva.svg",
+      "png": "https://restcountries.com/data/png/lva.png"
+    },
     "population": 1901548
   },
   {
@@ -22154,10 +22154,10 @@
         "m": "Macanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mac.svg",
-      "https://restcountries.com/data/png/mac.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mac.svg",
+      "png": "https://restcountries.com/data/png/mac.png"
+    },
     "population": 649342
   },
   {
@@ -22310,10 +22310,10 @@
         "m": "Saint-Martinois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/maf.svg",
-      "https://restcountries.com/data/png/maf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/maf.svg",
+      "png": "https://restcountries.com/data/png/maf.png"
+    },
     "population": 38659
   },
   {
@@ -22472,10 +22472,10 @@
         "m": "Marocain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mar.svg",
-      "https://restcountries.com/data/png/mar.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mar.svg",
+      "png": "https://restcountries.com/data/png/mar.png"
+    },
     "population": 36910558
   },
   {
@@ -22626,10 +22626,10 @@
         "m": "Monégasque"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mco.svg",
-      "https://restcountries.com/data/png/mco.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mco.svg",
+      "png": "https://restcountries.com/data/png/mco.png"
+    },
     "population": 39244
   },
   {
@@ -22782,10 +22782,10 @@
         "m": "Moldave"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mda.svg",
-      "https://restcountries.com/data/png/mda.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mda.svg",
+      "png": "https://restcountries.com/data/png/mda.png"
+    },
     "population": 2617820
   },
   {
@@ -22941,10 +22941,10 @@
         "m": "Malgache"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mdg.svg",
-      "https://restcountries.com/data/png/mdg.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mdg.svg",
+      "png": "https://restcountries.com/data/png/mdg.png"
+    },
     "population": 27691019
   },
   {
@@ -23095,10 +23095,10 @@
         "m": "Maldivien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mdv.svg",
-      "https://restcountries.com/data/png/mdv.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mdv.svg",
+      "png": "https://restcountries.com/data/png/mdv.png"
+    },
     "population": 540542
   },
   {
@@ -23252,10 +23252,10 @@
         "m": "Mexicain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mex.svg",
-      "https://restcountries.com/data/png/mex.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mex.svg",
+      "png": "https://restcountries.com/data/png/mex.png"
+    },
     "population": 128932753
   },
   {
@@ -23410,10 +23410,10 @@
         "m": "Marshallais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mhl.svg",
-      "https://restcountries.com/data/png/mhl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mhl.svg",
+      "png": "https://restcountries.com/data/png/mhl.png"
+    },
     "population": 59194
   },
   {
@@ -23570,10 +23570,10 @@
         "m": "Macédonien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mkd.svg",
-      "https://restcountries.com/data/png/mkd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mkd.svg",
+      "png": "https://restcountries.com/data/png/mkd.png"
+    },
     "population": 2077132
   },
   {
@@ -23730,10 +23730,10 @@
         "m": "Malien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mli.svg",
-      "https://restcountries.com/data/png/mli.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mli.svg",
+      "png": "https://restcountries.com/data/png/mli.png"
+    },
     "population": 20250834
   },
   {
@@ -23888,10 +23888,10 @@
         "m": "Maltais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mlt.svg",
-      "https://restcountries.com/data/png/mlt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mlt.svg",
+      "png": "https://restcountries.com/data/png/mlt.png"
+    },
     "population": 525285
   },
   {
@@ -24047,10 +24047,10 @@
         "m": "Birman"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mmr.svg",
-      "https://restcountries.com/data/png/mmr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mmr.svg",
+      "png": "https://restcountries.com/data/png/mmr.png"
+    },
     "population": 54409794
   },
   {
@@ -24204,10 +24204,10 @@
         "m": "Monténégrin"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mne.svg",
-      "https://restcountries.com/data/png/mne.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mne.svg",
+      "png": "https://restcountries.com/data/png/mne.png"
+    },
     "population": 621718
   },
   {
@@ -24357,10 +24357,10 @@
         "m": "Mongol"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mng.svg",
-      "https://restcountries.com/data/png/mng.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mng.svg",
+      "png": "https://restcountries.com/data/png/mng.png"
+    },
     "population": 3278292
   },
   {
@@ -24520,10 +24520,10 @@
         "m": "Américan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mnp.svg",
-      "https://restcountries.com/data/png/mnp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mnp.svg",
+      "png": "https://restcountries.com/data/png/mnp.png"
+    },
     "population": 57557
   },
   {
@@ -24679,10 +24679,10 @@
         "m": "Mozambicain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/moz.svg",
-      "https://restcountries.com/data/png/moz.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/moz.svg",
+      "png": "https://restcountries.com/data/png/moz.png"
+    },
     "population": 31255435
   },
   {
@@ -24836,10 +24836,10 @@
         "m": "Mauritanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mrt.svg",
-      "https://restcountries.com/data/png/mrt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mrt.svg",
+      "png": "https://restcountries.com/data/png/mrt.png"
+    },
     "population": 4649660
   },
   {
@@ -24987,10 +24987,10 @@
         "m": "Montserratien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/msr.svg",
-      "https://restcountries.com/data/png/msr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/msr.svg",
+      "png": "https://restcountries.com/data/png/msr.png"
+    },
     "population": 4922
   },
   {
@@ -25138,10 +25138,10 @@
         "m": "Martiniquais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mtq.svg",
-      "https://restcountries.com/data/png/mtq.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mtq.svg",
+      "png": "https://restcountries.com/data/png/mtq.png"
+    },
     "population": 378243
   },
   {
@@ -25301,10 +25301,10 @@
         "m": "Mauricien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mus.svg",
-      "https://restcountries.com/data/png/mus.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mus.svg",
+      "png": "https://restcountries.com/data/png/mus.png"
+    },
     "population": 1265740
   },
   {
@@ -25461,10 +25461,10 @@
         "m": "Malawien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mwi.svg",
-      "https://restcountries.com/data/png/mwi.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mwi.svg",
+      "png": "https://restcountries.com/data/png/mwi.png"
+    },
     "population": 19129955
   },
   {
@@ -25620,10 +25620,10 @@
         "m": "Malaisien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/mys.svg",
-      "https://restcountries.com/data/png/mys.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/mys.svg",
+      "png": "https://restcountries.com/data/png/mys.png"
+    },
     "population": 32365998
   },
   {
@@ -25773,10 +25773,10 @@
         "m": "Mahorais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/myt.svg",
-      "https://restcountries.com/data/png/myt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/myt.svg",
+      "png": "https://restcountries.com/data/png/myt.png"
+    },
     "population": 226915
   },
   {
@@ -25974,10 +25974,10 @@
         "m": "Namibien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nam.svg",
-      "https://restcountries.com/data/png/nam.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nam.svg",
+      "png": "https://restcountries.com/data/png/nam.png"
+    },
     "population": 2540916
   },
   {
@@ -26125,10 +26125,10 @@
         "m": "Néo-Calédonien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ncl.svg",
-      "https://restcountries.com/data/png/ncl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ncl.svg",
+      "png": "https://restcountries.com/data/png/ncl.png"
+    },
     "population": 271960
   },
   {
@@ -26284,10 +26284,10 @@
         "m": "Nigérien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ner.svg",
-      "https://restcountries.com/data/png/ner.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ner.svg",
+      "png": "https://restcountries.com/data/png/ner.png"
+    },
     "population": 24206636
   },
   {
@@ -26442,10 +26442,10 @@
         "m": "Norfolkais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nfk.svg",
-      "https://restcountries.com/data/png/nfk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nfk.svg",
+      "png": "https://restcountries.com/data/png/nfk.png"
+    },
     "population": 2302
   },
   {
@@ -26600,10 +26600,10 @@
         "m": "Nigérian"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nga.svg",
-      "https://restcountries.com/data/png/nga.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nga.svg",
+      "png": "https://restcountries.com/data/png/nga.png"
+    },
     "population": 206139587
   },
   {
@@ -26755,10 +26755,10 @@
         "m": "Nicaraguayen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nic.svg",
-      "https://restcountries.com/data/png/nic.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nic.svg",
+      "png": "https://restcountries.com/data/png/nic.png"
+    },
     "population": 6624554
   },
   {
@@ -26911,10 +26911,10 @@
         "m": "Niuéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/niu.svg",
-      "https://restcountries.com/data/png/niu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/niu.svg",
+      "png": "https://restcountries.com/data/png/niu.png"
+    },
     "population": 1470
   },
   {
@@ -27067,10 +27067,10 @@
         "m": "Néerlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nld.svg",
-      "https://restcountries.com/data/png/nld.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nld.svg",
+      "png": "https://restcountries.com/data/png/nld.png"
+    },
     "population": 40812
   },
   {
@@ -27236,10 +27236,10 @@
         "m": "Norvégien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nor.svg",
-      "https://restcountries.com/data/png/nor.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nor.svg",
+      "png": "https://restcountries.com/data/png/nor.png"
+    },
     "population": 5379475
   },
   {
@@ -27391,10 +27391,10 @@
         "m": "Népalais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/npl.svg",
-      "https://restcountries.com/data/png/npl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/npl.svg",
+      "png": "https://restcountries.com/data/png/npl.png"
+    },
     "population": 29136808
   },
   {
@@ -27551,10 +27551,10 @@
         "m": "Nauruan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nru.svg",
-      "https://restcountries.com/data/png/nru.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nru.svg",
+      "png": "https://restcountries.com/data/png/nru.png"
+    },
     "population": 10834
   },
   {
@@ -27713,10 +27713,10 @@
         "m": "Neo-Zélandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/nzl.svg",
-      "https://restcountries.com/data/png/nzl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/nzl.svg",
+      "png": "https://restcountries.com/data/png/nzl.png"
+    },
     "population": 5084300
   },
   {
@@ -27869,10 +27869,10 @@
         "m": "Omanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/omn.svg",
-      "https://restcountries.com/data/png/omn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/omn.svg",
+      "png": "https://restcountries.com/data/png/omn.png"
+    },
     "population": 5106622
   },
   {
@@ -28032,10 +28032,10 @@
         "m": "Pakistanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pak.svg",
-      "https://restcountries.com/data/png/pak.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pak.svg",
+      "png": "https://restcountries.com/data/png/pak.png"
+    },
     "population": 220892331
   },
   {
@@ -28191,10 +28191,10 @@
         "m": "Panaméen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pan.svg",
-      "https://restcountries.com/data/png/pan.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pan.svg",
+      "png": "https://restcountries.com/data/png/pan.png"
+    },
     "population": 4314768
   },
   {
@@ -28344,10 +28344,10 @@
         "m": "Pitcairnais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pcn.svg",
-      "https://restcountries.com/data/png/pcn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pcn.svg",
+      "png": "https://restcountries.com/data/png/pcn.png"
+    },
     "population": 56
   },
   {
@@ -28512,10 +28512,10 @@
         "m": "Péruvien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/per.svg",
-      "https://restcountries.com/data/png/per.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/per.svg",
+      "png": "https://restcountries.com/data/png/per.png"
+    },
     "population": 32971846
   },
   {
@@ -28670,10 +28670,10 @@
         "m": "Philippin"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/phl.svg",
-      "https://restcountries.com/data/png/phl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/phl.svg",
+      "png": "https://restcountries.com/data/png/phl.png"
+    },
     "population": 109581085
   },
   {
@@ -28828,10 +28828,10 @@
         "m": "Paluan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/plw.svg",
-      "https://restcountries.com/data/png/plw.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/plw.svg",
+      "png": "https://restcountries.com/data/png/plw.png"
+    },
     "population": 18092
   },
   {
@@ -28992,10 +28992,10 @@
         "m": "Papouasien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/png.svg",
-      "https://restcountries.com/data/png/png.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/png.svg",
+      "png": "https://restcountries.com/data/png/png.png"
+    },
     "population": 8947027
   },
   {
@@ -29152,10 +29152,10 @@
         "m": "Polonais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pol.svg",
-      "https://restcountries.com/data/png/pol.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pol.svg",
+      "png": "https://restcountries.com/data/png/pol.png"
+    },
     "population": 37950802
   },
   {
@@ -29311,10 +29311,10 @@
         "m": "Portoricain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pri.svg",
-      "https://restcountries.com/data/png/pri.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pri.svg",
+      "png": "https://restcountries.com/data/png/pri.png"
+    },
     "population": 3194034
   },
   {
@@ -29472,10 +29472,10 @@
         "m": "Nord-coréen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/prk.svg",
-      "https://restcountries.com/data/png/prk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/prk.svg",
+      "png": "https://restcountries.com/data/png/prk.png"
+    },
     "population": 25778815
   },
   {
@@ -29627,10 +29627,10 @@
         "m": "Portugais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/prt.svg",
-      "https://restcountries.com/data/png/prt.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/prt.svg",
+      "png": "https://restcountries.com/data/png/prt.png"
+    },
     "population": 10305564
   },
   {
@@ -29789,10 +29789,10 @@
         "m": "Paraguayen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pry.svg",
-      "https://restcountries.com/data/png/pry.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pry.svg",
+      "png": "https://restcountries.com/data/png/pry.png"
+    },
     "population": 7132530
   },
   {
@@ -29955,10 +29955,10 @@
         "m": "Palestinien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pse.svg",
-      "https://restcountries.com/data/png/pse.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pse.svg",
+      "png": "https://restcountries.com/data/png/pse.png"
+    },
     "population": 4803269
   },
   {
@@ -30109,10 +30109,10 @@
         "m": "Polynésien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/pyf.svg",
-      "https://restcountries.com/data/png/pyf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/pyf.svg",
+      "png": "https://restcountries.com/data/png/pyf.png"
+    },
     "population": 280904
   },
   {
@@ -30264,10 +30264,10 @@
         "m": "Qatarien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/qat.svg",
-      "https://restcountries.com/data/png/qat.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/qat.svg",
+      "png": "https://restcountries.com/data/png/qat.png"
+    },
     "population": 2881060
   },
   {
@@ -30416,10 +30416,10 @@
         "m": "Réunionnais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/reu.svg",
-      "https://restcountries.com/data/png/reu.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/reu.svg",
+      "png": "https://restcountries.com/data/png/reu.png"
+    },
     "population": 840974
   },
   {
@@ -30575,10 +30575,10 @@
         "m": "Roumain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/rou.svg",
-      "https://restcountries.com/data/png/rou.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/rou.svg",
+      "png": "https://restcountries.com/data/png/rou.png"
+    },
     "population": 19286123
   },
   {
@@ -30748,10 +30748,10 @@
         "m": "Russe"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/rus.svg",
-      "https://restcountries.com/data/png/rus.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/rus.svg",
+      "png": "https://restcountries.com/data/png/rus.png"
+    },
     "population": 144104080
   },
   {
@@ -30916,10 +30916,10 @@
         "m": "Rwandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/rwa.svg",
-      "https://restcountries.com/data/png/rwa.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/rwa.svg",
+      "png": "https://restcountries.com/data/png/rwa.png"
+    },
     "population": 12952209
   },
   {
@@ -31078,10 +31078,10 @@
         "m": "Saoudien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sau.svg",
-      "https://restcountries.com/data/png/sau.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sau.svg",
+      "png": "https://restcountries.com/data/png/sau.png"
+    },
     "population": 34813867
   },
   {
@@ -31243,10 +31243,10 @@
         "m": "Soudanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sdn.svg",
-      "https://restcountries.com/data/png/sdn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sdn.svg",
+      "png": "https://restcountries.com/data/png/sdn.png"
+    },
     "population": 43849269
   },
   {
@@ -31401,10 +31401,10 @@
         "m": "Sénégalais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sen.svg",
-      "https://restcountries.com/data/png/sen.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sen.svg",
+      "png": "https://restcountries.com/data/png/sen.png"
+    },
     "population": 16743930
   },
   {
@@ -31568,10 +31568,10 @@
         "m": "Singapourien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sgp.svg",
-      "https://restcountries.com/data/png/sgp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sgp.svg",
+      "png": "https://restcountries.com/data/png/sgp.png"
+    },
     "population": 5685807
   },
   {
@@ -31720,10 +31720,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sgs.svg",
-      "https://restcountries.com/data/png/sgs.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sgs.svg",
+      "png": "https://restcountries.com/data/png/sgs.png"
+    },
     "population": 30
   },
   {
@@ -31872,10 +31872,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sjm.svg",
-      "https://restcountries.com/data/png/sjm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sjm.svg",
+      "png": "https://restcountries.com/data/png/sjm.png"
+    },
     "population": 2562
   },
   {
@@ -32023,10 +32023,10 @@
         "m": "Salomonien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/slb.svg",
-      "https://restcountries.com/data/png/slb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/slb.svg",
+      "png": "https://restcountries.com/data/png/slb.png"
+    },
     "population": 686878
   },
   {
@@ -32177,10 +32177,10 @@
         "m": "Sierra-leonais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sle.svg",
-      "https://restcountries.com/data/png/sle.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sle.svg",
+      "png": "https://restcountries.com/data/png/sle.png"
+    },
     "population": 7976985
   },
   {
@@ -32336,10 +32336,10 @@
         "m": "Salvadorien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/slv.svg",
-      "https://restcountries.com/data/png/slv.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/slv.svg",
+      "png": "https://restcountries.com/data/png/slv.png"
+    },
     "population": 6486201
   },
   {
@@ -32490,10 +32490,10 @@
         "m": "Saint-Marinais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/smr.svg",
-      "https://restcountries.com/data/png/smr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/smr.svg",
+      "png": "https://restcountries.com/data/png/smr.png"
+    },
     "population": 33938
   },
   {
@@ -32653,10 +32653,10 @@
         "m": "Somalien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/som.svg",
-      "https://restcountries.com/data/png/som.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/som.svg",
+      "png": "https://restcountries.com/data/png/som.png"
+    },
     "population": 15893219
   },
   {
@@ -32805,10 +32805,10 @@
         "m": "Saint-Pierrais, Miquelonais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/spm.svg",
-      "https://restcountries.com/data/png/spm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/spm.svg",
+      "png": "https://restcountries.com/data/png/spm.png"
+    },
     "population": 6069
   },
   {
@@ -32969,10 +32969,10 @@
         "m": "Serbe"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/srb.svg",
-      "https://restcountries.com/data/png/srb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/srb.svg",
+      "png": "https://restcountries.com/data/png/srb.png"
+    },
     "population": 6908224
   },
   {
@@ -33126,10 +33126,10 @@
         "m": "Sud-Soudanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ssd.svg",
-      "https://restcountries.com/data/png/ssd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ssd.svg",
+      "png": "https://restcountries.com/data/png/ssd.png"
+    },
     "population": 11193729
   },
   {
@@ -33280,10 +33280,10 @@
         "m": "Santoméen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/stp.svg",
-      "https://restcountries.com/data/png/stp.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/stp.svg",
+      "png": "https://restcountries.com/data/png/stp.png"
+    },
     "population": 219161
   },
   {
@@ -33438,10 +33438,10 @@
         "m": "Surinamais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sur.svg",
-      "https://restcountries.com/data/png/sur.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sur.svg",
+      "png": "https://restcountries.com/data/png/sur.png"
+    },
     "population": 586634
   },
   {
@@ -33596,10 +33596,10 @@
         "m": "Slovaque"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/svk.svg",
-      "https://restcountries.com/data/png/svk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/svk.svg",
+      "png": "https://restcountries.com/data/png/svk.png"
+    },
     "population": 5458827
   },
   {
@@ -33753,10 +33753,10 @@
         "m": "Slovène"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/svn.svg",
-      "https://restcountries.com/data/png/svn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/svn.svg",
+      "png": "https://restcountries.com/data/png/svn.png"
+    },
     "population": 2100126
   },
   {
@@ -33908,10 +33908,10 @@
         "m": "Suédois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/swe.svg",
-      "https://restcountries.com/data/png/swe.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/swe.svg",
+      "png": "https://restcountries.com/data/png/swe.png"
+    },
     "population": 10353442
   },
   {
@@ -34076,10 +34076,10 @@
         "m": "Swazie"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/swz.svg",
-      "https://restcountries.com/data/png/swz.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/swz.svg",
+      "png": "https://restcountries.com/data/png/swz.png"
+    },
     "population": 1160164
   },
   {
@@ -34239,10 +34239,10 @@
         "m": "Saint-Martinois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/sxm.svg",
-      "https://restcountries.com/data/png/sxm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/sxm.svg",
+      "png": "https://restcountries.com/data/png/sxm.png"
+    },
     "population": 40812
   },
   {
@@ -34403,10 +34403,10 @@
         "m": "Seychellois"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/syc.svg",
-      "https://restcountries.com/data/png/syc.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/syc.svg",
+      "png": "https://restcountries.com/data/png/syc.png"
+    },
     "population": 98462
   },
   {
@@ -34562,10 +34562,10 @@
         "m": "Syrien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/syr.svg",
-      "https://restcountries.com/data/png/syr.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/syr.svg",
+      "png": "https://restcountries.com/data/png/syr.png"
+    },
     "population": 17500657
   },
   {
@@ -34713,10 +34713,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tca.svg",
-      "https://restcountries.com/data/png/tca.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tca.svg",
+      "png": "https://restcountries.com/data/png/tca.png"
+    },
     "population": 38718
   },
   {
@@ -34882,10 +34882,10 @@
         "m": "Tchadien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tcd.svg",
-      "https://restcountries.com/data/png/tcd.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tcd.svg",
+      "png": "https://restcountries.com/data/png/tcd.png"
+    },
     "population": 16425859
   },
   {
@@ -35039,10 +35039,10 @@
         "m": "Togolais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tgo.svg",
-      "https://restcountries.com/data/png/tgo.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tgo.svg",
+      "png": "https://restcountries.com/data/png/tgo.png"
+    },
     "population": 8278737
   },
   {
@@ -35200,10 +35200,10 @@
         "m": "Thaïlandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tha.svg",
-      "https://restcountries.com/data/png/tha.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tha.svg",
+      "png": "https://restcountries.com/data/png/tha.png"
+    },
     "population": 69799978
   },
   {
@@ -35364,10 +35364,10 @@
         "m": "Tadjike"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tjk.svg",
-      "https://restcountries.com/data/png/tjk.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tjk.svg",
+      "png": "https://restcountries.com/data/png/tjk.png"
+    },
     "population": 9537642
   },
   {
@@ -35525,10 +35525,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tkl.svg",
-      "https://restcountries.com/data/png/tkl.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tkl.svg",
+      "png": "https://restcountries.com/data/png/tkl.png"
+    },
     "population": 1411
   },
   {
@@ -35685,10 +35685,10 @@
         "m": "Turkmène"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tkm.svg",
-      "https://restcountries.com/data/png/tkm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tkm.svg",
+      "png": "https://restcountries.com/data/png/tkm.png"
+    },
     "population": 6031187
   },
   {
@@ -35848,10 +35848,10 @@
         "m": "Est-timorais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tls.svg",
-      "https://restcountries.com/data/png/tls.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tls.svg",
+      "png": "https://restcountries.com/data/png/tls.png"
+    },
     "population": 1318442
   },
   {
@@ -36004,10 +36004,10 @@
         "m": "Tonguien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ton.svg",
-      "https://restcountries.com/data/png/ton.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ton.svg",
+      "png": "https://restcountries.com/data/png/ton.png"
+    },
     "population": 105697
   },
   {
@@ -36156,10 +36156,10 @@
         "m": "Trinidadien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tto.svg",
-      "https://restcountries.com/data/png/tto.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tto.svg",
+      "png": "https://restcountries.com/data/png/tto.png"
+    },
     "population": 1399491
   },
   {
@@ -36311,10 +36311,10 @@
         "m": "Tunisien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tun.svg",
-      "https://restcountries.com/data/png/tun.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tun.svg",
+      "png": "https://restcountries.com/data/png/tun.png"
+    },
     "population": 11818618
   },
   {
@@ -36473,10 +36473,10 @@
         "m": "Turc"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tur.svg",
-      "https://restcountries.com/data/png/tur.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tur.svg",
+      "png": "https://restcountries.com/data/png/tur.png"
+    },
     "population": 84339067
   },
   {
@@ -36633,10 +36633,10 @@
         "m": "Tuvaluan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tuv.svg",
-      "https://restcountries.com/data/png/tuv.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tuv.svg",
+      "png": "https://restcountries.com/data/png/tuv.png"
+    },
     "population": 11792
   },
   {
@@ -36787,10 +36787,10 @@
         "m": "Taïwanais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/twn.svg",
-      "https://restcountries.com/data/png/twn.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/twn.svg",
+      "png": "https://restcountries.com/data/png/twn.png"
+    },
     "population": 23503349
   },
   {
@@ -36954,10 +36954,10 @@
         "m": "Tanzanien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/tza.svg",
-      "https://restcountries.com/data/png/tza.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/tza.svg",
+      "png": "https://restcountries.com/data/png/tza.png"
+    },
     "population": 59734213
   },
   {
@@ -37117,10 +37117,10 @@
         "m": "Ougandais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/uga.svg",
-      "https://restcountries.com/data/png/uga.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/uga.svg",
+      "png": "https://restcountries.com/data/png/uga.png"
+    },
     "population": 45741000
   },
   {
@@ -37277,10 +37277,10 @@
         "m": "Ukrainien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/uga.svg",
-      "https://restcountries.com/data/png/uga.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/uga.svg",
+      "png": "https://restcountries.com/data/png/uga.png"
+    },
     "population": 44134693
   },
   {
@@ -37428,10 +37428,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/umi.svg",
-      "https://restcountries.com/data/png/umi.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/umi.svg",
+      "png": "https://restcountries.com/data/png/umi.png"
+    },
     "population": 300
   },
   {
@@ -37583,10 +37583,10 @@
         "m": "Uruguayen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ury.svg",
-      "https://restcountries.com/data/png/ury.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ury.svg",
+      "png": "https://restcountries.com/data/png/ury.png"
+    },
     "population": 3473727
   },
   {
@@ -38054,10 +38054,10 @@
         "m": "Américain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/usa.svg",
-      "https://restcountries.com/data/png/usa.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/usa.svg",
+      "png": "https://restcountries.com/data/png/usa.png"
+    },
     "population": 329484123
   },
   {
@@ -38218,10 +38218,10 @@
         "m": "Ouzbèke"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/uzb.svg",
-      "https://restcountries.com/data/png/uzb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/uzb.svg",
+      "png": "https://restcountries.com/data/png/uzb.png"
+    },
     "population": 34232050
   },
   {
@@ -38379,10 +38379,10 @@
         "m": "Vatican"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vat.svg",
-      "https://restcountries.com/data/png/vat.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vat.svg",
+      "png": "https://restcountries.com/data/png/vat.png"
+    },
     "population": 451
   },
   {
@@ -38530,10 +38530,10 @@
         "m": "Vincentais"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vct.svg",
-      "https://restcountries.com/data/png/vct.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vct.svg",
+      "png": "https://restcountries.com/data/png/vct.png"
+    },
     "population": 110947
   },
   {
@@ -38687,10 +38687,10 @@
         "m": "Vénézuélien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/ven.svg",
-      "https://restcountries.com/data/png/ven.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/ven.svg",
+      "png": "https://restcountries.com/data/png/ven.png"
+    },
     "population": 28435943
   },
   {
@@ -38839,10 +38839,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vgb.svg",
-      "https://restcountries.com/data/png/vgb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vgb.svg",
+      "png": "https://restcountries.com/data/png/vgb.png"
+    },
     "population": 30237
   },
   {
@@ -38991,10 +38991,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vir.svg",
-      "https://restcountries.com/data/png/vir.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vir.svg",
+      "png": "https://restcountries.com/data/png/vir.png"
+    },
     "population": 106290
   },
   {
@@ -39148,10 +39148,10 @@
         "m": "Vietnamien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vnm.svg",
-      "https://restcountries.com/data/png/vnm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vnm.svg",
+      "png": "https://restcountries.com/data/png/vnm.png"
+    },
     "population": 97338583
   },
   {
@@ -39312,10 +39312,10 @@
         "m": "Vanuatuan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/vut.svg",
-      "https://restcountries.com/data/png/vut.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/vut.svg",
+      "png": "https://restcountries.com/data/png/vut.png"
+    },
     "population": 307150
   },
   {
@@ -39465,10 +39465,10 @@
         "m": ""
       }
     },
-    "flags": [
-      "https://restcountries.com/data/wlf.svg",
-      "https://restcountries.com/data/png/wlf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/wlf.svg",
+      "png": "https://restcountries.com/data/png/wlf.png"
+    },
     "population": 11750
   },
   {
@@ -39623,10 +39623,10 @@
         "m": "Samoan"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/wsm.svg",
-      "https://restcountries.com/data/png/wsm.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/wsm.svg",
+      "png": "https://restcountries.com/data/png/wsm.png"
+    },
     "population": 198410
   },
   {
@@ -39778,10 +39778,10 @@
         "m": "Yéménite"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/yem.svg",
-      "https://restcountries.com/data/png/yem.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/yem.svg",
+      "png": "https://restcountries.com/data/png/yem.png"
+    },
     "population": 29825968
   },
   {
@@ -39990,10 +39990,10 @@
         "m": "Sud-africain"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/zaf.svg",
-      "https://restcountries.com/data/png/zaf.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/zaf.svg",
+      "png": "https://restcountries.com/data/png/zaf.png"
+    },
     "population": 59308690
   },
   {
@@ -40150,10 +40150,10 @@
         "m": "Zambien"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/zmb.svg",
-      "https://restcountries.com/data/png/zmb.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/zmb.svg",
+      "png": "https://restcountries.com/data/png/zmb.png"
+    },
     "population": 18383956
   },
   {
@@ -40408,10 +40408,10 @@
         "m": "Zimbabwéen"
       }
     },
-    "flags": [
-      "https://restcountries.com/data/zwe.svg",
-      "https://restcountries.com/data/png/zwe.png"
-    ],
+    "flags": {
+      "svg": "https://restcountries.com/data/zwe.svg",
+      "png": "https://restcountries.com/data/png/zwe.png"
+    },
     "population": 14862927
   }
 ]

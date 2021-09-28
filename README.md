@@ -8,23 +8,34 @@ The structure has been reverted to its original form from the [Original Project]
 You can access API through https://restcountries.com/v3/all
 
 # TODO:
-* [x] Add SSL
-* [ ] Solve many issues reported in the GitHub page for original countries
-* [ ] Add Chinese, Taiwanese and Hongkonian
+Please reffer to the [issue website](https://gitlab.com/amatos/rest-countries/-/issues)
 
 # Contributing
-Any help is welcome! Just edit the file `countriesV2.json`. If you want to edit V3, please refer to 
-[this](https://github.com/mledoze/countries/blob/master/countries.json) file or create an issue in the
-[original project](https://github.com/mledoze/countries).
+Any help is welcome! Just edit the file relevant file and create a new Merge Request or you can also [donate](https://www.paypal.me/amatosg/15).
 
 # Donations
 If you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also [buy me a coffee](https://www.buymeacoffee.com/amatos) :)
 
+# Changelog
+### V3
+- Added population
+### V3.1
+- Added population
+- Added named object for `flags`
+
 # API Endpoints
 
-Currently there are 2 versions:
+Currently there are 3 versions:
 - Version 2 is the original version from restcountries.eu by Fayder Florez
 - Version 3 is the implementation from [this project](https://github.com/mledoze/countries)
+- Version 3.1 adds named values to the `flags` object like this:
+
+```json
+"flags": {
+  "svg": "https://restcountries.com/data/per.svg",
+  "png": "https://restcountries.com/data/png/per.png"
+}
+```
 
 Below are described the REST endpoints available that you can use to search for countries
 

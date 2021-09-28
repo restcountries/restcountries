@@ -6,8 +6,8 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.domain.ResponseEntity;
-import dev.amatos.restcountries.service.CountryService;
-import dev.amatos.restcountries.v2.domain.Country;
+import dev.amatos.restcountries.service.v2.CountryServiceV2;
+import dev.amatos.restcountries.domain.v2.Country;
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
@@ -25,7 +25,7 @@ public class CountryController {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-    List<Country> countries = CountryService.getInstance().getAll();
+    List<Country> countries = CountryServiceV2.getInstance().getAll();
     return checkFieldsAndParseCountries(fields, countries);
   }
 
@@ -46,7 +46,7 @@ public class CountryController {
     if (isEmpty(alpha) || alpha.length() < 2 || alpha.length() > 3) {
       return getResponse(Response.Status.BAD_REQUEST);
     }
-    Country country = CountryService.getInstance().getByAlpha(alpha);
+    Country country = CountryServiceV2.getInstance().getByAlpha(alpha);
     if (country != null) {
       return checkFieldsAndParseCountry(country, fields);
     }
@@ -68,7 +68,7 @@ public class CountryController {
       return getResponse(Response.Status.BAD_REQUEST);
     }
     try {
-      List<Country> countries = CountryService.getInstance().getByCodeList(codes);
+      List<Country> countries = CountryServiceV2.getInstance().getByCodeList(codes);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -86,7 +86,7 @@ public class CountryController {
       return getResponse(Response.Status.BAD_REQUEST);
     }
     try {
-      List<Country> countries = CountryService.getInstance().getByCurrency(currency);
+      List<Country> countries = CountryServiceV2.getInstance().getByCurrency(currency);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -101,7 +101,7 @@ public class CountryController {
       @QueryParam("fullText") Optional<Boolean> fullText,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance()
+      List<Country> countries = CountryServiceV2.getInstance()
           .getByName(name, fullText.orElse(false));
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
@@ -117,7 +117,7 @@ public class CountryController {
       @QueryParam("fields") Optional<String> fields) {
 
     try {
-      List<Country> countries = CountryService.getInstance().getByCallingCode(callingCode);
+      List<Country> countries = CountryServiceV2.getInstance().getByCallingCode(callingCode);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -131,7 +131,7 @@ public class CountryController {
   public Object getByCapital(@PathVariable("capital") String capital,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByCapital(capital);
+      List<Country> countries = CountryServiceV2.getInstance().getByCapital(capital);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -145,7 +145,7 @@ public class CountryController {
   public Object getByContinent(@PathVariable("continent") String region,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByContinent(region);
+      List<Country> countries = CountryServiceV2.getInstance().getByContinent(region);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -159,7 +159,7 @@ public class CountryController {
   public Object getBySubRegion(@PathVariable("region") String region,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByRegion(region);
+      List<Country> countries = CountryServiceV2.getInstance().getByRegion(region);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -173,7 +173,7 @@ public class CountryController {
   public Object getByLanguage(@PathVariable("lang") String language,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByLanguage(language);
+      List<Country> countries = CountryServiceV2.getInstance().getByLanguage(language);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -188,7 +188,7 @@ public class CountryController {
   public Object getByDemonym(@PathVariable("demonym") String demonym,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByDemonym(demonym);
+      List<Country> countries = CountryServiceV2.getInstance().getByDemonym(demonym);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -202,7 +202,7 @@ public class CountryController {
   public Object getByRegionalBloc(@PathVariable("regionalBlock") String regionalBlock,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryService.getInstance().getByRegionalBloc(regionalBlock);
+      List<Country> countries = CountryServiceV2.getInstance().getByRegionalBloc(regionalBlock);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -299,7 +299,9 @@ public class CountryController {
       "cioc",
       "independent",
       "continent",
-      "borders"
+      "borders",
+      "flag",
+      "flags"
   };
 
   private boolean isEmpty(String value) {

@@ -6,8 +6,8 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.domain.ResponseEntity;
-import dev.amatos.restcountries.domain.v3.Country;
-import dev.amatos.restcountries.service.v3.CountryServiceV3;
+import dev.amatos.restcountries.domain.v3.v31.Country;
+import dev.amatos.restcountries.service.v3.v31.CountryServiceV31;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.Controller;
@@ -22,12 +22,12 @@ import java.util.Set;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Response;
 
-@Controller("v3/")
-public class CountryControllerV3 {
+@Controller("v3.1/")
+public class CountryControllerV31 {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-    var countries = CountryServiceV3.getInstance().getAll();
+    var countries = CountryServiceV31.getInstance().getAll();
     return checkFieldsAndParseCountries(fields, countries);
   }
 
@@ -49,7 +49,7 @@ public class CountryControllerV3 {
     if (isEmpty(alpha) || alpha.length() < 2 || alpha.length() > 3) {
       return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
     }
-    var country = CountryServiceV3.getInstance().getByAlpha(alpha);
+    var country = CountryServiceV31.getInstance().getByAlpha(alpha);
     if (country != null) {
       return checkFieldsAndParseCountry(country, fields);
     }
@@ -71,7 +71,7 @@ public class CountryControllerV3 {
       return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
     }
     try {
-      var countries = CountryServiceV3.getInstance().getByCodeList(codes);
+      var countries = CountryServiceV31.getInstance().getByCodeList(codes);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -89,7 +89,7 @@ public class CountryControllerV3 {
       return getResponse(Response.Status.BAD_REQUEST);
     }
     try {
-      var countries = CountryServiceV3.getInstance().getByCurrency(currency);
+      var countries = CountryServiceV31.getInstance().getByCurrency(currency);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -104,7 +104,7 @@ public class CountryControllerV3 {
       @QueryParam("fullText") Optional<Boolean> fullText,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance()
+      var countries = CountryServiceV31.getInstance()
           .getByName(name, fullText.orElse(false));
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
@@ -119,7 +119,7 @@ public class CountryControllerV3 {
   public Object getByCapital(@PathVariable("capital") String capital,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getByCapital(capital);
+      var countries = CountryServiceV31.getInstance().getByCapital(capital);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -134,7 +134,7 @@ public class CountryControllerV3 {
   public Object getByContinent(@PathVariable("region") String region,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getByRegion(region);
+      var countries = CountryServiceV31.getInstance().getByRegion(region);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -148,7 +148,7 @@ public class CountryControllerV3 {
   public Object getBySubRegion(@PathVariable("subregion") String subregion,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getBySubregion(subregion);
+      var countries = CountryServiceV31.getInstance().getBySubregion(subregion);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -162,7 +162,7 @@ public class CountryControllerV3 {
   public Object getByLanguage(@PathVariable("lang") String language,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getByLanguage(language);
+      var countries = CountryServiceV31.getInstance().getByLanguage(language);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -177,7 +177,7 @@ public class CountryControllerV3 {
   public Object getByDemonym(@PathVariable("demonym") String demonym,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getByDemonym(demonym);
+      var countries = CountryServiceV31.getInstance().getByDemonym(demonym);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -191,7 +191,7 @@ public class CountryControllerV3 {
   public Object getByTranslation(@PathVariable("translation") String translation,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV3.getInstance().getByTranslation(translation);
+      var countries = CountryServiceV31.getInstance().getByTranslation(translation);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -285,9 +285,8 @@ public class CountryControllerV3 {
       "area",
       "flags",
       "demonyms",
-      "population",
-      "flags",
-      "flag"
+      "flag",
+      "population"
   };
 
   private boolean isEmpty(String value) {

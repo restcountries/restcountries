@@ -1,4 +1,4 @@
-package dev.amatos.restcountries.v2.domain;
+package dev.amatos.restcountries.domain.v2;
 
 import java.util.ArrayList;
 import java.util.List;

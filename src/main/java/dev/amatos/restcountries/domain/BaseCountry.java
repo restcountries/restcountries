@@ -1,114 +1,125 @@
 package dev.amatos.restcountries.domain;
 
 import java.util.List;
+import java.util.Map;
 
 public class BaseCountry {
 
-    protected String name;
+  protected String name;
 
-    private List<String> topLevelDomain;
+  private List<String> topLevelDomain;
 
-    protected String alpha2Code;
+  protected String alpha2Code;
 
-    private String alpha3Code;
+  private String alpha3Code;
 
-    private List<String> callingCodes;
+  private List<String> callingCodes;
 
-    protected String capital;
+  protected String capital;
 
-    private List<String> altSpellings;
+  private List<String> altSpellings;
 
-    protected String subregion;
+  protected String subregion;
 
-    protected String region;
+  protected String region;
 
-    protected Integer population;
+  protected Integer population;
 
-    private List<Double> latlng;
+  private List<Double> latlng;
 
-    private String demonym;
+  private String demonym;
 
-    private Double area;
+  private Double area;
 
-    protected Double gini;
+  protected Double gini;
 
-    private List<String> timezones;
+  private List<String> timezones;
 
-    protected List<String> borders;
+  protected List<String> borders;
 
-    protected String nativeName;
+  protected String nativeName;
 
-    private String numericCode;
+  private String numericCode;
 
-    public String getName() {
-        return name;
-    }
+  private Map<String, String> flags;
 
-    public List<String> getTopLevelDomain() {
-        return topLevelDomain;
-    }
+  public String getName() {
+    return name;
+  }
 
-    public String getAlpha2Code() {
-        return alpha2Code;
-    }
+  public List<String> getTopLevelDomain() {
+    return topLevelDomain;
+  }
 
-    public String getAlpha3Code() {
-        return alpha3Code;
-    }
+  public String getAlpha2Code() {
+    return alpha2Code;
+  }
 
-    public List<String> getCallingCodes() {
-        return callingCodes;
-    }
+  public String getAlpha3Code() {
+    return alpha3Code;
+  }
 
-    public String getCapital() {
-        return capital;
-    }
+  public List<String> getCallingCodes() {
+    return callingCodes;
+  }
 
-    public List<String> getAltSpellings() {
-        return altSpellings;
-    }
+  public String getCapital() {
+    return capital;
+  }
 
-    public String getSubregion() {
-        return subregion;
-    }
+  public List<String> getAltSpellings() {
+    return altSpellings;
+  }
 
-    public String getRegion() {
-        return region;
-    }
+  public String getSubregion() {
+    return subregion;
+  }
 
-    public Integer getPopulation() {
-        return population;
-    }
+  public String getRegion() {
+    return region;
+  }
 
-    public List<Double> getLatlng() {
-        return latlng;
-    }
+  public Integer getPopulation() {
+    return population;
+  }
 
-    public String getDemonym() {
-        return demonym;
-    }
+  public List<Double> getLatlng() {
+    return latlng;
+  }
 
-    public Double getArea() {
-        return area;
-    }
+  public String getDemonym() {
+    return demonym;
+  }
 
-    public Double getGini() {
-        return gini;
-    }
+  public Double getArea() {
+    return area;
+  }
 
-    public List<String> getTimezones() {
-        return timezones;
-    }
+  public Double getGini() {
+    return gini;
+  }
 
-    public List<String> getBorders() {
-        return borders;
-    }
+  public List<String> getTimezones() {
+    return timezones;
+  }
 
-    public String getNativeName() {
-        return nativeName;
-    }
+  public List<String> getBorders() {
+    return borders;
+  }
 
-    public String getNumericCode() {
-        return numericCode;
-    }
+  public String getNativeName() {
+    return nativeName;
+  }
+
+  public String getNumericCode() {
+    return numericCode;
+  }
+
+  public Map<String, String> getFlags() {
+    return flags;
+  }
+
+  public void setFlags(Map<String, String> flags) {
+    this.flags = flags;
+  }
 }

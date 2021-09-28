@@ -1,7 +1,7 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
-package dev.amatos.restcountries.service;
+package dev.amatos.restcountries.service.v2;
 
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
@@ -16,9 +16,9 @@ import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CountryServiceBase {
+public class CountryServiceBaseV2 {
 
-    private static final Logger LOG = Logger.getLogger(CountryServiceBase.class);
+    private static final Logger LOG = Logger.getLogger(CountryServiceBaseV2.class);
 
     protected <T extends BaseCountry> T getByAlpha(String alpha, List<T> countries) {
         int alphaLength = alpha.length();
@@ -142,7 +142,7 @@ public class CountryServiceBase {
     protected List<? extends BaseCountry> loadJson(String filename, Class<? extends BaseCountry> clazz) {
         LOG.debug("Loading JSON " + filename);
         List<BaseCountry> countries = new ArrayList<>();
-        InputStream is = CountryServiceBase.class.getClassLoader().getResourceAsStream(filename);
+        InputStream is = CountryServiceBaseV2.class.getClassLoader().getResourceAsStream(filename);
         var gson = new Gson();
         JsonReader reader;
         try {

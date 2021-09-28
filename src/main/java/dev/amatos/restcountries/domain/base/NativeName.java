@@ -1,4 +1,4 @@
-package dev.amatos.restcountries.v3.domain;
+package dev.amatos.restcountries.domain.base;
 
 public class NativeName {
   private String official;

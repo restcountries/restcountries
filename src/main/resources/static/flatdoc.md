@@ -3,7 +3,7 @@ REST Countries 🇵🇪
 
 Get information about countries via a RESTful API
 
-*Current version: 3*
+*Current version: 3.1*
 
 New in Version 3
 -
@@ -13,8 +13,26 @@ Version 3 uses [this] project to get the country's structure and adds a couple o
 - Search by language's name (not just language code)
 - Search by currency's name (not just currency code)
 - Turning back from V2 to V3: continent to region and region to subregion
+- Population
 
-In addition to those features, I added the flags (svg and png) to each country.
+In addition to those features, I added the flags (svg and png) to each country. 
+
+In version 3 you get:
+
+```json
+"flags": [
+  "https://restcountries.com/data/per.svg",
+  "https://restcountries.com/data/png/per.png"
+]
+``` 
+In version 3.1 you'll get:
+
+```json
+"flags": {
+  "svg": "https://restcountries.com/data/per.svg",
+  "png": "https://restcountries.com/data/png/per.png"
+}
+```
 
 Important Information About Version 2
 --
@@ -56,7 +74,7 @@ example response body.
 All
 ---------------
 ``` html
-https://restcountries.com/v3/all
+https://restcountries.com/v3.1/all
 ```
 
 Name
@@ -65,15 +83,15 @@ Name
 Search by country name. It can be the native name or partial name
 
 ``` html
-https://restcountries.com/v3/name/{name}
+https://restcountries.com/v3.1/name/{name}
 ```
 
 ``` html
-https://restcountries.com/v3/name/peru
+https://restcountries.com/v3.1/name/peru
 ```
 
 ``` html
-https://restcountries.com/v3/name/united
+https://restcountries.com/v3.1/name/united
 ```
 
 Full Name
@@ -82,11 +100,11 @@ Full Name
 Search by country full name
 
 ``` html
-https://restcountries.com/v3/name/{name}?fullText=true
+https://restcountries.com/v3.1/name/{name}?fullText=true
 ```
 
 ``` html
-https://restcountries.com/v3/name/aruba?fullText=true
+https://restcountries.com/v3.1/name/aruba?fullText=true
 ```
 
 Code
@@ -97,15 +115,15 @@ Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
 **UPDATE**: this will now return an array.
 
 ``` html
-https://restcountries.com/v3/alpha/{code}
+https://restcountries.com/v3.1/alpha/{code}
 ```
 
 ``` html
-https://restcountries.com/v3/alpha/pe
+https://restcountries.com/v3.1/alpha/pe
 ```
 
 ``` html
-https://restcountries.com/v3/alpha/per
+https://restcountries.com/v3.1/alpha/per
 ```
 
 List of codes
@@ -115,11 +133,11 @@ Search by list of cca2, ccn3, cca3 or cioc country codes (yes, any!). The origin
 separator. In out case, the *comma* is used to separate values.
 
 ``` html
-https://restcountries.com/v3/alpha?codes={code},{code},{code}
+https://restcountries.com/v3.1/alpha?codes={code},{code},{code}
 ```
 
 ``` html
-https://restcountries.com/v3/alpha?codes=col,pe,at
+https://restcountries.com/v3.1/alpha?codes=col,pe,at
 ```
 
 Currency
@@ -128,13 +146,13 @@ Currency
 Search by currency name (_new!_) or code
 
 ``` html
-https://restcountries.com/v3/currency/{currency}
+https://restcountries.com/v3.1/currency/{currency}
 ```
 ``` html
-https://restcountries.com/v3/currency/pen
+https://restcountries.com/v3.1/currency/pen
 ```
 ``` html
-https://restcountries.com/v3/currency/dollar
+https://restcountries.com/v3.1/currency/dollar
 ```
 
 Language
@@ -143,20 +161,20 @@ Language
 Search by language name (_new!_) or iso639_2 code
 
 ``` html
-https://restcountries.com/v3/lang/{lang}
+https://restcountries.com/v3.1/lang/{lang}
 ```
 ``` html
-https://restcountries.com/v3/lang/spa
+https://restcountries.com/v3.1/lang/spa
 ```
 ``` html
-https://restcountries.com/v3/lang/german
+https://restcountries.com/v3.1/lang/german
 ```
 
 Translations (new!)
 -
 Now you can search by name in any available translation
 ``` html
-https://restcountries.com/v3/translation/Peruánská
+https://restcountries.com/v3.1/translation/Peruánská
 ```
 
 Capital city
@@ -165,10 +183,10 @@ Capital city
 Search by capital city.
 
 ``` html
-https://restcountries.com/v3/capital/{capital}
+https://restcountries.com/v3.1/capital/{capital}
 ```
 ``` html
-https://restcountries.com/v3/capital/lima
+https://restcountries.com/v3.1/capital/lima
 ```
 
 Region
@@ -177,13 +195,13 @@ Region
 Search by Region: Africa, Americas, Asia, Europe, Oceania. The search can be using the full region's name or just part of it
 
 ``` html
-https://restcountries.com/v3/region/{region}
+https://restcountries.com/v3.1/region/{region}
 ```
 ``` html
-https://restcountries.com/v3/region/europe
+https://restcountries.com/v3.1/region/europe
 ```
 ``` html
-https://restcountries.com/v3/region/ame
+https://restcountries.com/v3.1/region/ame
 ```
 
 Subregion
@@ -192,13 +210,13 @@ Subregion
 Search by Subregion: South America, Southern Europe, Central America, Eastern Asia, etc. The search can be using the full subregion's name or just part of it
 
 ``` html
-https://restcountries.com/v3/subregion/{region}
+https://restcountries.com/v3.1/subregion/{region}
 ```
 ``` html
-https://restcountries.com/v3/subregion/europe
+https://restcountries.com/v3.1/subregion/europe
 ```
 ``` html
-https://restcountries.com/v3/subregion/south
+https://restcountries.com/v3.1/subregion/south
 ```
 
 Demonym
@@ -206,16 +224,16 @@ Demonym
 Now you can search by how a citizen is called.
 
 ``` html
-https://restcountries.com/v3/demonym/{demonym}
+https://restcountries.com/v3.1/demonym/{demonym}
 ```
 ``` html
-https://restcountries.com/v3/demonym/peruvian
+https://restcountries.com/v3.1/demonym/peruvian
 ```
 
 Response Example
 -
 ``` html
-https://restcountries.com/v3/name/japan
+https://restcountries.com/v3.1/name/japan
 ```
 ``` html
 [
@@ -356,8 +374,8 @@ https://restcountries.com/v3/name/japan
     "area": 377930.0,
     "flag": "🇯🇵",
     "flags": [
-      "https://restcountries.com/data/jpn.svg",
-      "https://restcountries.com/data/png/jpn.png"
+      "svg": "https://restcountries.com/data/jpn.svg",
+      "png": "https://restcountries.com/data/png/jpn.png"
     ],
     "demonyms": {
       "eng": {
