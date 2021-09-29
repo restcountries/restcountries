@@ -288,7 +288,8 @@ public class CountryControllerV3 {
       "population",
       "flags",
       "flag",
-      "maps"
+      "maps",
+      "population"
   };
 
   private boolean isEmpty(String value) {

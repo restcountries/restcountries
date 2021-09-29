@@ -29,6 +29,7 @@ public class BaseCountry {
   private List<String> callingCodes;
   private String flag;
   private Map<String, String> maps;
+  private Integer population;
 
   public Name getName() {
     return name;
@@ -258,5 +259,13 @@ public class BaseCountry {
 
   public void setMaps(Map<String, String> maps) {
     this.maps = maps;
+  }
+
+  public Integer getPopulation() {
+    return population;
+  }
+
+  public void setPopulation(Integer population) {
+    this.population = population;
   }
 }
