@@ -28,6 +28,7 @@ public class BaseCountry {
   private Map<String, Map<String, String>> demonyms;
   private List<String> callingCodes;
   private String flag;
+  private Map<String, String> maps;
 
   public Name getName() {
     return name;
@@ -249,5 +250,13 @@ public class BaseCountry {
 
   public void setFlag(String flag) {
     this.flag = flag;
+  }
+
+  public Map<String, String> getMaps() {
+    return maps;
+  }
+
+  public void setMaps(Map<String, String> maps) {
+    this.maps = maps;
   }
 }
