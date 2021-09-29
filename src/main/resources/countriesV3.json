@@ -153,7 +153,11 @@
       "https://restcountries.com/data/abw.svg",
       "https://restcountries.com/data/png/abw.png"
     ],
-    "population": 106766
+    "population": 106766,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Aruba/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
+    }
   },
   {
     "name": {
@@ -325,7 +329,11 @@
       "https://restcountries.com/data/afg.svg",
       "https://restcountries.com/data/png/afg.png"
     ],
-    "population": 2837743
+    "population": 2837743,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Afganistan/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
+    }
   },
   {
     "name": {
@@ -486,7 +494,11 @@
       "https://restcountries.com/data/ago.svg",
       "https://restcountries.com/data/png/ago.png"
     ],
-    "population": 32866268
+    "population": 32866268,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Angola/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+    }
   },
   {
     "name": {
@@ -637,7 +649,11 @@
       "https://restcountries.com/data/aia.svg",
       "https://restcountries.com/data/png/aia.png"
     ],
-    "population": 13452
+    "population": 13452,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Anguilla",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
+    }
   },
   {
     "name": {
@@ -791,7 +807,11 @@
       "https://restcountries.com/data/ax.svg",
       "https://restcountries.com/data/png/ax.png"
     ],
-    "population": 29458
+    "population": 29458,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/%C3%85land/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
+    }
   },
   {
     "name": {
@@ -953,7 +973,11 @@
       "https://restcountries.com/data/alb.svg",
       "https://restcountries.com/data/png/alb.png"
     ],
-    "population": 2837743
+    "population": 2837743,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Albania/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
+    }
   },
   {
     "name": {
@@ -1112,7 +1136,11 @@
       "https://restcountries.com/data/and.svg",
       "https://restcountries.com/data/png/and.png"
     ],
-    "population": 77265
+    "population": 77265,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Andorra/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+    }
   },
   {
     "name": {
@@ -1268,7 +1296,11 @@
       "https://restcountries.com/data/are.svg",
       "https://restcountries.com/data/png/are.png"
     ],
-    "population": 9890400
+    "population": 9890400,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/United+Arab+Emirates",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+    }
   },
   {
     "name": {
@@ -1435,7 +1467,11 @@
       "https://restcountries.com/data/arg.svg",
       "https://restcountries.com/data/png/arg.png"
     ],
-    "population": 45376763
+    "population": 45376763,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Argentina/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+    }
   },
   {
     "name": {
@@ -1597,7 +1633,11 @@
       "https://restcountries.com/data/arm.svg",
       "https://restcountries.com/data/png/arm.png"
     ],
-    "population": 2963234
+    "population": 2963234,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Armenia/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+    }
   },
   {
     "name": {
@@ -1756,7 +1796,11 @@
       "https://restcountries.com/data/asm.svg",
       "https://restcountries.com/data/png/asm.png"
     ],
-    "population": 55197
+    "population": 55197,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/American+Samoa",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177187"
+    }
   },
   {
     "name": {
@@ -1901,7 +1945,11 @@
       "https://restcountries.com/data/ata.svg",
       "https://restcountries.com/data/png/ata.png"
     ],
-    "population": 1000
+    "population": 1000,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Antarctica",
+      "openStreetMaps": "https://www.openstreetmap.org/node/36966060"
+    }
   },
   {
     "name": {
@@ -2053,7 +2101,11 @@
       "https://restcountries.com/data/atf.svg",
       "https://restcountries.com/data/png/atf.png"
     ],
-    "population": 400
+    "population": 400,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/French+Southern+and+Antarctic+Lands",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
+    }
   },
   {
     "name": {
@@ -2208,7 +2260,11 @@
       "https://restcountries.com/data/atg.svg",
       "https://restcountries.com/data/png/atg.png"
     ],
-    "population": 97928
+    "population": 97928,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Antigua+and+Barbuda",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
+    }
   },
   {
     "name": {
@@ -2363,7 +2419,11 @@
       "https://restcountries.com/data/aus.svg",
       "https://restcountries.com/data/png/aus.png"
     ],
-    "population": 25687041
+    "population": 25687041,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Australia",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
+    }
   },
   {
     "name": {
@@ -2528,7 +2588,11 @@
       "https://restcountries.com/data/aut.svg",
       "https://restcountries.com/data/png/aut.png"
     ],
-    "population": 8917205
+    "population": 8917205,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Austria",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+    }
   },
   {
     "name": {
@@ -2695,7 +2759,11 @@
       "https://restcountries.com/data/aze.svg",
       "https://restcountries.com/data/png/aze.png"
     ],
-    "population": 10110116
+    "population": 10110116,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Azerbaiyan/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+    }
   },
   {
     "name": {
@@ -2861,7 +2929,11 @@
       "https://restcountries.com/data/bdi.svg",
       "https://restcountries.com/data/png/bdi.png"
     ],
-    "population": 11890781
+    "population": 11890781,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Burundi/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+    }
   },
   {
     "name": {
@@ -3038,7 +3110,11 @@
       "https://restcountries.com/data/bel.svg",
       "https://restcountries.com/data/png/bel.png"
     ],
-    "population": 11555997
+    "population": 11555997,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Belgium",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52411"
+    }
   },
   {
     "name": {
@@ -3199,7 +3275,11 @@
       "https://restcountries.com/data/ben.svg",
       "https://restcountries.com/data/png/ben.png"
     ],
-    "population": 12123198
+    "population": 12123198,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Benin",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
+    }
   },
   {
     "name": {
@@ -3360,7 +3440,11 @@
       "https://restcountries.com/data/bfa.svg",
       "https://restcountries.com/data/png/bfa.png"
     ],
-    "population": 20903278
+    "population": 20903278,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Burkina+Faso",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192783"
+    }
   },
   {
     "name": {
@@ -3519,7 +3603,11 @@
       "https://restcountries.com/data/bgd.svg",
       "https://restcountries.com/data/bgd.png"
     ],
-    "population": 164689383
+    "population": 164689383,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bangladesh",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+    }
   },
   {
     "name": {
@@ -3681,7 +3769,11 @@
       "https://restcountries.com/data/bgr.svg",
       "https://restcountries.com/data/bgr.png"
     ],
-    "population": 6927288
+    "population": 6927288,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bulgaria",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+    }
   },
   {
     "name": {
@@ -3838,7 +3930,11 @@
       "https://restcountries.com/data/bhr.svg",
       "https://restcountries.com/data/bhr.png"
     ],
-    "population": 1701583
+    "population": 1701583,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bahrain",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
+    }
   },
   {
     "name": {
@@ -3998,7 +4094,11 @@
       "https://restcountries.com/data/bhs.svg",
       "https://restcountries.com/data/png/bhs.png"
     ],
-    "population": 393248
+    "population": 393248,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bahamas",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
+    }
   },
   {
     "name": {
@@ -4168,7 +4268,11 @@
       "https://restcountries.com/data/bih.svg",
       "https://restcountries.com/data/png/bih.png"
     ],
-    "population": 3280815
+    "population": 3280815,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
+    }
   },
   {
     "name": {
@@ -4322,7 +4426,11 @@
       "https://restcountries.com/data/blm.svg",
       "https://restcountries.com/data/png/blm.png"
     ],
-    "population": 4255
+    "population": 4255,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Saint+Barth%C3%A9lemy",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7552779"
+    }
   },
   {
     "name": {
@@ -4480,7 +4588,11 @@
       "https://restcountries.com/data/shn.svg",
       "https://restcountries.com/data/png/shn.png"
     ],
-    "population": 53192
+    "population": 53192,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Santa+Elena,+STHL+1ZZ,+Santa+Elena/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
+    }
   },
   {
     "name": {
@@ -4649,7 +4761,11 @@
       "https://restcountries.com/data/blr.svg",
       "https://restcountries.com/data/png/blr.png"
     ],
-    "population": 9398861
+    "population": 9398861,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Belarus",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+    }
   },
   {
     "name": {
@@ -4816,7 +4932,11 @@
       "https://restcountries.com/data/blz.svg",
       "https://restcountries.com/data/png/blz.png"
     ],
-    "population": 397621
+    "population": 397621,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Belize",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+    }
   },
   {
     "name": {
@@ -4974,7 +5094,11 @@
       "https://restcountries.com/data/bmu.svg",
       "https://restcountries.com/data/png/bmu.png"
     ],
-    "population": 63903
+    "population": 63903,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bermuda",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
+    }
   },
   {
     "name": {
@@ -5157,7 +5281,11 @@
       "https://restcountries.com/data/bol.svg",
       "https://restcountries.com/data/png/bol.png"
     ],
-    "population": 11673029
+    "population": 11673029,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bolivia",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+    }
   },
   {
     "name": {
@@ -5314,7 +5442,11 @@
       "https://restcountries.com/data/nld.svg",
       "https://restcountries.com/data/png/nld.png"
     ],
-    "population": 25987
+    "population": 25987,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Caribbean+Netherlands",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
+    }
   },
   {
     "name": {
@@ -5482,7 +5614,11 @@
       "https://restcountries.com/data/bra.svg",
       "https://restcountries.com/data/png/bra.png"
     ],
-    "population": 212559409
+    "population": 212559409,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Brazil",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+    }
   },
   {
     "name": {
@@ -5637,7 +5773,11 @@
       "https://restcountries.com/data/brb.svg",
       "https://restcountries.com/data/png/brb.png"
     ],
-    "population": 287371
+    "population": 287371,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Barbados",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
+    }
   },
   {
     "name": {
@@ -5800,7 +5940,11 @@
       "https://restcountries.com/data/brn.svg",
       "https://restcountries.com/data/png/brn.png"
     ],
-    "population": 437483
+    "population": 437483,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Brunei",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
+    }
   },
   {
     "name": {
@@ -5962,7 +6106,11 @@
       "https://restcountries.com/data/btn.svg",
       "https://restcountries.com/data/png/btn.png"
     ],
-    "population": 771612
+    "population": 771612,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bhutan",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184629"
+    }
   },
   {
     "name": {
@@ -6111,7 +6259,11 @@
       "https://restcountries.com/data/bvt.svg",
       "https://restcountries.com/data/png/bvt.png"
     ],
-    "population": 0
+    "population": 0,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Bouvet+Island",
+      "openStreetMaps": "https://www.openstreetmap.org/way/174996681"
+    }
   },
   {
     "name": {
@@ -6273,7 +6425,11 @@
       "https://restcountries.com/data/bwa.svg",
       "https://restcountries.com/data/png/bwa.png"
     ],
-    "population": 2351625
+    "population": 2351625,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Botswana",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+    }
   },
   {
     "name": {
@@ -6441,7 +6597,11 @@
       "https://restcountries.com/data/caf.svg",
       "https://restcountries.com/data/png/caf.png"
     ],
-    "population": 4829764
+    "population": 4829764,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Central+African+Republic",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
+    }
   },
   {
     "name": {
@@ -6602,7 +6762,11 @@
       "https://restcountries.com/data/can.svg",
       "https://restcountries.com/data/png/can.png"
     ],
-    "population": 38005238
+    "population": 38005238,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Canada",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+    }
   },
   {
     "name": {
@@ -6759,7 +6923,11 @@
       "https://restcountries.com/data/cck.svg",
       "https://restcountries.com/data/png/cck.png"
     ],
-    "population": 544
+    "population": 544,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cocos+(Keeling)+Islands",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/82636"
+    }
   },
   {
     "name": {
@@ -6935,7 +7103,11 @@
       "https://restcountries.com/data/che.svg",
       "https://restcountries.com/data/png/che.png"
     ],
-    "population": 17500657
+    "population": 17500657,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Switzerland",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
+    }
   },
   {
     "name": {
@@ -7095,7 +7267,11 @@
       "https://restcountries.com/data/chl.svg",
       "https://restcountries.com/data/png/chl.png"
     ],
-    "population": 19116209
+    "population": 19116209,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Chile",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+    }
   },
   {
     "name": {
@@ -7272,7 +7448,11 @@
       "https://restcountries.com/data/chn.svg",
       "https://restcountries.com/data/png/chn.png"
     ],
-    "population": 1402112000
+    "population": 1402112000,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/China",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+    }
   },
   {
     "name": {
@@ -7432,7 +7612,11 @@
       "https://restcountries.com/data/civ.svg",
       "https://restcountries.com/data/png/civ.png"
     ],
-    "population": 26378275
+    "population": 26378275,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Ivory+Coast",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+    }
   },
   {
     "name": {
@@ -7600,7 +7784,11 @@
       "https://restcountries.com/data/cmr.svg",
       "https://restcountries.com/data/png/cmr.png"
     ],
-    "population": 26545864
+    "population": 26545864,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cameroon",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
+    }
   },
   {
     "name": {
@@ -7788,7 +7976,11 @@
       "https://restcountries.com/data/cod.svg",
       "https://restcountries.com/data/png/cod.png"
     ],
-    "population": 89561404
+    "population": 89561404,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/DR+Congo",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+    }
   },
   {
     "name": {
@@ -7960,7 +8152,11 @@
       "https://restcountries.com/data/cog.svg",
       "https://restcountries.com/data/png/cog.png"
     ],
-    "population": 89561404
+    "population": 89561404,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Congo",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+    }
   },
   {
     "name": {
@@ -8124,7 +8320,11 @@
       "https://restcountries.com/data/cok.svg",
       "https://restcountries.com/data/png/cok.png"
     ],
-    "population": 18100
+    "population": 18100,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cook+Islands",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
+    }
   },
   {
     "name": {
@@ -8286,7 +8486,11 @@
       "https://restcountries.com/data/col.svg",
       "https://restcountries.com/data/png/col.png"
     ],
-    "population": 50882884
+    "population": 50882884,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Colombia",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    }
   },
   {
     "name": {
@@ -8455,7 +8659,11 @@
       "https://restcountries.com/data/com.svg",
       "https://restcountries.com/data/png/com.png"
     ],
-    "population": 869595
+    "population": 869595,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Comoros",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
+    }
   },
   {
     "name": {
@@ -8612,7 +8820,11 @@
       "https://restcountries.com/data/cpv.svg",
       "https://restcountries.com/data/png/cpv.png"
     ],
-    "population": 555988
+    "population": 555988,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cape+Verde",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+    }
   },
   {
     "name": {
@@ -8771,7 +8983,11 @@
       "https://restcountries.com/data/cri.svg",
       "https://restcountries.com/data/png/cri.png"
     ],
-    "population": 5094114
+    "population": 5094114,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Costa+Rica",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+    }
   },
   {
     "name": {
@@ -8932,7 +9148,11 @@
       "https://restcountries.com/data/cub.svg",
       "https://restcountries.com/data/png/cub.png"
     ],
-    "population": 11326616
+    "population": 11326616,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cuba",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+    }
   },
   {
     "name": {
@@ -9090,7 +9310,11 @@
       "https://restcountries.com/data/cuw.svg",
       "https://restcountries.com/data/png/cuw.png"
     ],
-    "population": 155014
+    "population": 155014,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Curazao/",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
+    }
   },
   {
     "name": {
@@ -9246,7 +9470,11 @@
       "https://restcountries.com/data/cxr.svg",
       "https://restcountries.com/data/png/cxr.png"
     ],
-    "population": 2072
+    "population": 2072,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Christmas+Island",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/6365444"
+    }
   },
   {
     "name": {
@@ -9401,7 +9629,11 @@
       "https://restcountries.com/data/cym.svg",
       "https://restcountries.com/data/png/cym.png"
     ],
-    "population": 65720
+    "population": 65720,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cayman+Islands",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
+    }
   },
   {
     "name": {
@@ -9566,7 +9798,11 @@
       "https://restcountries.com/data/cyp.svg",
       "https://restcountries.com/data/png/cyp.png"
     ],
-    "population": 1207361
+    "population": 1207361,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Cyprus",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+    }
   },
   {
     "name": {
@@ -9732,7 +9968,11 @@
       "https://restcountries.com/data/cze.svg",
       "https://restcountries.com/data/png/cze.png"
     ],
-    "population": 10698896
+    "population": 10698896,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Czechia",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+    }
   },
   {
     "name": {
@@ -9894,7 +10134,11 @@
       "https://restcountries.com/data/deu.svg",
       "https://restcountries.com/data/png/deu.png"
     ],
-    "population": 83240525
+    "population": 83240525,
+    "maps": {
+      "googleMaps": "https://www.google.com/maps/place/Germany",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+    }
   },
   {
     "name": {
@@ -10063,7 +10307,11 @@
       "https://restcountries.com/data/dji.svg",
       "https://restcountries.com/data/png/dji.png"
     ],
-    "population": 988002
+    "population": 988002,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+    }
   },
   {
     "name": {
@@ -10221,7 +10469,11 @@
       "https://restcountries.com/data/dma.svg",
       "https://restcountries.com/data/png/dma.png"
     ],
-    "population": 71991
+    "population": 71991,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+    }
   },
   {
     "name": {
@@ -10380,7 +10632,11 @@
       "https://restcountries.com/data/dnk.svg",
       "https://restcountries.com/data/png/dnk.png"
     ],
-    "population": 5831404
+    "population": 5831404,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+    }
   },
   {
     "name": {
@@ -10538,7 +10794,11 @@
       "https://restcountries.com/data/dom.svg",
       "https://restcountries.com/data/png/dom.png"
     ],
-    "population": 10847904
+    "population": 10847904,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+    }
   },
   {
     "name": {
@@ -10703,7 +10963,11 @@
       "https://restcountries.com/data/dza.svg",
       "https://restcountries.com/data/png/dza.png"
     ],
-    "population": 510713
+    "population": 510713,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+    }
   },
   {
     "name": {
@@ -10862,7 +11126,11 @@
       "https://restcountries.com/data/ecu.svg",
       "https://restcountries.com/data/png/ecu.png"
     ],
-    "population": 17643060
+    "population": 17643060,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+    }
   },
   {
     "name": {
@@ -11023,7 +11291,11 @@
       "https://restcountries.com/data/egy.svg",
       "https://restcountries.com/data/png/egy.png"
     ],
-    "population": 102334403
+    "population": 102334403,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
+    }
   },
   {
     "name": {
@@ -11196,7 +11468,11 @@
       "https://restcountries.com/data/eri.svg",
       "https://restcountries.com/data/png/eri.png"
     ],
-    "population": 5352000
+    "population": 5352000,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
+    }
   },
   {
     "name": {
@@ -11370,7 +11646,11 @@
       "https://restcountries.com/data/esh.svg",
       "https://restcountries.com/data/png/esh.png"
     ],
-    "population": 510713
+    "population": 510713,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/5441968"
+    }
   },
   {
     "name": {
@@ -11528,7 +11808,11 @@
       "https://restcountries.com/data/esp.svg",
       "https://restcountries.com/data/png/esp.png"
     ],
-    "population": 47351567
+    "population": 47351567,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+    }
   },
   {
     "name": {
@@ -11688,7 +11972,11 @@
       "https://restcountries.com/data/est.svg",
       "https://restcountries.com/data/png/est.png"
     ],
-    "population": 1331057
+    "population": 1331057,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+    }
   },
   {
     "name": {
@@ -11852,7 +12140,11 @@
       "https://restcountries.com/data/eth.svg",
       "https://restcountries.com/data/png/eth.png"
     ],
-    "population": 114963583
+    "population": 114963583,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192800"
+    }
   },
   {
     "name": {
@@ -12015,7 +12307,11 @@
       "https://restcountries.com/data/fin.svg",
       "https://restcountries.com/data/png/fin.png"
     ],
-    "population": 5530719
+    "population": 5530719,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+      "openStreetMaps": "openstreetmap.org/relation/54224"
+    }
   },
   {
     "name": {
@@ -12180,7 +12476,11 @@
       "https://restcountries.com/data/fji.svg",
       "https://restcountries.com/data/png/fji.png"
     ],
-    "population": 896444
+    "population": 896444,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+    }
   },
   {
     "name": {
@@ -12333,7 +12633,11 @@
       "https://restcountries.com/data/flk.svg",
       "https://restcountries.com/data/png/flk.png"
     ],
-    "population": 2563
+    "population": 2563,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+    }
   },
   {
     "name": {
@@ -12494,7 +12798,11 @@
       "https://restcountries.com/data/fra.svg",
       "https://restcountries.com/data/png/fra.png"
     ],
-    "population": 67391582
+    "population": 67391582,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+    }
   },
   {
     "name": {
@@ -12655,7 +12963,11 @@
       "https://restcountries.com/data/fro.svg",
       "https://restcountries.com/data/png/fro.png"
     ],
-    "population": 48865
+    "population": 48865,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52939"
+    }
   },
   {
     "name": {
@@ -12803,7 +13115,11 @@
       "https://restcountries.com/data/fsm.svg",
       "https://restcountries.com/data/png/fsm.png"
     ],
-    "population": 115021
+    "population": 115021,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
+    }
   },
   {
     "name": {
@@ -12959,7 +13275,11 @@
       "https://restcountries.com/data/gab.svg",
       "https://restcountries.com/data/png/gab.png"
     ],
-    "population": 2225728
+    "population": 2225728,
+    "maps": {
+      "googleMaps": "https://www.openstreetmap.org/relation/192793",
+      "openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+    }
   },
   {
     "name": {
@@ -13113,7 +13433,11 @@
       "https://restcountries.com/data/gbr.svg",
       "https://restcountries.com/data/png/gbr.png"
     ],
-    "population": 67215293
+    "population": 67215293,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+    }
   },
   {
     "name": {
@@ -13269,7 +13593,11 @@
       "https://restcountries.com/data/geo.svg",
       "https://restcountries.com/data/png/geo.png"
     ],
-    "population": 3714000
+    "population": 3714000,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+    }
   },
   {
     "name": {
@@ -13435,7 +13763,11 @@
       "https://restcountries.com/data/ggy.svg",
       "https://restcountries.com/data/png/ggy.png"
     ],
-    "population": 62999
+    "population": 62999,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/270009"
+    }
   },
   {
     "name": {
@@ -13589,7 +13921,11 @@
       "https://restcountries.com/data/gha.svg",
       "https://restcountries.com/data/png/gha.png"
     ],
-    "population": 31072945
+    "population": 31072945,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+    }
   },
   {
     "name": {
@@ -13741,7 +14077,11 @@
       "https://restcountries.com/data/gib.svg",
       "https://restcountries.com/data/png/gib.png"
     ],
-    "population": 33691
+    "population": 33691,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
+    }
   },
   {
     "name": {
@@ -13900,7 +14240,11 @@
       "https://restcountries.com/data/gnq.svg",
       "https://restcountries.com/data/png/gnq.png"
     ],
-    "population": 13132792
+    "population": 13132792,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192778"
+    }
   },
   {
     "name": {
@@ -14051,7 +14395,11 @@
       "https://restcountries.com/data/glp.svg",
       "https://restcountries.com/data/png/glp.png"
     ],
-    "population": 400132
+    "population": 400132,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
+    }
   },
   {
     "name": {
@@ -14204,7 +14552,11 @@
       "https://restcountries.com/data/gmb.svg",
       "https://restcountries.com/data/png/gmb.png"
     ],
-    "population": 2416664
+    "population": 2416664,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+    }
   },
   {
     "name": {
@@ -14364,7 +14716,11 @@
       "https://restcountries.com/data/gnb.svg",
       "https://restcountries.com/data/png/gnb.png"
     ],
-    "population": 1967998
+    "population": 1967998,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
+    }
   },
   {
     "name": {
@@ -14535,7 +14891,11 @@
       "https://restcountries.com/data/gnq.svg",
       "https://restcountries.com/data/png/gnq.png"
     ],
-    "population": 1402985
+    "population": 1402985,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
+    }
   },
   {
     "name": {
@@ -14693,7 +15053,11 @@
       "https://restcountries.com/data/grc.svg",
       "https://restcountries.com/data/png/grc.png"
     ],
-    "population": 10715549
+    "population": 10715549,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+    }
   },
   {
     "name": {
@@ -14844,7 +15208,11 @@
       "https://restcountries.com/data/grd.svg",
       "https://restcountries.com/data/png/grd.png"
     ],
-    "population": 112519
+    "population": 112519,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
+    }
   },
   {
     "name": {
@@ -14996,7 +15364,11 @@
       "https://restcountries.com/data/grl.svg",
       "https://restcountries.com/data/png/grl.png"
     ],
-    "population": 56367
+    "population": 56367,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
+    }
   },
   {
     "name": {
@@ -15151,7 +15523,11 @@
       "https://restcountries.com/data/gtm.svg",
       "https://restcountries.com/data/png/gtm.png"
     ],
-    "population": 16858333
+    "population": 16858333,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+    }
   },
   {
     "name": {
@@ -15306,7 +15682,11 @@
       "https://restcountries.com/data/guf.svg",
       "https://restcountries.com/data/png/guf.png"
     ],
-    "population": 254541
+    "population": 254541,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
+    }
   },
   {
     "name": {
@@ -15468,7 +15848,11 @@
       "https://restcountries.com/data/gum.svg",
       "https://restcountries.com/data/png/gum.png"
     ],
-    "population": 168783
+    "population": 168783,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/306001"
+    }
   },
   {
     "name": {
@@ -15623,7 +16007,11 @@
       "https://restcountries.com/data/guy.svg",
       "https://restcountries.com/data/png/guy.png"
     ],
-    "population": 786559
+    "population": 786559,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+    }
   },
   {
     "name": {
@@ -15777,7 +16165,11 @@
       "https://restcountries.com/data/hkg.svg",
       "https://restcountries.com/data/png/hkg.png"
     ],
-    "population": 7500700
+    "population": 7500700,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
+    }
   },
   {
     "name": {
@@ -15926,7 +16318,11 @@
       "https://restcountries.com/data/hmd.svg",
       "https://restcountries.com/data/png/hmd.png"
     ],
-    "population": 0
+    "population": 0,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177227"
+    }
   },
   {
     "name": {
@@ -16082,7 +16478,11 @@
       "https://restcountries.com/data/hnd.svg",
       "https://restcountries.com/data/png/hnd.png"
     ],
-    "population": 9904608
+    "population": 9904608,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+    }
   },
   {
     "name": {
@@ -16245,7 +16645,11 @@
       "https://restcountries.com/data/hrv.svg",
       "https://restcountries.com/data/png/hrv.png"
     ],
-    "population": 4047200
+    "population": 4047200,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
+    }
   },
   {
     "name": {
@@ -16405,7 +16809,11 @@
       "https://restcountries.com/data/hti.svg",
       "https://restcountries.com/data/png/hti.png"
     ],
-    "population": 11402533
+    "population": 11402533,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+    }
   },
   {
     "name": {
@@ -16563,7 +16971,11 @@
       "https://restcountries.com/data/hun.svg",
       "https://restcountries.com/data/png/hun.png"
     ],
-    "population": 9749763
+    "population": 9749763,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    }
   },
   {
     "name": {
@@ -16719,7 +17131,11 @@
       "https://restcountries.com/data/idn.svg",
       "https://restcountries.com/data/png/idn.png"
     ],
-    "population": 273523621
+    "population": 273523621,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/eXWmm2rFkngxt3Ju6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304751"
+    }
   },
   {
     "name": {
@@ -16882,7 +17298,11 @@
       "https://restcountries.com/data/imn.svg",
       "https://restcountries.com/data/png/imn.png"
     ],
-    "population": 85032
+    "population": 85032,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62269"
+    }
   },
   {
     "name": {
@@ -17053,7 +17473,11 @@
       "https://restcountries.com/data/ind.svg",
       "https://restcountries.com/data/png/ind.png"
     ],
-    "population": 1380004385
+    "population": 1380004385,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+    }
   },
   {
     "name": {
@@ -17208,7 +17632,11 @@
       "https://restcountries.com/data/iot.svg",
       "https://restcountries.com/data/png/iot.png"
     ],
-    "population": 3000
+    "population": 3000,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
+    }
   },
   {
     "name": {
@@ -17368,7 +17796,11 @@
       "https://restcountries.com/data/irl.svg",
       "https://restcountries.com/data/png/irl.png"
     ],
-    "population": 4994724
+    "population": 4994724,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+    }
   },
   {
     "name": {
@@ -17526,7 +17958,11 @@
       "https://restcountries.com/data/irn.svg",
       "https://restcountries.com/data/png/irn.png"
     ],
-    "population": 83992953
+    "population": 83992953,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304938"
+    }
   },
   {
     "name": {
@@ -17695,7 +18131,11 @@
       "https://restcountries.com/data/irq.svg",
       "https://restcountries.com/data/png/irq.png"
     ],
-    "population": 40222503
+    "population": 40222503,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304934"
+    }
   },
   {
     "name": {
@@ -17849,7 +18289,11 @@
       "https://restcountries.com/data/isl.svg",
       "https://restcountries.com/data/png/isl.png"
     ],
-    "population": 366425
+    "population": 366425,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/299133"
+    }
   },
   {
     "name": {
@@ -18012,7 +18456,11 @@
       "https://restcountries.com/data/isr.svg",
       "https://restcountries.com/data/png/isr.png"
     ],
-    "population": 9216900
+    "population": 9216900,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    }
   },
   {
     "name": {
@@ -18171,7 +18619,11 @@
       "https://restcountries.com/data/ita.svg",
       "https://restcountries.com/data/png/ita.png"
     ],
-    "population": 59554023
+    "population": 59554023,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    }
   },
   {
     "name": {
@@ -18327,7 +18779,11 @@
       "https://restcountries.com/data/jam.svg",
       "https://restcountries.com/data/png/jam.png"
     ],
-    "population": 2961161
+    "population": 2961161,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+    }
   },
   {
     "name": {
@@ -18495,7 +18951,11 @@
       "https://restcountries.com/data/jey.svg",
       "https://restcountries.com/data/png/jey.png"
     ],
-    "population": 100800
+    "population": 100800,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/367988"
+    }
   },
   {
     "name": {
@@ -18654,7 +19114,11 @@
       "https://restcountries.com/data/jor.svg",
       "https://restcountries.com/data/png/jor.png"
     ],
-    "population": 10203140
+    "population": 10203140,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184818"
+    }
   },
   {
     "name": {
@@ -18808,7 +19272,11 @@
       "https://restcountries.com/data/jpn.svg",
       "https://restcountries.com/data/png/jpn.png"
     ],
-    "population": 125836021
+    "population": 125836021,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+    }
   },
   {
     "name": {
@@ -18978,7 +19446,11 @@
       "https://restcountries.com/data/kaz.svg",
       "https://restcountries.com/data/png/kaz.png"
     ],
-    "population": 18754440
+    "population": 18754440,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+    }
   },
   {
     "name": {
@@ -19141,7 +19613,11 @@
       "https://restcountries.com/data/ken.svg",
       "https://restcountries.com/data/png/ken.png"
     ],
-    "population": 53771300
+    "population": 53771300,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
+    }
   },
   {
     "name": {
@@ -19305,7 +19781,11 @@
       "https://restcountries.com/data/kgz.svg",
       "https://restcountries.com/data/png/kgz.png"
     ],
-    "population": 6591600
+    "population": 6591600,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/178009"
+    }
   },
   {
     "name": {
@@ -19468,7 +19948,11 @@
       "https://restcountries.com/data/khm.svg",
       "https://restcountries.com/data/png/khm.png"
     ],
-    "population": 16718971
+    "population": 16718971,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+    }
   },
   {
     "name": {
@@ -19630,7 +20114,11 @@
       "https://restcountries.com/data/kir.svg",
       "https://restcountries.com/data/png/kir.png"
     ],
-    "population": 119446
+    "population": 119446,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571178"
+    }
   },
   {
     "name": {
@@ -19782,7 +20270,11 @@
       "https://restcountries.com/data/kna.svg",
       "https://restcountries.com/data/png/kna.png"
     ],
-    "population": 53192
+    "population": 53192,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+    }
   },
   {
     "name": {
@@ -19939,7 +20431,11 @@
       "https://restcountries.com/data/kor.svg",
       "https://restcountries.com/data/png/kor.png"
     ],
-    "population": 51780579
+    "population": 51780579,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+    }
   },
   {
     "name": {
@@ -20095,7 +20591,11 @@
       "https://restcountries.com/data/kos.svg",
       "https://restcountries.com/data/png/kos.png"
     ],
-    "population": 1775378
+    "population": 1775378,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2088990"
+    }
   },
   {
     "name": {
@@ -20250,7 +20750,11 @@
       "https://restcountries.com/data/kwt.svg",
       "https://restcountries.com/data/png/kwt.png"
     ],
-    "population": 4270563
+    "population": 4270563,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305099"
+    }
   },
   {
     "name": {
@@ -20409,7 +20913,11 @@
       "https://restcountries.com/data/lao.svg",
       "https://restcountries.com/data/png/lao.png"
     ],
-    "population": 7275556
+    "population": 7275556,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+    }
   },
   {
     "name": {
@@ -20569,7 +21077,11 @@
       "https://restcountries.com/data/lbn.svg",
       "https://restcountries.com/data/png/lbn.png"
     ],
-    "population": 6825442
+    "population": 6825442,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+    }
   },
   {
     "name": {
@@ -20724,7 +21236,11 @@
       "https://restcountries.com/data/lbr.svg",
       "https://restcountries.com/data/png/lbr.png"
     ],
-    "population": 5057677
+    "population": 5057677,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
+    }
   },
   {
     "name": {
@@ -20883,7 +21399,11 @@
       "https://restcountries.com/data/lby.svg",
       "https://restcountries.com/data/png/lby.png"
     ],
-    "population": 6871287
+    "population": 6871287,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+      "openStreetMaps": "openstreetmap.org/relation/192758"
+    }
   },
   {
     "name": {
@@ -21034,7 +21554,11 @@
       "https://restcountries.com/data/lca.svg",
       "https://restcountries.com/data/png/lca.png"
     ],
-    "population": 183629
+    "population": 183629,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    }
   },
   {
     "name": {
@@ -21189,7 +21713,11 @@
       "https://restcountries.com/data/lie.svg",
       "https://restcountries.com/data/png/lie.png"
     ],
-    "population": 38137
+    "population": 38137,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
+    }
   },
   {
     "name": {
@@ -21350,7 +21878,11 @@
       "https://restcountries.com/data/lka.svg",
       "https://restcountries.com/data/png/lka.png"
     ],
-    "population": 21919000
+    "population": 21919000,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
+    }
   },
   {
     "name": {
@@ -21513,7 +22045,11 @@
       "https://restcountries.com/data/lso.svg",
       "https://restcountries.com/data/png/lso.png"
     ],
-    "population": 2142252
+    "population": 2142252,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
+    }
   },
   {
     "name": {
@@ -21670,7 +22206,11 @@
       "https://restcountries.com/data/ltu.svg",
       "https://restcountries.com/data/png/ltu.png"
     ],
-    "population": 2794700
+    "population": 2794700,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+    }
   },
   {
     "name": {
@@ -21838,7 +22378,11 @@
       "https://restcountries.com/data/lux.svg",
       "https://restcountries.com/data/png/lux.png"
     ],
-    "population": 632275
+    "population": 632275,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+    }
   },
   {
     "name": {
@@ -21995,7 +22539,11 @@
       "https://restcountries.com/data/lva.svg",
       "https://restcountries.com/data/png/lva.png"
     ],
-    "population": 1901548
+    "population": 1901548,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+    }
   },
   {
     "name": {
@@ -22153,7 +22701,11 @@
       "https://restcountries.com/data/mac.svg",
       "https://restcountries.com/data/png/mac.png"
     ],
-    "population": 649342
+    "population": 649342,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
+    }
   },
   {
     "name": {
@@ -22309,7 +22861,11 @@
       "https://restcountries.com/data/maf.svg",
       "https://restcountries.com/data/png/maf.png"
     ],
-    "population": 38659
+    "population": 38659,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/63064"
+    }
   },
   {
     "name": {
@@ -22471,7 +23027,11 @@
       "https://restcountries.com/data/mar.svg",
       "https://restcountries.com/data/png/mar.png"
     ],
-    "population": 36910558
+    "population": 36910558,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3630439"
+    }
   },
   {
     "name": {
@@ -22625,7 +23185,11 @@
       "https://restcountries.com/data/mco.svg",
       "https://restcountries.com/data/png/mco.png"
     ],
-    "population": 39244
+    "population": 39244,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
+    }
   },
   {
     "name": {
@@ -22781,7 +23345,11 @@
       "https://restcountries.com/data/mda.svg",
       "https://restcountries.com/data/png/mda.png"
     ],
-    "population": 2617820
+    "population": 2617820,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
+    }
   },
   {
     "name": {
@@ -22939,7 +23507,11 @@
       "https://restcountries.com/data/mdg.svg",
       "https://restcountries.com/data/png/mdg.png"
     ],
-    "population": 27691019
+    "population": 27691019,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/447325"
+    }
   },
   {
     "name": {
@@ -23093,7 +23665,11 @@
       "https://restcountries.com/data/mdv.svg",
       "https://restcountries.com/data/png/mdv.png"
     ],
-    "population": 540542
+    "population": 540542,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+    }
   },
   {
     "name": {
@@ -23250,7 +23826,11 @@
       "https://restcountries.com/data/mex.svg",
       "https://restcountries.com/data/png/mex.png"
     ],
-    "population": 128932753
+    "population": 128932753,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+    }
   },
   {
     "name": {
@@ -23408,7 +23988,11 @@
       "https://restcountries.com/data/mhl.svg",
       "https://restcountries.com/data/png/mhl.png"
     ],
-    "population": 59194
+    "population": 59194,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
+    }
   },
   {
     "name": {
@@ -23568,7 +24152,11 @@
       "https://restcountries.com/data/mkd.svg",
       "https://restcountries.com/data/png/mkd.png"
     ],
-    "population": 2077132
+    "population": 2077132,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+    }
   },
   {
     "name": {
@@ -23728,7 +24316,11 @@
       "https://restcountries.com/data/mli.svg",
       "https://restcountries.com/data/png/mli.png"
     ],
-    "population": 20250834
+    "population": 20250834,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+    }
   },
   {
     "name": {
@@ -23886,7 +24478,11 @@
       "https://restcountries.com/data/mlt.svg",
       "https://restcountries.com/data/png/mlt.png"
     ],
-    "population": 525285
+    "population": 525285,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+    }
   },
   {
     "name": {
@@ -24045,7 +24641,11 @@
       "https://restcountries.com/data/mmr.svg",
       "https://restcountries.com/data/png/mmr.png"
     ],
-    "population": 54409794
+    "population": 54409794,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
+    }
   },
   {
     "name": {
@@ -24202,7 +24802,11 @@
       "https://restcountries.com/data/mne.svg",
       "https://restcountries.com/data/png/mne.png"
     ],
-    "population": 621718
+    "population": 621718,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
+    }
   },
   {
     "name": {
@@ -24355,7 +24959,11 @@
       "https://restcountries.com/data/mng.svg",
       "https://restcountries.com/data/png/mng.png"
     ],
-    "population": 3278292
+    "population": 3278292,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
+    }
   },
   {
     "name": {
@@ -24518,7 +25126,11 @@
       "https://restcountries.com/data/mnp.svg",
       "https://restcountries.com/data/png/mnp.png"
     ],
-    "population": 57557
+    "population": 57557,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/306004"
+    }
   },
   {
     "name": {
@@ -24677,7 +25289,11 @@
       "https://restcountries.com/data/moz.svg",
       "https://restcountries.com/data/png/moz.png"
     ],
-    "population": 31255435
+    "population": 31255435,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
+    }
   },
   {
     "name": {
@@ -24834,7 +25450,11 @@
       "https://restcountries.com/data/mrt.svg",
       "https://restcountries.com/data/png/mrt.png"
     ],
-    "population": 4649660
+    "population": 4649660,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
+    }
   },
   {
     "name": {
@@ -24985,7 +25605,11 @@
       "https://restcountries.com/data/msr.svg",
       "https://restcountries.com/data/png/msr.png"
     ],
-    "population": 4922
+    "population": 4922,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
+    }
   },
   {
     "name": {
@@ -25136,7 +25760,11 @@
       "https://restcountries.com/data/mtq.svg",
       "https://restcountries.com/data/png/mtq.png"
     ],
-    "population": 378243
+    "population": 378243,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
+    }
   },
   {
     "name": {
@@ -25299,7 +25927,11 @@
       "https://restcountries.com/data/mus.svg",
       "https://restcountries.com/data/png/mus.png"
     ],
-    "population": 1265740
+    "population": 1265740,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535828"
+    }
   },
   {
     "name": {
@@ -25459,7 +26091,11 @@
       "https://restcountries.com/data/mwi.svg",
       "https://restcountries.com/data/png/mwi.png"
     ],
-    "population": 19129955
+    "population": 19129955,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+    }
   },
   {
     "name": {
@@ -25618,7 +26254,11 @@
       "https://restcountries.com/data/mys.svg",
       "https://restcountries.com/data/png/mys.png"
     ],
-    "population": 32365998
+    "population": 32365998,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+    }
   },
   {
     "name": {
@@ -25771,7 +26411,11 @@
       "https://restcountries.com/data/myt.svg",
       "https://restcountries.com/data/png/myt.png"
     ],
-    "population": 226915
+    "population": 226915,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1259885"
+    }
   },
   {
     "name": {
@@ -25972,7 +26616,11 @@
       "https://restcountries.com/data/nam.svg",
       "https://restcountries.com/data/png/nam.png"
     ],
-    "population": 2540916
+    "population": 2540916,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+    }
   },
   {
     "name": {
@@ -26123,7 +26771,11 @@
       "https://restcountries.com/data/ncl.svg",
       "https://restcountries.com/data/png/ncl.png"
     ],
-    "population": 271960
+    "population": 271960,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3407643"
+    }
   },
   {
     "name": {
@@ -26282,7 +26934,11 @@
       "https://restcountries.com/data/ner.svg",
       "https://restcountries.com/data/png/ner.png"
     ],
-    "population": 24206636
+    "population": 24206636,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+    }
   },
   {
     "name": {
@@ -26440,7 +27096,11 @@
       "https://restcountries.com/data/nfk.svg",
       "https://restcountries.com/data/png/nfk.png"
     ],
-    "population": 2302
+    "population": 2302,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2574988"
+    }
   },
   {
     "name": {
@@ -26598,7 +27258,11 @@
       "https://restcountries.com/data/nga.svg",
       "https://restcountries.com/data/png/nga.png"
     ],
-    "population": 206139587
+    "population": 206139587,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+    }
   },
   {
     "name": {
@@ -26753,7 +27417,11 @@
       "https://restcountries.com/data/nic.svg",
       "https://restcountries.com/data/png/nic.png"
     ],
-    "population": 6624554
+    "population": 6624554,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    }
   },
   {
     "name": {
@@ -26909,7 +27577,11 @@
       "https://restcountries.com/data/niu.svg",
       "https://restcountries.com/data/png/niu.png"
     ],
-    "population": 1470
+    "population": 1470,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
+    }
   },
   {
     "name": {
@@ -27065,7 +27737,11 @@
       "https://restcountries.com/data/nld.svg",
       "https://restcountries.com/data/png/nld.png"
     ],
-    "population": 40812
+    "population": 40812,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
+    }
   },
   {
     "name": {
@@ -27234,7 +27910,11 @@
       "https://restcountries.com/data/nor.svg",
       "https://restcountries.com/data/png/nor.png"
     ],
-    "population": 5379475
+    "population": 5379475,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
+    }
   },
   {
     "name": {
@@ -27389,7 +28069,11 @@
       "https://restcountries.com/data/npl.svg",
       "https://restcountries.com/data/png/npl.png"
     ],
-    "population": 29136808
+    "population": 29136808,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+    }
   },
   {
     "name": {
@@ -27549,7 +28233,11 @@
       "https://restcountries.com/data/nru.svg",
       "https://restcountries.com/data/png/nru.png"
     ],
-    "population": 10834
+    "population": 10834,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571804"
+    }
   },
   {
     "name": {
@@ -27711,7 +28399,11 @@
       "https://restcountries.com/data/nzl.svg",
       "https://restcountries.com/data/png/nzl.png"
     ],
-    "population": 5084300
+    "population": 5084300,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+    }
   },
   {
     "name": {
@@ -27867,7 +28559,11 @@
       "https://restcountries.com/data/omn.svg",
       "https://restcountries.com/data/png/omn.png"
     ],
-    "population": 5106622
+    "population": 5106622,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
+    }
   },
   {
     "name": {
@@ -28030,7 +28726,11 @@
       "https://restcountries.com/data/pak.svg",
       "https://restcountries.com/data/png/pak.png"
     ],
-    "population": 220892331
+    "population": 220892331,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+    }
   },
   {
     "name": {
@@ -28189,7 +28889,11 @@
       "https://restcountries.com/data/pan.svg",
       "https://restcountries.com/data/png/pan.png"
     ],
-    "population": 4314768
+    "population": 4314768,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    }
   },
   {
     "name": {
@@ -28342,7 +29046,11 @@
       "https://restcountries.com/data/pcn.svg",
       "https://restcountries.com/data/png/pcn.png"
     ],
-    "population": 56
+    "population": 56,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
+    }
   },
   {
     "name": {
@@ -28510,7 +29218,11 @@
       "https://restcountries.com/data/per.svg",
       "https://restcountries.com/data/png/per.png"
     ],
-    "population": 32971846
+    "population": 32971846,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+    }
   },
   {
     "name": {
@@ -28668,7 +29380,11 @@
       "https://restcountries.com/data/phl.svg",
       "https://restcountries.com/data/png/phl.png"
     ],
-    "population": 109581085
+    "population": 109581085,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    }
   },
   {
     "name": {
@@ -28826,7 +29542,11 @@
       "https://restcountries.com/data/plw.svg",
       "https://restcountries.com/data/png/plw.png"
     ],
-    "population": 18092
+    "population": 18092,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
+    }
   },
   {
     "name": {
@@ -28990,7 +29710,11 @@
       "https://restcountries.com/data/png.svg",
       "https://restcountries.com/data/png/png.png"
     ],
-    "population": 8947027
+    "population": 8947027,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+      "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
+    }
   },
   {
     "name": {
@@ -29150,7 +29874,11 @@
       "https://restcountries.com/data/pol.svg",
       "https://restcountries.com/data/png/pol.png"
     ],
-    "population": 37950802
+    "population": 37950802,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+    }
   },
   {
     "name": {
@@ -29309,7 +30037,11 @@
       "https://restcountries.com/data/pri.svg",
       "https://restcountries.com/data/png/pri.png"
     ],
-    "population": 3194034
+    "population": 3194034,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
+    }
   },
   {
     "name": {
@@ -29470,7 +30202,11 @@
       "https://restcountries.com/data/prk.svg",
       "https://restcountries.com/data/png/prk.png"
     ],
-    "population": 25778815
+    "population": 25778815,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+    }
   },
   {
     "name": {
@@ -29625,7 +30361,11 @@
       "https://restcountries.com/data/prt.svg",
       "https://restcountries.com/data/png/prt.png"
     ],
-    "population": 10305564
+    "population": 10305564,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+    }
   },
   {
     "name": {
@@ -29787,7 +30527,11 @@
       "https://restcountries.com/data/pry.svg",
       "https://restcountries.com/data/png/pry.png"
     ],
-    "population": 7132530
+    "population": 7132530,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+    }
   },
   {
     "name": {
@@ -29953,7 +30697,11 @@
       "https://restcountries.com/data/pse.svg",
       "https://restcountries.com/data/png/pse.png"
     ],
-    "population": 4803269
+    "population": 4803269,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+    }
   },
   {
     "name": {
@@ -30107,7 +30855,11 @@
       "https://restcountries.com/data/pyf.svg",
       "https://restcountries.com/data/png/pyf.png"
     ],
-    "population": 280904
+    "population": 280904,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
+    }
   },
   {
     "name": {
@@ -30262,7 +31014,11 @@
       "https://restcountries.com/data/qat.svg",
       "https://restcountries.com/data/png/qat.png"
     ],
-    "population": 2881060
+    "population": 2881060,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
+    }
   },
   {
     "name": {
@@ -30414,7 +31170,11 @@
       "https://restcountries.com/data/reu.svg",
       "https://restcountries.com/data/png/reu.png"
     ],
-    "population": 840974
+    "population": 840974,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+    }
   },
   {
     "name": {
@@ -30573,7 +31333,11 @@
       "https://restcountries.com/data/rou.svg",
       "https://restcountries.com/data/png/rou.png"
     ],
-    "population": 19286123
+    "population": 19286123,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+    }
   },
   {
     "name": {
@@ -30746,7 +31510,11 @@
       "https://restcountries.com/data/rus.svg",
       "https://restcountries.com/data/png/rus.png"
     ],
-    "population": 144104080
+    "population": 144104080,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+    }
   },
   {
     "name": {
@@ -30914,7 +31682,11 @@
       "https://restcountries.com/data/rwa.svg",
       "https://restcountries.com/data/png/rwa.png"
     ],
-    "population": 12952209
+    "population": 12952209,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
+    }
   },
   {
     "name": {
@@ -31076,7 +31848,11 @@
       "https://restcountries.com/data/sau.svg",
       "https://restcountries.com/data/png/sau.png"
     ],
-    "population": 34813867
+    "population": 34813867,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
+    }
   },
   {
     "name": {
@@ -31241,7 +32017,11 @@
       "https://restcountries.com/data/sdn.svg",
       "https://restcountries.com/data/png/sdn.png"
     ],
-    "population": 43849269
+    "population": 43849269,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
+    }
   },
   {
     "name": {
@@ -31399,7 +32179,11 @@
       "https://restcountries.com/data/sen.svg",
       "https://restcountries.com/data/png/sen.png"
     ],
-    "population": 16743930
+    "population": 16743930,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+    }
   },
   {
     "name": {
@@ -31566,7 +32350,11 @@
       "https://restcountries.com/data/sgp.svg",
       "https://restcountries.com/data/png/sgp.png"
     ],
-    "population": 5685807
+    "population": 5685807,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536780"
+    }
   },
   {
     "name": {
@@ -31718,7 +32506,11 @@
       "https://restcountries.com/data/sgs.svg",
       "https://restcountries.com/data/png/sgs.png"
     ],
-    "population": 30
+    "population": 30,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
+    }
   },
   {
     "name": {
@@ -31870,7 +32662,11 @@
       "https://restcountries.com/data/sjm.svg",
       "https://restcountries.com/data/png/sjm.png"
     ],
-    "population": 2562
+    "population": 2562,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1337397"
+    }
   },
   {
     "name": {
@@ -32021,7 +32817,11 @@
       "https://restcountries.com/data/slb.svg",
       "https://restcountries.com/data/png/slb.png"
     ],
-    "population": 686878
+    "population": 686878,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
+    }
   },
   {
     "name": {
@@ -32175,7 +32975,11 @@
       "https://restcountries.com/data/sle.svg",
       "https://restcountries.com/data/png/sle.png"
     ],
-    "population": 7976985
+    "population": 7976985,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192777"
+    }
   },
   {
     "name": {
@@ -32334,7 +33138,11 @@
       "https://restcountries.com/data/slv.svg",
       "https://restcountries.com/data/png/slv.png"
     ],
-    "population": 6486201
+    "population": 6486201,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+    }
   },
   {
     "name": {
@@ -32488,7 +33296,11 @@
       "https://restcountries.com/data/smr.svg",
       "https://restcountries.com/data/png/smr.png"
     ],
-    "population": 33938
+    "population": 33938,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
+    }
   },
   {
     "name": {
@@ -32651,7 +33463,11 @@
       "https://restcountries.com/data/som.svg",
       "https://restcountries.com/data/png/som.png"
     ],
-    "population": 15893219
+    "population": 15893219,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192799"
+    }
   },
   {
     "name": {
@@ -32803,7 +33619,11 @@
       "https://restcountries.com/data/spm.svg",
       "https://restcountries.com/data/png/spm.png"
     ],
-    "population": 6069
+    "population": 6069,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
+    }
   },
   {
     "name": {
@@ -32967,7 +33787,11 @@
       "https://restcountries.com/data/srb.svg",
       "https://restcountries.com/data/png/srb.png"
     ],
-    "population": 6908224
+    "population": 6908224,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
+    }
   },
   {
     "name": {
@@ -33124,7 +33948,11 @@
       "https://restcountries.com/data/ssd.svg",
       "https://restcountries.com/data/png/ssd.png"
     ],
-    "population": 11193729
+    "population": 11193729,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
+    }
   },
   {
     "name": {
@@ -33278,7 +34106,11 @@
       "https://restcountries.com/data/stp.svg",
       "https://restcountries.com/data/png/stp.png"
     ],
-    "population": 219161
+    "population": 219161,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
+    }
   },
   {
     "name": {
@@ -33436,7 +34268,11 @@
       "https://restcountries.com/data/sur.svg",
       "https://restcountries.com/data/png/sur.png"
     ],
-    "population": 586634
+    "population": 586634,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+    }
   },
   {
     "name": {
@@ -33594,7 +34430,11 @@
       "https://restcountries.com/data/svk.svg",
       "https://restcountries.com/data/png/svk.png"
     ],
-    "population": 5458827
+    "population": 5458827,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
+    }
   },
   {
     "name": {
@@ -33751,7 +34591,11 @@
       "https://restcountries.com/data/svn.svg",
       "https://restcountries.com/data/png/svn.png"
     ],
-    "population": 2100126
+    "population": 2100126,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+    }
   },
   {
     "name": {
@@ -33906,7 +34750,11 @@
       "https://restcountries.com/data/swe.svg",
       "https://restcountries.com/data/png/swe.png"
     ],
-    "population": 10353442
+    "population": 10353442,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+    }
   },
   {
     "name": {
@@ -34074,7 +34922,11 @@
       "https://restcountries.com/data/swz.svg",
       "https://restcountries.com/data/png/swz.png"
     ],
-    "population": 1160164
+    "population": 1160164,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+    }
   },
   {
     "name": {
@@ -34237,7 +35089,11 @@
       "https://restcountries.com/data/sxm.svg",
       "https://restcountries.com/data/png/sxm.png"
     ],
-    "population": 40812
+    "population": 40812,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
+    }
   },
   {
     "name": {
@@ -34401,7 +35257,11 @@
       "https://restcountries.com/data/syc.svg",
       "https://restcountries.com/data/png/syc.png"
     ],
-    "population": 98462
+    "population": 98462,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+    }
   },
   {
     "name": {
@@ -34560,7 +35420,11 @@
       "https://restcountries.com/data/syr.svg",
       "https://restcountries.com/data/png/syr.png"
     ],
-    "population": 17500657
+    "population": 17500657,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
+    }
   },
   {
     "name": {
@@ -34711,7 +35575,11 @@
       "https://restcountries.com/data/tca.svg",
       "https://restcountries.com/data/png/tca.png"
     ],
-    "population": 38718
+    "population": 38718,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
+    }
   },
   {
     "name": {
@@ -34880,7 +35748,11 @@
       "https://restcountries.com/data/tcd.svg",
       "https://restcountries.com/data/png/tcd.png"
     ],
-    "population": 16425859
+    "population": 16425859,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
+    }
   },
   {
     "name": {
@@ -35037,7 +35909,11 @@
       "https://restcountries.com/data/tgo.svg",
       "https://restcountries.com/data/png/tgo.png"
     ],
-    "population": 8278737
+    "population": 8278737,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
+    }
   },
   {
     "name": {
@@ -35198,7 +36074,11 @@
       "https://restcountries.com/data/tha.svg",
       "https://restcountries.com/data/png/tha.png"
     ],
-    "population": 69799978
+    "population": 69799978,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+    }
   },
   {
     "name": {
@@ -35362,7 +36242,11 @@
       "https://restcountries.com/data/tjk.svg",
       "https://restcountries.com/data/png/tjk.png"
     ],
-    "population": 9537642
+    "population": 9537642,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+    }
   },
   {
     "name": {
@@ -35523,7 +36407,11 @@
       "https://restcountries.com/data/tkl.svg",
       "https://restcountries.com/data/png/tkl.png"
     ],
-    "population": 1411
+    "population": 1411,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
+    }
   },
   {
     "name": {
@@ -35683,7 +36571,11 @@
       "https://restcountries.com/data/tkm.svg",
       "https://restcountries.com/data/png/tkm.png"
     ],
-    "population": 6031187
+    "population": 6031187,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+    }
   },
   {
     "name": {
@@ -35846,7 +36738,11 @@
       "https://restcountries.com/data/tls.svg",
       "https://restcountries.com/data/png/tls.png"
     ],
-    "population": 1318442
+    "population": 1318442,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+    }
   },
   {
     "name": {
@@ -36002,7 +36898,11 @@
       "https://restcountries.com/data/ton.svg",
       "https://restcountries.com/data/png/ton.png"
     ],
-    "population": 105697
+    "population": 105697,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2186665"
+    }
   },
   {
     "name": {
@@ -36154,7 +37054,11 @@
       "https://restcountries.com/data/tto.svg",
       "https://restcountries.com/data/png/tto.png"
     ],
-    "population": 1399491
+    "population": 1399491,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
+    }
   },
   {
     "name": {
@@ -36309,7 +37213,11 @@
       "https://restcountries.com/data/tun.svg",
       "https://restcountries.com/data/png/tun.png"
     ],
-    "population": 11818618
+    "population": 11818618,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+    }
   },
   {
     "name": {
@@ -36471,7 +37379,11 @@
       "https://restcountries.com/data/tur.svg",
       "https://restcountries.com/data/png/tur.png"
     ],
-    "population": 84339067
+    "population": 84339067,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+    }
   },
   {
     "name": {
@@ -36631,7 +37543,11 @@
       "https://restcountries.com/data/tuv.svg",
       "https://restcountries.com/data/png/tuv.png"
     ],
-    "population": 11792
+    "population": 11792,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177266"
+    }
   },
   {
     "name": {
@@ -36785,7 +37701,11 @@
       "https://restcountries.com/data/twn.svg",
       "https://restcountries.com/data/png/twn.png"
     ],
-    "population": 23503349
+    "population": 23503349,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
+    }
   },
   {
     "name": {
@@ -36952,7 +37872,11 @@
       "https://restcountries.com/data/tza.svg",
       "https://restcountries.com/data/png/tza.png"
     ],
-    "population": 59734213
+    "population": 59734213,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195270"
+    }
   },
   {
     "name": {
@@ -37115,7 +38039,11 @@
       "https://restcountries.com/data/uga.svg",
       "https://restcountries.com/data/png/uga.png"
     ],
-    "population": 45741000
+    "population": 45741000,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192796"
+    }
   },
   {
     "name": {
@@ -37275,7 +38203,11 @@
       "https://restcountries.com/data/uga.svg",
       "https://restcountries.com/data/png/uga.png"
     ],
-    "population": 44134693
+    "population": 44134693,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+    }
   },
   {
     "name": {
@@ -37426,7 +38358,11 @@
       "https://restcountries.com/data/umi.svg",
       "https://restcountries.com/data/png/umi.png"
     ],
-    "population": 300
+    "population": 300,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
+    }
   },
   {
     "name": {
@@ -37581,7 +38517,11 @@
       "https://restcountries.com/data/ury.svg",
       "https://restcountries.com/data/png/ury.png"
     ],
-    "population": 3473727
+    "population": 3473727,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+    }
   },
   {
     "name": {
@@ -38052,7 +38992,11 @@
       "https://restcountries.com/data/usa.svg",
       "https://restcountries.com/data/png/usa.png"
     ],
-    "population": 329484123
+    "population": 329484123,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+    }
   },
   {
     "name": {
@@ -38216,7 +39160,11 @@
       "https://restcountries.com/data/uzb.svg",
       "https://restcountries.com/data/png/uzb.png"
     ],
-    "population": 34232050
+    "population": 34232050,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+    }
   },
   {
     "name": {
@@ -38377,7 +39325,11 @@
       "https://restcountries.com/data/vat.svg",
       "https://restcountries.com/data/png/vat.png"
     ],
-    "population": 451
+    "population": 451,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/36989"
+    }
   },
   {
     "name": {
@@ -38528,7 +39480,11 @@
       "https://restcountries.com/data/vct.svg",
       "https://restcountries.com/data/png/vct.png"
     ],
-    "population": 110947
+    "population": 110947,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+    }
   },
   {
     "name": {
@@ -38685,7 +39641,11 @@
       "https://restcountries.com/data/ven.svg",
       "https://restcountries.com/data/png/ven.png"
     ],
-    "population": 28435943
+    "population": 28435943,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+    }
   },
   {
     "name": {
@@ -38837,7 +39797,11 @@
       "https://restcountries.com/data/vgb.svg",
       "https://restcountries.com/data/png/vgb.png"
     ],
-    "population": 30237
+    "population": 30237,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
+    }
   },
   {
     "name": {
@@ -38989,7 +39953,11 @@
       "https://restcountries.com/data/vir.svg",
       "https://restcountries.com/data/png/vir.png"
     ],
-    "population": 106290
+    "population": 106290,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+      "openStreetMaps": "openstreetmap.org/relation/286898"
+    }
   },
   {
     "name": {
@@ -39146,7 +40114,11 @@
       "https://restcountries.com/data/vnm.svg",
       "https://restcountries.com/data/png/vnm.png"
     ],
-    "population": 97338583
+    "population": 97338583,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
+    }
   },
   {
     "name": {
@@ -39310,7 +40282,11 @@
       "https://restcountries.com/data/vut.svg",
       "https://restcountries.com/data/png/vut.png"
     ],
-    "population": 307150
+    "population": 307150,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
+    }
   },
   {
     "name": {
@@ -39463,7 +40439,11 @@
       "https://restcountries.com/data/wlf.svg",
       "https://restcountries.com/data/png/wlf.png"
     ],
-    "population": 11750
+    "population": 11750,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3412448"
+    }
   },
   {
     "name": {
@@ -39621,7 +40601,11 @@
       "https://restcountries.com/data/wsm.svg",
       "https://restcountries.com/data/png/wsm.png"
     ],
-    "population": 198410
+    "population": 198410,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1872673"
+    }
   },
   {
     "name": {
@@ -39776,7 +40760,11 @@
       "https://restcountries.com/data/yem.svg",
       "https://restcountries.com/data/png/yem.png"
     ],
-    "population": 29825968
+    "population": 29825968,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
+    }
   },
   {
     "name": {
@@ -39988,7 +40976,11 @@
       "https://restcountries.com/data/zaf.svg",
       "https://restcountries.com/data/png/zaf.png"
     ],
-    "population": 59308690
+    "population": 59308690,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
+    }
   },
   {
     "name": {
@@ -40148,7 +41140,11 @@
       "https://restcountries.com/data/zmb.svg",
       "https://restcountries.com/data/png/zmb.png"
     ],
-    "population": 18383956
+    "population": 18383956,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195271"
+    }
   },
   {
     "name": {
@@ -40406,6 +41402,10 @@
       "https://restcountries.com/data/zwe.svg",
       "https://restcountries.com/data/png/zwe.png"
     ],
-    "population": 14862927
+    "population": 14862927,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+    }
   }
 ]
