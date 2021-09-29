@@ -7,7 +7,6 @@ import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 import dev.amatos.restcountries.domain.BaseCountry;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
-import org.apache.log4j.Logger;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -15,10 +14,12 @@ import java.nio.charset.StandardCharsets;
 import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class CountryServiceBaseV2 {
 
-    private static final Logger LOG = Logger.getLogger(CountryServiceBaseV2.class);
+    private static final Logger logger = LogManager.getLogger(CountryServiceBaseV2.class);
 
     protected <T extends BaseCountry> T getByAlpha(String alpha, List<T> countries) {
         int alphaLength = alpha.length();
@@ -140,7 +141,7 @@ public class CountryServiceBaseV2 {
     }
 
     protected List<? extends BaseCountry> loadJson(String filename, Class<? extends BaseCountry> clazz) {
-        LOG.debug("Loading JSON " + filename);
+        logger.info("Loading JSON {}", filename);
         List<BaseCountry> countries = new ArrayList<>();
         InputStream is = CountryServiceBaseV2.class.getClassLoader().getResourceAsStream(filename);
         var gson = new Gson();
@@ -155,7 +156,7 @@ public class CountryServiceBaseV2 {
             }
         } catch (Exception e) {
             e.printStackTrace();
-            LOG.error("Could not load JSON " + filename);
+            logger.error("Could not load JSON " + filename);
         }
         return countries;
     }

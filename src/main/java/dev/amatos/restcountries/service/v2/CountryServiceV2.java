@@ -9,11 +9,9 @@ import dev.amatos.restcountries.domain.v2.Language;
 import dev.amatos.restcountries.domain.v2.RegionalBloc;
 import java.util.ArrayList;
 import java.util.List;
-import org.apache.log4j.Logger;
 
 public class CountryServiceV2 extends CountryServiceBaseV2 {
 
-  private static final Logger LOG = Logger.getLogger(CountryServiceV2.class);
 
   private static List<Country> countries;
 
