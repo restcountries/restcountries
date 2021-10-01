@@ -1667,7 +1667,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -3961,7 +3961,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -5313,7 +5313,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -10988,7 +10988,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -12985,7 +12985,12 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
-		"currencies": {},
+		"currencies": {
+			"USD": {
+				"name": "United States dollar",
+				"symbol": "\u0024"
+			}
+		},
 		"idd": {
 			"root": "+6",
 			"suffixes": [
@@ -15715,7 +15720,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -17494,7 +17499,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -19806,7 +19811,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -23849,7 +23854,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -24986,7 +24991,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -28749,7 +28754,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -29403,7 +29408,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -29897,7 +29902,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -32994,7 +32999,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -35439,7 +35444,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -36594,7 +36599,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -38222,7 +38227,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -38534,7 +38539,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -39658,7 +39663,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -39814,7 +39819,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			}
 		},
 		"idd": {
@@ -41237,7 +41242,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "$"
+				"symbol": "\u0024"
 			},
 			"ZAR": {
 				"name": "South African rand",
