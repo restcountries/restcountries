@@ -1826,9 +1826,7 @@
 			"suffixes": [
 			]
 		},
-		"capital": [
-			""
-		],
+		"capital": [],
 		"altSpellings": [
 			"AQ"
 		],
@@ -6141,9 +6139,7 @@
 				"7"
 			]
 		},
-		"capital": [
-			""
-		],
+		"capital": [],
 		"altSpellings": [
 			"BV",
 			"Bouvet\u00f8ya",
@@ -16197,13 +16193,9 @@
 		],
 		"idd": {
 			"root": "",
-			"suffixes": [
-				""
-			]
+			"suffixes": []
 		},
-		"capital": [
-			""
-		],
+		"capital": [],
 		"altSpellings": [
 			"HM",
 			"Heard Island and McDonald Islands"
@@ -22582,9 +22574,7 @@
 				"53"
 			]
 		},
-		"capital": [
-			""
-		],
+		"capital": [],
 		"altSpellings": [
 			"MO",
 			"\u6fb3\u95e8",
@@ -38242,9 +38232,7 @@
 				"68"
 			]
 		},
-		"capital": [
-			""
-		],
+		"capital": [],
 		"altSpellings": [
 			"UM"
 		],
