@@ -28,10 +28,10 @@
 		],
 		"demonym": "Afghan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/afg.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/afg.svg",
-			"png": "https://restcountries.com/data/afg.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
 		},
 		"gini": 29.4,
 		"languages": [
@@ -125,10 +125,10 @@
 		],
 		"demonym": "Albanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/alb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/alb.svg",
-			"png": "https://restcountries.com/data/alb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/320px-Flag_of_Albania.svg.png"
 		},
 		"gini": 33.2,
 		"languages": [
@@ -212,10 +212,10 @@
 		],
 		"demonym": "Algerian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/dza.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/dza.svg",
-			"png": "https://restcountries.com/data/dza.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/320px-Flag_of_Algeria.svg.png"
 		},
 		"gini": 27.6,
 		"languages": [
@@ -308,10 +308,10 @@
 		],
 		"demonym": "American Samoan",
 		"independent": false,
-		"flag": "https://restcountries.com/data/asm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/asm.svg",
-			"png": "https://restcountries.com/data/asm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/320px-Flag_of_American_Samoa.svg.png"
 		},
 		"languages": [
 			{
@@ -390,10 +390,10 @@
 		],
 		"demonym": "Andorran",
 		"independent": true,
-		"flag": "https://restcountries.com/data/and.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/and.svg",
-			"png": "https://restcountries.com/data/and.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/320px-Flag_of_Andorra.svg.png"
 		},
 		"languages": [
 			{
@@ -468,10 +468,10 @@
 		],
 		"demonym": "Angolan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ago.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ago.svg",
-			"png": "https://restcountries.com/data/ago.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/320px-Flag_of_Angola.svg.png"
 		},
 		"gini": 51.3,
 		"languages": [
@@ -551,10 +551,10 @@
 		],
 		"demonym": "Anguillian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/aia.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/aia.svg",
-			"png": "https://restcountries.com/data/aia.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/320px-Flag_of_Anguilla.svg.png"
 		},
 		"languages": [
 			{
@@ -613,10 +613,10 @@
 		"currencies": [],
 		"demonym": "Antarctic",
 		"independent": false,
-		"flag": "https://restcountries.com/data/ata.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emblem_of_the_Antarctic_Treaty.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ata.svg",
-			"png": "https://restcountries.com/data/ata.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emblem_of_the_Antarctic_Treaty.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_the_Antarctic_Treaty.svg/240px-Emblem_of_the_Antarctic_Treaty.svg.png"
 		},
 		"languages": [
 			{
@@ -696,10 +696,10 @@
 		],
 		"demonym": "Antiguan, Barbudan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/atg.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/atg.svg",
-			"png": "https://restcountries.com/data/atg.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/320px-Flag_of_Antigua_and_Barbuda.svg.png"
 		},
 		"languages": [
 			{
@@ -784,10 +784,10 @@
 		],
 		"demonym": "Argentinean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/arg.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/arg.svg",
-			"png": "https://restcountries.com/data/arg.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png"
 		},
 		"gini": 42.9,
 		"languages": [
@@ -885,10 +885,10 @@
 		],
 		"demonym": "Armenian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/arm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/arm.svg",
-			"png": "https://restcountries.com/data/arm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/320px-Flag_of_Armenia.svg.png"
 		},
 		"gini": 29.9,
 		"languages": [
@@ -964,10 +964,10 @@
 		],
 		"demonym": "Aruban",
 		"independent": true,
-		"flag": "https://restcountries.com/data/abw.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/abw.svg",
-			"png": "https://restcountries.com/data/abw.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/320px-Flag_of_Aruba.svg.png"
 		},
 		"languages": [
 			{
@@ -1040,10 +1040,10 @@
 		],
 		"demonym": "Australian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/aus.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/aus.svg",
-			"png": "https://restcountries.com/data/aus.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/320px-Flag_of_Australia_%28converted%29.svg.png"
 		},
 		"gini": 34.4,
 		"languages": [
@@ -1130,10 +1130,10 @@
 		],
 		"demonym": "Austrian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/aut.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/aut.svg",
-			"png": "https://restcountries.com/data/aut.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png"
 		},
 		"gini": 30.8,
 		"languages": [
@@ -1213,10 +1213,10 @@
 			}
 		],
 		"demonym": "Azerbaijani",
-		"flag": "https://restcountries.com/data/aze.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/aze.svg",
-			"png": "https://restcountries.com/data/aze.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/320px-Flag_of_Azerbaijan.svg.png"
 		},
 		"gini": 33.7,
 		"languages": [
@@ -1283,10 +1283,10 @@
 		],
 		"demonym": "Bahamian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bhs.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bhs.svg",
-			"png": "https://restcountries.com/data/bhs.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/320px-Flag_of_the_Bahamas.svg.png"
 		},
 		"languages": [
 			{
@@ -1365,10 +1365,10 @@
 		],
 		"demonym": "Bahraini",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bhr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bhr.svg",
-			"png": "https://restcountries.com/data/bhr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/320px-Flag_of_Bahrain.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -1451,10 +1451,10 @@
 		],
 		"demonym": "Bangladeshi",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bgd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bgd.svg",
-			"png": "https://restcountries.com/data/bgd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/320px-Flag_of_Bangladesh.svg.png"
 		},
 		"gini": 32.4,
 		"languages": [
@@ -1527,10 +1527,10 @@
 		],
 		"demonym": "Barbadian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/brb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/brb.svg",
-			"png": "https://restcountries.com/data/brb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/320px-Flag_of_Barbados.svg.png"
 		},
 		"languages": [
 			{
@@ -1624,10 +1624,10 @@
 		],
 		"demonym": "Belarusian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/blr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/blr.svg",
-			"png": "https://restcountries.com/data/blr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/320px-Flag_of_Belarus.svg.png"
 		},
 		"gini": 25.3,
 		"languages": [
@@ -1722,10 +1722,10 @@
 		],
 		"demonym": "Belgian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bel.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bel.svg",
-			"png": "https://restcountries.com/data/bel.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/277px-Flag_of_Belgium.svg.png"
 		},
 		"gini": 27.2,
 		"languages": [
@@ -1813,10 +1813,10 @@
 		],
 		"demonym": "Belizean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/blz.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/blz.svg",
-			"png": "https://restcountries.com/data/blz.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/320px-Flag_of_Belize.svg.png"
 		},
 		"gini": 53.1,
 		"languages": [
@@ -1917,10 +1917,10 @@
 		],
 		"demonym": "Beninese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ben.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ben.svg",
-			"png": "https://restcountries.com/data/ben.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/320px-Flag_of_Benin.svg.png"
 		},
 		"gini": 47.8,
 		"languages": [
@@ -2002,10 +2002,10 @@
 		],
 		"demonym": "Bermudian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/bmu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bmu.svg",
-			"png": "https://restcountries.com/data/bmu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/320px-Flag_of_Bermuda.svg.png"
 		},
 		"languages": [
 			{
@@ -2081,10 +2081,10 @@
 		],
 		"demonym": "Bhutanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/btn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/btn.svg",
-			"png": "https://restcountries.com/data/btn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/320px-Flag_of_Bhutan.svg.png"
 		},
 		"gini": 37.4,
 		"languages": [
@@ -2170,10 +2170,10 @@
 		],
 		"demonym": "Bolivian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bol.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bol.svg",
-			"png": "https://restcountries.com/data/bol.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/320px-Bandera_de_Bolivia_%28Estado%29.svg.png"
 		},
 		"gini": 41.6,
 		"languages": [
@@ -2270,10 +2270,10 @@
 		],
 		"demonym": "Dutch",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bes.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bes.svg",
-			"png": "https://restcountries.com/data/bes.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
 		},
 		"languages": [
 			{
@@ -2339,10 +2339,10 @@
 		],
 		"demonym": "Bosnian, Herzegovinian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bih.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bih.svg",
-			"png": "https://restcountries.com/data/bih.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/320px-Flag_of_Bosnia_and_Herzegovina.svg.png"
 		},
 		"gini": 33,
 		"languages": [
@@ -2430,10 +2430,10 @@
 		],
 		"demonym": "Motswana",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bwa.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bwa.svg",
-			"png": "https://restcountries.com/data/bwa.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/320px-Flag_of_Botswana.svg.png"
 		},
 		"gini": 53.3,
 		"languages": [
@@ -2517,10 +2517,10 @@
 		],
 		"demonym": "",
 		"independent": false,
-		"flag": "https://restcountries.com/data/bvt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bvt.svg",
-			"png": "https://restcountries.com/data/bvt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
 		},
 		"languages": [
 			{
@@ -2610,10 +2610,10 @@
 		],
 		"demonym": "Brazilian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bra.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bra.svg",
-			"png": "https://restcountries.com/data/bra.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png"
 		},
 		"gini": 53.4,
 		"languages": [
@@ -2696,10 +2696,10 @@
 		],
 		"demonym": "Indian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/iot.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/iot.svg",
-			"png": "https://restcountries.com/data/iot.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/320px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png"
 		},
 		"languages": [
 			{
@@ -2773,10 +2773,10 @@
 		],
 		"demonym": "American",
 		"independent": false,
-		"flag": "https://restcountries.com/data/umi.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/umi.svg",
-			"png": "https://restcountries.com/data/umi.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"
 		},
 		"languages": [
 			{
@@ -2838,10 +2838,10 @@
 		],
 		"demonym": "Virgin Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/vgb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vgb.svg",
-			"png": "https://restcountries.com/data/vgb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/320px-Flag_of_the_British_Virgin_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -2907,10 +2907,10 @@
 		],
 		"demonym": "Virgin Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/vir.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vir.svg",
-			"png": "https://restcountries.com/data/vir.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/320px-Flag_of_the_United_States_Virgin_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -2981,10 +2981,10 @@
 		],
 		"demonym": "Bruneian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/brn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/brn.svg",
-			"png": "https://restcountries.com/data/brn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/320px-Flag_of_Brunei.svg.png"
 		},
 		"languages": [
 			{
@@ -3060,10 +3060,10 @@
 		],
 		"demonym": "Bulgarian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bgr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bgr.svg",
-			"png": "https://restcountries.com/data/bgr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/320px-Flag_of_Bulgaria.svg.png"
 		},
 		"gini": 41.3,
 		"languages": [
@@ -3139,10 +3139,10 @@
 		],
 		"demonym": "Burkinabe",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bfa.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bfa.svg",
-			"png": "https://restcountries.com/data/bfa.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/320px-Flag_of_Burkina_Faso.svg.png"
 		},
 		"gini": 35.3,
 		"languages": [
@@ -3231,10 +3231,10 @@
 		],
 		"demonym": "Burundian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/bdi.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/bdi.svg",
-			"png": "https://restcountries.com/data/bdi.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/320px-Flag_of_Burundi.svg.png"
 		},
 		"gini": 38.6,
 		"languages": [
@@ -3326,10 +3326,10 @@
 		],
 		"demonym": "Cambodian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/khm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/khm.svg",
-			"png": "https://restcountries.com/data/khm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/320px-Flag_of_Cambodia.svg.png"
 		},
 		"gini": 37.9,
 		"languages": [
@@ -3407,10 +3407,10 @@
 		],
 		"demonym": "Cameroonian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cmr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cmr.svg",
-			"png": "https://restcountries.com/data/cmr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/320px-Flag_of_Cameroon.svg.png"
 		},
 		"gini": 46.6,
 		"languages": [
@@ -3494,10 +3494,10 @@
 		],
 		"demonym": "Canadian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/can.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/can.svg",
-			"png": "https://restcountries.com/data/can.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/320px-Flag_of_Canada_%28Pantone%29.svg.png"
 		},
 		"gini": 33.3,
 		"languages": [
@@ -3583,10 +3583,10 @@
 		],
 		"demonym": "Cape Verdian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cpv.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cpv.svg",
-			"png": "https://restcountries.com/data/cpv.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/320px-Flag_of_Cape_Verde.svg.png"
 		},
 		"gini": 42.4,
 		"languages": [
@@ -3662,10 +3662,10 @@
 		],
 		"demonym": "Caymanian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/cym.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cym.svg",
-			"png": "https://restcountries.com/data/cym.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/320px-Flag_of_the_Cayman_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -3738,10 +3738,10 @@
 		],
 		"demonym": "Central African",
 		"independent": true,
-		"flag": "https://restcountries.com/data/caf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/caf.svg",
-			"png": "https://restcountries.com/data/caf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/320px-Flag_of_the_Central_African_Republic.svg.png"
 		},
 		"gini": 56.3,
 		"languages": [
@@ -3833,10 +3833,10 @@
 		],
 		"demonym": "Chadian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tcd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tcd.svg",
-			"png": "https://restcountries.com/data/tcd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/320px-Flag_of_Chad.svg.png"
 		},
 		"gini": 43.3,
 		"languages": [
@@ -3924,10 +3924,10 @@
 		],
 		"demonym": "Chilean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/chl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/chl.svg",
-			"png": "https://restcountries.com/data/chl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png"
 		},
 		"gini": 44.4,
 		"languages": [
@@ -4038,10 +4038,10 @@
 		],
 		"demonym": "Chinese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/chn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/chn.svg",
-			"png": "https://restcountries.com/data/chn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png"
 		},
 		"gini": 38.5,
 		"languages": [
@@ -4106,10 +4106,10 @@
 		],
 		"demonym": "Christmas Island",
 		"independent": false,
-		"flag": "https://restcountries.com/data/cxr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cxr.svg",
-			"png": "https://restcountries.com/data/cxr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/320px-Flag_of_Christmas_Island.svg.png"
 		},
 		"languages": [
 			{
@@ -4174,10 +4174,10 @@
 		],
 		"demonym": "Cocos Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/cck.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cck.svg",
-			"png": "https://restcountries.com/data/cck.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/320px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -4248,10 +4248,10 @@
 		],
 		"demonym": "Colombian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/col.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/col.svg",
-			"png": "https://restcountries.com/data/col.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png"
 		},
 		"gini": 51.3,
 		"languages": [
@@ -4342,10 +4342,10 @@
 		],
 		"demonym": "Comoran",
 		"independent": true,
-		"flag": "https://restcountries.com/data/com.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/com.svg",
-			"png": "https://restcountries.com/data/com.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/320px-Flag_of_the_Comoros.svg.png"
 		},
 		"gini": 45.3,
 		"languages": [
@@ -4443,10 +4443,10 @@
 		],
 		"demonym": "Congolese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cog.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cog.svg",
-			"png": "https://restcountries.com/data/cog.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/320px-Flag_of_the_Republic_of_the_Congo.svg.png"
 		},
 		"gini": 48.9,
 		"languages": [
@@ -4541,10 +4541,10 @@
 		],
 		"demonym": "Congolese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cod.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cod.svg",
-			"png": "https://restcountries.com/data/cod.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg/320px-Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg.png"
 		},
 		"gini": 42.1,
 		"languages": [
@@ -4651,10 +4651,10 @@
 		],
 		"demonym": "Cook Islander",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cok.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cok.svg",
-			"png": "https://restcountries.com/data/cok.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/320px-Flag_of_the_Cook_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -4728,10 +4728,10 @@
 		],
 		"demonym": "Costa Rican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cri.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cri.svg",
-			"png": "https://restcountries.com/data/cri.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/320px-Flag_of_Costa_Rica_%28state%29.svg.png"
 		},
 		"gini": 48.2,
 		"languages": [
@@ -4815,10 +4815,10 @@
 		],
 		"demonym": "Croatian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/hrv.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/hrv.svg",
-			"png": "https://restcountries.com/data/hrv.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/320px-Flag_of_Croatia.svg.png"
 		},
 		"gini": 29.7,
 		"languages": [
@@ -4894,10 +4894,10 @@
 		],
 		"demonym": "Cuban",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cub.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cub.svg",
-			"png": "https://restcountries.com/data/cub.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/320px-Flag_of_Cuba.svg.png"
 		},
 		"gini": 38,
 		"languages": [
@@ -4966,10 +4966,10 @@
 		],
 		"demonym": "Dutch",
 		"independent": false,
-		"flag": "https://restcountries.com/data/cuw.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cuw.svg",
-			"png": "https://restcountries.com/data/cuw.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/320px-Flag_of_Cura%C3%A7ao.svg.png"
 		},
 		"languages": [
 			{
@@ -5049,10 +5049,10 @@
 		],
 		"demonym": "Cypriot",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cyp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cyp.svg",
-			"png": "https://restcountries.com/data/cyp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/320px-Flag_of_Cyprus.svg.png"
 		},
 		"gini": 32.7,
 		"languages": [
@@ -5135,10 +5135,10 @@
 		],
 		"demonym": "Czech",
 		"independent": true,
-		"flag": "https://restcountries.com/data/cze.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/cze.svg",
-			"png": "https://restcountries.com/data/cze.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/320px-Flag_of_the_Czech_Republic.svg.png"
 		},
 		"gini": 25,
 		"languages": [
@@ -5218,10 +5218,10 @@
 		],
 		"demonym": "Danish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/dnk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/dnk.svg",
-			"png": "https://restcountries.com/data/dnk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/318px-Flag_of_Denmark.svg.png"
 		},
 		"gini": 28.2,
 		"languages": [
@@ -5304,10 +5304,10 @@
 		],
 		"demonym": "Djibouti",
 		"independent": true,
-		"flag": "https://restcountries.com/data/dji.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/dji.svg",
-			"png": "https://restcountries.com/data/dji.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/320px-Flag_of_Djibouti.svg.png"
 		},
 		"gini": 41.6,
 		"languages": [
@@ -5401,10 +5401,10 @@
 		],
 		"demonym": "Dominican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/dma.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/dma.svg",
-			"png": "https://restcountries.com/data/dma.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/320px-Flag_of_Dominica.svg.png"
 		},
 		"languages": [
 			{
@@ -5469,10 +5469,10 @@
 		],
 		"demonym": "Dominican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/dom.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/dom.svg",
-			"png": "https://restcountries.com/data/dom.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/320px-Flag_of_the_Dominican_Republic.svg.png"
 		},
 		"gini": 41.9,
 		"languages": [
@@ -5561,10 +5561,10 @@
 		],
 		"demonym": "Ecuadorean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ecu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ecu.svg",
-			"png": "https://restcountries.com/data/ecu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png"
 		},
 		"gini": 45.7,
 		"languages": [
@@ -5650,10 +5650,10 @@
 		],
 		"demonym": "Egyptian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/egy.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/egy.svg",
-			"png": "https://restcountries.com/data/egy.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png"
 		},
 		"gini": 31.5,
 		"languages": [
@@ -5743,10 +5743,10 @@
 		],
 		"demonym": "Salvadoran",
 		"independent": true,
-		"flag": "https://restcountries.com/data/slv.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/slv.svg",
-			"png": "https://restcountries.com/data/slv.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/320px-Flag_of_El_Salvador.svg.png"
 		},
 		"gini": 38.8,
 		"languages": [
@@ -5828,10 +5828,10 @@
 		],
 		"demonym": "Equatorial Guinean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gnq.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gnq.svg",
-			"png": "https://restcountries.com/data/gnq.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/320px-Flag_of_Equatorial_Guinea.svg.png"
 		},
 		"gini": 39.4,
 		"languages": [
@@ -5935,10 +5935,10 @@
 		],
 		"demonym": "Eritrean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/eri.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/eri.svg",
-			"png": "https://restcountries.com/data/eri.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/320px-Flag_of_Eritrea.svg.png"
 		},
 		"languages": [
 			{
@@ -6067,10 +6067,10 @@
 		],
 		"demonym": "Estonian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/est.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/est.svg",
-			"png": "https://restcountries.com/data/est.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/320px-Flag_of_Estonia.svg.png"
 		},
 		"gini": 30.3,
 		"languages": [
@@ -6149,10 +6149,10 @@
 		],
 		"demonym": "Ethiopian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/eth.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/eth.svg",
-			"png": "https://restcountries.com/data/eth.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/320px-Flag_of_Ethiopia.svg.png"
 		},
 		"gini": 35,
 		"languages": [
@@ -6229,10 +6229,10 @@
 		],
 		"demonym": "Falkland Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/flk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/flk.svg",
-			"png": "https://restcountries.com/data/flk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/320px-Flag_of_the_Falkland_Islands.svg.png"
 		},
 		"gini": 36,
 		"languages": [
@@ -6319,10 +6319,10 @@
 		],
 		"demonym": "Faroese",
 		"independent": false,
-		"flag": "https://restcountries.com/data/fro.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/fro.svg",
-			"png": "https://restcountries.com/data/fro.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/320px-Flag_of_the_Faroe_Islands.svg.png"
 		},
 		"gini": 22.7,
 		"languages": [
@@ -6390,10 +6390,10 @@
 		],
 		"demonym": "Fijian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/fji.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/fji.svg",
-			"png": "https://restcountries.com/data/fji.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/320px-Flag_of_Fiji.svg.png"
 		},
 		"gini": 36.7,
 		"languages": [
@@ -6483,10 +6483,10 @@
 		],
 		"demonym": "Finnish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/fin.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/fin.svg",
-			"png": "https://restcountries.com/data/fin.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/320px-Flag_of_Finland.svg.png"
 		},
 		"gini": 27.3,
 		"languages": [
@@ -6572,10 +6572,10 @@
 		],
 		"demonym": "French",
 		"independent": true,
-		"flag": "https://restcountries.com/data/fra.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/fra.svg",
-			"png": "https://restcountries.com/data/fra.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png"
 		},
 		"gini": 32.4,
 		"languages": [
@@ -6661,10 +6661,10 @@
 		],
 		"demonym": "",
 		"independent": false,
-		"flag": "https://restcountries.com/data/guf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_arms_of_French_Guyana.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/guf.svg",
-			"png": "https://restcountries.com/data/guf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_arms_of_French_Guyana.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Coat_of_arms_of_French_Guyana.svg/187px-Coat_of_arms_of_French_Guyana.svg.png"
 		},
 		"languages": [
 			{
@@ -6750,10 +6750,10 @@
 		],
 		"demonym": "French Polynesian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/pyf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pyf.svg",
-			"png": "https://restcountries.com/data/pyf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/320px-Flag_of_French_Polynesia.svg.png"
 		},
 		"languages": [
 			{
@@ -6818,10 +6818,10 @@
 		],
 		"demonym": "French",
 		"independent": false,
-		"flag": "https://restcountries.com/data/atf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/atf.svg",
-			"png": "https://restcountries.com/data/atf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/320px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png"
 		},
 		"languages": [
 			{
@@ -6902,10 +6902,10 @@
 		],
 		"demonym": "Gabonese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gab.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gab.svg",
-			"png": "https://restcountries.com/data/gab.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/320px-Flag_of_Gabon.svg.png"
 		},
 		"gini": 38,
 		"languages": [
@@ -6984,10 +6984,10 @@
 		],
 		"demonym": "Gambian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gmb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gmb.svg",
-			"png": "https://restcountries.com/data/gmb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/320px-Flag_of_The_Gambia.svg.png"
 		},
 		"gini": 35.9,
 		"languages": [
@@ -7069,10 +7069,10 @@
 		],
 		"demonym": "Georgian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/geo.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/geo.svg",
-			"png": "https://restcountries.com/data/geo.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/320px-Flag_of_Georgia.svg.png"
 		},
 		"gini": 35.9,
 		"languages": [
@@ -7148,10 +7148,10 @@
 		],
 		"demonym": "German",
 		"independent": true,
-		"flag": "https://restcountries.com/data/deu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/deu.svg",
-			"png": "https://restcountries.com/data/deu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png"
 		},
 		"gini": 31.9,
 		"languages": [
@@ -7224,10 +7224,10 @@
 		],
 		"demonym": "Ghanaian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gha.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gha.svg",
-			"png": "https://restcountries.com/data/gha.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/320px-Flag_of_Ghana.svg.png"
 		},
 		"gini": 43.5,
 		"languages": [
@@ -7305,10 +7305,10 @@
 		],
 		"demonym": "Gibraltar",
 		"independent": false,
-		"flag": "https://restcountries.com/data/gib.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gib.svg",
-			"png": "https://restcountries.com/data/gib.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/320px-Flag_of_Gibraltar.svg.png"
 		},
 		"languages": [
 			{
@@ -7384,10 +7384,10 @@
 		],
 		"demonym": "Greek",
 		"independent": true,
-		"flag": "https://restcountries.com/data/grc.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/grc.svg",
-			"png": "https://restcountries.com/data/grc.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png"
 		},
 		"gini": 32.9,
 		"languages": [
@@ -7457,10 +7457,10 @@
 		],
 		"demonym": "Greenlandic",
 		"independent": false,
-		"flag": "https://restcountries.com/data/grl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/grl.svg",
-			"png": "https://restcountries.com/data/grl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/320px-Flag_of_Greenland.svg.png"
 		},
 		"gini": 33.9,
 		"languages": [
@@ -7527,10 +7527,10 @@
 		],
 		"demonym": "Grenadian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/grd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/grd.svg",
-			"png": "https://restcountries.com/data/grd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/320px-Flag_of_Grenada.svg.png"
 		},
 		"languages": [
 			{
@@ -7603,10 +7603,10 @@
 		],
 		"demonym": "Guadeloupian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/glp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Guadeloupe.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/glp.svg",
-			"png": "https://restcountries.com/data/glp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Guadeloupe.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coat_of_arms_of_Guadeloupe.svg/218px-Coat_of_arms_of_Guadeloupe.svg.png"
 		},
 		"languages": [
 			{
@@ -7670,10 +7670,10 @@
 		],
 		"demonym": "Guamanian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/gum.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gum.svg",
-			"png": "https://restcountries.com/data/gum.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/320px-Flag_of_Guam.svg.png"
 		},
 		"languages": [
 			{
@@ -7753,10 +7753,10 @@
 		],
 		"demonym": "Guatemalan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gtm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gtm.svg",
-			"png": "https://restcountries.com/data/gtm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/320px-Flag_of_Guatemala.svg.png"
 		},
 		"gini": 48.3,
 		"languages": [
@@ -7838,10 +7838,10 @@
 		],
 		"demonym": "Channel Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/ggy.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ggy.svg",
-			"png": "https://restcountries.com/data/ggy.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/320px-Flag_of_Guernsey.svg.png"
 		},
 		"languages": [
 			{
@@ -7919,10 +7919,10 @@
 		],
 		"demonym": "Guinean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gin.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gin.svg",
-			"png": "https://restcountries.com/data/gin.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/320px-Flag_of_Guinea.svg.png"
 		},
 		"gini": 33.7,
 		"languages": [
@@ -8009,10 +8009,10 @@
 		],
 		"demonym": "Guinea-Bissauan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gnb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gnb.svg",
-			"png": "https://restcountries.com/data/gnb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/320px-Flag_of_Guinea-Bissau.svg.png"
 		},
 		"gini": 50.7,
 		"languages": [
@@ -8093,10 +8093,10 @@
 		],
 		"demonym": "Guyanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/guy.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_arms_of_French_Guyana.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/guy.svg",
-			"png": "https://restcountries.com/data/guy.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_arms_of_French_Guyana.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Coat_of_arms_of_French_Guyana.svg/187px-Coat_of_arms_of_French_Guyana.svg.png"
 		},
 		"gini": 44.5,
 		"languages": [
@@ -8190,10 +8190,10 @@
 		],
 		"demonym": "Haitian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/hti.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/hti.svg",
-			"png": "https://restcountries.com/data/hti.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/320px-Flag_of_Haiti.svg.png"
 		},
 		"gini": 41.1,
 		"languages": [
@@ -8273,10 +8273,10 @@
 		],
 		"demonym": "Heard and McDonald Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/hmd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/hmd.svg",
-			"png": "https://restcountries.com/data/hmd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/320px-Flag_of_Australia_%28converted%29.svg.png"
 		},
 		"languages": [
 			{
@@ -8343,10 +8343,10 @@
 		],
 		"demonym": "Vatican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/vat.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vat.svg",
-			"png": "https://restcountries.com/data/vat.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/240px-Flag_of_the_Vatican_City.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -8434,10 +8434,10 @@
 		],
 		"demonym": "Honduran",
 		"independent": true,
-		"flag": "https://restcountries.com/data/hnd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/hnd.svg",
-			"png": "https://restcountries.com/data/hnd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png"
 		},
 		"gini": 48.2,
 		"languages": [
@@ -8520,10 +8520,10 @@
 		],
 		"demonym": "Hungarian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/hun.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/hun.svg",
-			"png": "https://restcountries.com/data/hun.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/320px-Flag_of_Hungary.svg.png"
 		},
 		"gini": 29.6,
 		"languages": [
@@ -8595,10 +8595,10 @@
 		],
 		"demonym": "Icelander",
 		"independent": true,
-		"flag": "https://restcountries.com/data/isl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/isl.svg",
-			"png": "https://restcountries.com/data/isl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/320px-Flag_of_Iceland.svg.png"
 		},
 		"gini": 26.1,
 		"languages": [
@@ -8679,10 +8679,10 @@
 		],
 		"demonym": "Indian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ind.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ind.svg",
-			"png": "https://restcountries.com/data/ind.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png"
 		},
 		"gini": 35.7,
 		"languages": [
@@ -8763,10 +8763,10 @@
 		],
 		"demonym": "Indonesian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/idn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/idn.svg",
-			"png": "https://restcountries.com/data/idn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png"
 		},
 		"gini": 38.2,
 		"languages": [
@@ -8846,10 +8846,10 @@
 		],
 		"demonym": "Ivorian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/civ.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/civ.svg",
-			"png": "https://restcountries.com/data/civ.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/320px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
 		},
 		"gini": 41.5,
 		"languages": [
@@ -8935,10 +8935,10 @@
 		],
 		"demonym": "Iranian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/irn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/irn.svg",
-			"png": "https://restcountries.com/data/irn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/320px-Flag_of_Iran.svg.png"
 		},
 		"gini": 42,
 		"languages": [
@@ -9010,10 +9010,10 @@
 		],
 		"demonym": "Iraqi",
 		"independent": true,
-		"flag": "https://restcountries.com/data/irq.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/irq.svg",
-			"png": "https://restcountries.com/data/irq.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/320px-Flag_of_Iraq.svg.png"
 		},
 		"gini": 29.5,
 		"languages": [
@@ -9098,10 +9098,10 @@
 		],
 		"demonym": "Irish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/irl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/irl.svg",
-			"png": "https://restcountries.com/data/irl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/320px-Flag_of_Ireland.svg.png"
 		},
 		"gini": 31.4,
 		"languages": [
@@ -9184,10 +9184,10 @@
 		],
 		"demonym": "Manx",
 		"independent": false,
-		"flag": "https://restcountries.com/data/imn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/imn.svg",
-			"png": "https://restcountries.com/data/imn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/320px-Flag_of_the_Isle_of_Man.svg.png"
 		},
 		"languages": [
 			{
@@ -9268,10 +9268,10 @@
 		],
 		"demonym": "Israeli",
 		"independent": true,
-		"flag": "https://restcountries.com/data/isr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/isr.svg",
-			"png": "https://restcountries.com/data/isr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/320px-Flag_of_Israel.svg.png"
 		},
 		"gini": 39,
 		"languages": [
@@ -9350,10 +9350,10 @@
 		],
 		"demonym": "Italian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ita.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ita.svg",
-			"png": "https://restcountries.com/data/ita.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png"
 		},
 		"gini": 36,
 		"languages": [
@@ -9422,10 +9422,10 @@
 		],
 		"demonym": "Jamaican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/jam.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/jam.svg",
-			"png": "https://restcountries.com/data/jam.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/320px-Flag_of_Jamaica.svg.png"
 		},
 		"gini": 35,
 		"languages": [
@@ -9501,10 +9501,10 @@
 		],
 		"demonym": "Japanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/jpn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/jpn.svg",
-			"png": "https://restcountries.com/data/jpn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png"
 		},
 		"gini": 32.9,
 		"languages": [
@@ -9576,10 +9576,10 @@
 		],
 		"demonym": "Channel Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/jey.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/jey.svg",
-			"png": "https://restcountries.com/data/jey.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/320px-Flag_of_Jersey.svg.png"
 		},
 		"gini": 0.3,
 		"languages": [
@@ -9656,10 +9656,10 @@
 		],
 		"demonym": "Jordanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/jor.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/jor.svg",
-			"png": "https://restcountries.com/data/jor.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png"
 		},
 		"gini": 33.7,
 		"languages": [
@@ -9746,10 +9746,10 @@
 			}
 		],
 		",demonym": "Kazakhstani",
-		"flag": "https://restcountries.com/data/kaz.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kaz.svg",
-			"png": "https://restcountries.com/data/kaz.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/320px-Flag_of_Kazakhstan.svg.png"
 		},
 		"gini": 27.8,
 		"languages": [
@@ -9837,10 +9837,10 @@
 		],
 		"demonym": "Kenyan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ken.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ken.svg",
-			"png": "https://restcountries.com/data/ken.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/320px-Flag_of_Kenya.svg.png"
 		},
 		"gini": 40.8,
 		"languages": [
@@ -9929,10 +9929,10 @@
 		],
 		"demonym": "I-Kiribati",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kir.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kir.svg",
-			"png": "https://restcountries.com/data/kir.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/320px-Flag_of_Kiribati.svg.png"
 		},
 		"languages": [
 			{
@@ -10002,10 +10002,10 @@
 		],
 		"demonym": "Kuwaiti",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kwt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kwt.svg",
-			"png": "https://restcountries.com/data/kwt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/320px-Flag_of_Kuwait.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -10088,10 +10088,10 @@
 		],
 		"demonym": "Kirghiz",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kgz.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kgz.svg",
-			"png": "https://restcountries.com/data/kgz.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/320px-Flag_of_Kyrgyzstan.svg.png"
 		},
 		"gini": 29.7,
 		"languages": [
@@ -10179,10 +10179,10 @@
 		],
 		"demonym": "Laotian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lao.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lao.svg",
-			"png": "https://restcountries.com/data/lao.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/320px-Flag_of_Laos.svg.png"
 		},
 		"gini": 38.8,
 		"languages": [
@@ -10258,10 +10258,10 @@
 		],
 		"demonym": "Latvian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lva.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lva.svg",
-			"png": "https://restcountries.com/data/lva.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/320px-Flag_of_Latvia.svg.png"
 		},
 		"gini": 35.1,
 		"languages": [
@@ -10335,10 +10335,10 @@
 		],
 		"demonym": "Lebanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lbn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lbn.svg",
-			"png": "https://restcountries.com/data/lbn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png"
 		},
 		"gini": 31.8,
 		"languages": [
@@ -10427,10 +10427,10 @@
 		],
 		"demonym": "Mosotho",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lso.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lso.svg",
-			"png": "https://restcountries.com/data/lso.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/320px-Flag_of_Lesotho.svg.png"
 		},
 		"gini": 44.9,
 		"languages": [
@@ -10517,10 +10517,10 @@
 		],
 		"demonym": "Liberian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lbr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lbr.svg",
-			"png": "https://restcountries.com/data/lbr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/320px-Flag_of_Liberia.svg.png"
 		},
 		"gini": 35.3,
 		"languages": [
@@ -10605,10 +10605,10 @@
 		],
 		"demonym": "Libyan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lby.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lby.svg",
-			"png": "https://restcountries.com/data/lby.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/320px-Flag_of_Libya.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -10698,10 +10698,10 @@
 		],
 		"demonym": "Liechtensteiner",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lie.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lie.svg",
-			"png": "https://restcountries.com/data/lie.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/320px-Flag_of_Liechtenstein.svg.png"
 		},
 		"languages": [
 			{
@@ -10776,10 +10776,10 @@
 		],
 		"demonym": "Lithuanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ltu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ltu.svg",
-			"png": "https://restcountries.com/data/ltu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/320px-Flag_of_Lithuania.svg.png"
 		},
 		"gini": 35.7,
 		"languages": [
@@ -10856,10 +10856,10 @@
 		],
 		"demonym": "Luxembourger",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lux.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lux.svg",
-			"png": "https://restcountries.com/data/lux.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/320px-Flag_of_Luxembourg.svg.png"
 		},
 		"gini": 35.4,
 		"languages": [
@@ -10946,10 +10946,10 @@
 		],
 		"demonym": "Chinese",
 		"independent": false,
-		"flag": "https://restcountries.com/data/mac.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mac.svg",
-			"png": "https://restcountries.com/data/mac.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/320px-Flag_of_Macau.svg.png"
 		},
 		"gini": 35,
 		"languages": [
@@ -11027,10 +11027,10 @@
 		],
 		"demonym": "Macedonian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mkd.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mkd.svg",
-			"png": "https://restcountries.com/data/mkd.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/320px-Flag_of_North_Macedonia.svg.png"
 		},
 		"gini": 31.9,
 		"languages": [
@@ -11045,7 +11045,7 @@
 			41.83333333,
 			22
 		],
-		"name": "Macedonia (the former Yugoslav Republic of)",
+		"name": "North Macedonia",
 		"nativeName": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
 		"numericCode": "807",
 		"population": 2083380,
@@ -11102,10 +11102,10 @@
 		],
 		"demonym": "Malagasy",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mdg.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mdg.svg",
-			"png": "https://restcountries.com/data/mdg.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/320px-Flag_of_Madagascar.svg.png"
 		},
 		"gini": 42.6,
 		"languages": [
@@ -11192,10 +11192,10 @@
 		],
 		"demonym": "Malawian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mwi.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mwi.svg",
-			"png": "https://restcountries.com/data/mwi.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/320px-Flag_of_Malawi.svg.png"
 		},
 		"gini": 44.7,
 		"languages": [
@@ -11281,10 +11281,10 @@
 		],
 		"demonym": "Malaysian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mys.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mys.svg",
-			"png": "https://restcountries.com/data/mys.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png"
 		},
 		"gini": 41.1,
 		"languages": [
@@ -11356,10 +11356,10 @@
 		],
 		"demonym": "Maldivan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mdv.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mdv.svg",
-			"png": "https://restcountries.com/data/mdv.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/320px-Flag_of_Maldives.svg.png"
 		},
 		"gini": 31.3,
 		"languages": [
@@ -11438,10 +11438,10 @@
 		],
 		"demonym": "Malian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mli.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mli.svg",
-			"png": "https://restcountries.com/data/mli.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/320px-Flag_of_Mali.svg.png"
 		},
 		"gini": 33,
 		"languages": [
@@ -11519,10 +11519,10 @@
 		],
 		"demonym": "Maltese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mlt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mlt.svg",
-			"png": "https://restcountries.com/data/mlt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/320px-Flag_of_Malta.svg.png"
 		},
 		"gini": 28.7,
 		"languages": [
@@ -11599,10 +11599,10 @@
 		],
 		"demonym": "Marshallese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mhl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mhl.svg",
-			"png": "https://restcountries.com/data/mhl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/320px-Flag_of_the_Marshall_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -11670,10 +11670,10 @@
 		],
 		"demonym": "French",
 		"independent": false,
-		"flag": "https://restcountries.com/data/mtq.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/BlasonMartinique.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mtq.svg",
-			"png": "https://restcountries.com/data/mtq.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/da/BlasonMartinique.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BlasonMartinique.svg/202px-BlasonMartinique.svg.png"
 		},
 		"languages": [
 			{
@@ -11743,10 +11743,10 @@
 		],
 		"demonym": "Mauritanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mrt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mrt.svg",
-			"png": "https://restcountries.com/data/mrt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/320px-Flag_of_Mauritania.svg.png"
 		},
 		"gini": 32.6,
 		"languages": [
@@ -11833,10 +11833,10 @@
 		],
 		"demonym": "Mauritian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mus.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mus.svg",
-			"png": "https://restcountries.com/data/mus.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/320px-Flag_of_Mauritius.svg.png"
 		},
 		"gini": 36.8,
 		"languages": [
@@ -11913,10 +11913,10 @@
 		],
 		"demonym": "French",
 		"independent": false,
-		"flag": "https://restcountries.com/data/myt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Mayotte.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/myt.svg",
-			"png": "https://restcountries.com/data/myt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Mayotte.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_Arms_of_Mayotte.svg/320px-Coat_of_Arms_of_Mayotte.svg.png"
 		},
 		"languages": [
 			{
@@ -11998,10 +11998,10 @@
 		],
 		"demonym": "Mexican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mex.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mex.svg",
-			"png": "https://restcountries.com/data/mex.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png"
 		},
 		"gini": 45.4,
 		"languages": [
@@ -12084,10 +12084,10 @@
 		],
 		"demonym": "Micronesian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/fsm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/fsm.svg",
-			"png": "https://restcountries.com/data/fsm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/320px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
 		},
 		"gini": 40.1,
 		"languages": [
@@ -12157,10 +12157,10 @@
 		],
 		"demonym": "Moldovan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mda.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mda.svg",
-			"png": "https://restcountries.com/data/mda.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/320px-Flag_of_Moldova.svg.png"
 		},
 		"gini": 25.7,
 		"languages": [
@@ -12233,10 +12233,10 @@
 		],
 		"demonym": "Monegasque",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mco.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mco.svg",
-			"png": "https://restcountries.com/data/mco.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/300px-Flag_of_Monaco.svg.png"
 		},
 		"languages": [
 			{
@@ -12302,10 +12302,10 @@
 		],
 		"demonym": "Mongolian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mng.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mng.svg",
-			"png": "https://restcountries.com/data/mng.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/320px-Flag_of_Mongolia.svg.png"
 		},
 		"gini": 32.7,
 		"languages": [
@@ -12377,10 +12377,10 @@
 		],
 		"demonym": "Montenegrin",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mne.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mne.svg",
-			"png": "https://restcountries.com/data/mne.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/320px-Flag_of_Montenegro.svg.png"
 		},
 		"gini": 38.5,
 		"languages": [
@@ -12467,10 +12467,10 @@
 		],
 		"demonym": "Montserratian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/msr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/msr.svg",
-			"png": "https://restcountries.com/data/msr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/320px-Flag_of_Montserrat.svg.png"
 		},
 		"languages": [
 			{
@@ -12549,10 +12549,10 @@
 		],
 		"demonym": "Moroccan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mar.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mar.svg",
-			"png": "https://restcountries.com/data/mar.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png"
 		},
 		"gini": 39.5,
 		"languages": [
@@ -12646,10 +12646,10 @@
 		],
 		"demonym": "Mozambican",
 		"independent": true,
-		"flag": "https://restcountries.com/data/moz.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/moz.svg",
-			"png": "https://restcountries.com/data/moz.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/320px-Flag_of_Mozambique.svg.png"
 		},
 		"gini": 54,
 		"languages": [
@@ -12734,10 +12734,10 @@
 		],
 		"demonym": "Burmese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/mmr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mmr.svg",
-			"png": "https://restcountries.com/data/mmr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/320px-Flag_of_Myanmar.svg.png"
 		},
 		"gini": 30.7,
 		"languages": [
@@ -12818,10 +12818,10 @@
 		],
 		"demonym": "Namibian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nam.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nam.svg",
-			"png": "https://restcountries.com/data/nam.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/320px-Flag_of_Namibia.svg.png"
 		},
 		"gini": 59.1,
 		"languages": [
@@ -12907,10 +12907,10 @@
 		],
 		"demonym": "Nauruan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nru.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nru.svg",
-			"png": "https://restcountries.com/data/nru.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/320px-Flag_of_Nauru.svg.png"
 		},
 		"gini": 34.8,
 		"languages": [
@@ -12985,10 +12985,10 @@
 		],
 		"demonym": "Nepalese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/npl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/npl.svg",
-			"png": "https://restcountries.com/data/npl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/197px-Flag_of_Nepal.svg.png"
 		},
 		"gini": 32.8,
 		"languages": [
@@ -13062,10 +13062,10 @@
 		],
 		"demonym": "Dutch",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nld.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nld.svg",
-			"png": "https://restcountries.com/data/nld.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
 		},
 		"gini": 28.1,
 		"languages": [
@@ -13135,10 +13135,10 @@
 		],
 		"demonym": "New Caledonian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/ncl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ncl.svg",
-			"png": "https://restcountries.com/data/ncl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png"
 		},
 		"languages": [
 			{
@@ -13202,10 +13202,10 @@
 		],
 		"demonym": "New Zealander",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nzl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nzl.svg",
-			"png": "https://restcountries.com/data/nzl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png"
 		},
 		"gini": 36.2,
 		"languages": [
@@ -13284,10 +13284,10 @@
 		],
 		"demonym": "Nicaraguan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nic.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nic.svg",
-			"png": "https://restcountries.com/data/nic.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/320px-Flag_of_Nicaragua.svg.png"
 		},
 		"gini": 46.2,
 		"languages": [
@@ -13373,10 +13373,10 @@
 		],
 		"demonym": "Nigerien",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ner.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ner.svg",
-			"png": "https://restcountries.com/data/ner.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/280px-Flag_of_Niger.svg.png"
 		},
 		"gini": 34.3,
 		"languages": [
@@ -13460,10 +13460,10 @@
 		],
 		"demonym": "Nigerian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nga.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nga.svg",
-			"png": "https://restcountries.com/data/nga.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/320px-Flag_of_Nigeria.svg.png"
 		},
 		"gini": 35.1,
 		"languages": [
@@ -13544,10 +13544,10 @@
 		],
 		"demonym": "Niuean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/niu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/niu.svg",
-			"png": "https://restcountries.com/data/niu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/320px-Flag_of_Niue.svg.png"
 		},
 		"languages": [
 			{
@@ -13612,10 +13612,10 @@
 		],
 		"demonym": "Norfolk Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/nfk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nfk.svg",
-			"png": "https://restcountries.com/data/nfk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/320px-Flag_of_Norfolk_Island.svg.png"
 		},
 		"languages": [
 			{
@@ -13685,10 +13685,10 @@
 		],
 		"demonym": "North Korean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/prk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/prk.svg",
-			"png": "https://restcountries.com/data/prk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/320px-Flag_of_North_Korea.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -13754,10 +13754,10 @@
 		],
 		"demonym": "American",
 		"independent": false,
-		"flag": "https://restcountries.com/data/mnp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/mnp.svg",
-			"png": "https://restcountries.com/data/mnp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/320px-Flag_of_the_Northern_Mariana_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -13835,10 +13835,10 @@
 		],
 		"demonym": "Norwegian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/nor.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/nor.svg",
-			"png": "https://restcountries.com/data/nor.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
 		},
 		"gini": 27.6,
 		"languages": [
@@ -13925,10 +13925,10 @@
 		],
 		"demonym": "Omani",
 		"independent": true,
-		"flag": "https://restcountries.com/data/omn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/omn.svg",
-			"png": "https://restcountries.com/data/omn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/320px-Flag_of_Oman.svg.png"
 		},
 		"gini": null,
 		"languages": [
@@ -14010,10 +14010,10 @@
 		],
 		"demonym": "Pakistani",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pak.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pak.svg",
-			"png": "https://restcountries.com/data/pak.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/320px-Flag_of_Pakistan.svg.png"
 		},
 		"gini": 31.6,
 		"languages": [
@@ -14090,10 +14090,10 @@
 		],
 		"demonym": "Palauan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/plw.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/plw.svg",
-			"png": "https://restcountries.com/data/plw.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/320px-Flag_of_Palau.svg.png"
 		},
 		"languages": [
 			{
@@ -14171,10 +14171,10 @@
 		],
 		"demonym": "Palestinian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pse.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pse.svg",
-			"png": "https://restcountries.com/data/pse.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png"
 		},
 		"gini": 35.5,
 		"languages": [
@@ -14262,10 +14262,10 @@
 		],
 		"demonym": "Panamanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pan.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pan.svg",
-			"png": "https://restcountries.com/data/pan.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/320px-Flag_of_Panama.svg.png"
 		},
 		"gini": 49.8,
 		"languages": [
@@ -14344,10 +14344,10 @@
 		],
 		"demonym": "Papua New Guinean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/png.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/png.svg",
-			"png": "https://restcountries.com/data/png.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/320px-Flag_of_Papua_New_Guinea.svg.png"
 		},
 		"gini": 41.9,
 		"languages": [
@@ -14418,10 +14418,10 @@
 		],
 		"demonym": "Paraguayan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pry.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pry.svg",
-			"png": "https://restcountries.com/data/pry.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png"
 		},
 		"gini": 45.7,
 		"languages": [
@@ -14515,10 +14515,10 @@
 		],
 		"demonym": "Peruvian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/per.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/per.svg",
-			"png": "https://restcountries.com/data/per.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png"
 		},
 		"gini": 41.5,
 		"languages": [
@@ -14607,10 +14607,10 @@
 		],
 		"demonym": "Filipino",
 		"independent": true,
-		"flag": "https://restcountries.com/data/phl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/phl.svg",
-			"png": "https://restcountries.com/data/phl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png"
 		},
 		"gini": 42.3,
 		"languages": [
@@ -14685,10 +14685,10 @@
 		],
 		"demonym": "Pitcairn Islander",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pcn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pcn.svg",
-			"png": "https://restcountries.com/data/pcn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/320px-Flag_of_the_Pitcairn_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -14761,10 +14761,10 @@
 		],
 		"demonym": "Polish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/pol.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pol.svg",
-			"png": "https://restcountries.com/data/pol.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png"
 		},
 		"gini": 30.2,
 		"languages": [
@@ -14838,10 +14838,10 @@
 		],
 		"demonym": "Portuguese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/prt.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/prt.svg",
-			"png": "https://restcountries.com/data/prt.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png"
 		},
 		"gini": 33.5,
 		"languages": [
@@ -14913,10 +14913,10 @@
 		],
 		"demonym": "Puerto Rican",
 		"independent": false,
-		"flag": "https://restcountries.com/data/pri.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/pri.svg",
-			"png": "https://restcountries.com/data/pri.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/320px-Flag_of_Puerto_Rico.svg.png"
 		},
 		"languages": [
 			{
@@ -14989,10 +14989,10 @@
 		],
 		"demonym": "Qatari",
 		"independent": true,
-		"flag": "https://restcountries.com/data/qat.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/qat.svg",
-			"png": "https://restcountries.com/data/qat.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/320px-Flag_of_Qatar.svg.png"
 		},
 		"gini": 41.1,
 		"languages": [
@@ -15072,10 +15072,10 @@
 		],
 		"demonym": "Kosovar",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kos.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kos.svg",
-			"png": "https://restcountries.com/data/kos.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/320px-Flag_of_Kosovo.svg.png"
 		},
 		"gini": 29,
 		"languages": [
@@ -15145,10 +15145,10 @@
 		],
 		"demonym": "French",
 		"independent": false,
-		"flag": "https://restcountries.com/data/reu.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/39/Armoiries_R%C3%A9union.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/reu.svg",
-			"png": "https://restcountries.com/data/reu.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/39/Armoiries_R%C3%A9union.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Armoiries_R%C3%A9union.svg/313px-Armoiries_R%C3%A9union.svg.png"
 		},
 		"languages": [
 			{
@@ -15232,10 +15232,10 @@
 		],
 		"demonym": "Romanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/rou.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/rou.svg",
-			"png": "https://restcountries.com/data/rou.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/320px-Flag_of_Romania.svg.png"
 		},
 		"gini": 35.8,
 		"languages": [
@@ -15323,10 +15323,10 @@
 		],
 		"demonym": "Russian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/rus.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/rus.svg",
-			"png": "https://restcountries.com/data/rus.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png"
 		},
 		"gini": 37.5,
 		"languages": [
@@ -15414,10 +15414,10 @@
 		],
 		"demonym": "Rwandan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/rwa.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/rwa.svg",
-			"png": "https://restcountries.com/data/rwa.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/320px-Flag_of_Rwanda.svg.png"
 		},
 		"gini": 43.7,
 		"languages": [
@@ -15508,10 +15508,10 @@
 		],
 		"demonym": "Saint Barth\u00e9lemy Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/blm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/blm.svg",
-			"png": "https://restcountries.com/data/blm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg/267px-Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg.png"
 		},
 		"languages": [
 			{
@@ -15573,10 +15573,10 @@
 		],
 		"demonym": "Saint Helenian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/shn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/shn.svg",
-			"png": "https://restcountries.com/data/shn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"
 		},
 		"languages": [
 			{
@@ -15651,10 +15651,10 @@
 		],
 		"demonym": "Kittian and Nevisian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kna.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kna.svg",
-			"png": "https://restcountries.com/data/kna.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/320px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
 		},
 		"languages": [
 			{
@@ -15727,10 +15727,10 @@
 		],
 		"demonym": "Saint Lucian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lca.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lca.svg",
-			"png": "https://restcountries.com/data/lca.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/320px-Flag_of_Saint_Lucia.svg.png"
 		},
 		"gini": 51.2,
 		"languages": [
@@ -15809,10 +15809,10 @@
 		],
 		"demonym": "Saint Martin Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/maf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/maf.svg",
-			"png": "https://restcountries.com/data/maf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
 		},
 		"languages": [
 			{
@@ -15891,10 +15891,10 @@
 		],
 		"demonym": "French",
 		"independent": false,
-		"flag": "https://restcountries.com/data/spm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Armoiries_SaintPierreetMiquelon.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/spm.svg",
-			"png": "https://restcountries.com/data/spm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Armoiries_SaintPierreetMiquelon.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Armoiries_SaintPierreetMiquelon.svg/177px-Armoiries_SaintPierreetMiquelon.svg.png"
 		},
 		"languages": [
 			{
@@ -15957,10 +15957,10 @@
 		],
 		"demonym": "Saint Vincentian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/vct.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vct.svg",
-			"png": "https://restcountries.com/data/vct.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/320px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
 		},
 		"languages": [
 			{
@@ -16035,10 +16035,10 @@
 		],
 		"demonym": "Samoan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/wsm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/wsm.svg",
-			"png": "https://restcountries.com/data/wsm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/320px-Flag_of_Samoa.svg.png"
 		},
 		"gini": 38.7,
 		"languages": [
@@ -16112,10 +16112,10 @@
 		],
 		"demonym": "Sammarinese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/smr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/smr.svg",
-			"png": "https://restcountries.com/data/smr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/320px-Flag_of_San_Marino.svg.png"
 		},
 		"languages": [
 			{
@@ -16180,10 +16180,10 @@
 		],
 		"demonym": "Sao Tomean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/stp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/stp.svg",
-			"png": "https://restcountries.com/data/stp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/320px-Flag_of_Sao_Tome_and_Principe.svg.png"
 		},
 		"gini": 56.3,
 		"languages": [
@@ -16269,10 +16269,10 @@
 		],
 		"demonym": "Saudi Arabian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sau.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sau.svg",
-			"png": "https://restcountries.com/data/sau.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png"
 		},
 		"gini": 45.9,
 		"languages": [
@@ -16354,10 +16354,10 @@
 		],
 		"demonym": "Senegalese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sen.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sen.svg",
-			"png": "https://restcountries.com/data/sen.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/320px-Flag_of_Senegal.svg.png"
 		},
 		"gini": 40.3,
 		"languages": [
@@ -16446,10 +16446,10 @@
 		],
 		"demonym": "Serbian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/srb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/srb.svg",
-			"png": "https://restcountries.com/data/srb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png"
 		},
 		"gini": 36.2,
 		"languages": [
@@ -16521,10 +16521,10 @@
 		],
 		"demonym": "Seychellois",
 		"independent": true,
-		"flag": "https://restcountries.com/data/syc.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/syc.svg",
-			"png": "https://restcountries.com/data/syc.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/320px-Flag_of_Seychelles.svg.png"
 		},
 		"gini": 32.1,
 		"languages": [
@@ -16610,10 +16610,10 @@
 		],
 		"demonym": "Sierra Leonean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sle.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sle.svg",
-			"png": "https://restcountries.com/data/sle.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/320px-Flag_of_Sierra_Leone.svg.png"
 		},
 		"gini": 35.7,
 		"languages": [
@@ -16697,10 +16697,10 @@
 		],
 		"demonym": "Singaporean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sgp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sgp.svg",
-			"png": "https://restcountries.com/data/sgp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/320px-Flag_of_Singapore.svg.png"
 		},
 		"gini": 45.9,
 		"languages": [
@@ -16789,10 +16789,10 @@
 		],
 		"demonym": "Dutch",
 		"independent": false,
-		"flag": "https://restcountries.com/data/sxm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sxm.svg",
-			"png": "https://restcountries.com/data/sxm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/320px-Flag_of_Sint_Maarten.svg.png"
 		},
 		"languages": [
 			{
@@ -16867,10 +16867,10 @@
 		],
 		"demonym": "Slovak",
 		"independent": true,
-		"flag": "https://restcountries.com/data/svk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/svk.svg",
-			"png": "https://restcountries.com/data/svk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/320px-Flag_of_Slovakia.svg.png"
 		},
 		"gini": 25,
 		"languages": [
@@ -16946,10 +16946,10 @@
 		],
 		"demonym": "Slovene",
 		"independent": true,
-		"flag": "https://restcountries.com/data/svn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/svn.svg",
-			"png": "https://restcountries.com/data/svn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/320px-Flag_of_Slovenia.svg.png"
 		},
 		"gini": 24.6,
 		"languages": [
@@ -17018,10 +17018,10 @@
 		],
 		"demonym": "Solomon Islander",
 		"independent": true,
-		"flag": "https://restcountries.com/data/slb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/slb.svg",
-			"png": "https://restcountries.com/data/slb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/320px-Flag_of_the_Solomon_Islands.svg.png"
 		},
 		"gini": 37.1,
 		"languages": [
@@ -17093,10 +17093,10 @@
 		],
 		"demonym": "Somali",
 		"independent": true,
-		"flag": "https://restcountries.com/data/som.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/som.svg",
-			"png": "https://restcountries.com/data/som.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/320px-Flag_of_Somalia.svg.png"
 		},
 		"gini": 36.8,
 		"languages": [
@@ -17197,10 +17197,10 @@
 		],
 		"demonym": "South African",
 		"independent": true,
-		"flag": "https://restcountries.com/data/zaf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/zaf.svg",
-			"png": "https://restcountries.com/data/zaf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png"
 		},
 		"gini": 63.1,
 		"languages": [
@@ -17330,10 +17330,10 @@
 		],
 		"demonym": "South Georgia and the South Sandwich Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/sgs.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sgs.svg",
-			"png": "https://restcountries.com/data/sgs.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/320px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -17416,10 +17416,10 @@
 		],
 		"demonym": "South Korean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/kor.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/kor.svg",
-			"png": "https://restcountries.com/data/kor.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png"
 		},
 		"gini": 31.3,
 		"languages": [
@@ -17463,92 +17463,6 @@
 		"cioc": "KOR"
 	},
 	{
-		"alpha2Code": "SS",
-		"alpha3Code": "SSD",
-		"altSpellings": [
-			"SS"
-		],
-		"area": 619745,
-		"borders": [
-			"CAF",
-			"COD",
-			"ETH",
-			"KEN",
-			"SDN",
-			"UGA"
-		],
-		"callingCodes": [
-			"211"
-		],
-		"capital": "Juba",
-		"currencies": [
-			{
-				"code": "SSP",
-				"name": "South Sudanese pound",
-				"symbol": "\u00a3"
-			}
-		],
-		"demonym": "South Sudanese",
-		"independent": true,
-		"flag": "https://restcountries.com/data/ssd.svg",
-		"flags": {
-			"svg": "https://restcountries.com/data/ssd.svg",
-			"png": "https://restcountries.com/data/ssd.png"
-		},
-		"gini": 44.1,
-		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
-		],
-		"latlng": [
-			7,
-			30
-		],
-		"name": "South Sudan",
-		"nativeName": "South Sudan",
-		"numericCode": "728",
-		"population": 11193729,
-		"region": "Africa",
-		"regionalBlocs": [
-			{
-				"acronym": "AU",
-				"name": "African Union",
-				"otherNames": [
-					"\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
-					"Union africaine",
-					"Uni\u00e3o Africana",
-					"Uni\u00f3n Africana",
-					"Umoja wa Afrika"
-				]
-			}
-		],
-		"subregion": "Middle Africa",
-		"timezones": [
-			"UTC+03:00"
-		],
-		"topLevelDomain": [
-			".ss"
-		],
-		"translations": {
-			"br": "Sud\u00e3o do Sul",
-			"de": "S\u00fcdsudan",
-			"es": "Sud\u00e1n del Sur",
-			"fa": "\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
-			"fr": "Soudan du Sud",
-			"hr": "Ju\u017eni Sudan",
-			"it": "Sudan del sud",
-			"ja": "\u5357\u30b9\u30fc\u30c0\u30f3",
-			"nl": "Zuid-Soedan",
-			"pt": "Sud\u00e3o do Sul",
-			"hu": "D\u00edl-Szud\u00e1n"
-		},
-		"cioc": ""
-	},
-	{
 		"alpha2Code": "ES",
 		"alpha3Code": "ESP",
 		"altSpellings": [
@@ -17577,10 +17491,10 @@
 		],
 		"demonym": "Spanish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/esp.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/esp.svg",
-			"png": "https://restcountries.com/data/esp.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/320px-Bandera_de_Espa%C3%B1a.svg.png"
 		},
 		"gini": 34.7,
 		"languages": [
@@ -17654,10 +17568,10 @@
 		],
 		"demonym": "Sri Lankan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/lka.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/lka.svg",
-			"png": "https://restcountries.com/data/lka.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/320px-Flag_of_Sri_Lanka.svg.png"
 		},
 		"gini": 39.3,
 		"languages": [
@@ -17742,10 +17656,10 @@
 		],
 		"demonym": "Sudanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sdn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sdn.svg",
-			"png": "https://restcountries.com/data/sdn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/320px-Flag_of_Sudan.svg.png"
 		},
 		"gini": 34.2,
 		"languages": [
@@ -17845,10 +17759,10 @@
 		],
 		"demonym": "Surinamer",
 		"independent": true,
-		"flag": "https://restcountries.com/data/sur.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sur.svg",
-			"png": "https://restcountries.com/data/sur.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/320px-Flag_of_Suriname.svg.png"
 		},
 		"gini": 57.9,
 		"languages": [
@@ -17937,10 +17851,10 @@
 		],
 		"demonym": "Norwegian",
 		"independent": false,
-		"flag": "https://restcountries.com/data/sjm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/sjm.svg",
-			"png": "https://restcountries.com/data/sjm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
 		},
 		"languages": [
 			{
@@ -18011,10 +17925,10 @@
 		],
 		"demonym": "Swazi",
 		"independent": true,
-		"flag": "https://restcountries.com/data/swz.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/swz.svg",
-			"png": "https://restcountries.com/data/swz.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/320px-Flag_of_Eswatini.svg.png"
 		},
 		"gini": 51.5,
 		"languages": [
@@ -18101,10 +18015,10 @@
 		],
 		"demonym": "Swedish",
 		"independent": true,
-		"flag": "https://restcountries.com/data/swe.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/swe.svg",
-			"png": "https://restcountries.com/data/swe.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png"
 		},
 		"gini": 30,
 		"languages": [
@@ -18184,10 +18098,10 @@
 		],
 		"demonym": "Swiss",
 		"independent": true,
-		"flag": "https://restcountries.com/data/che.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/che.svg",
-			"png": "https://restcountries.com/data/che.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png"
 		},
 		"gini": 33.1,
 		"languages": [
@@ -18282,10 +18196,10 @@
 		],
 		"demonym": "Syrian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/syr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/syr.svg",
-			"png": "https://restcountries.com/data/syr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/320px-Flag_of_Syria.svg.png"
 		},
 		"gini": 37.5,
 		"languages": [
@@ -18363,10 +18277,10 @@
 		],
 		"demonym": "Taiwanese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/twn.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/twn.svg",
-			"png": "https://restcountries.com/data/twn.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/320px-Flag_of_the_Republic_of_China.svg.png"
 		},
 		"gini": 33.6,
 		"languages": [
@@ -18439,10 +18353,10 @@
 		],
 		"demonym": "Tadzhik",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tjk.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tjk.svg",
-			"png": "https://restcountries.com/data/tjk.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/320px-Flag_of_Tajikistan.svg.png"
 		},
 		"gini": 34,
 		"languages": [
@@ -18523,10 +18437,10 @@
 		],
 		"demonym": "Tanzanian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tza.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tza.svg",
-			"png": "https://restcountries.com/data/tza.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/320px-Flag_of_Tanzania.svg.png"
 		},
 		"gini": 40.5,
 		"languages": [
@@ -18618,10 +18532,10 @@
 		],
 		"demonym": "Thai",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tha.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tha.svg",
-			"png": "https://restcountries.com/data/tha.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png"
 		},
 		"gini": 34.9,
 		"languages": [
@@ -18696,10 +18610,10 @@
 		],
 		"demonym": "East Timorese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tls.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tls.svg",
-			"png": "https://restcountries.com/data/tls.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/320px-Flag_of_East_Timor.svg.png"
 		},
 		"gini": 28.7,
 		"languages": [
@@ -18770,10 +18684,10 @@
 		],
 		"demonym": "Togolese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tgo.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tgo.svg",
-			"png": "https://restcountries.com/data/tgo.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/320px-Flag_of_Togo.svg.png"
 		},
 		"gini": 43.1,
 		"languages": [
@@ -18849,10 +18763,10 @@
 		],
 		"demonym": "Tokelauan",
 		"independent": false,
-		"flag": "https://restcountries.com/data/tkl.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tkl.svg",
-			"png": "https://restcountries.com/data/tkl.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/320px-Flag_of_Tokelau.svg.png"
 		},
 		"languages": [
 			{
@@ -18915,10 +18829,10 @@
 		],
 		"demonym": "Tongan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ton.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ton.svg",
-			"png": "https://restcountries.com/data/ton.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/320px-Flag_of_Tonga.svg.png"
 		},
 		"gini": 37.6,
 		"languages": [
@@ -18989,10 +18903,10 @@
 		],
 		"demonym": "Trinidadian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tto.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tto.svg",
-			"png": "https://restcountries.com/data/tto.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/320px-Flag_of_Trinidad_and_Tobago.svg.png"
 		},
 		"gini": 40.3,
 		"languages": [
@@ -19071,10 +18985,10 @@
 		],
 		"demonym": "Tunisian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tun.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tun.svg",
-			"png": "https://restcountries.com/data/tun.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/320px-Flag_of_Tunisia.svg.png"
 		},
 		"gini": 32.8,
 		"languages": [
@@ -19170,10 +19084,10 @@
 			}
 		],
 		",demonym": "Turkish",
-		"flag": "https://restcountries.com/data/tur.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tur.svg",
-			"png": "https://restcountries.com/data/tur.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png"
 		},
 		"gini": 41.9,
 		"languages": [
@@ -19242,10 +19156,10 @@
 		],
 		"demonym": "Turkmen",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tkm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tkm.svg",
-			"png": "https://restcountries.com/data/tkm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/320px-Flag_of_Turkmenistan.svg.png"
 		},
 		"gini": 40.8,
 		"languages": [
@@ -19315,10 +19229,10 @@
 		],
 		"demonym": "Turks and Caicos Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/tca.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tca.svg",
-			"png": "https://restcountries.com/data/tca.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/320px-Flag_of_the_Turks_and_Caicos_Islands.svg.png"
 		},
 		"languages": [
 			{
@@ -19386,10 +19300,10 @@
 		],
 		"demonym": "Tuvaluan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/tuv.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/tuv.svg",
-			"png": "https://restcountries.com/data/tuv.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/320px-Flag_of_Tuvalu.svg.png"
 		},
 		"gini": 39.1,
 		"languages": [
@@ -19461,10 +19375,10 @@
 		],
 		"demonym": "Ugandan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/uga.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/uga.svg",
-			"png": "https://restcountries.com/data/uga.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/320px-Flag_of_Uganda.svg.png"
 		},
 		"gini": 42.8,
 		"languages": [
@@ -19555,10 +19469,10 @@
 		],
 		"demonym": "Ukrainian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ukr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ukr.svg",
-			"png": "https://restcountries.com/data/ukr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"
 		},
 		"gini": 26.6,
 		"languages": [
@@ -19626,10 +19540,10 @@
 		],
 		"demonym": "Emirati",
 		"independent": true,
-		"flag": "https://restcountries.com/data/are.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/are.svg",
-			"png": "https://restcountries.com/data/are.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/320px-Flag_of_the_United_Arab_Emirates.svg.png"
 		},
 		"gini": 26,
 		"languages": [
@@ -19707,10 +19621,10 @@
 		],
 		"demonym": "British",
 		"independent": true,
-		"flag": "https://restcountries.com/data/gbr.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/gbr.svg",
-			"png": "https://restcountries.com/data/gbr.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"
 		},
 		"gini": 35.1,
 		"languages": [
@@ -19786,10 +19700,10 @@
 		],
 		"demonym": "American",
 		"independent": true,
-		"flag": "https://restcountries.com/data/usa.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/usa.svg",
-			"png": "https://restcountries.com/data/usa.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"
 		},
 		"gini": 41.4,
 		"languages": [
@@ -19877,10 +19791,10 @@
 		],
 		"demonym": "Uruguayan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ury.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ury.svg",
-			"png": "https://restcountries.com/data/ury.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png"
 		},
 		"gini": 39.7,
 		"languages": [
@@ -19968,10 +19882,10 @@
 			}
 		],
 		",demonym": "Uzbekistani",
-		"flag": "https://restcountries.com/data/uzb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/uzb.svg",
-			"png": "https://restcountries.com/data/uzb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/320px-Flag_of_Uzbekistan.svg.png"
 		},
 		"gini": 35.3,
 		"languages": [
@@ -20044,10 +19958,10 @@
 		],
 		"demonym": "Ni-Vanuatu",
 		"independent": true,
-		"flag": "https://restcountries.com/data/vut.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vut.svg",
-			"png": "https://restcountries.com/data/vut.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/320px-Flag_of_Vanuatu_%28official%29.svg.png"
 		},
 		"gini": 37.6,
 		"languages": [
@@ -20129,10 +20043,10 @@
 		],
 		"demonym": "Venezuelan",
 		"independent": true,
-		"flag": "https://restcountries.com/data/ven.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/ven.svg",
-			"png": "https://restcountries.com/data/ven.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png"
 		},
 		"gini": 39,
 		"languages": [
@@ -20218,10 +20132,10 @@
 		],
 		"demonym": "Vietnamese",
 		"independent": true,
-		"flag": "https://restcountries.com/data/vnm.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/vnm.svg",
-			"png": "https://restcountries.com/data/vnm.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png"
 		},
 		"gini": 35.6,
 		"languages": [
@@ -20292,10 +20206,10 @@
 		],
 		"demonym": "Wallis and Futuna Islander",
 		"independent": false,
-		"flag": "https://restcountries.com/data/wlf.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/wlf.svg",
-			"png": "https://restcountries.com/data/wlf.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/320px-Flag_of_Wallis_and_Futuna.svg.png"
 		},
 		"languages": [
 			{
@@ -20368,10 +20282,10 @@
 		],
 		"demonym": "Sahrawi",
 		"independent": false,
-		"flag": "https://restcountries.com/data/esh.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/esh.svg",
-			"png": "https://restcountries.com/data/esh.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/320px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
 		},
 		"languages": [
 			{
@@ -20451,10 +20365,10 @@
 		],
 		"demonym": "Yemeni",
 		"independent": true,
-		"flag": "https://restcountries.com/data/yem.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/yem.svg",
-			"png": "https://restcountries.com/data/yem.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/320px-Flag_of_Yemen.svg.png"
 		},
 		"gini": 36.7,
 		"languages": [
@@ -20538,10 +20452,10 @@
 		],
 		"demonym": "Zambian",
 		"independent": true,
-		"flag": "https://restcountries.com/data/zmb.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/zmb.svg",
-			"png": "https://restcountries.com/data/zmb.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/320px-Flag_of_Zambia.svg.png"
 		},
 		"gini": 57.1,
 		"languages": [
@@ -20623,10 +20537,10 @@
 		],
 		"demonym": "Zimbabwean",
 		"independent": true,
-		"flag": "https://restcountries.com/data/zwe.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
 		"flags": {
-			"svg": "https://restcountries.com/data/zwe.svg",
-			"png": "https://restcountries.com/data/zwe.png"
+			"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/320px-Flag_of_Zimbabwe.svg.png"
 		},
 		"gini": 50.3,
 		"languages": [
