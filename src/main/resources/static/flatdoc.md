@@ -49,8 +49,10 @@ in order to provide a more updated version and with some fixes requested in the 
 Users
 ---------------
 
-This project is used by 
-- [Nations24](https://nations24.com)
+This project is used by
+- [Famosos](https://famosos.com)
+- [Cultural Care](https://www.culturalcare.world/)
+- [Covidata](https://worldcovidata.com/)
 
 Original RESTCountries project has over 1200 users, including:
 

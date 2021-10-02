@@ -1,6 +1,10 @@
 micronaut:
   application:
     name: dev.amatos.restcountries
+  router.static-resources.default:
+    enabled: true
+    paths: classpath:static
+    mapping: "/**"
   server:
     cors:
       enabled: true
