@@ -110,7 +110,7 @@
 			"MNE",
 			"GRC",
 			"MKD",
-			"KOS"
+			"UNK"
 		],
 		"callingCodes": [
 			"355"
@@ -11011,7 +11011,7 @@
 			"ALB",
 			"BGR",
 			"GRC",
-			"KOS",
+			"UNK",
 			"SRB"
 		],
 		"callingCodes": [
@@ -12361,7 +12361,7 @@
 			"ALB",
 			"BIH",
 			"HRV",
-			"KOS",
+			"UNK",
 			"SRB"
 		],
 		"callingCodes": [
@@ -15047,7 +15047,7 @@
 	},
 	{
 		"alpha2Code": "XK",
-		"alpha3Code": "KOS",
+		"alpha3Code": "UNK",
 		"altSpellings": [
 			"XK",
 			"\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
@@ -16428,7 +16428,7 @@
 			"BGR",
 			"HRV",
 			"HUN",
-			"KOS",
+			"UNK",
 			"MKD",
 			"MNE",
 			"ROU"
