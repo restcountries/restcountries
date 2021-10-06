@@ -135,8 +135,7 @@
 			-69.96666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 180,
 		"flag": "\ud83c\udde6\ud83c\uddfc",
 		"demonyms": {
@@ -150,8 +149,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/320px-Flag_of_Aruba.svg.png"
+			"https://flagcdn.com/aw.svg",
+			"https://flagcdn.com/w320/aw.png"
 		],
 		"population": 106766,
 		"maps": {
@@ -491,8 +490,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/320px-Flag_of_Angola.svg.png"
+			"https://flagcdn.com/ao.svg",
+			"https://flagcdn.com/w320/ao.png"
 		],
 		"population": 32866268,
 		"maps": {
@@ -631,8 +630,7 @@
 			-63.16666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 91,
 		"flag": "\ud83c\udde6\ud83c\uddee",
 		"demonyms": {
@@ -646,8 +644,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/320px-Flag_of_Anguilla.svg.png"
+			"https://flagcdn.com/ai.svg",
+			"https://flagcdn.com/w320/ai.png"
 		],
 		"population": 13452,
 		"maps": {
@@ -789,8 +787,7 @@
 			19.9
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 1580,
 		"flag": "\ud83c\udde6\ud83c\uddfd",
 		"demonyms": {
@@ -804,8 +801,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/320px-Flag_of_%C3%85land.svg.png"
+			"https://flagcdn.com/ax.svg",
+			"https://flagcdn.com/w320/ax.png"
 		],
 		"population": 29458,
 		"maps": {
@@ -970,8 +967,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/320px-Flag_of_Albania.svg.png"
+			"https://flagcdn.com/al.svg",
+			"https://flagcdn.com/w320/al.png"
 		],
 		"population": 2837743,
 		"maps": {
@@ -1133,8 +1130,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/320px-Flag_of_Andorra.svg.png"
+			"https://flagcdn.com/ad.svg",
+			"https://flagcdn.com/w320/ad.png"
 		],
 		"population": 77265,
 		"maps": {
@@ -1293,8 +1290,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/320px-Flag_of_the_United_Arab_Emirates.svg.png"
+			"https://flagcdn.com/ae.svg",
+			"https://flagcdn.com/w320/ae.png"
 		],
 		"population": 9890400,
 		"maps": {
@@ -1464,8 +1461,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png"
+			"https://flagcdn.com/ar.svg",
+			"https://flagcdn.com/w320/ar.png"
 		],
 		"population": 45376763,
 		"maps": {
@@ -1630,8 +1627,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/320px-Flag_of_Armenia.svg.png"
+			"https://flagcdn.com/am.svg",
+			"https://flagcdn.com/w320/am.png"
 		],
 		"population": 2963234,
 		"maps": {
@@ -1667,7 +1664,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -1778,8 +1775,7 @@
 			-170
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 199,
 		"flag": "\ud83c\udde6\ud83c\uddf8",
 		"demonyms": {
@@ -1793,8 +1789,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/320px-Flag_of_American_Samoa.svg.png"
+			"https://flagcdn.com/as.svg",
+			"https://flagcdn.com/w320/as.png"
 		],
 		"population": 55197,
 		"maps": {
@@ -1806,8 +1802,7 @@
 		"name": {
 			"common": "Antarctica",
 			"official": "Antarctica",
-			"nativeName": {
-			}
+			"nativeName": {}
 		},
 		"tld": [
 			".aq"
@@ -1819,12 +1814,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [
-		],
+		"currencies": [],
 		"idd": {
 			"root": "",
-			"suffixes": [
-			]
+			"suffixes": []
 		},
 		"capital": [],
 		"altSpellings": [
@@ -1832,8 +1825,7 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
-		"languages": {
-		},
+		"languages": {},
 		"translations": {
 			"ces": {
 				"official": "Antarktida",
@@ -1925,8 +1917,7 @@
 			0
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 14000000,
 		"flag": "\ud83c\udde6\ud83c\uddf6",
 		"demonyms": {
@@ -1940,8 +1931,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b5/Emblem_of_the_Antarctic_Treaty.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_the_Antarctic_Treaty.svg/240px-Emblem_of_the_Antarctic_Treaty.svg.png"
+			"https://flagcdn.com/aq.svg",
+			"https://flagcdn.com/w320/aq.png"
 		],
 		"population": 1000,
 		"maps": {
@@ -2081,8 +2072,7 @@
 			69.167
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 7747,
 		"flag": "\ud83c\uddf9\ud83c\uddeb",
 		"demonyms": {
@@ -2096,8 +2086,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/320px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png"
+			"https://flagcdn.com/tf.svg",
+			"https://flagcdn.com/w320/tf.png"
 		],
 		"population": 400,
 		"maps": {
@@ -2240,8 +2230,7 @@
 			-61.8
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 442,
 		"flag": "\ud83c\udde6\ud83c\uddec",
 		"demonyms": {
@@ -2255,8 +2244,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/320px-Flag_of_Antigua_and_Barbuda.svg.png"
+			"https://flagcdn.com/ag.svg",
+			"https://flagcdn.com/w320/ag.png"
 		],
 		"population": 97928,
 		"maps": {
@@ -2399,8 +2388,7 @@
 			133
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 7692024,
 		"flag": "\ud83c\udde6\ud83c\uddfa",
 		"demonyms": {
@@ -2414,8 +2402,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/320px-Flag_of_Australia_%28converted%29.svg.png"
+			"https://flagcdn.com/au.svg",
+			"https://flagcdn.com/w320/au.png"
 		],
 		"population": 25687041,
 		"maps": {
@@ -2583,8 +2571,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png"
+			"https://flagcdn.com/at.svg",
+			"https://flagcdn.com/w320/at.png"
 		],
 		"population": 8917205,
 		"maps": {
@@ -2754,8 +2742,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/320px-Flag_of_Azerbaijan.svg.png"
+			"https://flagcdn.com/az.svg",
+			"https://flagcdn.com/w320/az.png"
 		],
 		"population": 10110116,
 		"maps": {
@@ -2924,8 +2912,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/320px-Flag_of_Burundi.svg.png"
+			"https://flagcdn.com/bi.svg",
+			"https://flagcdn.com/w320/bi.png"
 		],
 		"population": 11890781,
 		"maps": {
@@ -3105,8 +3093,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/277px-Flag_of_Belgium.svg.png"
+			"https://flagcdn.com/be.svg",
+			"https://flagcdn.com/w320/be.png"
 		],
 		"population": 11555997,
 		"maps": {
@@ -3270,8 +3258,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/320px-Flag_of_Benin.svg.png"
+			"https://flagcdn.com/bj.svg",
+			"https://flagcdn.com/w320/bj.png"
 		],
 		"population": 12123198,
 		"maps": {
@@ -3435,8 +3423,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/320px-Flag_of_Burkina_Faso.svg.png"
+			"https://flagcdn.com/bf.svg",
+			"https://flagcdn.com/w320/bf.png"
 		],
 		"population": 20903278,
 		"maps": {
@@ -3598,8 +3586,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/320px-Flag_of_Bangladesh.svg.png"
+			"https://flagcdn.com/bd.svg",
+			"https://flagcdn.com/w320/bd.png"
 		],
 		"population": 164689383,
 		"maps": {
@@ -3764,8 +3752,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/320px-Flag_of_Bulgaria.svg.png"
+			"https://flagcdn.com/bg.svg",
+			"https://flagcdn.com/w320/bg.png"
 		],
 		"population": 6927288,
 		"maps": {
@@ -3910,8 +3898,7 @@
 			50.55
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 765,
 		"flag": "\ud83c\udde7\ud83c\udded",
 		"demonyms": {
@@ -3925,8 +3912,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/320px-Flag_of_Bahrain.svg.png"
+			"https://flagcdn.com/bh.svg",
+			"https://flagcdn.com/w320/bh.png"
 		],
 		"population": 1701583,
 		"maps": {
@@ -3962,7 +3949,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -4074,8 +4061,7 @@
 			-76
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 13943,
 		"flag": "\ud83c\udde7\ud83c\uddf8",
 		"demonyms": {
@@ -4089,8 +4075,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/320px-Flag_of_the_Bahamas.svg.png"
+			"https://flagcdn.com/bs.svg",
+			"https://flagcdn.com/w320/bs.png"
 		],
 		"population": 393248,
 		"maps": {
@@ -4263,8 +4249,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/320px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+			"https://flagcdn.com/ba.svg",
+			"https://flagcdn.com/w320/ba.png"
 		],
 		"population": 3280815,
 		"maps": {
@@ -4406,8 +4392,7 @@
 			-63.41666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 21,
 		"flag": "\ud83c\udde7\ud83c\uddf1",
 		"demonyms": {
@@ -4421,8 +4406,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg/267px-Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg.png"
+			"https://flagcdn.com/bl.svg",
+			"https://flagcdn.com/w320/bl.png"
 		],
 		"population": 4255,
 		"maps": {
@@ -4568,8 +4553,7 @@
 			-5.72
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 394,
 		"flag": "\ud83c\uddf8\ud83c\udded",
 		"demonyms": {
@@ -4583,8 +4567,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"
+			"https://flagcdn.com/sh.svg",
+			"https://flagcdn.com/w320/sh.png"
 		],
 		"population": 53192,
 		"maps": {
@@ -4756,8 +4740,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/320px-Flag_of_Belarus.svg.png"
+			"https://flagcdn.com/by.svg",
+			"https://flagcdn.com/w320/by.png"
 		],
 		"population": 9398861,
 		"maps": {
@@ -4927,8 +4911,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/320px-Flag_of_Belize.svg.png"
+			"https://flagcdn.com/bz.svg",
+			"https://flagcdn.com/w320/bz.png"
 		],
 		"population": 397621,
 		"maps": {
@@ -5074,8 +5058,7 @@
 			-64.75
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 54,
 		"flag": "\ud83c\udde7\ud83c\uddf2",
 		"demonyms": {
@@ -5089,8 +5072,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/320px-Flag_of_Bermuda.svg.png"
+			"https://flagcdn.com/bm.svg",
+			"https://flagcdn.com/w320/bm.png"
 		],
 		"population": 63903,
 		"maps": {
@@ -5276,8 +5259,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/320px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+			"https://flagcdn.com/bo.svg",
+			"https://flagcdn.com/w320/bo.png"
 		],
 		"population": 11673029,
 		"maps": {
@@ -5314,7 +5297,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -5323,8 +5306,7 @@
 				"99"
 			]
 		},
-		"capital": [
-		],
+		"capital": [],
 		"altSpellings": [
 			"BES islands"
 		],
@@ -5422,8 +5404,7 @@
 			-68.25
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 328,
 		"flag": "",
 		"demonyms": {
@@ -5437,8 +5418,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
+			"https://flagcdn.com/bq.svg",
+			"https://flagcdn.com/w320/bq.png"
 		],
 		"population": 25987,
 		"maps": {
@@ -5609,8 +5590,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png"
+			"https://flagcdn.com/br.svg",
+			"https://flagcdn.com/w320/br.png"
 		],
 		"population": 212559409,
 		"maps": {
@@ -5753,8 +5734,7 @@
 			-59.53333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 430,
 		"flag": "\ud83c\udde7\ud83c\udde7",
 		"demonyms": {
@@ -5768,8 +5748,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/320px-Flag_of_Barbados.svg.png"
+			"https://flagcdn.com/bb.svg",
+			"https://flagcdn.com/w320/bb.png"
 		],
 		"population": 287371,
 		"maps": {
@@ -5935,8 +5915,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/320px-Flag_of_Brunei.svg.png"
+			"https://flagcdn.com/bn.svg",
+			"https://flagcdn.com/w320/bn.png"
 		],
 		"population": 437483,
 		"maps": {
@@ -6101,8 +6081,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/320px-Flag_of_Bhutan.svg.png"
+			"https://flagcdn.com/bt.svg",
+			"https://flagcdn.com/w320/bt.png"
 		],
 		"population": 771612,
 		"maps": {
@@ -6131,8 +6111,7 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [
-		],
+		"currencies": [],
 		"idd": {
 			"root": "+4",
 			"suffixes": [
@@ -6237,8 +6216,7 @@
 			3.4
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 49,
 		"flag": "\ud83c\udde7\ud83c\uddfb",
 		"demonyms": {
@@ -6252,8 +6230,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
+			"https://flagcdn.com/bv.svg",
+			"https://flagcdn.com/w320/bv.png"
 		],
 		"population": 0,
 		"maps": {
@@ -6418,8 +6396,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/320px-Flag_of_Botswana.svg.png"
+			"https://flagcdn.com/bw.svg",
+			"https://flagcdn.com/w320/bw.png"
 		],
 		"population": 2351625,
 		"maps": {
@@ -6590,8 +6568,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/320px-Flag_of_the_Central_African_Republic.svg.png"
+			"https://flagcdn.com/cf.svg",
+			"https://flagcdn.com/w320/cf.png"
 		],
 		"population": 4829764,
 		"maps": {
@@ -6755,8 +6733,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/320px-Flag_of_Canada_%28Pantone%29.svg.png"
+			"https://flagcdn.com/ca.svg",
+			"https://flagcdn.com/w320/ca.png"
 		],
 		"population": 38005238,
 		"maps": {
@@ -6901,8 +6879,7 @@
 			96.83333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 14,
 		"flag": "\ud83c\udde8\ud83c\udde8",
 		"demonyms": {
@@ -6916,8 +6893,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/320px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png"
+			"https://flagcdn.com/cc.svg",
+			"https://flagcdn.com/w320/cc.png"
 		],
 		"population": 544,
 		"maps": {
@@ -7096,8 +7073,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png"
+			"https://flagcdn.com/ch.svg",
+			"https://flagcdn.com/w320/ch.png"
 		],
 		"population": 17500657,
 		"maps": {
@@ -7260,8 +7237,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png"
+			"https://flagcdn.com/cl.svg",
+			"https://flagcdn.com/w320/cl.png"
 		],
 		"population": 19116209,
 		"maps": {
@@ -7441,8 +7418,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+			"https://flagcdn.com/cn.svg",
+			"https://flagcdn.com/w320/cn.png"
 		],
 		"population": 1402112000,
 		"maps": {
@@ -7605,8 +7582,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/320px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+			"https://flagcdn.com/ci.svg",
+			"https://flagcdn.com/w320/ci.png"
 		],
 		"population": 26378275,
 		"maps": {
@@ -7777,8 +7754,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/320px-Flag_of_Cameroon.svg.png"
+			"https://flagcdn.com/cm.svg",
+			"https://flagcdn.com/w320/cm.png"
 		],
 		"population": 26545864,
 		"maps": {
@@ -7969,8 +7946,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg/320px-Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg.png"
+			"https://flagcdn.com/cd.svg",
+			"https://flagcdn.com/w320/cd.png"
 		],
 		"population": 89561404,
 		"maps": {
@@ -8145,8 +8122,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/320px-Flag_of_the_Republic_of_the_Congo.svg.png"
+			"https://flagcdn.com/cg.svg",
+			"https://flagcdn.com/w320/cg.png"
 		],
 		"population": 89561404,
 		"maps": {
@@ -8313,8 +8290,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/320px-Flag_of_the_Cook_Islands.svg.png"
+			"https://flagcdn.com/ck.svg",
+			"https://flagcdn.com/w320/ck.png"
 		],
 		"population": 18100,
 		"maps": {
@@ -8479,8 +8456,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png"
+			"https://flagcdn.com/co.svg",
+			"https://flagcdn.com/w320/co.png"
 		],
 		"population": 50882884,
 		"maps": {
@@ -8637,8 +8614,7 @@
 			44.25
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 1862,
 		"flag": "\ud83c\uddf0\ud83c\uddf2",
 		"demonyms": {
@@ -8652,8 +8628,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/320px-Flag_of_the_Comoros.svg.png"
+			"https://flagcdn.com/km.svg",
+			"https://flagcdn.com/w320/km.png"
 		],
 		"population": 869595,
 		"maps": {
@@ -8798,8 +8774,7 @@
 			-24
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 4033,
 		"flag": "\ud83c\udde8\ud83c\uddfb",
 		"demonyms": {
@@ -8813,8 +8788,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/320px-Flag_of_Cape_Verde.svg.png"
+			"https://flagcdn.com/cv.svg",
+			"https://flagcdn.com/w320/cv.png"
 		],
 		"population": 555988,
 		"maps": {
@@ -8976,8 +8951,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/320px-Flag_of_Costa_Rica_%28state%29.svg.png"
+			"https://flagcdn.com/cr.svg",
+			"https://flagcdn.com/w320/cr.png"
 		],
 		"population": 5094114,
 		"maps": {
@@ -9126,8 +9101,7 @@
 			-80
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 109884,
 		"flag": "\ud83c\udde8\ud83c\uddfa",
 		"demonyms": {
@@ -9141,8 +9115,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/320px-Flag_of_Cuba.svg.png"
+			"https://flagcdn.com/cu.svg",
+			"https://flagcdn.com/w320/cu.png"
 		],
 		"population": 11326616,
 		"maps": {
@@ -9288,8 +9262,7 @@
 			-68.933333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 444,
 		"flag": "\ud83c\udde8\ud83c\uddfc",
 		"demonyms": {
@@ -9303,8 +9276,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/320px-Flag_of_Cura%C3%A7ao.svg.png"
+			"https://flagcdn.com/cw.svg",
+			"https://flagcdn.com/w320/cw.png"
 		],
 		"population": 155014,
 		"maps": {
@@ -9448,8 +9421,7 @@
 			105.66666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 135,
 		"flag": "\ud83c\udde8\ud83c\uddfd",
 		"demonyms": {
@@ -9463,8 +9435,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/320px-Flag_of_Christmas_Island.svg.png"
+			"https://flagcdn.com/cx.svg",
+			"https://flagcdn.com/w320/cx.png"
 		],
 		"population": 2072,
 		"maps": {
@@ -9607,8 +9579,7 @@
 			-80.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 264,
 		"flag": "\ud83c\uddf0\ud83c\uddfe",
 		"demonyms": {
@@ -9622,8 +9593,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/320px-Flag_of_the_Cayman_Islands.svg.png"
+			"https://flagcdn.com/ky.svg",
+			"https://flagcdn.com/w320/ky.png"
 		],
 		"population": 65720,
 		"maps": {
@@ -9776,8 +9747,7 @@
 			33
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 9251,
 		"flag": "\ud83c\udde8\ud83c\uddfe",
 		"demonyms": {
@@ -9791,8 +9761,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/320px-Flag_of_Cyprus.svg.png"
+			"https://flagcdn.com/cy.svg",
+			"https://flagcdn.com/w320/cy.png"
 		],
 		"population": 1207361,
 		"maps": {
@@ -9961,8 +9931,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/320px-Flag_of_the_Czech_Republic.svg.png"
+			"https://flagcdn.com/cz.svg",
+			"https://flagcdn.com/w320/cz.png"
 		],
 		"population": 10698896,
 		"maps": {
@@ -10127,8 +10097,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png"
+			"https://flagcdn.com/de.svg",
+			"https://flagcdn.com/w320/de.png"
 		],
 		"population": 83240525,
 		"maps": {
@@ -10300,8 +10270,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/320px-Flag_of_Djibouti.svg.png"
+			"https://flagcdn.com/dj.svg",
+			"https://flagcdn.com/w320/dj.png"
 		],
 		"population": 988002,
 		"maps": {
@@ -10447,8 +10417,7 @@
 			-61.33333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 751,
 		"flag": "\ud83c\udde9\ud83c\uddf2",
 		"demonyms": {
@@ -10462,8 +10431,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/320px-Flag_of_Dominica.svg.png"
+			"https://flagcdn.com/dm.svg",
+			"https://flagcdn.com/w320/dm.png"
 		],
 		"population": 71991,
 		"maps": {
@@ -10625,8 +10594,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/318px-Flag_of_Denmark.svg.png"
+			"https://flagcdn.com/dk.svg",
+			"https://flagcdn.com/w320/dk.png"
 		],
 		"population": 5831404,
 		"maps": {
@@ -10787,8 +10756,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/320px-Flag_of_the_Dominican_Republic.svg.png"
+			"https://flagcdn.com/do.svg",
+			"https://flagcdn.com/w320/do.png"
 		],
 		"population": 10847904,
 		"maps": {
@@ -10956,8 +10925,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/320px-Flag_of_Algeria.svg.png"
+			"https://flagcdn.com/dz.svg",
+			"https://flagcdn.com/w320/dz.png"
 		],
 		"population": 510713,
 		"maps": {
@@ -10989,7 +10958,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -11119,8 +11088,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png"
+			"https://flagcdn.com/ec.svg",
+			"https://flagcdn.com/w320/ec.png"
 		],
 		"population": 17643060,
 		"maps": {
@@ -11284,8 +11253,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png"
+			"https://flagcdn.com/eg.svg",
+			"https://flagcdn.com/w320/eg.png"
 		],
 		"population": 102334403,
 		"maps": {
@@ -11461,8 +11430,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/320px-Flag_of_Eritrea.svg.png"
+			"https://flagcdn.com/er.svg",
+			"https://flagcdn.com/w320/er.png"
 		],
 		"population": 5352000,
 		"maps": {
@@ -11639,8 +11608,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/320px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+			"https://flagcdn.com/eh.svg",
+			"https://flagcdn.com/w320/eh.png"
 		],
 		"population": 510713,
 		"maps": {
@@ -11801,8 +11770,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/320px-Bandera_de_Espa%C3%B1a.svg.png"
+			"https://flagcdn.com/es.svg",
+			"https://flagcdn.com/w320/es.png"
 		],
 		"population": 47351567,
 		"maps": {
@@ -11965,8 +11934,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/320px-Flag_of_Estonia.svg.png"
+			"https://flagcdn.com/ee.svg",
+			"https://flagcdn.com/w320/ee.png"
 		],
 		"population": 1331057,
 		"maps": {
@@ -12133,8 +12102,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/320px-Flag_of_Ethiopia.svg.png"
+			"https://flagcdn.com/et.svg",
+			"https://flagcdn.com/w320/et.png"
 		],
 		"population": 114963583,
 		"maps": {
@@ -12300,8 +12269,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/320px-Flag_of_Finland.svg.png"
+			"https://flagcdn.com/fi.svg",
+			"https://flagcdn.com/w320/fi.png"
 		],
 		"population": 5530719,
 		"maps": {
@@ -12454,8 +12423,7 @@
 			175
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 18272,
 		"flag": "\ud83c\uddeb\ud83c\uddef",
 		"demonyms": {
@@ -12469,8 +12437,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/320px-Flag_of_Fiji.svg.png"
+			"https://flagcdn.com/fj.svg",
+			"https://flagcdn.com/w320/fj.png"
 		],
 		"population": 896444,
 		"maps": {
@@ -12611,8 +12579,7 @@
 			-59
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 12173,
 		"flag": "\ud83c\uddeb\ud83c\uddf0",
 		"demonyms": {
@@ -12626,8 +12593,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/320px-Flag_of_the_Falkland_Islands.svg.png"
+			"https://flagcdn.com/fk.svg",
+			"https://flagcdn.com/w320/fk.png"
 		],
 		"population": 2563,
 		"maps": {
@@ -12791,8 +12758,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png"
+			"https://flagcdn.com/fr.svg",
+			"https://flagcdn.com/w320/fr.png"
 		],
 		"population": 67391582,
 		"maps": {
@@ -12956,8 +12923,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/320px-Flag_of_the_Faroe_Islands.svg.png"
+			"https://flagcdn.com/fo.svg",
+			"https://flagcdn.com/w320/fo.png"
 		],
 		"population": 48865,
 		"maps": {
@@ -12989,7 +12956,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -13098,8 +13065,7 @@
 			158.25
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 702,
 		"flag": "\ud83c\uddeb\ud83c\uddf2",
 		"demonyms": {
@@ -13113,8 +13079,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/320px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+			"https://flagcdn.com/fm.svg",
+			"https://flagcdn.com/w320/fm.png"
 		],
 		"population": 115021,
 		"maps": {
@@ -13273,8 +13239,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/320px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+			"https://flagcdn.com/ga.svg",
+			"https://flagcdn.com/w320/ga.png"
 		],
 		"population": 2225728,
 		"maps": {
@@ -13431,8 +13397,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"
+			"https://flagcdn.com/gb.svg",
+			"https://flagcdn.com/w320/gb.png"
 		],
 		"population": 67215293,
 		"maps": {
@@ -13591,8 +13557,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/320px-Flag_of_Georgia.svg.png"
+			"https://flagcdn.com/ge.svg",
+			"https://flagcdn.com/w320/ge.png"
 		],
 		"population": 3714000,
 		"maps": {
@@ -13761,8 +13727,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/320px-Flag_of_Guernsey.svg.png"
+			"https://flagcdn.com/gg.svg",
+			"https://flagcdn.com/w320/gg.png"
 		],
 		"population": 62999,
 		"maps": {
@@ -13919,8 +13885,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/320px-Flag_of_Ghana.svg.png"
+			"https://flagcdn.com/gh.svg",
+			"https://flagcdn.com/w320/gh.png"
 		],
 		"population": 31072945,
 		"maps": {
@@ -14075,8 +14041,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/320px-Flag_of_Gibraltar.svg.png"
+			"https://flagcdn.com/gi.svg",
+			"https://flagcdn.com/w320/gi.png"
 		],
 		"population": 33691,
 		"maps": {
@@ -14238,8 +14204,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/320px-Flag_of_Guinea.svg.png"
+			"https://flagcdn.com/gn.svg",
+			"https://flagcdn.com/w320/gn.png"
 		],
 		"population": 13132792,
 		"maps": {
@@ -14393,8 +14359,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Guadeloupe.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coat_of_arms_of_Guadeloupe.svg/218px-Coat_of_arms_of_Guadeloupe.svg.png"
+			"https://flagcdn.com/gp.svg",
+			"https://flagcdn.com/w320/gp.png"
 		],
 		"population": 400132,
 		"maps": {
@@ -14550,8 +14516,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/320px-Flag_of_The_Gambia.svg.png"
+			"https://flagcdn.com/gm.svg",
+			"https://flagcdn.com/w320/gm.png"
 		],
 		"population": 2416664,
 		"maps": {
@@ -14714,8 +14680,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/320px-Flag_of_Guinea-Bissau.svg.png"
+			"https://flagcdn.com/gw.svg",
+			"https://flagcdn.com/w320/gw.png"
 		],
 		"population": 1967998,
 		"maps": {
@@ -14889,8 +14855,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/320px-Flag_of_Equatorial_Guinea.svg.png"
+			"https://flagcdn.com/gq.svg",
+			"https://flagcdn.com/w320/gq.png"
 		],
 		"population": 1402985,
 		"maps": {
@@ -15051,8 +15017,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png"
+			"https://flagcdn.com/gr.svg",
+			"https://flagcdn.com/w320/gr.png"
 		],
 		"population": 10715549,
 		"maps": {
@@ -15191,8 +15157,7 @@
 			-61.66666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 344,
 		"flag": "\ud83c\uddec\ud83c\udde9",
 		"demonyms": {
@@ -15206,8 +15171,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/320px-Flag_of_Grenada.svg.png"
+			"https://flagcdn.com/gd.svg",
+			"https://flagcdn.com/w320/gd.png"
 		],
 		"population": 112519,
 		"maps": {
@@ -15347,8 +15312,7 @@
 			-40
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 2166086,
 		"flag": "\ud83c\uddec\ud83c\uddf1",
 		"demonyms": {
@@ -15362,8 +15326,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/320px-Flag_of_Greenland.svg.png"
+			"https://flagcdn.com/gl.svg",
+			"https://flagcdn.com/w320/gl.png"
 		],
 		"population": 56367,
 		"maps": {
@@ -15521,8 +15485,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/320px-Flag_of_Guatemala.svg.png"
+			"https://flagcdn.com/gt.svg",
+			"https://flagcdn.com/w320/gt.png"
 		],
 		"population": 16858333,
 		"maps": {
@@ -15680,8 +15644,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_arms_of_French_Guyana.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Coat_of_arms_of_French_Guyana.svg/187px-Coat_of_arms_of_French_Guyana.svg.png"
+			"https://flagcdn.com/gf.svg",
+			"https://flagcdn.com/w320/gf.png"
 		],
 		"population": 254541,
 		"maps": {
@@ -15721,7 +15685,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -15831,8 +15795,7 @@
 			144.78333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 549,
 		"flag": "\ud83c\uddec\ud83c\uddfa",
 		"demonyms": {
@@ -15846,8 +15809,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/320px-Flag_of_Guam.svg.png"
+			"https://flagcdn.com/gu.svg",
+			"https://flagcdn.com/w320/gu.png"
 		],
 		"population": 168783,
 		"maps": {
@@ -16005,8 +15968,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/320px-Flag_of_Guyana.svg.png"
+			"https://flagcdn.com/gy.svg",
+			"https://flagcdn.com/w320/gy.png"
 		],
 		"population": 786559,
 		"maps": {
@@ -16163,8 +16126,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/320px-Flag_of_Hong_Kong.svg.png"
+			"https://flagcdn.com/hk.svg",
+			"https://flagcdn.com/w320/hk.png"
 		],
 		"population": 7500700,
 		"maps": {
@@ -16194,8 +16157,7 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [
-		],
+		"currencies": [],
 		"idd": {
 			"root": "",
 			"suffixes": []
@@ -16297,8 +16259,7 @@
 			72.51666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 412,
 		"flag": "\ud83c\udded\ud83c\uddf2",
 		"demonyms": {
@@ -16312,8 +16273,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/320px-Flag_of_Australia_%28converted%29.svg.png"
+			"https://flagcdn.com/hm.svg",
+			"https://flagcdn.com/w320/hm.png"
 		],
 		"population": 0,
 		"maps": {
@@ -16472,8 +16433,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png"
+			"https://flagcdn.com/hn.svg",
+			"https://flagcdn.com/w320/hn.png"
 		],
 		"population": 9904608,
 		"maps": {
@@ -16639,8 +16600,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/320px-Flag_of_Croatia.svg.png"
+			"https://flagcdn.com/hr.svg",
+			"https://flagcdn.com/w320/hr.png"
 		],
 		"population": 4047200,
 		"maps": {
@@ -16803,8 +16764,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/320px-Flag_of_Haiti.svg.png"
+			"https://flagcdn.com/ht.svg",
+			"https://flagcdn.com/w320/ht.png"
 		],
 		"population": 11402533,
 		"maps": {
@@ -16965,8 +16926,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/320px-Flag_of_Hungary.svg.png"
+			"https://flagcdn.com/hu.svg",
+			"https://flagcdn.com/w320/hu.png"
 		],
 		"population": 9749763,
 		"maps": {
@@ -17125,8 +17086,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png"
+			"https://flagcdn.com/id.svg",
+			"https://flagcdn.com/w320/id.png"
 		],
 		"population": 273523621,
 		"maps": {
@@ -17277,8 +17238,7 @@
 			-4.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 572,
 		"flag": "\ud83c\uddee\ud83c\uddf2",
 		"demonyms": {
@@ -17292,8 +17252,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/320px-Flag_of_the_Isle_of_Man.svg.png"
+			"https://flagcdn.com/im.svg",
+			"https://flagcdn.com/w320/im.png"
 		],
 		"population": 85032,
 		"maps": {
@@ -17467,8 +17427,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png"
+			"https://flagcdn.com/in.svg",
+			"https://flagcdn.com/w320/in.png"
 		],
 		"population": 1380004385,
 		"maps": {
@@ -17500,7 +17460,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -17611,8 +17571,7 @@
 			71.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 60,
 		"flag": "\ud83c\uddee\ud83c\uddf4",
 		"demonyms": {
@@ -17626,8 +17585,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/320px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png"
+			"https://flagcdn.com/io.svg",
+			"https://flagcdn.com/w320/io.png"
 		],
 		"population": 3000,
 		"maps": {
@@ -17790,8 +17749,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/320px-Flag_of_Ireland.svg.png"
+			"https://flagcdn.com/ie.svg",
+			"https://flagcdn.com/w320/ie.png"
 		],
 		"population": 4994724,
 		"maps": {
@@ -17952,8 +17911,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/320px-Flag_of_Iran.svg.png"
+			"https://flagcdn.com/ir.svg",
+			"https://flagcdn.com/w320/ir.png"
 		],
 		"population": 83992953,
 		"maps": {
@@ -18125,8 +18084,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/320px-Flag_of_Iraq.svg.png"
+			"https://flagcdn.com/iq.svg",
+			"https://flagcdn.com/w320/iq.png"
 		],
 		"population": 40222503,
 		"maps": {
@@ -18268,8 +18227,7 @@
 			-18
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 103000,
 		"flag": "\ud83c\uddee\ud83c\uddf8",
 		"demonyms": {
@@ -18283,8 +18241,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/320px-Flag_of_Iceland.svg.png"
+			"https://flagcdn.com/is.svg",
+			"https://flagcdn.com/w320/is.png"
 		],
 		"population": 366425,
 		"maps": {
@@ -18450,8 +18408,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/320px-Flag_of_Israel.svg.png"
+			"https://flagcdn.com/il.svg",
+			"https://flagcdn.com/w320/il.png"
 		],
 		"population": 9216900,
 		"maps": {
@@ -18613,8 +18571,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png"
+			"https://flagcdn.com/it.svg",
+			"https://flagcdn.com/w320/it.png"
 		],
 		"population": 59554023,
 		"maps": {
@@ -18758,8 +18716,7 @@
 			-77.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 10991,
 		"flag": "\ud83c\uddef\ud83c\uddf2",
 		"demonyms": {
@@ -18773,8 +18730,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/320px-Flag_of_Jamaica.svg.png"
+			"https://flagcdn.com/jm.svg",
+			"https://flagcdn.com/w320/jm.png"
 		],
 		"population": 2961161,
 		"maps": {
@@ -18930,8 +18887,7 @@
 			-2.16666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 116,
 		"flag": "\ud83c\uddef\ud83c\uddea",
 		"demonyms": {
@@ -18945,8 +18901,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/320px-Flag_of_Jersey.svg.png"
+			"https://flagcdn.com/je.svg",
+			"https://flagcdn.com/w320/je.png"
 		],
 		"population": 100800,
 		"maps": {
@@ -19108,8 +19064,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png"
+			"https://flagcdn.com/jo.svg",
+			"https://flagcdn.com/w320/jo.png"
 		],
 		"population": 10203140,
 		"maps": {
@@ -19251,8 +19207,7 @@
 			138
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 377930,
 		"flag": "\ud83c\uddef\ud83c\uddf5",
 		"demonyms": {
@@ -19266,8 +19221,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png"
+			"https://flagcdn.com/jp.svg",
+			"https://flagcdn.com/w320/jp.png"
 		],
 		"population": 125836021,
 		"maps": {
@@ -19440,8 +19395,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/320px-Flag_of_Kazakhstan.svg.png"
+			"https://flagcdn.com/kz.svg",
+			"https://flagcdn.com/w320/kz.png"
 		],
 		"population": 18754440,
 		"maps": {
@@ -19607,8 +19562,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/320px-Flag_of_Kenya.svg.png"
+			"https://flagcdn.com/ke.svg",
+			"https://flagcdn.com/w320/ke.png"
 		],
 		"population": 53771300,
 		"maps": {
@@ -19775,8 +19730,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/320px-Flag_of_Kyrgyzstan.svg.png"
+			"https://flagcdn.com/kg.svg",
+			"https://flagcdn.com/w320/kg.png"
 		],
 		"population": 6591600,
 		"maps": {
@@ -19812,7 +19767,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -19942,8 +19897,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/320px-Flag_of_Cambodia.svg.png"
+			"https://flagcdn.com/kh.svg",
+			"https://flagcdn.com/w320/kh.png"
 		],
 		"population": 16718971,
 		"maps": {
@@ -20093,8 +20048,7 @@
 			173
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 811,
 		"flag": "\ud83c\uddf0\ud83c\uddee",
 		"demonyms": {
@@ -20108,8 +20062,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/320px-Flag_of_Kiribati.svg.png"
+			"https://flagcdn.com/ki.svg",
+			"https://flagcdn.com/w320/ki.png"
 		],
 		"population": 119446,
 		"maps": {
@@ -20249,8 +20203,7 @@
 			-62.75
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 261,
 		"flag": "\ud83c\uddf0\ud83c\uddf3",
 		"demonyms": {
@@ -20264,8 +20217,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/320px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+			"https://flagcdn.com/kn.svg",
+			"https://flagcdn.com/w320/kn.png"
 		],
 		"population": 53192,
 		"maps": {
@@ -20425,8 +20378,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png"
+			"https://flagcdn.com/kr.svg",
+			"https://flagcdn.com/w320/kr.png"
 		],
 		"population": 51780579,
 		"maps": {
@@ -20449,8 +20402,7 @@
 				}
 			}
 		},
-		"tld": [
-		],
+		"tld": [],
 		"cca2": "XK",
 		"ccn3": "",
 		"cca3": "UNK",
@@ -20585,8 +20537,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/320px-Flag_of_Kosovo.svg.png"
+			"https://flagcdn.com/xk.svg",
+			"https://flagcdn.com/w320/xk.png"
 		],
 		"population": 1775378,
 		"maps": {
@@ -20744,8 +20696,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/320px-Flag_of_Kuwait.svg.png"
+			"https://flagcdn.com/kw.svg",
+			"https://flagcdn.com/w320/kw.png"
 		],
 		"population": 4270563,
 		"maps": {
@@ -20907,8 +20859,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/320px-Flag_of_Laos.svg.png"
+			"https://flagcdn.com/la.svg",
+			"https://flagcdn.com/w320/la.png"
 		],
 		"population": 7275556,
 		"maps": {
@@ -21071,8 +21023,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png"
+			"https://flagcdn.com/lb.svg",
+			"https://flagcdn.com/w320/lb.png"
 		],
 		"population": 6825442,
 		"maps": {
@@ -21230,8 +21182,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/320px-Flag_of_Liberia.svg.png"
+			"https://flagcdn.com/lr.svg",
+			"https://flagcdn.com/w320/lr.png"
 		],
 		"population": 5057677,
 		"maps": {
@@ -21393,8 +21345,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/320px-Flag_of_Libya.svg.png"
+			"https://flagcdn.com/ly.svg",
+			"https://flagcdn.com/w320/ly.png"
 		],
 		"population": 6871287,
 		"maps": {
@@ -21533,8 +21485,7 @@
 			-60.96666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 616,
 		"flag": "\ud83c\uddf1\ud83c\udde8",
 		"demonyms": {
@@ -21548,8 +21499,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/320px-Flag_of_Saint_Lucia.svg.png"
+			"https://flagcdn.com/lc.svg",
+			"https://flagcdn.com/w320/lc.png"
 		],
 		"population": 183629,
 		"maps": {
@@ -21707,8 +21658,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/320px-Flag_of_Liechtenstein.svg.png"
+			"https://flagcdn.com/li.svg",
+			"https://flagcdn.com/w320/li.png"
 		],
 		"population": 38137,
 		"maps": {
@@ -21872,8 +21823,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/320px-Flag_of_Sri_Lanka.svg.png"
+			"https://flagcdn.com/lk.svg",
+			"https://flagcdn.com/w320/lk.png"
 		],
 		"population": 21919000,
 		"maps": {
@@ -22039,8 +21990,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/320px-Flag_of_Lesotho.svg.png"
+			"https://flagcdn.com/ls.svg",
+			"https://flagcdn.com/w320/ls.png"
 		],
 		"population": 2142252,
 		"maps": {
@@ -22200,8 +22151,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/320px-Flag_of_Lithuania.svg.png"
+			"https://flagcdn.com/lt.svg",
+			"https://flagcdn.com/w320/lt.png"
 		],
 		"population": 2794700,
 		"maps": {
@@ -22372,8 +22323,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/320px-Flag_of_Luxembourg.svg.png"
+			"https://flagcdn.com/lu.svg",
+			"https://flagcdn.com/w320/lu.png"
 		],
 		"population": 632275,
 		"maps": {
@@ -22533,8 +22484,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/320px-Flag_of_Latvia.svg.png"
+			"https://flagcdn.com/lv.svg",
+			"https://flagcdn.com/w320/lv.png"
 		],
 		"population": 1901548,
 		"maps": {
@@ -22693,8 +22644,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/320px-Flag_of_Macau.svg.png"
+			"https://flagcdn.com/mo.svg",
+			"https://flagcdn.com/w320/mo.png"
 		],
 		"population": 649342,
 		"maps": {
@@ -22853,8 +22804,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
+			"https://flagcdn.com/mf.svg",
+			"https://flagcdn.com/w320/mf.png"
 		],
 		"population": 38659,
 		"maps": {
@@ -23019,8 +22970,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png"
+			"https://flagcdn.com/ma.svg",
+			"https://flagcdn.com/w320/ma.png"
 		],
 		"population": 36910558,
 		"maps": {
@@ -23177,8 +23128,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/300px-Flag_of_Monaco.svg.png"
+			"https://flagcdn.com/mc.svg",
+			"https://flagcdn.com/w320/mc.png"
 		],
 		"population": 39244,
 		"maps": {
@@ -23337,8 +23288,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/320px-Flag_of_Moldova.svg.png"
+			"https://flagcdn.com/md.svg",
+			"https://flagcdn.com/w320/md.png"
 		],
 		"population": 2617820,
 		"maps": {
@@ -23499,8 +23450,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/320px-Flag_of_Madagascar.svg.png"
+			"https://flagcdn.com/mg.svg",
+			"https://flagcdn.com/w320/mg.png"
 		],
 		"population": 27691019,
 		"maps": {
@@ -23642,8 +23593,7 @@
 			73
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 300,
 		"flag": "\ud83c\uddf2\ud83c\uddfb",
 		"demonyms": {
@@ -23657,8 +23607,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/320px-Flag_of_Maldives.svg.png"
+			"https://flagcdn.com/mv.svg",
+			"https://flagcdn.com/w320/mv.png"
 		],
 		"population": 540542,
 		"maps": {
@@ -23818,8 +23768,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png"
+			"https://flagcdn.com/mx.svg",
+			"https://flagcdn.com/w320/mx.png"
 		],
 		"population": 128932753,
 		"maps": {
@@ -23855,7 +23805,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -23965,8 +23915,7 @@
 			168
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 181,
 		"flag": "\ud83c\uddf2\ud83c\udded",
 		"demonyms": {
@@ -23980,8 +23929,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/320px-Flag_of_the_Marshall_Islands.svg.png"
+			"https://flagcdn.com/mh.svg",
+			"https://flagcdn.com/w320/mh.png"
 		],
 		"population": 59194,
 		"maps": {
@@ -24144,8 +24093,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/320px-Flag_of_North_Macedonia.svg.png"
+			"https://flagcdn.com/mk.svg",
+			"https://flagcdn.com/w320/mk.png"
 		],
 		"population": 2077132,
 		"maps": {
@@ -24308,8 +24257,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/320px-Flag_of_Mali.svg.png"
+			"https://flagcdn.com/ml.svg",
+			"https://flagcdn.com/w320/ml.png"
 		],
 		"population": 20250834,
 		"maps": {
@@ -24455,8 +24404,7 @@
 			14.58333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 316,
 		"flag": "\ud83c\uddf2\ud83c\uddf9",
 		"demonyms": {
@@ -24470,8 +24418,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/320px-Flag_of_Malta.svg.png"
+			"https://flagcdn.com/mt.svg",
+			"https://flagcdn.com/w320/mt.png"
 		],
 		"population": 525285,
 		"maps": {
@@ -24633,8 +24581,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/320px-Flag_of_Myanmar.svg.png"
+			"https://flagcdn.com/mm.svg",
+			"https://flagcdn.com/w320/mm.png"
 		],
 		"population": 54409794,
 		"maps": {
@@ -24794,8 +24742,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/320px-Flag_of_Montenegro.svg.png"
+			"https://flagcdn.com/me.svg",
+			"https://flagcdn.com/w320/me.png"
 		],
 		"population": 621718,
 		"maps": {
@@ -24951,8 +24899,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/320px-Flag_of_Mongolia.svg.png"
+			"https://flagcdn.com/mn.svg",
+			"https://flagcdn.com/w320/mn.png"
 		],
 		"population": 3278292,
 		"maps": {
@@ -24992,7 +24940,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -25103,8 +25051,7 @@
 			145.75
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 464,
 		"flag": "\ud83c\uddf2\ud83c\uddf5",
 		"demonyms": {
@@ -25118,8 +25065,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/320px-Flag_of_the_Northern_Mariana_Islands.svg.png"
+			"https://flagcdn.com/mp.svg",
+			"https://flagcdn.com/w320/mp.png"
 		],
 		"population": 57557,
 		"maps": {
@@ -25281,8 +25228,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/320px-Flag_of_Mozambique.svg.png"
+			"https://flagcdn.com/mz.svg",
+			"https://flagcdn.com/w320/mz.png"
 		],
 		"population": 31255435,
 		"maps": {
@@ -25442,8 +25389,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/320px-Flag_of_Mauritania.svg.png"
+			"https://flagcdn.com/mr.svg",
+			"https://flagcdn.com/w320/mr.png"
 		],
 		"population": 4649660,
 		"maps": {
@@ -25582,8 +25529,7 @@
 			-62.2
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 102,
 		"flag": "\ud83c\uddf2\ud83c\uddf8",
 		"demonyms": {
@@ -25597,8 +25543,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/320px-Flag_of_Montserrat.svg.png"
+			"https://flagcdn.com/ms.svg",
+			"https://flagcdn.com/w320/ms.png"
 		],
 		"population": 4922,
 		"maps": {
@@ -25737,8 +25683,7 @@
 			-61
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 1128,
 		"flag": "\ud83c\uddf2\ud83c\uddf6",
 		"demonyms": {
@@ -25752,8 +25697,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/da/BlasonMartinique.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BlasonMartinique.svg/202px-BlasonMartinique.svg.png"
+			"https://flagcdn.com/mq.svg",
+			"https://flagcdn.com/w320/mq.png"
 		],
 		"population": 378243,
 		"maps": {
@@ -25904,8 +25849,7 @@
 			57.55
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 2040,
 		"flag": "\ud83c\uddf2\ud83c\uddfa",
 		"demonyms": {
@@ -25919,8 +25863,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/320px-Flag_of_Mauritius.svg.png"
+			"https://flagcdn.com/mu.svg",
+			"https://flagcdn.com/w320/mu.png"
 		],
 		"population": 1265740,
 		"maps": {
@@ -26083,8 +26027,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/320px-Flag_of_Malawi.svg.png"
+			"https://flagcdn.com/mw.svg",
+			"https://flagcdn.com/w320/mw.png"
 		],
 		"population": 19129955,
 		"maps": {
@@ -26246,8 +26190,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png"
+			"https://flagcdn.com/my.svg",
+			"https://flagcdn.com/w320/my.png"
 		],
 		"population": 32365998,
 		"maps": {
@@ -26388,8 +26332,7 @@
 			45.16666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 374,
 		"flag": "\ud83c\uddfe\ud83c\uddf9",
 		"demonyms": {
@@ -26403,8 +26346,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Mayotte.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_Arms_of_Mayotte.svg/320px-Coat_of_Arms_of_Mayotte.svg.png"
+			"https://flagcdn.com/yt.svg",
+			"https://flagcdn.com/w320/yt.png"
 		],
 		"population": 226915,
 		"maps": {
@@ -26608,8 +26551,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/320px-Flag_of_Namibia.svg.png"
+			"https://flagcdn.com/na.svg",
+			"https://flagcdn.com/w320/na.png"
 		],
 		"population": 2540916,
 		"maps": {
@@ -26748,8 +26691,7 @@
 			165.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 18575,
 		"flag": "\ud83c\uddf3\ud83c\udde8",
 		"demonyms": {
@@ -26763,8 +26705,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png"
+			"https://flagcdn.com/nc.svg",
+			"https://flagcdn.com/w320/nc.png"
 		],
 		"population": 271960,
 		"maps": {
@@ -26926,8 +26868,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/280px-Flag_of_Niger.svg.png"
+			"https://flagcdn.com/ne.svg",
+			"https://flagcdn.com/w320/ne.png"
 		],
 		"population": 24206636,
 		"maps": {
@@ -27073,8 +27015,7 @@
 			167.95
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 36,
 		"flag": "\ud83c\uddf3\ud83c\uddeb",
 		"demonyms": {
@@ -27088,8 +27029,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/320px-Flag_of_Norfolk_Island.svg.png"
+			"https://flagcdn.com/nf.svg",
+			"https://flagcdn.com/w320/nf.png"
 		],
 		"population": 2302,
 		"maps": {
@@ -27250,8 +27191,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/320px-Flag_of_Nigeria.svg.png"
+			"https://flagcdn.com/ng.svg",
+			"https://flagcdn.com/w320/ng.png"
 		],
 		"population": 206139587,
 		"maps": {
@@ -27409,8 +27350,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/320px-Flag_of_Nicaragua.svg.png"
+			"https://flagcdn.com/ni.svg",
+			"https://flagcdn.com/w320/ni.png"
 		],
 		"population": 6624554,
 		"maps": {
@@ -27554,8 +27495,7 @@
 			-169.86666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 260,
 		"flag": "\ud83c\uddf3\ud83c\uddfa",
 		"demonyms": {
@@ -27569,8 +27509,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/320px-Flag_of_Niue.svg.png"
+			"https://flagcdn.com/nu.svg",
+			"https://flagcdn.com/w320/nu.png"
 		],
 		"population": 1470,
 		"maps": {
@@ -27729,8 +27669,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png"
+			"https://flagcdn.com/nl.svg",
+			"https://flagcdn.com/w320/nl.png"
 		],
 		"population": 40812,
 		"maps": {
@@ -27902,8 +27842,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
+			"https://flagcdn.com/no.svg",
+			"https://flagcdn.com/w320/no.png"
 		],
 		"population": 5379475,
 		"maps": {
@@ -28061,8 +28001,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/197px-Flag_of_Nepal.svg.png"
+			"https://flagcdn.com/np.svg",
+			"https://flagcdn.com/w320/np.png"
 		],
 		"population": 29136808,
 		"maps": {
@@ -28210,8 +28150,7 @@
 			166.91666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 21,
 		"flag": "\ud83c\uddf3\ud83c\uddf7",
 		"demonyms": {
@@ -28225,8 +28164,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/320px-Flag_of_Nauru.svg.png"
+			"https://flagcdn.com/nr.svg",
+			"https://flagcdn.com/w320/nr.png"
 		],
 		"population": 10834,
 		"maps": {
@@ -28376,8 +28315,7 @@
 			174
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 270467,
 		"flag": "\ud83c\uddf3\ud83c\uddff",
 		"demonyms": {
@@ -28391,8 +28329,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png"
+			"https://flagcdn.com/nz.svg",
+			"https://flagcdn.com/w320/nz.png"
 		],
 		"population": 5084300,
 		"maps": {
@@ -28551,8 +28489,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/320px-Flag_of_Oman.svg.png"
+			"https://flagcdn.com/om.svg",
+			"https://flagcdn.com/w320/om.png"
 		],
 		"population": 5106622,
 		"maps": {
@@ -28718,8 +28656,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/320px-Flag_of_Pakistan.svg.png"
+			"https://flagcdn.com/pk.svg",
+			"https://flagcdn.com/w320/pk.png"
 		],
 		"population": 220892331,
 		"maps": {
@@ -28751,11 +28689,11 @@
 		"currencies": {
 			"PAB": {
 				"name": "Panamanian balboa",
-				"symbol": "B\/."
+				"symbol": "B/."
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -28881,8 +28819,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/320px-Flag_of_Panama.svg.png"
+			"https://flagcdn.com/pa.svg",
+			"https://flagcdn.com/w320/pa.png"
 		],
 		"population": 4314768,
 		"maps": {
@@ -29023,8 +28961,7 @@
 			-130.1
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 47,
 		"flag": "\ud83c\uddf5\ud83c\uddf3",
 		"demonyms": {
@@ -29038,8 +28975,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/320px-Flag_of_the_Pitcairn_Islands.svg.png"
+			"https://flagcdn.com/pn.svg",
+			"https://flagcdn.com/w320/pn.png"
 		],
 		"population": 56,
 		"maps": {
@@ -29079,7 +29016,7 @@
 		"currencies": {
 			"PEN": {
 				"name": "Peruvian sol",
-				"symbol": "S\/ "
+				"symbol": "S/ "
 			}
 		},
 		"idd": {
@@ -29210,8 +29147,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png"
+			"https://flagcdn.com/pe.svg",
+			"https://flagcdn.com/w320/pe.png"
 		],
 		"population": 32971846,
 		"maps": {
@@ -29357,8 +29294,7 @@
 			122
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 342353,
 		"flag": "\ud83c\uddf5\ud83c\udded",
 		"demonyms": {
@@ -29372,8 +29308,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png"
+			"https://flagcdn.com/ph.svg",
+			"https://flagcdn.com/w320/ph.png"
 		],
 		"population": 109581085,
 		"maps": {
@@ -29409,7 +29345,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -29519,8 +29455,7 @@
 			134.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 459,
 		"flag": "\ud83c\uddf5\ud83c\uddfc",
 		"demonyms": {
@@ -29534,8 +29469,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/320px-Flag_of_Palau.svg.png"
+			"https://flagcdn.com/pw.svg",
+			"https://flagcdn.com/w320/pw.png"
 		],
 		"population": 18092,
 		"maps": {
@@ -29702,8 +29637,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/320px-Flag_of_Papua_New_Guinea.svg.png"
+			"https://flagcdn.com/pg.svg",
+			"https://flagcdn.com/w320/pg.png"
 		],
 		"population": 8947027,
 		"maps": {
@@ -29866,8 +29801,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png"
+			"https://flagcdn.com/pl.svg",
+			"https://flagcdn.com/w320/pl.png"
 		],
 		"population": 37950802,
 		"maps": {
@@ -29903,7 +29838,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -30014,8 +29949,7 @@
 			-66.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 8870,
 		"flag": "\ud83c\uddf5\ud83c\uddf7",
 		"demonyms": {
@@ -30029,8 +29963,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/320px-Flag_of_Puerto_Rico.svg.png"
+			"https://flagcdn.com/pr.svg",
+			"https://flagcdn.com/w320/pr.png"
 		],
 		"population": 3194034,
 		"maps": {
@@ -30194,8 +30128,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/320px-Flag_of_North_Korea.svg.png"
+			"https://flagcdn.com/kp.svg",
+			"https://flagcdn.com/w320/kp.png"
 		],
 		"population": 25778815,
 		"maps": {
@@ -30353,8 +30287,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png"
+			"https://flagcdn.com/pt.svg",
+			"https://flagcdn.com/w320/pt.png"
 		],
 		"population": 10305564,
 		"maps": {
@@ -30519,8 +30453,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png"
+			"https://flagcdn.com/py.svg",
+			"https://flagcdn.com/w320/py.png"
 		],
 		"population": 7132530,
 		"maps": {
@@ -30689,8 +30623,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png"
+			"https://flagcdn.com/ps.svg",
+			"https://flagcdn.com/w320/ps.png"
 		],
 		"population": 4803269,
 		"maps": {
@@ -30832,8 +30766,7 @@
 			-140
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 4167,
 		"flag": "\ud83c\uddf5\ud83c\uddeb",
 		"demonyms": {
@@ -30847,8 +30780,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/320px-Flag_of_French_Polynesia.svg.png"
+			"https://flagcdn.com/pf.svg",
+			"https://flagcdn.com/w320/pf.png"
 		],
 		"population": 280904,
 		"maps": {
@@ -31006,8 +30939,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/320px-Flag_of_Qatar.svg.png"
+			"https://flagcdn.com/qa.svg",
+			"https://flagcdn.com/w320/qa.png"
 		],
 		"population": 2881060,
 		"maps": {
@@ -31147,8 +31080,7 @@
 			55.5
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 2511,
 		"flag": "\ud83c\uddf7\ud83c\uddea",
 		"demonyms": {
@@ -31162,8 +31094,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/39/Armoiries_R%C3%A9union.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Armoiries_R%C3%A9union.svg/313px-Armoiries_R%C3%A9union.svg.png"
+			"https://flagcdn.com/re.svg",
+			"https://flagcdn.com/w320/re.png"
 		],
 		"population": 840974,
 		"maps": {
@@ -31325,8 +31257,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/320px-Flag_of_Romania.svg.png"
+			"https://flagcdn.com/ro.svg",
+			"https://flagcdn.com/w320/ro.png"
 		],
 		"population": 19286123,
 		"maps": {
@@ -31502,8 +31434,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png"
+			"https://flagcdn.com/ru.svg",
+			"https://flagcdn.com/w320/ru.png"
 		],
 		"population": 144104080,
 		"maps": {
@@ -31674,8 +31606,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/320px-Flag_of_Rwanda.svg.png"
+			"https://flagcdn.com/rw.svg",
+			"https://flagcdn.com/w320/rw.png"
 		],
 		"population": 12952209,
 		"maps": {
@@ -31840,8 +31772,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png"
+			"https://flagcdn.com/sa.svg",
+			"https://flagcdn.com/w320/sa.png"
 		],
 		"population": 34813867,
 		"maps": {
@@ -32009,8 +31941,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/320px-Flag_of_Sudan.svg.png"
+			"https://flagcdn.com/sd.svg",
+			"https://flagcdn.com/w320/sd.png"
 		],
 		"population": 43849269,
 		"maps": {
@@ -32171,8 +32103,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/320px-Flag_of_Senegal.svg.png"
+			"https://flagcdn.com/sn.svg",
+			"https://flagcdn.com/w320/sn.png"
 		],
 		"population": 16743930,
 		"maps": {
@@ -32327,8 +32259,7 @@
 			103.8
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 710,
 		"flag": "\ud83c\uddf8\ud83c\uddec",
 		"demonyms": {
@@ -32342,8 +32273,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/320px-Flag_of_Singapore.svg.png"
+			"https://flagcdn.com/sg.svg",
+			"https://flagcdn.com/w320/sg.png"
 		],
 		"population": 5685807,
 		"maps": {
@@ -32483,8 +32414,7 @@
 			-37
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 3903,
 		"flag": "\ud83c\uddec\ud83c\uddf8",
 		"demonyms": {
@@ -32498,8 +32428,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/320px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png"
+			"https://flagcdn.com/gs.svg",
+			"https://flagcdn.com/w320/gs.png"
 		],
 		"population": 30,
 		"maps": {
@@ -32639,8 +32569,7 @@
 			20
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": -1,
 		"flag": "\ud83c\uddf8\ud83c\uddef",
 		"demonyms": {
@@ -32654,8 +32583,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png"
+			"https://flagcdn.com/sj.svg",
+			"https://flagcdn.com/w320/sj.png"
 		],
 		"population": 2562,
 		"maps": {
@@ -32794,8 +32723,7 @@
 			159
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 28896,
 		"flag": "\ud83c\uddf8\ud83c\udde7",
 		"demonyms": {
@@ -32809,8 +32737,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/320px-Flag_of_the_Solomon_Islands.svg.png"
+			"https://flagcdn.com/sb.svg",
+			"https://flagcdn.com/w320/sb.png"
 		],
 		"population": 686878,
 		"maps": {
@@ -32967,8 +32895,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/320px-Flag_of_Sierra_Leone.svg.png"
+			"https://flagcdn.com/sl.svg",
+			"https://flagcdn.com/w320/sl.png"
 		],
 		"population": 7976985,
 		"maps": {
@@ -33000,7 +32928,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -33130,8 +33058,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/320px-Flag_of_El_Salvador.svg.png"
+			"https://flagcdn.com/sv.svg",
+			"https://flagcdn.com/w320/sv.png"
 		],
 		"population": 6486201,
 		"maps": {
@@ -33288,8 +33216,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/320px-Flag_of_San_Marino.svg.png"
+			"https://flagcdn.com/sm.svg",
+			"https://flagcdn.com/w320/sm.png"
 		],
 		"population": 33938,
 		"maps": {
@@ -33455,8 +33383,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/320px-Flag_of_Somalia.svg.png"
+			"https://flagcdn.com/so.svg",
+			"https://flagcdn.com/w320/so.png"
 		],
 		"population": 15893219,
 		"maps": {
@@ -33596,8 +33524,7 @@
 			-56.33333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 242,
 		"flag": "\ud83c\uddf5\ud83c\uddf2",
 		"demonyms": {
@@ -33611,8 +33538,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e7/Armoiries_SaintPierreetMiquelon.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Armoiries_SaintPierreetMiquelon.svg/177px-Armoiries_SaintPierreetMiquelon.svg.png"
+			"https://flagcdn.com/pm.svg",
+			"https://flagcdn.com/w320/pm.png"
 		],
 		"population": 6069,
 		"maps": {
@@ -33779,8 +33706,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png"
+			"https://flagcdn.com/rs.svg",
+			"https://flagcdn.com/w320/rs.png"
 		],
 		"population": 6908224,
 		"maps": {
@@ -33940,8 +33867,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/320px-Flag_of_South_Sudan.svg.png"
+			"https://flagcdn.com/ss.svg",
+			"https://flagcdn.com/w320/ss.png"
 		],
 		"population": 11193729,
 		"maps": {
@@ -34083,8 +34010,7 @@
 			7
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 964,
 		"flag": "\ud83c\uddf8\ud83c\uddf9",
 		"demonyms": {
@@ -34098,8 +34024,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/320px-Flag_of_Sao_Tome_and_Principe.svg.png"
+			"https://flagcdn.com/st.svg",
+			"https://flagcdn.com/w320/st.png"
 		],
 		"population": 219161,
 		"maps": {
@@ -34260,8 +34186,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/320px-Flag_of_Suriname.svg.png"
+			"https://flagcdn.com/sr.svg",
+			"https://flagcdn.com/w320/sr.png"
 		],
 		"population": 586634,
 		"maps": {
@@ -34422,8 +34348,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/320px-Flag_of_Slovakia.svg.png"
+			"https://flagcdn.com/sk.svg",
+			"https://flagcdn.com/w320/sk.png"
 		],
 		"population": 5458827,
 		"maps": {
@@ -34583,8 +34509,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/320px-Flag_of_Slovenia.svg.png"
+			"https://flagcdn.com/si.svg",
+			"https://flagcdn.com/w320/si.png"
 		],
 		"population": 2100126,
 		"maps": {
@@ -34742,8 +34668,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png"
+			"https://flagcdn.com/se.svg",
+			"https://flagcdn.com/w320/se.png"
 		],
 		"population": 10353442,
 		"maps": {
@@ -34914,8 +34840,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/320px-Flag_of_Eswatini.svg.png"
+			"https://flagcdn.com/sz.svg",
+			"https://flagcdn.com/w320/sz.png"
 		],
 		"population": 1160164,
 		"maps": {
@@ -35081,8 +35007,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/320px-Flag_of_Sint_Maarten.svg.png"
+			"https://flagcdn.com/sx.svg",
+			"https://flagcdn.com/w320/sx.png"
 		],
 		"population": 40812,
 		"maps": {
@@ -35234,8 +35160,7 @@
 			55.66666666
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 452,
 		"flag": "\ud83c\uddf8\ud83c\udde8",
 		"demonyms": {
@@ -35249,8 +35174,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/320px-Flag_of_Seychelles.svg.png"
+			"https://flagcdn.com/sc.svg",
+			"https://flagcdn.com/w320/sc.png"
 		],
 		"population": 98462,
 		"maps": {
@@ -35412,8 +35337,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/320px-Flag_of_Syria.svg.png"
+			"https://flagcdn.com/sy.svg",
+			"https://flagcdn.com/w320/sy.png"
 		],
 		"population": 17500657,
 		"maps": {
@@ -35445,7 +35370,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -35552,8 +35477,7 @@
 			-71.58333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 948,
 		"flag": "\ud83c\uddf9\ud83c\udde8",
 		"demonyms": {
@@ -35567,8 +35491,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/320px-Flag_of_the_Turks_and_Caicos_Islands.svg.png"
+			"https://flagcdn.com/tc.svg",
+			"https://flagcdn.com/w320/tc.png"
 		],
 		"population": 38718,
 		"maps": {
@@ -35740,8 +35664,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/320px-Flag_of_Chad.svg.png"
+			"https://flagcdn.com/td.svg",
+			"https://flagcdn.com/w320/td.png"
 		],
 		"population": 16425859,
 		"maps": {
@@ -35901,8 +35825,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/320px-Flag_of_Togo.svg.png"
+			"https://flagcdn.com/tg.svg",
+			"https://flagcdn.com/w320/tg.png"
 		],
 		"population": 8278737,
 		"maps": {
@@ -36066,8 +35990,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png"
+			"https://flagcdn.com/th.svg",
+			"https://flagcdn.com/w320/th.png"
 		],
 		"population": 69799978,
 		"maps": {
@@ -36234,8 +36158,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/320px-Flag_of_Tajikistan.svg.png"
+			"https://flagcdn.com/tj.svg",
+			"https://flagcdn.com/w320/tj.png"
 		],
 		"population": 9537642,
 		"maps": {
@@ -36384,8 +36308,7 @@
 			-172
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 12,
 		"flag": "\ud83c\uddf9\ud83c\uddf0",
 		"demonyms": {
@@ -36399,8 +36322,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/320px-Flag_of_Tokelau.svg.png"
+			"https://flagcdn.com/tk.svg",
+			"https://flagcdn.com/w320/tk.png"
 		],
 		"population": 1411,
 		"maps": {
@@ -36563,8 +36486,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/320px-Flag_of_Turkmenistan.svg.png"
+			"https://flagcdn.com/tm.svg",
+			"https://flagcdn.com/w320/tm.png"
 		],
 		"population": 6031187,
 		"maps": {
@@ -36600,7 +36523,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -36730,8 +36653,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/320px-Flag_of_East_Timor.svg.png"
+			"https://flagcdn.com/tl.svg",
+			"https://flagcdn.com/w320/tl.png"
 		],
 		"population": 1318442,
 		"maps": {
@@ -36875,8 +36798,7 @@
 			-175
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 747,
 		"flag": "\ud83c\uddf9\ud83c\uddf4",
 		"demonyms": {
@@ -36890,8 +36812,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/320px-Flag_of_Tonga.svg.png"
+			"https://flagcdn.com/to.svg",
+			"https://flagcdn.com/w320/to.png"
 		],
 		"population": 105697,
 		"maps": {
@@ -37031,8 +36953,7 @@
 			-61
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 5130,
 		"flag": "\ud83c\uddf9\ud83c\uddf9",
 		"demonyms": {
@@ -37046,8 +36967,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/320px-Flag_of_Trinidad_and_Tobago.svg.png"
+			"https://flagcdn.com/tt.svg",
+			"https://flagcdn.com/w320/tt.png"
 		],
 		"population": 1399491,
 		"maps": {
@@ -37205,8 +37126,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/320px-Flag_of_Tunisia.svg.png"
+			"https://flagcdn.com/tn.svg",
+			"https://flagcdn.com/w320/tn.png"
 		],
 		"population": 11818618,
 		"maps": {
@@ -37371,8 +37292,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png"
+			"https://flagcdn.com/tr.svg",
+			"https://flagcdn.com/w320/tr.png"
 		],
 		"population": 84339067,
 		"maps": {
@@ -37520,8 +37441,7 @@
 			178
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 26,
 		"flag": "\ud83c\uddf9\ud83c\uddfb",
 		"demonyms": {
@@ -37535,8 +37455,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/320px-Flag_of_Tuvalu.svg.png"
+			"https://flagcdn.com/tv.svg",
+			"https://flagcdn.com/w320/tv.png"
 		],
 		"population": 11792,
 		"maps": {
@@ -37678,8 +37598,7 @@
 			121
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 36193,
 		"flag": "\ud83c\uddf9\ud83c\uddfc",
 		"demonyms": {
@@ -37693,8 +37612,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/320px-Flag_of_the_Republic_of_China.svg.png"
+			"https://flagcdn.com/tw.svg",
+			"https://flagcdn.com/w320/tw.png"
 		],
 		"population": 23503349,
 		"maps": {
@@ -37864,8 +37783,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/320px-Flag_of_Tanzania.svg.png"
+			"https://flagcdn.com/tz.svg",
+			"https://flagcdn.com/w320/tz.png"
 		],
 		"population": 59734213,
 		"maps": {
@@ -38031,8 +37950,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/320px-Flag_of_Uganda.svg.png"
+			"https://flagcdn.com/ug.svg",
+			"https://flagcdn.com/w320/ug.png"
 		],
 		"population": 45741000,
 		"maps": {
@@ -38195,8 +38114,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"
+			"https://flagcdn.com/ua.svg",
+			"https://flagcdn.com/w320/ua.png"
 		],
 		"population": 44134693,
 		"maps": {
@@ -38228,7 +38147,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -38333,8 +38252,7 @@
 			166.633333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 34.2,
 		"flag": "\ud83c\uddfa\ud83c\uddf2",
 		"demonyms": {
@@ -38348,8 +38266,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"
+			"https://flagcdn.com/um.svg",
+			"https://flagcdn.com/w320/um.png"
 		],
 		"population": 300,
 		"maps": {
@@ -38507,8 +38425,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png"
+			"https://flagcdn.com/uy.svg",
+			"https://flagcdn.com/w320/uy.png"
 		],
 		"population": 3473727,
 		"maps": {
@@ -38540,7 +38458,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -38982,8 +38900,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
-			"https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"
+			"https://flagcdn.com/us.svg",
+			"https://flagcdn.com/w320/us.png"
 		],
 		"population": 329484123,
 		"maps": {
@@ -39150,8 +39068,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/320px-Flag_of_Uzbekistan.svg.png"
+			"https://flagcdn.com/uz.svg",
+			"https://flagcdn.com/w320/uz.png"
 		],
 		"population": 34232050,
 		"maps": {
@@ -39315,8 +39233,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/240px-Flag_of_the_Vatican_City.svg.png"
+			"https://flagcdn.com/va.svg",
+			"https://flagcdn.com/w320/va.png"
 		],
 		"population": 451,
 		"maps": {
@@ -39455,8 +39373,7 @@
 			-61.2
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 389,
 		"flag": "\ud83c\uddfb\ud83c\udde8",
 		"demonyms": {
@@ -39470,8 +39387,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/320px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+			"https://flagcdn.com/vc.svg",
+			"https://flagcdn.com/w320/vc.png"
 		],
 		"population": 110947,
 		"maps": {
@@ -39631,8 +39548,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png"
+			"https://flagcdn.com/ve.svg",
+			"https://flagcdn.com/w320/ve.png"
 		],
 		"population": 28435943,
 		"maps": {
@@ -39664,7 +39581,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -39772,8 +39689,7 @@
 			-64.62305
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 151,
 		"flag": "\ud83c\uddfb\ud83c\uddec",
 		"demonyms": {
@@ -39787,8 +39703,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/320px-Flag_of_the_British_Virgin_Islands.svg.png"
+			"https://flagcdn.com/vg.svg",
+			"https://flagcdn.com/w320/vg.png"
 		],
 		"population": 30237,
 		"maps": {
@@ -39820,7 +39736,7 @@
 		"currencies": {
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			}
 		},
 		"idd": {
@@ -39928,8 +39844,7 @@
 			-64.933333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 347,
 		"flag": "\ud83c\uddfb\ud83c\uddee",
 		"demonyms": {
@@ -39943,8 +39858,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/320px-Flag_of_the_United_States_Virgin_Islands.svg.png"
+			"https://flagcdn.com/vi.svg",
+			"https://flagcdn.com/w320/vi.png"
 		],
 		"population": 106290,
 		"maps": {
@@ -40104,8 +40019,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png"
+			"https://flagcdn.com/vn.svg",
+			"https://flagcdn.com/w320/vn.png"
 		],
 		"population": 97338583,
 		"maps": {
@@ -40257,8 +40172,7 @@
 			167
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 12189,
 		"flag": "\ud83c\uddfb\ud83c\uddfa",
 		"demonyms": {
@@ -40272,8 +40186,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/320px-Flag_of_Vanuatu_%28official%29.svg.png"
+			"https://flagcdn.com/vu.svg",
+			"https://flagcdn.com/w320/vu.png"
 		],
 		"population": 307150,
 		"maps": {
@@ -40414,8 +40328,7 @@
 			-176.2
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 142,
 		"flag": "\ud83c\uddfc\ud83c\uddeb",
 		"demonyms": {
@@ -40429,8 +40342,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/320px-Flag_of_Wallis_and_Futuna.svg.png"
+			"https://flagcdn.com/wf.svg",
+			"https://flagcdn.com/w320/wf.png"
 		],
 		"population": 11750,
 		"maps": {
@@ -40576,8 +40489,7 @@
 			-172.33333333
 		],
 		"landlocked": false,
-		"borders": [
-		],
+		"borders": [],
 		"area": 2842,
 		"flag": "\ud83c\uddfc\ud83c\uddf8",
 		"demonyms": {
@@ -40591,8 +40503,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/320px-Flag_of_Samoa.svg.png"
+			"https://flagcdn.com/ws.svg",
+			"https://flagcdn.com/w320/ws.png"
 		],
 		"population": 198410,
 		"maps": {
@@ -40750,8 +40662,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/320px-Flag_of_Yemen.svg.png"
+			"https://flagcdn.com/ye.svg",
+			"https://flagcdn.com/w320/ye.png"
 		],
 		"population": 29825968,
 		"maps": {
@@ -40966,8 +40878,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png"
+			"https://flagcdn.com/za.svg",
+			"https://flagcdn.com/w320/za.png"
 		],
 		"population": 59308690,
 		"maps": {
@@ -41130,8 +41042,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/320px-Flag_of_Zambia.svg.png"
+			"https://flagcdn.com/zm.svg",
+			"https://flagcdn.com/w320/zm.png"
 		],
 		"population": 18383956,
 		"maps": {
@@ -41243,7 +41155,7 @@
 			},
 			"USD": {
 				"name": "United States dollar",
-				"symbol": "\u0024"
+				"symbol": "$"
 			},
 			"ZAR": {
 				"name": "South African rand",
@@ -41392,8 +41304,8 @@
 			}
 		},
 		"flags": [
-			"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
-			"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/320px-Flag_of_Zimbabwe.svg.png"
+			"https://flagcdn.com/zw.svg",
+			"https://flagcdn.com/w320/zw.png"
 		],
 		"population": 14862927,
 		"maps": {
