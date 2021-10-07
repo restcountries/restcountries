@@ -82,17 +82,21 @@
 		],
 		"translations": {
 			"br": "Afeganist\u00e3o",
+			"cs": "Afg\u00e1nist\u00e1n",
 			"de": "Afghanistan",
 			"es": "Afganist\u00e1n",
 			"fa": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
 			"fr": "Afghanistan",
 			"hr": "Afganistan",
+			"hu": "Afganiszt\u00e1n",
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Afghanistan",
 			"pl": "Afganistan",
 			"pt": "Afeganist\u00e3o",
-			"hu": "Afganiszt\u00e1n"
+			"ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+			"se": "Afghanistan",
+			"zh": "\u963f\u5bcc\u6c57\u4f0a\u65af\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "AFG"
 	},
@@ -162,6 +166,7 @@
 		],
 		"translations": {
 			"br": "Ilhas de Aland",
+			"cs": "\u00c5landy",
 			"de": "\u00c5land",
 			"es": "Alandia",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f",
@@ -172,7 +177,10 @@
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
 			"nl": "\u00c5landeilanden",
 			"pl": "Wyspy Alandzkie",
-			"pt": "Ilhas de Aland"
+			"pt": "Ilhas de Aland",
+			"ru": "\u00c5land Islands",
+			"se": "\u00c5land",
+			"zh": "\u5965\u5170\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -247,17 +255,21 @@
 		],
 		"translations": {
 			"br": "Alb\u00e2nia",
+			"cs": "Alb\u00e1nie",
 			"de": "Albanien",
 			"es": "Albania",
 			"fa": "\u0622\u0644\u0628\u0627\u0646\u06cc",
 			"fr": "Albanie",
 			"hr": "Albanija",
+			"hu": "Alb\u00e1nia",
 			"it": "Albania",
 			"ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
 			"nl": "Albani\u00eb",
 			"pl": "Albania",
 			"pt": "Alb\u00e2nia",
-			"hu": "Alb\u00e1nia"
+			"ru": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f",
+			"se": "Albanien",
+			"zh": "\u963f\u5c14\u5df4\u5c3c\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "ALB"
 	},
@@ -350,17 +362,21 @@
 		],
 		"translations": {
 			"br": "Arg\u00e9lia",
+			"cs": "Al\u017e\u00edrsko",
 			"de": "Algerien",
 			"es": "Argelia",
 			"fa": "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631",
 			"fr": "Alg\u00e9rie",
 			"hr": "Al\u017eir",
+			"hu": "Alg\u00e9ria",
 			"it": "Algeria",
 			"ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
 			"nl": "Algerije",
 			"pl": "Algieria",
 			"pt": "Arg\u00e9lia",
-			"hu": "Alg\u00e9ria"
+			"ru": "\u0410\u043b\u0436\u0438\u0440",
+			"se": "Algeriet",
+			"zh": "\u963f\u5c14\u53ca\u5229\u4e9a\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "ALG"
 	},
@@ -430,17 +446,21 @@
 		],
 		"translations": {
 			"br": "Samoa Americana",
+			"cs": "Americk\u00e1 Samoa",
 			"de": "Amerikanisch-Samoa",
 			"es": "Samoa Americana",
 			"fa": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
 			"fr": "Samoa am\u00e9ricaines",
 			"hr": "Ameri\u010dka Samoa",
+			"hu": "Amerikai Szamoa",
 			"it": "Samoa Americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
 			"nl": "Amerikaans Samoa",
 			"pl": "Samoa Ameryka\u0144skie",
 			"pt": "Samoa Americana",
-			"hu": "Amerikai Szamoa"
+			"ru": "American Samoa",
+			"se": "Amerikanska Samoa",
+			"zh": "\u7f8e\u5c5e\u8428\u6469\u4e9a"
 		},
 		"cioc": "ASA"
 	},
@@ -506,17 +526,21 @@
 		],
 		"translations": {
 			"br": "Andorra",
+			"cs": "Andorra",
 			"de": "Andorra",
 			"es": "Andorra",
 			"fa": "\u0622\u0646\u062f\u0648\u0631\u0627",
 			"fr": "Andorre",
 			"hr": "Andora",
+			"hu": "Andorra",
 			"it": "Andorra",
 			"ja": "\u30a2\u30f3\u30c9\u30e9",
 			"nl": "Andorra",
 			"pl": "Andora",
 			"pt": "Andorra",
-			"hu": "Andorra"
+			"ru": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430",
+			"se": "Andorra",
+			"zh": "\u5b89\u9053\u5c14\u516c\u56fd"
 		},
 		"cioc": "AND"
 	},
@@ -597,16 +621,21 @@
 		],
 		"translations": {
 			"br": "Angola",
+			"cs": "Angola",
 			"de": "Angola",
 			"es": "Angola",
 			"fa": "\u0622\u0646\u06af\u0648\u0644\u0627",
 			"fr": "Angola",
 			"hr": "Angola",
+			"hu": "Angola",
 			"it": "Angola",
 			"ja": "\u30a2\u30f3\u30b4\u30e9",
 			"nl": "Angola",
+			"pl": "Angola",
 			"pt": "Angola",
-			"hu": "Angola"
+			"ru": "\u0410\u043d\u0433\u043e\u043b\u0430",
+			"se": "Angola",
+			"zh": "\u5b89\u54e5\u62c9\u5171\u548c\u56fd"
 		},
 		"cioc": "ANG"
 	},
@@ -667,16 +696,21 @@
 		],
 		"translations": {
 			"br": "Anguila",
+			"cs": "Anguilla",
 			"de": "Anguilla",
 			"es": "Anguilla",
 			"fa": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627",
 			"fr": "Anguilla",
 			"hr": "Angvila",
+			"hu": "Anguilla",
 			"it": "Anguilla",
 			"ja": "\u30a2\u30f3\u30ae\u30e9",
 			"nl": "Anguilla",
+			"pl": "Anguilla",
 			"pt": "Anguila",
-			"hu": "Anguilla"
+			"ru": "Anguilla",
+			"se": "Anguilla",
+			"zh": "\u5b89\u572d\u62c9"
 		},
 		"cioc": ""
 	},
@@ -742,16 +776,21 @@
 		],
 		"translations": {
 			"br": "Ant\u00e1rtida",
+			"cs": "Antarktida",
 			"de": "Antarktika",
 			"es": "Ant\u00e1rtida",
 			"fa": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646",
 			"fr": "Antarctique",
 			"hr": "Antarktika",
+			"hu": "Antarktisz",
 			"it": "Antartide",
 			"ja": "\u5357\u6975\u5927\u9678",
 			"nl": "Antarctica",
+			"pl": "Antarktyda",
 			"pt": "Ant\u00e1rctida",
-			"hu": "Antarktisz"
+			"ru": "Antarctica",
+			"se": "Antarktis",
+			"zh": "\u5357\u6781\u6d32"
 		},
 		"cioc": ""
 	},
@@ -822,16 +861,21 @@
 		],
 		"translations": {
 			"br": "Ant\u00edgua e Barbuda",
+			"cs": "Antigua a Barbuda",
 			"de": "Antigua und Barbuda",
 			"es": "Antigua y Barbuda",
 			"fa": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627",
 			"fr": "Antigua-et-Barbuda",
 			"hr": "Antigva i Barbuda",
+			"hu": "Antigua \u00e9s Barbuda",
 			"it": "Antigua e Barbuda",
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
 			"nl": "Antigua en Barbuda",
+			"pl": "Antigua i Barbuda",
 			"pt": "Ant\u00edgua e Barbuda",
-			"hu": "Antigua \u00e9s Barbuda"
+			"ru": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
+			"se": "Antigua och Barbuda",
+			"zh": "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
 		},
 		"cioc": "ANT"
 	},
@@ -923,16 +967,21 @@
 		],
 		"translations": {
 			"br": "Argentina",
+			"cs": "Argentina",
 			"de": "Argentinien",
 			"es": "Argentina",
 			"fa": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
 			"fr": "Argentine",
 			"hr": "Argentina",
+			"hu": "Argent\u00edna",
 			"it": "Argentina",
 			"ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
 			"nl": "Argentini\u00eb",
+			"pl": "Argentyna",
 			"pt": "Argentina",
-			"hu": "Argent\u00edna"
+			"ru": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+			"se": "Argentina",
+			"zh": "\u963f\u6839\u5ef7\u5171\u548c\u56fd"
 		},
 		"cioc": "ARG"
 	},
@@ -1010,16 +1059,21 @@
 		],
 		"translations": {
 			"br": "Arm\u00eania",
+			"cs": "Arm\u00e9nie",
 			"de": "Armenien",
 			"es": "Armenia",
 			"fa": "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646",
 			"fr": "Arm\u00e9nie",
 			"hr": "Armenija",
+			"hu": "\u00d6rm\u00e9nyorsz\u00e1g",
 			"it": "Armenia",
 			"ja": "\u30a2\u30eb\u30e1\u30cb\u30a2",
 			"nl": "Armeni\u00eb",
+			"pl": "Armenia",
 			"pt": "Arm\u00e9nia",
-			"hu": "\u00d6rm\u00e9nyorsz\u00e1g"
+			"ru": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+			"se": "Armenien",
+			"zh": "\u4e9a\u7f8e\u5c3c\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "ARM"
 	},
@@ -1086,16 +1140,21 @@
 		],
 		"translations": {
 			"br": "Aruba",
+			"cs": "Aruba",
 			"de": "Aruba",
 			"es": "Aruba",
 			"fa": "\u0622\u0631\u0648\u0628\u0627",
 			"fr": "Aruba",
 			"hr": "Aruba",
+			"hu": "Aruba",
 			"it": "Aruba",
 			"ja": "\u30a2\u30eb\u30d0",
 			"nl": "Aruba",
+			"pl": "Aruba",
 			"pt": "Aruba",
-			"hu": "Aruba"
+			"ru": "Aruba",
+			"se": "Aruba",
+			"zh": "\u963f\u9c81\u5df4"
 		},
 		"cioc": "ARU"
 	},
@@ -1164,16 +1223,21 @@
 		],
 		"translations": {
 			"br": "Austr\u00e1lia",
+			"cs": "Austr\u00e1lie",
 			"de": "Australien",
 			"es": "Australia",
 			"fa": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
 			"fr": "Australie",
 			"hr": "Australija",
+			"hu": "Ausztr\u00e1lia",
 			"it": "Australia",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
 			"nl": "Australi\u00eb",
+			"pl": "Australia",
 			"pt": "Austr\u00e1lia",
-			"hu": "Ausztr\u00e1lia"
+			"ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+			"se": "Australien",
+			"zh": "\u6fb3\u5927\u5229\u4e9a\u8054\u90a6"
 		},
 		"cioc": "AUS"
 	},
@@ -1252,16 +1316,21 @@
 		],
 		"translations": {
 			"br": "\u00c1ustria",
+			"cs": "Rakousko",
 			"de": "\u00d6sterreich",
 			"es": "Austria",
 			"fa": "\u0627\u062a\u0631\u06cc\u0634",
 			"fr": "Autriche",
 			"hr": "Austrija",
+			"hu": "Ausztria",
 			"it": "Austria",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
 			"nl": "Oostenrijk",
+			"pl": "Austria",
 			"pt": "\u00c1ustria",
-			"hu": "Ausztria"
+			"ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+			"se": "\u00d6sterrike",
+			"zh": "\u5965\u5730\u5229\u5171\u548c\u56fd"
 		},
 		"cioc": "AUT"
 	},
@@ -1328,16 +1397,21 @@
 		],
 		"translations": {
 			"br": "Azerbaij\u00e3o",
+			"cs": "\u00c1zerb\u00e1jd\u017e\u00e1n",
 			"de": "Aserbaidschan",
 			"es": "Azerbaiy\u00e1n",
 			"fa": "\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646",
 			"fr": "Azerba\u00efdjan",
 			"hr": "Azerbajd\u017ean",
+			"hu": "Azerbajdzs\u00e1n",
 			"it": "Azerbaijan",
 			"ja": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3",
 			"nl": "Azerbeidzjan",
+			"pl": "Azerbejd\u017can",
 			"pt": "Azerbaij\u00e3o",
-			"hu": "Azerbajdzs\u00e1n"
+			"ru": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+			"se": "Azerbajdzjan",
+			"zh": "\u963f\u585e\u62dc\u7586\u5171\u548c\u56fd"
 		},
 		"cioc": "AZE"
 	},
@@ -1409,16 +1483,21 @@
 		],
 		"translations": {
 			"br": "Bahamas",
+			"cs": "Bahamy",
 			"de": "Bahamas",
 			"es": "Bahamas",
 			"fa": "\u0628\u0627\u0647\u0627\u0645\u0627",
 			"fr": "Bahamas",
 			"hr": "Bahami",
+			"hu": "Bahama-szigetek",
 			"it": "Bahamas",
 			"ja": "\u30d0\u30cf\u30de",
 			"nl": "Bahama\u2019s",
+			"pl": "Bahamy",
 			"pt": "Baamas",
-			"hu": "Bahama-szigetek"
+			"ru": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+			"se": "Bahamas",
+			"zh": "\u5df4\u54c8\u9a6c\u8054\u90a6"
 		},
 		"cioc": "BAH"
 	},
@@ -1492,16 +1571,21 @@
 		],
 		"translations": {
 			"br": "Bahrein",
+			"cs": "Bahrajn",
 			"de": "Bahrain",
 			"es": "Bahrein",
 			"fa": "\u0628\u062d\u0631\u06cc\u0646",
 			"fr": "Bahre\u00efn",
 			"hr": "Bahrein",
+			"hu": "Bahrein",
 			"it": "Bahrein",
 			"ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
 			"nl": "Bahrein",
+			"pl": "Bahrajn",
 			"pt": "Bar\u00e9m",
-			"hu": "Bahrein"
+			"ru": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+			"se": "Bahrain",
+			"zh": "\u5df4\u6797\u738b\u56fd"
 		},
 		"cioc": "BRN"
 	},
@@ -1573,16 +1657,21 @@
 		],
 		"translations": {
 			"br": "Bangladesh",
+			"cs": "Banglad\u00e9\u0161",
 			"de": "Bangladesch",
 			"es": "Bangladesh",
 			"fa": "\u0628\u0646\u06af\u0644\u0627\u062f\u0634",
 			"fr": "Bangladesh",
 			"hr": "Banglade\u0161",
+			"hu": "Banglades",
 			"it": "Bangladesh",
 			"ja": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
 			"nl": "Bangladesh",
+			"pl": "Bangladesz",
 			"pt": "Bangladeche",
-			"hu": "Banglades"
+			"ru": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+			"se": "Bangladesh",
+			"zh": "\u5b5f\u52a0\u62c9\u4eba\u6c11\u5171\u548c\u56fd"
 		},
 		"cioc": "BAN"
 	},
@@ -1653,16 +1742,21 @@
 		],
 		"translations": {
 			"br": "Barbados",
+			"cs": "Barbados",
 			"de": "Barbados",
 			"es": "Barbados",
 			"fa": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
 			"fr": "Barbade",
 			"hr": "Barbados",
+			"hu": "Barbados",
 			"it": "Barbados",
 			"ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
 			"nl": "Barbados",
+			"pl": "Barbados",
 			"pt": "Barbados",
-			"hu": "Barbados"
+			"ru": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+			"se": "Barbados",
+			"zh": "\u5df4\u5df4\u591a\u65af"
 		},
 		"cioc": "BAR"
 	},
@@ -1755,16 +1849,21 @@
 		],
 		"translations": {
 			"br": "Bielorr\u00fassia",
+			"cs": "B\u011blorusko",
 			"de": "Wei\u00dfrussland",
 			"es": "Bielorrusia",
 			"fa": "\u0628\u0644\u0627\u0631\u0648\u0633",
 			"fr": "Bi\u00e9lorussie",
 			"hr": "Bjelorusija",
+			"hu": "Feh\u00e9roroszorsz\u00e1g",
 			"it": "Bielorussia",
 			"ja": "\u30d9\u30e9\u30eb\u30fc\u30b7",
 			"nl": "Wit-Rusland",
+			"pl": "Bia\u0142oru\u015b",
 			"pt": "Bielorr\u00fassia",
-			"hu": "Feh\u00e9roroszorsz\u00e1g"
+			"ru": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f",
+			"se": "Vitryssland",
+			"zh": "\u767d\u4fc4\u7f57\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "BLR"
 	},
@@ -1856,16 +1955,21 @@
 		],
 		"translations": {
 			"br": "B\u00e9lgica",
+			"cs": "Belgie",
 			"de": "Belgien",
 			"es": "B\u00e9lgica",
 			"fa": "\u0628\u0644\u0698\u06cc\u06a9",
 			"fr": "Belgique",
 			"hr": "Belgija",
+			"hu": "Belgium",
 			"it": "Belgio",
 			"ja": "\u30d9\u30eb\u30ae\u30fc",
 			"nl": "Belgi\u00eb",
+			"pl": "Belgia",
 			"pt": "B\u00e9lgica",
-			"hu": "Belgium"
+			"ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+			"se": "Belgien",
+			"zh": "\u6bd4\u5229\u65f6\u738b\u56fd"
 		},
 		"cioc": "BEL"
 	},
@@ -1956,16 +2060,21 @@
 		],
 		"translations": {
 			"br": "Belize",
+			"cs": "Belize",
 			"de": "Belize",
 			"es": "Belice",
 			"fa": "\u0628\u0644\u06cc\u0632",
 			"fr": "Belize",
 			"hr": "Belize",
+			"hu": "Belize",
 			"it": "Belize",
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
 			"nl": "Belize",
+			"pl": "Belize",
 			"pt": "Belize",
-			"hu": "Belize"
+			"ru": "\u0411\u0435\u043b\u0438\u0437",
+			"se": "Belize",
+			"zh": "\u4f2f\u5229\u5179"
 		},
 		"cioc": "BIZ"
 	},
@@ -2046,15 +2155,21 @@
 		],
 		"translations": {
 			"br": "Benin",
+			"cs": "Benin",
 			"de": "Benin",
 			"es": "Ben\u00edn",
 			"fa": "\u0628\u0646\u06cc\u0646",
 			"fr": "B\u00e9nin",
 			"hr": "Benin",
+			"hu": "Benin",
 			"it": "Benin",
 			"ja": "\u30d9\u30ca\u30f3",
 			"nl": "Benin",
-			"pt": "Benim"
+			"pl": "Benin",
+			"pt": "Benim",
+			"ru": "\u0411\u0435\u043d\u0438\u043d",
+			"se": "Benin",
+			"zh": "\u8d1d\u5b81\u5171\u548c\u56fd"
 		},
 		"cioc": "BEN"
 	},
@@ -2118,16 +2233,21 @@
 		],
 		"translations": {
 			"br": "Bermudas",
+			"cs": "Bermudy",
 			"de": "Bermuda",
 			"es": "Bermudas",
 			"fa": "\u0628\u0631\u0645\u0648\u062f\u0627",
 			"fr": "Bermudes",
 			"hr": "Bermudi",
+			"hu": "Bermuda",
 			"it": "Bermuda",
 			"ja": "\u30d0\u30df\u30e5\u30fc\u30c0",
 			"nl": "Bermuda",
+			"pl": "Bermudy",
 			"pt": "Bermudas",
-			"hu": "Bermuda"
+			"ru": "Bermuda",
+			"se": "Bermuda",
+			"zh": "\u767e\u6155\u5927"
 		},
 		"cioc": "BER"
 	},
@@ -2203,16 +2323,21 @@
 		],
 		"translations": {
 			"br": "But\u00e3o",
+			"cs": "Bh\u00fat\u00e1n",
 			"de": "Bhutan",
 			"es": "But\u00e1n",
 			"fa": "\u0628\u0648\u062a\u0627\u0646",
 			"fr": "Bhoutan",
 			"hr": "Butan",
+			"hu": "Bhut\u00e1n",
 			"it": "Bhutan",
 			"ja": "\u30d6\u30fc\u30bf\u30f3",
 			"nl": "Bhutan",
+			"pl": "Bhutan",
 			"pt": "But\u00e3o",
-			"hu": "Bhut\u00e1n"
+			"ru": "\u0411\u0443\u0442\u0430\u043d",
+			"se": "Bhutan",
+			"zh": "\u4e0d\u4e39\u738b\u56fd"
 		},
 		"cioc": "BHU"
 	},
@@ -2315,16 +2440,21 @@
 		],
 		"translations": {
 			"br": "Bol\u00edvia",
+			"cs": "Bol\u00edvie",
 			"de": "Bolivien",
 			"es": "Bolivia",
 			"fa": "\u0628\u0648\u0644\u06cc\u0648\u06cc",
 			"fr": "Bolivie",
 			"hr": "Bolivija",
+			"hu": "Bol\u00edvia",
 			"it": "Bolivia",
 			"ja": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
 			"nl": "Bolivia",
+			"pl": "Boliwia",
 			"pt": "Bol\u00edvia",
-			"hu": "Bol\u00edvia"
+			"ru": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+			"se": "Bolivia",
+			"zh": "\u591a\u6c11\u65cf\u73bb\u5229\u7ef4\u4e9a\u56fd"
 		},
 		"cioc": "BOL"
 	},
@@ -2383,13 +2513,21 @@
 		],
 		"translations": {
 			"br": "Bonaire",
+			"cs": "Karibsk\u00e9 Nizozemsko",
 			"de": "Bonaire, Sint Eustatius und Saba",
+			"es": "Bonaire, Sint Eustatius and Saba",
 			"fa": "\u0628\u0648\u0646\u06cc\u0631",
 			"fr": "Bonaire, Saint-Eustache et Saba",
-			"it": "Bonaire, Saint-Eustache e Saba",
-			"pt": "Bonaire",
+			"hr": "Bonaire, Sint Eustatius and Saba",
 			"hu": "Bonaire",
-			"se": "Karibiska Nederl\u00e4nderna"
+			"it": "Bonaire, Saint-Eustache e Saba",
+			"ja": "Bonaire, Sint Eustatius and Saba",
+			"nl": "Caribisch Nederland",
+			"pl": "Holandia Karaibska",
+			"pt": "Bonaire",
+			"ru": "Bonaire, Sint Eustatius and Saba",
+			"se": "Karibiska Nederl\u00e4nderna",
+			"zh": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"
 		}
 	},
 	{
@@ -2469,16 +2607,21 @@
 		],
 		"translations": {
 			"br": "B\u00f3snia e Herzegovina",
+			"cs": "Bosna a Hercegovina",
 			"de": "Bosnien und Herzegowina",
 			"es": "Bosnia y Herzegovina",
 			"fa": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
 			"fr": "Bosnie-Herz\u00e9govine",
 			"hr": "Bosna i Hercegovina",
+			"hu": "Bosznia-Hercegovina",
 			"it": "Bosnia ed Erzegovina",
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
 			"nl": "Bosni\u00eb en Herzegovina",
+			"pl": "Bo\u015bnia i Hercegowina",
 			"pt": "B\u00f3snia e Herzegovina",
-			"hu": "Bosznia-Hercegovina"
+			"ru": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+			"se": "Bosnien och Hercegovina",
+			"zh": "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
 		},
 		"cioc": "BIH"
 	},
@@ -2561,16 +2704,21 @@
 		],
 		"translations": {
 			"br": "Botsuana",
+			"cs": "Botswana",
 			"de": "Botswana",
 			"es": "Botswana",
 			"fa": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
 			"fr": "Botswana",
 			"hr": "Bocvana",
+			"hu": "Botswana",
 			"it": "Botswana",
 			"ja": "\u30dc\u30c4\u30ef\u30ca",
 			"nl": "Botswana",
+			"pl": "Botswana",
 			"pt": "Botsuana",
-			"hu": "Botswana"
+			"ru": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+			"se": "Botswana",
+			"zh": "\u535a\u8328\u74e6\u7eb3\u5171\u548c\u56fd"
 		},
 		"cioc": "BOT"
 	},
@@ -2641,16 +2789,21 @@
 		],
 		"translations": {
 			"br": "Ilha Bouvet",
+			"cs": "Bouvet\u016fv ostrov",
 			"de": "Bouvetinsel",
 			"es": "Isla Bouvet",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u0628\u0648\u0648\u0647",
 			"fr": "\u00cele Bouvet",
 			"hr": "Otok Bouvet",
+			"hu": "Bouvet-sziget",
 			"it": "Isola Bouvet",
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
 			"nl": "Bouveteiland",
+			"pl": "Wyspa Bouveta",
 			"pt": "Ilha Bouvet",
-			"hu": "Bouvet-sziget"
+			"ru": "Bouvet Island",
+			"se": "Bouvet\u00f6n",
+			"zh": "\u5e03\u7ef4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -2742,16 +2895,21 @@
 		],
 		"translations": {
 			"br": "Brasil",
+			"cs": "Braz\u00edlie",
 			"de": "Brasilien",
 			"es": "Brasil",
 			"fa": "\u0628\u0631\u0632\u06cc\u0644",
 			"fr": "Br\u00e9sil",
 			"hr": "Brazil",
+			"hu": "Braz\u00edlia",
 			"it": "Brasile",
 			"ja": "\u30d6\u30e9\u30b8\u30eb",
 			"nl": "Brazili\u00eb",
+			"pl": "Brazylia",
 			"pt": "Brasil",
-			"hu": "Braz\u00edlia"
+			"ru": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+			"se": "Brasilien",
+			"zh": "\u5df4\u897f\u8054\u90a6\u5171\u548c\u56fd"
 		},
 		"cioc": "BRA"
 	},
@@ -2820,16 +2978,21 @@
 		],
 		"translations": {
 			"br": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00ed\u00cddico",
+			"cs": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed",
 			"de": "Britisches Territorium im Indischen Ozean",
 			"es": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
 			"fa": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f",
 			"fr": "Territoire britannique de l'oc\u00e9an Indien",
 			"hr": "Britanski Indijskooceanski teritorij",
+			"hu": "Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet",
 			"it": "Territorio britannico dell'oceano indiano",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
 			"nl": "Britse Gebieden in de Indische Oceaan",
+			"pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
 			"pt": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico",
-			"hu": "Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet"
+			"ru": "British Indian Ocean Territory",
+			"se": "Brittiska territoriet i Indiska Oceanen",
+			"zh": "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u5730"
 		},
 		"cioc": ""
 	},
@@ -2884,16 +3047,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Menores Distantes dos Estados Unidos",
+			"cs": "Men\u0161\u00ed odlehl\u00e9 ostrovy Spojen\u00fdch st\u00e1t\u016f americk\u00fdch",
 			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
 			"es": "Islas Ultramarinas Menores de Estados Unidos",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
 			"fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
 			"hr": "Mali udaljeni otoci SAD-a",
+			"hu": "Amerikai Egyes\u00fclt \u00c1llamok lakatlan k\u00fclbirtokai",
 			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
 			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"pl": "Dalekie Wyspy Mniejsze Stan\u00f3w Zjednoczonych",
 			"pt": "Ilhas Menores Distantes dos Estados Unidos",
-			"hu": "Amerikai Egyes\u00fclt \u00c1llamok lakatlan k\u00fclbirtokai"
+			"ru": "United States Minor Outlying Islands",
+			"se": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien",
+			"zh": "\u7f8e\u56fd\u672c\u571f\u5916\u5c0f\u5c9b\u5c7f"
 		},
 		"cioc": ""
 	},
@@ -2950,16 +3118,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Virgens Brit\u00e2nicas",
+			"cs": "Britsk\u00e9 Panensk\u00e9 ostrovy",
 			"de": "Britische Jungferninseln",
 			"es": "Islas V\u00edrgenes del Reino Unido",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627",
 			"fr": "\u00celes Vierges britanniques",
 			"hr": "Britanski Djevi\u010danski Otoci",
+			"hu": "Brit Virgin-szigetek",
 			"it": "Isole Vergini Britanniche",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Britse Maagdeneilanden",
+			"pl": "Brytyjskie Wyspy Dziewicze",
 			"pt": "Ilhas Virgens Brit\u00e2nicas",
-			"hu": "Brit Virgin-szigetek"
+			"ru": "Virgin Islands (British)",
+			"se": "Brittiska Jungfru\u00f6arna",
+			"zh": "\u82f1\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b"
 		},
 		"cioc": "IVB"
 	},
@@ -3019,15 +3192,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Virgens Americanas",
+			"cs": "Americk\u00e9 Panensk\u00e9 ostrovy",
 			"de": "Amerikanische Jungferninseln",
 			"es": "Islas V\u00edrgenes de los Estados Unidos",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627",
 			"fr": "\u00celes Vierges des \u00c9tats-Unis",
+			"hr": "Virgin Islands (U.S.)",
+			"hu": "Amerikai Virgin-szigetek",
 			"it": "Isole Vergini americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Verenigde Staten Maagdeneilanden",
+			"pl": "Wyspy Dziewicze Stan\u00f3w Zjednoczonych",
 			"pt": "Ilhas Virgens Americanas",
-			"hu": "Amerikai Virgin-szigetek"
+			"ru": "Virgin Islands (U.S.)",
+			"se": "Amerikanska Jungfru\u00f6arna",
+			"zh": "\u7f8e\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b"
 		},
 		"cioc": "ISV"
 	},
@@ -3098,16 +3277,21 @@
 		],
 		"translations": {
 			"br": "Brunei",
+			"cs": "Brunej",
 			"de": "Brunei",
 			"es": "Brunei",
 			"fa": "\u0628\u0631\u0648\u0646\u0626\u06cc",
 			"fr": "Brunei",
 			"hr": "Brunej",
+			"hu": "Brunei",
 			"it": "Brunei",
 			"ja": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0",
 			"nl": "Brunei",
+			"pl": "Brunei",
 			"pt": "Brunei",
-			"hu": "Brunei"
+			"ru": "\u0411\u0440\u0443\u043d\u0435\u0439",
+			"se": "Brunei",
+			"zh": "\u6587\u83b1\u548c\u5e73\u4e4b\u56fd"
 		},
 		"cioc": "BRU"
 	},
@@ -3178,16 +3362,21 @@
 		],
 		"translations": {
 			"br": "Bulg\u00e1ria",
+			"cs": "Bulharsko",
 			"de": "Bulgarien",
 			"es": "Bulgaria",
 			"fa": "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646",
 			"fr": "Bulgarie",
 			"hr": "Bugarska",
+			"hu": "Bulg\u00e1ria",
 			"it": "Bulgaria",
 			"ja": "\u30d6\u30eb\u30ac\u30ea\u30a2",
 			"nl": "Bulgarije",
+			"pl": "Bu\u0142garia",
 			"pt": "Bulg\u00e1ria",
-			"hu": "Bulg\u00e1ria"
+			"ru": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
+			"se": "Bulgarien",
+			"zh": "\u4fdd\u52a0\u5229\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "BUL"
 	},
@@ -3270,16 +3459,21 @@
 		],
 		"translations": {
 			"br": "Burkina Faso",
+			"cs": "Burkina Faso",
 			"de": "Burkina Faso",
 			"es": "Burkina Faso",
 			"fa": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648",
 			"fr": "Burkina Faso",
 			"hr": "Burkina Faso",
+			"hu": "Burkina Faso",
 			"it": "Burkina Faso",
 			"ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
 			"nl": "Burkina Faso",
+			"pl": "Burkina Faso",
 			"pt": "Burquina Faso",
-			"hu": "Burkina Faso"
+			"ru": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+			"se": "Burkina Faso",
+			"zh": "\u5e03\u57fa\u7eb3\u6cd5\u7d22"
 		},
 		"cioc": "BUR"
 	},
@@ -3362,16 +3556,21 @@
 		],
 		"translations": {
 			"br": "Burundi",
+			"cs": "Burundi",
 			"de": "Burundi",
 			"es": "Burundi",
 			"fa": "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc",
 			"fr": "Burundi",
 			"hr": "Burundi",
+			"hu": "Burundi",
 			"it": "Burundi",
 			"ja": "\u30d6\u30eb\u30f3\u30b8",
 			"nl": "Burundi",
+			"pl": "Burundi",
 			"pt": "Bur\u00fandi",
-			"hu": "Burundi"
+			"ru": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+			"se": "Burundi",
+			"zh": "\u5e03\u9686\u8fea\u5171\u548c\u56fd"
 		},
 		"cioc": "BDI"
 	},
@@ -3444,16 +3643,21 @@
 		],
 		"translations": {
 			"br": "Camboja",
+			"cs": "Kambod\u017ea",
 			"de": "Kambodscha",
 			"es": "Camboya",
 			"fa": "\u06a9\u0627\u0645\u0628\u0648\u062c",
 			"fr": "Cambodge",
 			"hr": "Kambod\u017ea",
+			"hu": "Kambodzsa",
 			"it": "Cambogia",
 			"ja": "\u30ab\u30f3\u30dc\u30b8\u30a2",
 			"nl": "Cambodja",
+			"pl": "Kambod\u017ca",
 			"pt": "Camboja",
-			"hu": "Kambodzsa"
+			"ru": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430",
+			"se": "Kambodja",
+			"zh": "\u67ec\u57d4\u5be8\u738b\u56fd"
 		},
 		"cioc": "CAM"
 	},
@@ -3538,16 +3742,21 @@
 		],
 		"translations": {
 			"br": "Camar\u00f5es",
+			"cs": "Kamerun",
 			"de": "Kamerun",
 			"es": "Camer\u00fan",
 			"fa": "\u06a9\u0627\u0645\u0631\u0648\u0646",
 			"fr": "Cameroun",
 			"hr": "Kamerun",
+			"hu": "Kamerun",
 			"it": "Camerun",
 			"ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
 			"nl": "Kameroen",
+			"pl": "Kamerun",
 			"pt": "Camar\u00f5es",
-			"hu": "Kamerun"
+			"ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+			"se": "Kamerun",
+			"zh": "\u5580\u9ea6\u9686\u5171\u548c\u56fd"
 		},
 		"cioc": "CMR"
 	},
@@ -3627,16 +3836,21 @@
 		],
 		"translations": {
 			"br": "Canad\u00e1",
+			"cs": "Kanada",
 			"de": "Kanada",
 			"es": "Canad\u00e1",
 			"fa": "\u06a9\u0627\u0646\u0627\u062f\u0627",
 			"fr": "Canada",
 			"hr": "Kanada",
+			"hu": "Kanada",
 			"it": "Canada",
 			"ja": "\u30ab\u30ca\u30c0",
 			"nl": "Canada",
+			"pl": "Kanada",
 			"pt": "Canad\u00e1",
-			"hu": "Kanada"
+			"ru": "\u041a\u0430\u043d\u0430\u0434\u0430",
+			"se": "Kanada",
+			"zh": "\u52a0\u62ff\u5927"
 		},
 		"cioc": "CAN"
 	},
@@ -3708,16 +3922,21 @@
 		],
 		"translations": {
 			"br": "Cabo Verde",
+			"cs": "Kapverdy",
 			"de": "Kap Verde",
 			"es": "Cabo Verde",
 			"fa": "\u06a9\u06cc\u067e \u0648\u0631\u062f",
 			"fr": "Cap Vert",
 			"hr": "Zelenortska Republika",
+			"hu": "Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g",
 			"it": "Capo Verde",
 			"ja": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
 			"nl": "Kaapverdi\u00eb",
+			"pl": "Wyspy Zielonego Przyl\u0105dka",
 			"pt": "Cabo Verde",
-			"hu": "Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g"
+			"ru": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435",
+			"se": "Kap Verde",
+			"zh": "\u4f5b\u5f97\u89d2\u5171\u548c\u56fd"
 		},
 		"cioc": "CPV"
 	},
@@ -3774,17 +3993,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Cayman",
+			"cs": "Kajmansk\u00e9 ostrovy",
 			"de": "Kaimaninseln",
 			"es": "Islas Caim\u00e1n",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646",
 			"fr": "\u00celes Ca\u00efmans",
 			"hr": "Kajmanski otoci",
+			"hu": "Kajm\u00e1n-szigetek",
 			"it": "Isole Cayman",
 			"ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
 			"nl": "Caymaneilanden",
+			"pl": "Kajmany",
 			"pt": "Ilhas Caim\u00e3o",
+			"ru": "Cayman Islands",
 			"se": "Cayman\u00f6arna",
-			"hu": "Kajm\u00e1n-szigetek"
+			"zh": "\u5f00\u66fc\u7fa4\u5c9b"
 		},
 		"cioc": "CAY"
 	},
@@ -3869,16 +4092,21 @@
 		],
 		"translations": {
 			"br": "Rep\u00fablica Centro-Africana",
+			"cs": "St\u0159edoafrick\u00e1 republika",
 			"de": "Zentralafrikanische Republik",
 			"es": "Rep\u00fablica Centroafricana",
 			"fa": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc",
 			"fr": "R\u00e9publique centrafricaine",
 			"hr": "Srednjoafri\u010dka Republika",
+			"hu": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g",
 			"it": "Repubblica Centrafricana",
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
 			"nl": "Centraal-Afrikaanse Republiek",
+			"pl": "Republika \u015arodkowoafryka\u0144ska",
 			"pt": "Rep\u00fablica Centro-Africana",
-			"hu": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g"
+			"ru": "\u0426\u0410\u0420",
+			"se": "Centralafrikanska republiken",
+			"zh": "\u4e2d\u975e\u5171\u548c\u56fd"
 		},
 		"cioc": "CAF"
 	},
@@ -3964,16 +4192,21 @@
 		],
 		"translations": {
 			"br": "Chade",
+			"cs": "\u010cad",
 			"de": "Tschad",
 			"es": "Chad",
 			"fa": "\u0686\u0627\u062f",
 			"fr": "Tchad",
 			"hr": "\u010cad",
+			"hu": "Cs\u00e1d",
 			"it": "Ciad",
 			"ja": "\u30c1\u30e3\u30c9",
 			"nl": "Tsjaad",
+			"pl": "Czad",
 			"pt": "Chade",
-			"hu": "Cs\u00e1d"
+			"ru": "\u0427\u0430\u0434",
+			"se": "Tchad",
+			"zh": "\u4e4d\u5f97\u5171\u548c\u56fd"
 		},
 		"cioc": "CHA"
 	},
@@ -4061,16 +4294,21 @@
 		],
 		"translations": {
 			"br": "Chile",
+			"cs": "Chile",
 			"de": "Chile",
 			"es": "Chile",
 			"fa": "\u0634\u06cc\u0644\u06cc",
 			"fr": "Chili",
 			"hr": "\u010cile",
+			"hu": "Chile",
 			"it": "Cile",
 			"ja": "\u30c1\u30ea",
 			"nl": "Chili",
+			"pl": "Chile",
 			"pt": "Chile",
-			"hu": "Chile"
+			"ru": "\u0427\u0438\u043b\u0438",
+			"se": "Chile",
+			"zh": "\u667a\u5229\u5171\u548c\u56fd"
 		},
 		"cioc": "CHI"
 	},
@@ -4151,16 +4389,21 @@
 		],
 		"translations": {
 			"br": "China",
+			"cs": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
 			"de": "China",
 			"es": "China",
 			"fa": "\u0686\u06cc\u0646",
 			"fr": "Chine",
 			"hr": "Kina",
+			"hu": "K\u00edna",
 			"it": "Cina",
 			"ja": "\u4e2d\u56fd",
 			"nl": "China",
+			"pl": "Chiny",
 			"pt": "China",
-			"hu": "K\u00edna"
+			"ru": "\u041a\u0438\u0442\u0430\u0439 (\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)",
+			"se": "Kina",
+			"zh": "\u4e2d\u56fd"
 		},
 		"cioc": "CHN"
 	},
@@ -4218,16 +4461,21 @@
 		],
 		"translations": {
 			"br": "Ilha Christmas",
+			"cs": "V\u00e1no\u010dn\u00ed ostrov",
 			"de": "Weihnachtsinsel",
 			"es": "Isla de Navidad",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0631\u06cc\u0633\u0645\u0633",
 			"fr": "\u00cele Christmas",
 			"hr": "Bo\u017ei\u0107ni otok",
+			"hu": "Kar\u00e1csony-sziget",
 			"it": "Isola di Natale",
 			"ja": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6",
 			"nl": "Christmaseiland",
+			"pl": "Wyspa Bo\u017cego Narodzenia",
 			"pt": "Ilha do Natal",
-			"hu": "Kar\u00e1csony-sziget"
+			"ru": "Christmas Island",
+			"se": "Jul\u00f6n",
+			"zh": "\u5723\u8bde\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -4286,16 +4534,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Cocos",
+			"cs": "Kokosov\u00e9 ostrovy",
 			"de": "Kokosinseln",
 			"es": "Islas Cocos o Islas Keeling",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633",
 			"fr": "\u00celes Cocos",
 			"hr": "Kokosovi Otoci",
+			"hu": "K\u00f3kusz-szigetek",
 			"it": "Isole Cocos e Keeling",
 			"ja": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6",
 			"nl": "Cocoseilanden",
+			"pl": "Wyspy Kokosowe",
 			"pt": "Ilhas dos Cocos",
-			"hu": "K\u00f3kusz-szigetek"
+			"ru": "Cocos (Keeling) Islands",
+			"se": "Kokos\u00f6arna",
+			"zh": "\u79d1\u79d1\u65af"
 		},
 		"cioc": ""
 	},
@@ -4384,16 +4637,21 @@
 		],
 		"translations": {
 			"br": "Col\u00f4mbia",
+			"cs": "Kolumbie",
 			"de": "Kolumbien",
 			"es": "Colombia",
 			"fa": "\u06a9\u0644\u0645\u0628\u06cc\u0627",
 			"fr": "Colombie",
 			"hr": "Kolumbija",
+			"hu": "Kolumbia",
 			"it": "Colombia",
 			"ja": "\u30b3\u30ed\u30f3\u30d3\u30a2",
 			"nl": "Colombia",
+			"pl": "Kolumbia",
 			"pt": "Col\u00f4mbia",
-			"hu": "Kolumbia"
+			"ru": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+			"se": "Colombia",
+			"zh": "\u54e5\u4f26\u6bd4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "COL"
 	},
@@ -4482,16 +4740,21 @@
 		],
 		"translations": {
 			"br": "Comores",
+			"cs": "Komory",
 			"de": "Union der Komoren",
 			"es": "Comoras",
 			"fa": "\u06a9\u0648\u0645\u0648\u0631",
 			"fr": "Comores",
 			"hr": "Komori",
+			"hu": "Comore-szigetek",
 			"it": "Comore",
 			"ja": "\u30b3\u30e2\u30ed",
 			"nl": "Comoren",
+			"pl": "Komory",
 			"pt": "Comores",
-			"hu": "Comore-szigetek"
+			"ru": "\u041a\u043e\u043c\u043e\u0440\u044b",
+			"se": "Komorerna",
+			"zh": "\u79d1\u6469\u7f57\u8054\u76df"
 		},
 		"cioc": "COM"
 	},
@@ -4574,16 +4837,21 @@
 		],
 		"translations": {
 			"br": "Congo",
+			"cs": "Demokratick\u00e1 republika Kongo",
 			"de": "Kongo",
 			"es": "Congo",
 			"fa": "\u06a9\u0646\u06af\u0648",
 			"fr": "Congo",
 			"hr": "Kongo",
+			"hu": "Kong\u00f3i K\u00f3zt\u00e1rsas\u00e1g",
 			"it": "Congo",
 			"ja": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd",
 			"nl": "Congo [Republiek]",
+			"pl": "Kongo",
 			"pt": "Congo",
-			"hu": "Kong\u00f3i K\u00f3zt\u00e1rsas\u00e1g"
+			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+			"se": "Kongo-Brazzaville",
+			"zh": "\u521a\u679c\u5171\u548c\u56fd"
 		},
 		"cioc": "CGO"
 	},
@@ -4691,16 +4959,21 @@
 		],
 		"translations": {
 			"br": "RD Congo",
+			"cs": "Demokratick\u00e1 republika Kongo",
 			"de": "Kongo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
 			"fa": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06af\u0648",
 			"fr": "Congo (R\u00e9p. d\u00e9m.)",
 			"hr": "Kongo, Demokratska Republika",
+			"hu": "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
 			"it": "Congo (Rep. Dem.)",
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
 			"nl": "Congo [DRC]",
+			"pl": "Demokratyczna Republika Konga",
 			"pt": "RD Congo",
-			"hu": "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
+			"ru": "\u0414\u0420 \u041a\u043e\u043d\u0433\u043e",
+			"se": "Kongo-Kinshasa",
+			"zh": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "COD"
 	},
@@ -4769,16 +5042,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Cook",
+			"cs": "Cookovy ostrovy",
 			"de": "Cookinseln",
 			"es": "Islas Cook",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9",
 			"fr": "\u00celes Cook",
 			"hr": "Cookovo Oto\u010dje",
+			"hu": "Cook-szigetek",
 			"it": "Isole Cook",
 			"ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
 			"nl": "Cookeilanden",
+			"pl": "Wyspy Cooka",
 			"pt": "Ilhas Cook",
-			"hu": "Cook-szigetek"
+			"ru": "Cook Islands",
+			"se": "Cook\u00f6arna",
+			"zh": "\u5e93\u514b\u7fa4\u5c9b"
 		},
 		"cioc": "COK"
 	},
@@ -4852,16 +5130,21 @@
 		],
 		"translations": {
 			"br": "Costa Rica",
+			"cs": "Kostarika",
 			"de": "Costa Rica",
 			"es": "Costa Rica",
 			"fa": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
 			"fr": "Costa Rica",
 			"hr": "Kostarika",
+			"hu": "Costa Rica",
 			"it": "Costa Rica",
 			"ja": "\u30b3\u30b9\u30bf\u30ea\u30ab",
 			"nl": "Costa Rica",
+			"pl": "Kostaryka",
 			"pt": "Costa Rica",
-			"hu": "Costa Rica"
+			"ru": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+			"se": "Costa Rica",
+			"zh": "\u54e5\u65af\u8fbe\u9ece\u52a0\u5171\u548c\u56fd"
 		},
 		"cioc": "CRC"
 	},
@@ -4933,16 +5216,21 @@
 		],
 		"translations": {
 			"br": "Cro\u00e1cia",
+			"cs": "Chorvatsko",
 			"de": "Kroatien",
 			"es": "Croacia",
 			"fa": "\u06a9\u0631\u0648\u0627\u0633\u06cc",
 			"fr": "Croatie",
 			"hr": "Hrvatska",
+			"hu": "Horv\u00e1torsz\u00e1g",
 			"it": "Croazia",
 			"ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
 			"nl": "Kroati\u00eb",
+			"pl": "Chorwacja",
 			"pt": "Cro\u00e1cia",
-			"hu": "Horv\u00e1torsz\u00e1g"
+			"ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+			"se": "Kroatien",
+			"zh": "\u514b\u7f57\u5730\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "CRO"
 	},
@@ -5007,16 +5295,21 @@
 		],
 		"translations": {
 			"br": "Cuba",
+			"cs": "Kuba",
 			"de": "Kuba",
 			"es": "Cuba",
 			"fa": "\u06a9\u0648\u0628\u0627",
 			"fr": "Cuba",
 			"hr": "Kuba",
+			"hu": "Kuba",
 			"it": "Cuba",
 			"ja": "\u30ad\u30e5\u30fc\u30d0",
 			"nl": "Cuba",
+			"pl": "Kuba",
 			"pt": "Cuba",
-			"hu": "Kuba"
+			"ru": "\u041a\u0443\u0431\u0430",
+			"se": "Kuba",
+			"zh": "\u53e4\u5df4\u5171\u548c\u56fd"
 		},
 		"cioc": "CUB"
 	},
@@ -5090,14 +5383,21 @@
 		],
 		"translations": {
 			"br": "Cura\u00e7ao",
+			"cs": "Cura\u00e7ao",
 			"de": "Cura\u00e7ao",
+			"es": "Cura\u00e7ao",
 			"fa": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648",
 			"fr": "Cura\u00e7ao",
+			"hr": "Cura\u00e7ao",
+			"hu": "Cura~ao",
 			"it": "Cura\u00e7ao",
+			"ja": "Cura\u00e7ao",
 			"nl": "Cura\u00e7ao",
+			"pl": "Cura\u00e7ao",
 			"pt": "Cura\u00e7ao",
+			"ru": "Cura\u00e7ao",
 			"se": "Cura\u00e7ao",
-			"hu": "Cura~ao"
+			"zh": "\u5e93\u62c9\u7d22"
 		},
 		"cioc": ""
 	},
@@ -5179,16 +5479,21 @@
 		],
 		"translations": {
 			"br": "Chipre",
+			"cs": "Kypr",
 			"de": "Zypern",
 			"es": "Chipre",
 			"fa": "\u0642\u0628\u0631\u0633",
 			"fr": "Chypre",
 			"hr": "Cipar",
+			"hu": "Ciprus",
 			"it": "Cipro",
 			"ja": "\u30ad\u30d7\u30ed\u30b9",
 			"nl": "Cyprus",
+			"pl": "Cypr",
 			"pt": "Chipre",
-			"hu": "Ciprus"
+			"ru": "\u041a\u0438\u043f\u0440",
+			"se": "Cypern",
+			"zh": "\u585e\u6d66\u8def\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "CYP"
 	},
@@ -5259,16 +5564,21 @@
 		],
 		"translations": {
 			"br": "Rep\u00fablica Tcheca",
+			"cs": "\u010cesk\u00e1 republika",
 			"de": "Tschechische Republik",
 			"es": "Rep\u00fablica Checa",
 			"fa": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
 			"fr": "R\u00e9publique tch\u00e8que",
 			"hr": "\u010ce\u0161ka",
+			"hu": "Csehorsz\u00e1g",
 			"it": "Repubblica Ceca",
 			"ja": "\u30c1\u30a7\u30b3",
 			"nl": "Tsjechi\u00eb",
+			"pl": "Czechy",
 			"pt": "Rep\u00fablica Checa",
-			"hu": "Csehorsz\u00e1g"
+			"ru": "\u0427\u0435\u0445\u0438\u044f",
+			"se": "Tjeckien",
+			"zh": "\u6377\u514b\u5171\u548c\u56fd"
 		},
 		"cioc": "CZE"
 	},
@@ -5340,16 +5650,21 @@
 		],
 		"translations": {
 			"br": "Dinamarca",
+			"cs": "D\u00e1nsko",
 			"de": "D\u00e4nemark",
 			"es": "Dinamarca",
 			"fa": "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9",
 			"fr": "Danemark",
 			"hr": "Danska",
+			"hu": "D\u00e1nia",
 			"it": "Danimarca",
 			"ja": "\u30c7\u30f3\u30de\u30fc\u30af",
 			"nl": "Denemarken",
+			"pl": "Dania",
 			"pt": "Dinamarca",
-			"hu": "D\u00e1nia"
+			"ru": "\u0414\u0430\u043d\u0438\u044f",
+			"se": "Danmark",
+			"zh": "\u4e39\u9ea6\u738b\u56fd"
 		},
 		"cioc": "DEN"
 	},
@@ -5444,16 +5759,21 @@
 		],
 		"translations": {
 			"br": "Djibuti",
+			"cs": "D\u017eibutsko",
 			"de": "Dschibuti",
 			"es": "Yibuti",
 			"fa": "\u062c\u06cc\u0628\u0648\u062a\u06cc",
 			"fr": "Djibouti",
 			"hr": "D\u017eibuti",
+			"hu": "Dzsibuti",
 			"it": "Gibuti",
 			"ja": "\u30b8\u30d6\u30c1",
 			"nl": "Djibouti",
+			"pl": "D\u017cibuti",
 			"pt": "Djibuti",
-			"hu": "Dzsibuti"
+			"ru": "\u0414\u0436\u0438\u0431\u0443\u0442\u0438",
+			"se": "Djibouti",
+			"zh": "\u5409\u5e03\u63d0\u5171\u548c\u56fd"
 		},
 		"cioc": "DJI"
 	},
@@ -5513,16 +5833,21 @@
 		],
 		"translations": {
 			"br": "Dominica",
+			"cs": "Dominika",
 			"de": "Dominica",
 			"es": "Dominica",
 			"fa": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
 			"fr": "Dominique",
 			"hr": "Dominika",
+			"hu": "Dominikai K\u00f6z\u00f6ss\u00e9g",
 			"it": "Dominica",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
 			"nl": "Dominica",
+			"pl": "Dominika",
 			"pt": "Dominica",
-			"hu": "Dominikai K\u00f6z\u00f6ss\u00e9g"
+			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+			"se": "Dominica",
+			"zh": "\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u56fd"
 		},
 		"cioc": "DMA"
 	},
@@ -5602,16 +5927,21 @@
 		],
 		"translations": {
 			"br": "Rep\u00fablica Dominicana",
+			"cs": "Dominik\u00e1nsk\u00e1 republika",
 			"de": "Dominikanische Republik",
 			"es": "Rep\u00fablica Dominicana",
 			"fa": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
 			"fr": "R\u00e9publique dominicaine",
 			"hr": "Dominikanska Republika",
+			"hu": "Dominikai K\u00f6zt\u00e1rsas\u00e1g",
 			"it": "Repubblica Dominicana",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
 			"nl": "Dominicaanse Republiek",
+			"pl": "Dominikana",
 			"pt": "Rep\u00fablica Dominicana",
-			"hu": "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+			"se": "Dominikanska republiken",
+			"zh": "\u591a\u660e\u5c3c\u52a0\u5171\u548c\u56fd"
 		},
 		"cioc": "DOM"
 	},
@@ -5691,16 +6021,21 @@
 		],
 		"translations": {
 			"br": "Equador",
+			"cs": "Ekv\u00e1dor",
 			"de": "Ecuador",
 			"es": "Ecuador",
 			"fa": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
 			"fr": "\u00c9quateur",
 			"hr": "Ekvador",
+			"hu": "Ecuador",
 			"it": "Ecuador",
 			"ja": "\u30a8\u30af\u30a2\u30c9\u30eb",
 			"nl": "Ecuador",
+			"pl": "Ekwador",
 			"pt": "Equador",
-			"hu": "Ecuador"
+			"ru": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+			"se": "Ecuador",
+			"zh": "\u5384\u74dc\u591a\u5c14\u5171\u548c\u56fd"
 		},
 		"cioc": "ECU"
 	},
@@ -5784,16 +6119,21 @@
 		],
 		"translations": {
 			"br": "Egito",
+			"cs": "Egypt",
 			"de": "\u00c4gypten",
 			"es": "Egipto",
 			"fa": "\u0645\u0635\u0631",
 			"fr": "\u00c9gypte",
 			"hr": "Egipat",
+			"hu": "Egyiptom",
 			"it": "Egitto",
 			"ja": "\u30a8\u30b8\u30d7\u30c8",
 			"nl": "Egypte",
+			"pl": "Egipt",
 			"pt": "Egipto",
-			"hu": "Egyiptom"
+			"ru": "\u0415\u0433\u0438\u043f\u0435\u0442",
+			"se": "Egypten",
+			"zh": "\u963f\u62c9\u4f2f\u57c3\u53ca\u5171\u548c\u56fd"
 		},
 		"cioc": "EGY"
 	},
@@ -5867,16 +6207,21 @@
 		],
 		"translations": {
 			"br": "El Salvador",
+			"cs": "Salvador",
 			"de": "El Salvador",
 			"es": "El Salvador",
 			"fa": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
 			"fr": "Salvador",
 			"hr": "Salvador",
+			"hu": "Salvador",
 			"it": "El Salvador",
 			"ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
 			"nl": "El Salvador",
+			"pl": "Salwador",
 			"pt": "El Salvador",
-			"hu": "Salvador"
+			"ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+			"se": "El Salvador",
+			"zh": "\u8428\u5c14\u74e6\u591a\u5171\u548c\u56fd"
 		},
 		"cioc": "ESA"
 	},
@@ -5971,16 +6316,21 @@
 		],
 		"translations": {
 			"br": "Guin\u00e9 Equatorial",
+			"cs": "Rovn\u00edkov\u00e1 Guinea",
 			"de": "\u00c4quatorial-Guinea",
 			"es": "Guinea Ecuatorial",
 			"fa": "\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc",
 			"fr": "Guin\u00e9e-\u00c9quatoriale",
 			"hr": "Ekvatorijalna Gvineja",
+			"hu": "Egyenl\u00edt\u0151i-Guinea",
 			"it": "Guinea Equatoriale",
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
 			"nl": "Equatoriaal-Guinea",
+			"pl": "Gwinea R\u00f3wnikowa",
 			"pt": "Guin\u00e9 Equatorial",
-			"hu": "Egyenl\u00edt\u0151i-Guinea"
+			"ru": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+			"se": "Ekvatorialguinea",
+			"zh": "\u8d64\u9053\u51e0\u5185\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "GEQ"
 	},
@@ -6107,16 +6457,21 @@
 		],
 		"translations": {
 			"br": "Eritreia",
+			"cs": "Eritrea",
 			"de": "Eritrea",
 			"es": "Eritrea",
 			"fa": "\u0627\u0631\u06cc\u062a\u0631\u0647",
 			"fr": "\u00c9rythr\u00e9e",
 			"hr": "Eritreja",
+			"hu": "Eritrea",
 			"it": "Eritrea",
 			"ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
 			"nl": "Eritrea",
+			"pl": "Erytrea",
 			"pt": "Eritreia",
-			"hu": "Eritrea"
+			"ru": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f",
+			"se": "Eritrea",
+			"zh": "\u5384\u7acb\u7279\u91cc\u4e9a"
 		},
 		"cioc": "ERI"
 	},
@@ -6185,16 +6540,21 @@
 		],
 		"translations": {
 			"br": "Est\u00f4nia",
+			"cs": "Estonsko",
 			"de": "Estland",
 			"es": "Estonia",
 			"fa": "\u0627\u0633\u062a\u0648\u0646\u06cc",
 			"fr": "Estonie",
 			"hr": "Estonija",
+			"hu": "\u00c9sztorsz\u00e1g",
 			"it": "Estonia",
 			"ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
 			"nl": "Estland",
+			"pl": "Estonia",
 			"pt": "Est\u00f3nia",
-			"hu": "\u00c9sztorsz\u00e1g"
+			"ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+			"se": "Estland",
+			"zh": "\u7231\u6c99\u5c3c\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "EST"
 	},
@@ -6274,16 +6634,21 @@
 		],
 		"translations": {
 			"br": "Eti\u00f3pia",
+			"cs": "Etiopie",
 			"de": "\u00c4thiopien",
 			"es": "Etiop\u00eda",
 			"fa": "\u0627\u062a\u06cc\u0648\u067e\u06cc",
 			"fr": "\u00c9thiopie",
 			"hr": "Etiopija",
+			"hu": "Eti\u00f3pia",
 			"it": "Etiopia",
 			"ja": "\u30a8\u30c1\u30aa\u30d4\u30a2",
 			"nl": "Ethiopi\u00eb",
+			"pl": "Etiopia",
 			"pt": "Eti\u00f3pia",
-			"hu": "Eti\u00f3pia"
+			"ru": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f",
+			"se": "Etiopien",
+			"zh": "\u57c3\u585e\u4fc4\u6bd4\u4e9a\u8054\u90a6\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "ETH"
 	},
@@ -6358,16 +6723,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Malvinas",
+			"cs": "Falklandy",
 			"de": "Falklandinseln",
 			"es": "Islas Malvinas",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f",
 			"fr": "\u00celes Malouines",
 			"hr": "Falklandski Otoci",
+			"hu": "Falkland-szigetek",
 			"it": "Isole Falkland o Isole Malvine",
 			"ja": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
 			"nl": "Falklandeilanden [Islas Malvinas]",
+			"pl": "Falklandy (Malwiny)",
 			"pt": "Ilhas Falkland",
-			"hu": "Falkland-szigetek"
+			"ru": "Falkland Islands (Malvinas)",
+			"se": "Falklands\u00f6arna",
+			"zh": "\u798f\u514b\u5170\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -6432,16 +6802,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Faro\u00e9",
+			"cs": "Faersk\u00e9 ostrovy",
 			"de": "F\u00e4r\u00f6er-Inseln",
 			"es": "Islas Faroe",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648",
 			"fr": "\u00celes F\u00e9ro\u00e9",
 			"hr": "Farski Otoci",
+			"hu": "Fer\u00f6er",
 			"it": "Isole Far Oer",
 			"ja": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
 			"nl": "Faer\u00f6er",
+			"pl": "Wyspy Owcze",
 			"pt": "Ilhas Faro\u00e9",
-			"hu": "Fer\u00f6er"
+			"ru": "Faroe Islands",
+			"se": "F\u00e4r\u00f6arna",
+			"zh": "\u6cd5\u7f57\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -6521,16 +6896,21 @@
 		],
 		"translations": {
 			"br": "Fiji",
+			"cs": "Fid\u017ei",
 			"de": "Fidschi",
 			"es": "Fiyi",
 			"fa": "\u0641\u06cc\u062c\u06cc",
 			"fr": "Fidji",
 			"hr": "Fi\u0111i",
+			"hu": "Fidzsi-szigetek",
 			"it": "Figi",
 			"ja": "\u30d5\u30a3\u30b8\u30fc",
 			"nl": "Fiji",
+			"pl": "Fid\u017ci",
 			"pt": "Fiji",
-			"hu": "Fidzsi-szigetek"
+			"ru": "\u0424\u0438\u0434\u0436\u0438",
+			"se": "Fiji",
+			"zh": "\u6590\u6d4e\u5171\u548c\u56fd"
 		},
 		"cioc": "FIJ"
 	},
@@ -6607,16 +6987,21 @@
 		],
 		"translations": {
 			"br": "Finl\u00e2ndia",
+			"cs": "Finsko",
 			"de": "Finnland",
 			"es": "Finlandia",
 			"fa": "\u0641\u0646\u0644\u0627\u0646\u062f",
 			"fr": "Finlande",
 			"hr": "Finska",
+			"hu": "Finnorsz\u00e1g",
 			"it": "Finlandia",
 			"ja": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
 			"nl": "Finland",
+			"pl": "Finlandia",
 			"pt": "Finl\u00e2ndia",
-			"hu": "Finnorsz\u00e1g"
+			"ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+			"se": "Finland",
+			"zh": "\u82ac\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "FIN"
 	},
@@ -6703,16 +7088,21 @@
 		],
 		"translations": {
 			"br": "Fran\u00e7a",
+			"cs": "Francie",
 			"de": "Frankreich",
 			"es": "Francia",
 			"fa": "\u0641\u0631\u0627\u0646\u0633\u0647",
 			"fr": "France",
 			"hr": "Francuska",
+			"hu": "Franciaorsz\u00e1g",
 			"it": "Francia",
 			"ja": "\u30d5\u30e9\u30f3\u30b9",
 			"nl": "Frankrijk",
+			"pl": "Francja",
 			"pt": "Fran\u00e7a",
-			"hu": "Franciaorsz\u00e1g"
+			"ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+			"se": "Frankrike",
+			"zh": "\u6cd5\u5170\u897f\u5171\u548c\u56fd"
 		},
 		"cioc": "FRA"
 	},
@@ -6793,16 +7183,21 @@
 		],
 		"translations": {
 			"br": "Guiana Francesa",
+			"cs": "Francouzsk\u00e1 Guyana",
 			"de": "Franz\u00f6sisch Guyana",
 			"es": "Guayana Francesa",
 			"fa": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647",
 			"fr": "Guayane",
 			"hr": "Francuska Gvajana",
+			"hu": "Francia Guyana",
 			"it": "Guyana francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
 			"nl": "Frans-Guyana",
+			"pl": "Gujana Francuska",
 			"pt": "Guiana Francesa",
-			"hu": "Francia Guyana"
+			"ru": "French Guiana",
+			"se": "Franska Guyana",
+			"zh": "\u6cd5\u5c5e\u572d\u4e9a\u90a3"
 		},
 		"cioc": ""
 	},
@@ -6864,16 +7259,21 @@
 		],
 		"translations": {
 			"br": "Polin\u00e9sia Francesa",
+			"cs": "Francouzsk\u00e1 Polyn\u00e9sie",
 			"de": "Franz\u00f6sisch-Polynesien",
 			"es": "Polinesia Francesa",
 			"fa": "\u067e\u0644\u06cc\u200c\u0646\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
 			"fr": "Polyn\u00e9sie fran\u00e7aise",
 			"hr": "Francuska Polinezija",
+			"hu": "Francia Polin\u00e9zia",
 			"it": "Polinesia Francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2",
 			"nl": "Frans-Polynesi\u00eb",
+			"pl": "Polinezja Francuska",
 			"pt": "Polin\u00e9sia Francesa",
-			"hu": "Francia Polin\u00e9zia"
+			"ru": "French Polynesia",
+			"se": "Franska Polynesien",
+			"zh": "\u6cd5\u5c5e\u6ce2\u5229\u5c3c\u897f\u4e9a"
 		},
 		"cioc": ""
 	},
@@ -6942,16 +7342,21 @@
 		],
 		"translations": {
 			"br": "Terras Austrais e Ant\u00e1rticas Francesas",
+			"cs": "Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed",
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
 			"es": "Tierras Australes y Ant\u00e1rticas Francesas",
 			"fa": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
 			"fr": "Terres australes et antarctiques fran\u00e7aises",
 			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji",
+			"hu": "Francia d\u00e9li \u00e9s antarktiszi ter\u00fcletek",
 			"it": "Territori Francesi del Sud",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df",
 			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+			"pl": "Francuskie Terytoria Po\u0142udniowe i Antarktyczne",
 			"pt": "Terras Austrais e Ant\u00e1rticas Francesas",
-			"hu": "Francia d\u00e9li \u00e9s antarktiszi ter\u00fcletek"
+			"ru": "French Southern Territories",
+			"se": "Franska s\u00f6dra territorierna",
+			"zh": "\u6cd5\u56fd\u5357\u90e8\u548c\u5357\u6781\u571f\u5730"
 		},
 		"cioc": ""
 	},
@@ -7027,16 +7432,21 @@
 		],
 		"translations": {
 			"br": "Gab\u00e3o",
+			"cs": "Gabon",
 			"de": "Gabun",
 			"es": "Gab\u00f3n",
 			"fa": "\u06af\u0627\u0628\u0646",
 			"fr": "Gabon",
 			"hr": "Gabon",
+			"hu": "Gabon",
 			"it": "Gabon",
 			"ja": "\u30ac\u30dc\u30f3",
 			"nl": "Gabon",
+			"pl": "Gabon",
 			"pt": "Gab\u00e3o",
-			"hu": "Gabon"
+			"ru": "\u0413\u0430\u0431\u043e\u043d",
+			"se": "Gabon",
+			"zh": "\u52a0\u84ec\u5171\u548c\u56fd"
 		},
 		"cioc": "GAB"
 	},
@@ -7109,16 +7519,21 @@
 		],
 		"translations": {
 			"br": "G\u00e2mbia",
+			"cs": "Gambie",
 			"de": "Gambia",
 			"es": "Gambia",
 			"fa": "\u06af\u0627\u0645\u0628\u06cc\u0627",
 			"fr": "Gambie",
 			"hr": "Gambija",
+			"hu": "Gambia",
 			"it": "Gambia",
 			"ja": "\u30ac\u30f3\u30d3\u30a2",
 			"nl": "Gambia",
+			"pl": "Gambia",
 			"pt": "G\u00e2mbia",
-			"hu": "Gambia"
+			"ru": "\u0413\u0430\u043c\u0431\u0438\u044f",
+			"se": "Gambia",
+			"zh": "\u5188\u6bd4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "GAM"
 	},
@@ -7182,16 +7597,21 @@
 		],
 		"translations": {
 			"br": "Ge\u00f3rgia",
+			"cs": "Gruzie",
 			"de": "Georgien",
 			"es": "Georgia",
 			"fa": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
 			"fr": "G\u00e9orgie",
 			"hr": "Gruzija",
+			"hu": "Gr\u00fazia",
 			"it": "Georgia",
 			"ja": "\u30b0\u30eb\u30b8\u30a2",
 			"nl": "Georgi\u00eb",
+			"pl": "Gruzja",
 			"pt": "Ge\u00f3rgia",
-			"hu": "Gr\u00fazia"
+			"ru": "\u0413\u0440\u0443\u0437\u0438\u044f",
+			"se": "Georgien",
+			"zh": "\u683c\u9c81\u5409\u4e9a"
 		},
 		"cioc": "GEO"
 	},
@@ -7266,16 +7686,21 @@
 		],
 		"translations": {
 			"br": "Alemanha",
+			"cs": "N\u011bmecko",
 			"de": "Deutschland",
 			"es": "Alemania",
 			"fa": "\u0622\u0644\u0645\u0627\u0646",
 			"fr": "Allemagne",
 			"hr": "Njema\u010dka",
+			"hu": "Gr\u00fazia",
 			"it": "Germania",
 			"ja": "\u30c9\u30a4\u30c4",
 			"nl": "Duitsland",
+			"pl": "Niemcy",
 			"pt": "Alemanha",
-			"hu": "Gr\u00fazia"
+			"ru": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+			"se": "Tyskland",
+			"zh": "\u5fb7\u610f\u5fd7\u8054\u90a6\u5171\u548c\u56fd"
 		},
 		"cioc": "GER"
 	},
@@ -7349,16 +7774,21 @@
 		],
 		"translations": {
 			"br": "Gana",
+			"cs": "Ghana",
 			"de": "Ghana",
 			"es": "Ghana",
 			"fa": "\u063a\u0646\u0627",
 			"fr": "Ghana",
 			"hr": "Gana",
+			"hu": "Gh\u00e1na",
 			"it": "Ghana",
 			"ja": "\u30ac\u30fc\u30ca",
 			"nl": "Ghana",
+			"pl": "Ghana",
 			"pt": "Gana",
-			"hu": "Gh\u00e1na"
+			"ru": "\u0413\u0430\u043d\u0430",
+			"se": "Ghana",
+			"zh": "\u52a0\u7eb3\u5171\u548c\u56fd"
 		},
 		"cioc": "GHA"
 	},
@@ -7422,16 +7852,21 @@
 		],
 		"translations": {
 			"br": "Gibraltar",
+			"cs": "Gibraltar",
 			"de": "Gibraltar",
 			"es": "Gibraltar",
 			"fa": "\u062c\u0628\u0644\u200c\u0637\u0627\u0631\u0642",
 			"fr": "Gibraltar",
 			"hr": "Gibraltar",
+			"hu": "Gibralt\u00e1r",
 			"it": "Gibilterra",
 			"ja": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb",
 			"nl": "Gibraltar",
+			"pl": "Gibraltar",
 			"pt": "Gibraltar",
-			"hu": "Gibralt\u00e1r"
+			"ru": "Gibraltar",
+			"se": "Gibraltar",
+			"zh": "\u76f4\u5e03\u7f57\u9640"
 		},
 		"cioc": ""
 	},
@@ -7502,16 +7937,21 @@
 		],
 		"translations": {
 			"br": "Gr\u00e9cia",
+			"cs": "\u0158ecko",
 			"de": "Griechenland",
 			"es": "Grecia",
 			"fa": "\u06cc\u0648\u0646\u0627\u0646",
 			"fr": "Gr\u00e8ce",
 			"hr": "Gr\u010dka",
+			"hu": "G\u00f6r\u00f6gorsz\u00e1g",
 			"it": "Grecia",
 			"ja": "\u30ae\u30ea\u30b7\u30e3",
 			"nl": "Griekenland",
+			"pl": "Grecja",
 			"pt": "Gr\u00e9cia",
-			"hu": "G\u00f6r\u00f6gorsz\u00e1g"
+			"ru": "\u0413\u0440\u0435\u0446\u0438\u044f",
+			"se": "Grekland",
+			"zh": "\u5e0c\u814a\u5171\u548c\u56fd"
 		},
 		"cioc": "GRE"
 	},
@@ -7573,16 +8013,21 @@
 		],
 		"translations": {
 			"br": "Groel\u00e2ndia",
+			"cs": "Gr\u00f3nsko",
 			"de": "Gr\u00f6nland",
 			"es": "Groenlandia",
 			"fa": "\u06af\u0631\u06cc\u0646\u0644\u0646\u062f",
 			"fr": "Groenland",
 			"hr": "Grenland",
+			"hu": "Gr\u00f6nland",
 			"it": "Groenlandia",
 			"ja": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9",
 			"nl": "Groenland",
+			"pl": "Grenlandia",
 			"pt": "Gronel\u00e2ndia",
-			"hu": "Gr\u00f6nland"
+			"ru": "Greenland",
+			"se": "Gr\u00f6nland",
+			"zh": "\u683c\u9675\u5170"
 		},
 		"cioc": ""
 	},
@@ -7649,16 +8094,21 @@
 		],
 		"translations": {
 			"br": "Granada",
+			"cs": "Grenada",
 			"de": "Grenada",
 			"es": "Grenada",
 			"fa": "\u06af\u0631\u0646\u0627\u062f\u0627",
 			"fr": "Grenade",
 			"hr": "Grenada",
+			"hu": "Grenada",
 			"it": "Grenada",
 			"ja": "\u30b0\u30ec\u30ca\u30c0",
 			"nl": "Grenada",
+			"pl": "Grenada",
 			"pt": "Granada",
-			"hu": "Grenada"
+			"ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+			"se": "Grenada",
+			"zh": "\u683c\u6797\u7eb3\u8fbe"
 		},
 		"cioc": "GRN"
 	},
@@ -7715,16 +8165,21 @@
 		],
 		"translations": {
 			"br": "Guadalupe",
+			"cs": "Guadeloupe",
 			"de": "Guadeloupe",
 			"es": "Guadalupe",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u06af\u0648\u0627\u062f\u0644\u0648\u067e",
 			"fr": "Guadeloupe",
 			"hr": "Gvadalupa",
+			"hu": "Guadeloupe",
 			"it": "Guadeloupa",
 			"ja": "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7",
 			"nl": "Guadeloupe",
+			"pl": "Gwadelupa",
 			"pt": "Guadalupe",
-			"hu": "Guadeloupe"
+			"ru": "Guadeloupe",
+			"se": "Guadeloupe",
+			"zh": "\u74dc\u5fb7\u7f57\u666e\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -7794,16 +8249,21 @@
 		],
 		"translations": {
 			"br": "Guam",
+			"cs": "Guam",
 			"de": "Guam",
 			"es": "Guam",
 			"fa": "\u06af\u0648\u0627\u0645",
 			"fr": "Guam",
 			"hr": "Guam",
+			"hu": "Guam",
 			"it": "Guam",
 			"ja": "\u30b0\u30a2\u30e0",
 			"nl": "Guam",
+			"pl": "Guam",
 			"pt": "Guame",
-			"hu": "Guam"
+			"ru": "Guam",
+			"se": "Guam",
+			"zh": "\u5173\u5c9b"
 		},
 		"cioc": "GUM"
 	},
@@ -7877,16 +8337,21 @@
 		],
 		"translations": {
 			"br": "Guatemala",
+			"cs": "Guatemala",
 			"de": "Guatemala",
 			"es": "Guatemala",
 			"fa": "\u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627",
 			"fr": "Guatemala",
 			"hr": "Gvatemala",
+			"hu": "Guatemala",
 			"it": "Guatemala",
 			"ja": "\u30b0\u30a2\u30c6\u30de\u30e9",
 			"nl": "Guatemala",
+			"pl": "Gwatemala",
 			"pt": "Guatemala",
-			"hu": "Guatemala"
+			"ru": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+			"se": "Guatemala",
+			"zh": "\u5371\u5730\u9a6c\u62c9\u5171\u548c\u56fd"
 		},
 		"cioc": "GUA"
 	},
@@ -7956,16 +8421,21 @@
 		],
 		"translations": {
 			"br": "Guernsey",
+			"cs": "Guernsey",
 			"de": "Guernsey",
 			"es": "Guernsey",
 			"fa": "\u06af\u0631\u0646\u0632\u06cc",
 			"fr": "Guernesey",
 			"hr": "Guernsey",
+			"hu": "Guernsey",
 			"it": "Guernsey",
 			"ja": "\u30ac\u30fc\u30f3\u30b8\u30fc",
 			"nl": "Guernsey",
+			"pl": "Guernsey",
 			"pt": "Guernsey",
-			"hu": "Guernsey"
+			"ru": "Guernsey",
+			"se": "Guernsey",
+			"zh": "\u6839\u897f\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -8050,16 +8520,21 @@
 		],
 		"translations": {
 			"br": "Guin\u00e9",
+			"cs": "Guinea",
 			"de": "Guinea",
 			"es": "Guinea",
 			"fa": "\u06af\u06cc\u0646\u0647",
 			"fr": "Guin\u00e9e",
 			"hr": "Gvineja",
+			"hu": "Guinea",
 			"it": "Guinea",
 			"ja": "\u30ae\u30cb\u30a2",
 			"nl": "Guinee",
+			"pl": "Gwinea",
 			"pt": "Guin\u00e9",
-			"hu": "Guinea"
+			"ru": "\u0413\u0432\u0438\u043d\u0435\u044f",
+			"se": "Guinea",
+			"zh": "\u51e0\u5185\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "GUI"
 	},
@@ -8134,16 +8609,21 @@
 		],
 		"translations": {
 			"br": "Guin\u00e9-Bissau",
+			"cs": "Guinea-Bissau",
 			"de": "Guinea-Bissau",
 			"es": "Guinea-Bis\u00e1u",
 			"fa": "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648",
 			"fr": "Guin\u00e9e-Bissau",
 			"hr": "Gvineja Bisau",
+			"hu": "Bissau-Guinea",
 			"it": "Guinea-Bissau",
 			"ja": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6",
 			"nl": "Guinee-Bissau",
+			"pl": "Gwinea Bissau",
 			"pt": "Guin\u00e9-Bissau",
-			"hu": "Bissau-Guinea"
+			"ru": "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443",
+			"se": "Guinea-Bissau",
+			"zh": "\u51e0\u5185\u4e9a\u6bd4\u7ecd\u5171\u548c\u56fd"
 		},
 		"cioc": "GBS"
 	},
@@ -8231,16 +8711,21 @@
 		],
 		"translations": {
 			"br": "Guiana",
+			"cs": "Guyana",
 			"de": "Guyana",
 			"es": "Guyana",
 			"fa": "\u06af\u0648\u06cc\u0627\u0646",
 			"fr": "Guyane",
 			"hr": "Gvajana",
+			"hu": "Guyana",
 			"it": "Guyana",
 			"ja": "\u30ac\u30a4\u30a2\u30ca",
 			"nl": "Guyana",
+			"pl": "Gujana",
 			"pt": "Guiana",
-			"hu": "Guyana"
+			"ru": "\u0413\u0430\u0439\u0430\u043d\u0430",
+			"se": "Guyana",
+			"zh": "\u572d\u4e9a\u90a3\u5171\u548c\u56fd"
 		},
 		"cioc": "GUY"
 	},
@@ -8319,16 +8804,21 @@
 		],
 		"translations": {
 			"br": "Haiti",
+			"cs": "Haiti",
 			"de": "Haiti",
 			"es": "Haiti",
 			"fa": "\u0647\u0627\u0626\u06cc\u062a\u06cc",
 			"fr": "Ha\u00efti",
 			"hr": "Haiti",
+			"hu": "Haiti",
 			"it": "Haiti",
 			"ja": "\u30cf\u30a4\u30c1",
 			"nl": "Ha\u00efti",
+			"pl": "Haiti",
 			"pt": "Haiti",
-			"hu": "Haiti"
+			"ru": "\u0413\u0430\u0438\u0442\u0438",
+			"se": "Haiti",
+			"zh": "\u6d77\u5730\u5171\u548c\u56fd"
 		},
 		"cioc": "HAI"
 	},
@@ -8386,16 +8876,21 @@
 		],
 		"translations": {
 			"br": "Ilha Heard e Ilhas McDonald",
+			"cs": "Heard\u016fv ostrov a McDonaldovy ostrovy",
 			"de": "Heard und die McDonaldinseln",
 			"es": "Islas Heard y McDonald",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f",
 			"fr": "\u00celes Heard-et-MacDonald",
 			"hr": "Otok Heard i oto\u010dje McDonald",
+			"hu": "Heard-sziget \u00e9s McDonald-szigetek",
 			"it": "Isole Heard e McDonald",
 			"ja": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
 			"nl": "Heard- en McDonaldeilanden",
+			"pl": "Wyspy Heard i McDonald",
 			"pt": "Ilha Heard e Ilhas McDonald",
-			"hu": "Heard-sziget \u00e9s McDonald-szigetek"
+			"ru": "Heard Island and McDonald Islands",
+			"se": "Heard- och McDonald\u00f6arna",
+			"zh": "\u8d6b\u5fb7\u5c9b\u548c\u9ea6\u5f53\u52b3\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -8474,16 +8969,21 @@
 		],
 		"translations": {
 			"br": "Vaticano",
+			"cs": "Svat\u00fd stolec",
 			"de": "Heiliger Stuhl",
 			"es": "Santa Sede",
 			"fa": "\u0633\u0631\u06cc\u0631 \u0645\u0642\u062f\u0633",
 			"fr": "Saint-Si\u00e8ge",
 			"hr": "Sveta Stolica",
+			"hu": "Vatik\u00e1n",
 			"it": "Santa Sede",
 			"ja": "\u8056\u5ea7",
 			"nl": "Heilige Stoel",
+			"pl": "Stolica Apostolska",
 			"pt": "Vaticano",
-			"hu": "Vatik\u00e1n"
+			"ru": "Holy See",
+			"se": "Vatikanstaten",
+			"zh": "\u68b5\u8482\u5188\u57ce\u56fd"
 		},
 		"cioc": ""
 	},
@@ -8558,16 +9058,21 @@
 		],
 		"translations": {
 			"br": "Honduras",
+			"cs": "Honduras",
 			"de": "Honduras",
 			"es": "Honduras",
 			"fa": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
 			"fr": "Honduras",
 			"hr": "Honduras",
+			"hu": "Honduras",
 			"it": "Honduras",
 			"ja": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9",
 			"nl": "Honduras",
+			"pl": "Honduras",
 			"pt": "Honduras",
-			"hu": "Honduras"
+			"ru": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+			"se": "Honduras",
+			"zh": "\u6d2a\u90fd\u62c9\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "HON"
 	},
@@ -8638,16 +9143,21 @@
 		],
 		"translations": {
 			"br": "Hungria",
+			"cs": "Ma\u010farsko",
 			"de": "Ungarn",
 			"es": "Hungr\u00eda",
 			"fa": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
 			"fr": "Hongrie",
 			"hr": "Ma\u0111arska",
+			"hu": "Magyarorsz\u00e1g",
 			"it": "Ungheria",
 			"ja": "\u30cf\u30f3\u30ac\u30ea\u30fc",
 			"nl": "Hongarije",
+			"pl": "W\u0119gry",
 			"pt": "Hungria",
-			"hu": "Magyarorsz\u00e1g"
+			"ru": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+			"se": "Ungern",
+			"zh": "\u5308\u7259\u5229"
 		},
 		"cioc": "HUN"
 	},
@@ -8718,6 +9228,7 @@
 		],
 		"translations": {
 			"br": "Hong Kong",
+			"cs": "Hongkong",
 			"de": "Hong Kong",
 			"es": "Hong Kong",
 			"fa": "\u0647\u0646\u06af\u200c\u06a9\u0646\u06af",
@@ -8728,7 +9239,10 @@
 			"ja": "\u9999\u6e2f",
 			"nl": "Hongkong",
 			"pl": "Hongkong",
-			"pt": "Hong Kong"
+			"pt": "Hong Kong",
+			"ru": "Hong Kong",
+			"se": "Hongkong",
+			"zh": "\u9999\u6e2f"
 		},
 		"cioc": "HKG"
 	},
@@ -8794,16 +9308,21 @@
 		],
 		"translations": {
 			"br": "Isl\u00e2ndia",
+			"cs": "Island",
 			"de": "Island",
 			"es": "Islandia",
 			"fa": "\u0627\u06cc\u0633\u0644\u0646\u062f",
 			"fr": "Islande",
 			"hr": "Island",
+			"hu": "Izland",
 			"it": "Islanda",
 			"ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
 			"nl": "IJsland",
+			"pl": "Islandia",
 			"pt": "Isl\u00e2ndia",
-			"hu": "Izland"
+			"ru": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+			"se": "Island",
+			"zh": "\u51b0\u5c9b"
 		},
 		"cioc": "ISL"
 	},
@@ -8884,16 +9403,21 @@
 		],
 		"translations": {
 			"br": "\u00cdndia",
+			"cs": "Indie",
 			"de": "Indien",
 			"es": "India",
 			"fa": "\u0647\u0646\u062f",
 			"fr": "Inde",
 			"hr": "Indija",
+			"hu": "India",
 			"it": "India",
 			"ja": "\u30a4\u30f3\u30c9",
 			"nl": "India",
+			"pl": "Indie",
 			"pt": "\u00cdndia",
-			"hu": "India"
+			"ru": "\u0418\u043d\u0434\u0438\u044f",
+			"se": "Indien",
+			"zh": "\u5370\u5ea6\u5171\u548c\u56fd"
 		},
 		"cioc": "IND"
 	},
@@ -8964,16 +9488,21 @@
 		],
 		"translations": {
 			"br": "Indon\u00e9sia",
+			"cs": "Indon\u00e9sie",
 			"de": "Indonesien",
 			"es": "Indonesia",
 			"fa": "\u0627\u0646\u062f\u0648\u0646\u0632\u06cc",
 			"fr": "Indon\u00e9sie",
 			"hr": "Indonezija",
+			"hu": "Indon\u00e9zia",
 			"it": "Indonesia",
 			"ja": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
 			"nl": "Indonesi\u00eb",
+			"pl": "Indonezja",
 			"pt": "Indon\u00e9sia",
-			"hu": "Indon\u00e9zia"
+			"ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+			"se": "Indonesien",
+			"zh": "\u5370\u5ea6\u5c3c\u897f\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "INA"
 	},
@@ -9052,16 +9581,21 @@
 		],
 		"translations": {
 			"br": "Costa do Marfim",
+			"cs": "Pob\u0159e\u017e\u00ed slonoviny",
 			"de": "Elfenbeink\u00fcste",
 			"es": "Costa de Marfil",
 			"fa": "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c",
 			"fr": "C\u00f4te d'Ivoire",
 			"hr": "Obala Bjelokosti",
+			"hu": "Elef\u00e1ntcsontpart",
 			"it": "Costa D'Avorio",
 			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
 			"nl": "Ivoorkust",
+			"pl": "Wybrze\u017ce Ko\u015bci S\u0142oniowej",
 			"pt": "Costa do Marfim",
-			"hu": "Elef\u00e1ntcsontpart"
+			"ru": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440",
+			"se": "Elfenbenskusten",
+			"zh": "\u79d1\u7279\u8fea\u74e6\u5171\u548c\u56fd"
 		},
 		"cioc": "CIV"
 	},
@@ -9129,15 +9663,21 @@
 		],
 		"translations": {
 			"br": "Ir\u00e3",
+			"cs": "\u00cdr\u00e1n",
 			"de": "Iran",
 			"es": "Iran",
 			"fa": "\u0627\u06cc\u0631\u0627\u0646",
 			"fr": "Iran",
 			"hr": "Iran",
+			"hu": "Ir\u00e1n",
+			"it": "Iran (Islamic Republic of)",
 			"ja": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
 			"nl": "Iran",
+			"pl": "Iran",
 			"pt": "Ir\u00e3o",
-			"hu": "Ir\u00e1n"
+			"ru": "\u0418\u0440\u0430\u043d",
+			"se": "Iran",
+			"zh": "\u4f0a\u6717\u4f0a\u65af\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "IRI"
 	},
@@ -9220,16 +9760,21 @@
 		],
 		"translations": {
 			"br": "Iraque",
+			"cs": "Ir\u00e1k",
 			"de": "Irak",
 			"es": "Irak",
 			"fa": "\u0639\u0631\u0627\u0642",
 			"fr": "Irak",
 			"hr": "Irak",
+			"hu": "Irak",
 			"it": "Iraq",
 			"ja": "\u30a4\u30e9\u30af",
 			"nl": "Irak",
+			"pl": "Irak",
 			"pt": "Iraque",
-			"hu": "Irak"
+			"ru": "\u0418\u0440\u0430\u043a",
+			"se": "Irak",
+			"zh": "\u4f0a\u62c9\u514b\u5171\u548c\u56fd"
 		},
 		"cioc": "IRQ"
 	},
@@ -9303,16 +9848,21 @@
 		],
 		"translations": {
 			"br": "Irlanda",
+			"cs": "Irsko",
 			"de": "Irland",
 			"es": "Irlanda",
 			"fa": "\u0627\u06cc\u0631\u0644\u0646\u062f",
 			"fr": "Irlande",
 			"hr": "Irska",
+			"hu": "\u00cdrorsz\u00e1g",
 			"it": "Irlanda",
 			"ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
 			"nl": "Ierland",
+			"pl": "Irlandia",
 			"pt": "Irlanda",
-			"hu": "\u00cdrorsz\u00e1g"
+			"ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+			"se": "Irland",
+			"zh": "\u7231\u5c14\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "IRL"
 	},
@@ -9388,16 +9938,21 @@
 		],
 		"translations": {
 			"br": "Ilha de Man",
+			"cs": "Ostrov Man",
 			"de": "Insel Man",
 			"es": "Isla de Man",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u0645\u0646",
 			"fr": "\u00cele de Man",
 			"hr": "Otok Man",
+			"hu": "Man",
 			"it": "Isola di Man",
 			"ja": "\u30de\u30f3\u5cf6",
 			"nl": "Isle of Man",
+			"pl": "Wyspa Man",
 			"pt": "Ilha de Man",
-			"hu": "Man"
+			"ru": "Isle of Man",
+			"se": "Isle of Man",
+			"zh": "\u9a6c\u6069\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -9468,16 +10023,21 @@
 		],
 		"translations": {
 			"br": "Israel",
+			"cs": "Izrael",
 			"de": "Israel",
 			"es": "Israel",
 			"fa": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644",
 			"fr": "Isra\u00ebl",
 			"hr": "Izrael",
+			"hu": "Izrael",
 			"it": "Israele",
 			"ja": "\u30a4\u30b9\u30e9\u30a8\u30eb",
 			"nl": "Isra\u00ebl",
+			"pl": "Izrael",
 			"pt": "Israel",
-			"hu": "Izrael"
+			"ru": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+			"se": "Israel",
+			"zh": "\u4ee5\u8272\u5217\u56fd"
 		},
 		"cioc": "ISR"
 	},
@@ -9549,16 +10109,21 @@
 		],
 		"translations": {
 			"br": "It\u00e1lia",
+			"cs": "It\u00e1lie",
 			"de": "Italien",
 			"es": "Italia",
 			"fa": "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
 			"fr": "Italie",
 			"hr": "Italija",
+			"hu": "Olaszorsz\u00e1g",
 			"it": "Italia",
 			"ja": "\u30a4\u30bf\u30ea\u30a2",
 			"nl": "Itali\u00eb",
+			"pl": "W\u0142ochy",
 			"pt": "It\u00e1lia",
-			"hu": "Olaszorsz\u00e1g"
+			"ru": "\u0418\u0442\u0430\u043b\u0438\u044f",
+			"se": "Italien",
+			"zh": "\u610f\u5927\u5229\u5171\u548c\u56fd"
 		},
 		"cioc": "ITA"
 	},
@@ -9626,16 +10191,21 @@
 		],
 		"translations": {
 			"br": "Jamaica",
+			"cs": "Jamajka",
 			"de": "Jamaika",
 			"es": "Jamaica",
 			"fa": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
 			"fr": "Jama\u00efque",
 			"hr": "Jamajka",
+			"hu": "Jamaica",
 			"it": "Giamaica",
 			"ja": "\u30b8\u30e3\u30de\u30a4\u30ab",
 			"nl": "Jamaica",
+			"pl": "Jamajka",
 			"pt": "Jamaica",
-			"hu": "Jamaica"
+			"ru": "\u042f\u043c\u0430\u0439\u043a\u0430",
+			"se": "Jamaica",
+			"zh": "\u7259\u4e70\u52a0"
 		},
 		"cioc": "JAM"
 	},
@@ -9695,16 +10265,21 @@
 		],
 		"translations": {
 			"br": "Jap\u00e3o",
+			"cs": "Japonsko",
 			"de": "Japan",
 			"es": "Jap\u00f3n",
 			"fa": "\u0698\u0627\u067e\u0646",
 			"fr": "Japon",
 			"hr": "Japan",
+			"hu": "Jap\u00e1n",
 			"it": "Giappone",
 			"ja": "\u65e5\u672c",
 			"nl": "Japan",
+			"pl": "Japonia",
 			"pt": "Jap\u00e3o",
-			"hu": "Jap\u00e1n"
+			"ru": "\u042f\u043f\u043e\u043d\u0438\u044f",
+			"se": "Japan",
+			"zh": "\u65e5\u672c\u56fd"
 		},
 		"cioc": "JPN"
 	},
@@ -9776,16 +10351,21 @@
 		],
 		"translations": {
 			"br": "Jersey",
+			"cs": "Jersey",
 			"de": "Jersey",
 			"es": "Jersey",
 			"fa": "\u062c\u0631\u0632\u06cc",
 			"fr": "Jersey",
 			"hr": "Jersey",
+			"hu": "Jersey",
 			"it": "Isola di Jersey",
 			"ja": "\u30b8\u30e3\u30fc\u30b8\u30fc",
 			"nl": "Jersey",
+			"pl": "Jersey",
 			"pt": "Jersey",
-			"hu": "Jersey"
+			"ru": "Jersey",
+			"se": "Jersey",
+			"zh": "\u6cfd\u897f\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -9860,16 +10440,21 @@
 		],
 		"translations": {
 			"br": "Jord\u00e2nia",
+			"cs": "Jord\u00e1nsko",
 			"de": "Jordanien",
 			"es": "Jordania",
 			"fa": "\u0627\u0631\u062f\u0646",
 			"fr": "Jordanie",
 			"hr": "Jordan",
+			"hu": "Jord\u00e1nia",
 			"it": "Giordania",
 			"ja": "\u30e8\u30eb\u30c0\u30f3",
 			"nl": "Jordani\u00eb",
+			"pl": "Jordania",
 			"pt": "Jord\u00e2nia",
-			"hu": "Jord\u00e1nia"
+			"ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+			"se": "Jordanien",
+			"zh": "\u7ea6\u65e6\u54c8\u5e0c\u59c6\u738b\u56fd"
 		},
 		"cioc": "JOR"
 	},
@@ -9956,16 +10541,21 @@
 		],
 		"translations": {
 			"br": "Cazaquist\u00e3o",
+			"cs": "Kazachst\u00e1n",
 			"de": "Kasachstan",
 			"es": "Kazajist\u00e1n",
 			"fa": "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
 			"fr": "Kazakhstan",
 			"hr": "Kazahstan",
+			"hu": "Kazahszt\u00e1n",
 			"it": "Kazakistan",
 			"ja": "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3",
 			"nl": "Kazachstan",
+			"pl": "Kazachstan",
 			"pt": "Cazaquist\u00e3o",
-			"hu": "Kazahszt\u00e1n"
+			"ru": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+			"se": "Kazakstan",
+			"zh": "\u54c8\u8428\u514b\u65af\u5766\u5171\u548c\u56fd"
 		},
 		"cioc": "KAZ"
 	},
@@ -10049,16 +10639,21 @@
 		],
 		"translations": {
 			"br": "Qu\u00eania",
+			"cs": "Ke\u0148a",
 			"de": "Kenia",
 			"es": "Kenia",
 			"fa": "\u06a9\u0646\u06cc\u0627",
 			"fr": "Kenya",
 			"hr": "Kenija",
+			"hu": "Kenya",
 			"it": "Kenya",
 			"ja": "\u30b1\u30cb\u30a2",
 			"nl": "Kenia",
+			"pl": "Kenia",
 			"pt": "Qu\u00e9nia",
-			"hu": "Kenya"
+			"ru": "\u041a\u0435\u043d\u0438\u044f",
+			"se": "Kenya",
+			"zh": "\u80af\u5c3c\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "KEN"
 	},
@@ -10124,16 +10719,21 @@
 		],
 		"translations": {
 			"br": "Kiribati",
+			"cs": "Kiribati",
 			"de": "Kiribati",
 			"es": "Kiribati",
 			"fa": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
 			"fr": "Kiribati",
 			"hr": "Kiribati",
+			"hu": "Kiribati",
 			"it": "Kiribati",
 			"ja": "\u30ad\u30ea\u30d0\u30b9",
 			"nl": "Kiribati",
+			"pl": "Kiribati",
 			"pt": "Quirib\u00e1ti",
-			"hu": "Kiribati"
+			"ru": "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438",
+			"se": "Kiribati",
+			"zh": "\u57fa\u91cc\u5df4\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "KIR"
 	},
@@ -10206,16 +10806,21 @@
 		],
 		"translations": {
 			"br": "Kuwait",
+			"cs": "Kuvajt",
 			"de": "Kuwait",
 			"es": "Kuwait",
 			"fa": "\u06a9\u0648\u06cc\u062a",
 			"fr": "Kowe\u00eft",
 			"hr": "Kuvajt",
+			"hu": "Kuvait",
 			"it": "Kuwait",
 			"ja": "\u30af\u30a6\u30a7\u30fc\u30c8",
 			"nl": "Koeweit",
+			"pl": "Kuwejt",
 			"pt": "Kuwait",
-			"hu": "Kuvait"
+			"ru": "\u041a\u0443\u0432\u0435\u0439\u0442",
+			"se": "Kuwait",
+			"zh": "\u79d1\u5a01\u7279\u56fd"
 		},
 		"cioc": "KUW"
 	},
@@ -10296,16 +10901,21 @@
 		],
 		"translations": {
 			"br": "Quirguist\u00e3o",
+			"cs": "Kyrgyzst\u00e1n",
 			"de": "Kirgisistan",
 			"es": "Kirguizist\u00e1n",
 			"fa": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
 			"fr": "Kirghizistan",
 			"hr": "Kirgistan",
+			"hu": "Kirgiziszt\u00e1n",
 			"it": "Kirghizistan",
 			"ja": "\u30ad\u30eb\u30ae\u30b9",
 			"nl": "Kirgizi\u00eb",
+			"pl": "Kirgistan",
 			"pt": "Quirguizist\u00e3o",
-			"hu": "Kirgiziszt\u00e1n"
+			"ru": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+			"se": "Kirgizistan",
+			"zh": "\u5409\u5c14\u5409\u65af\u65af\u5766\u5171\u548c\u56fd"
 		},
 		"cioc": "KGZ"
 	},
@@ -10378,16 +10988,21 @@
 		],
 		"translations": {
 			"br": "Laos",
+			"cs": "Laos",
 			"de": "Laos",
 			"es": "Laos",
 			"fa": "\u0644\u0627\u0626\u0648\u0633",
 			"fr": "Laos",
 			"hr": "Laos",
+			"hu": "Laosz",
 			"it": "Laos",
 			"ja": "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd",
 			"nl": "Laos",
+			"pl": "Laos",
 			"pt": "Laos",
-			"hu": "Laosz"
+			"ru": "\u041b\u0430\u043e\u0441",
+			"se": "Laos",
+			"zh": "\u8001\u631d\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "LAO"
 	},
@@ -10457,16 +11072,21 @@
 		],
 		"translations": {
 			"br": "Let\u00f4nia",
+			"cs": "Loty\u0161sko",
 			"de": "Lettland",
 			"es": "Letonia",
 			"fa": "\u0644\u062a\u0648\u0646\u06cc",
 			"fr": "Lettonie",
 			"hr": "Latvija",
+			"hu": "Lettorsz\u00e1g",
 			"it": "Lettonia",
 			"ja": "\u30e9\u30c8\u30d3\u30a2",
 			"nl": "Letland",
+			"pl": "\u0141otwa",
 			"pt": "Let\u00f3nia",
-			"hu": "Lettorsz\u00e1g"
+			"ru": "\u041b\u0430\u0442\u0432\u0438\u044f",
+			"se": "Lettland",
+			"zh": "\u62c9\u8131\u7ef4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "LAT"
 	},
@@ -10545,16 +11165,21 @@
 		],
 		"translations": {
 			"br": "L\u00edbano",
+			"cs": "Libanon",
 			"de": "Libanon",
 			"es": "L\u00edbano",
 			"fa": "\u0644\u0628\u0646\u0627\u0646",
 			"fr": "Liban",
 			"hr": "Libanon",
+			"hu": "Libanon",
 			"it": "Libano",
 			"ja": "\u30ec\u30d0\u30ce\u30f3",
 			"nl": "Libanon",
+			"pl": "Liban",
 			"pt": "L\u00edbano",
-			"hu": "Libanon"
+			"ru": "\u041b\u0438\u0432\u0430\u043d",
+			"se": "Libanon",
+			"zh": "\u9ece\u5df4\u5ae9\u5171\u548c\u56fd"
 		},
 		"cioc": "LIB"
 	},
@@ -10639,16 +11264,21 @@
 		],
 		"translations": {
 			"br": "Lesoto",
+			"cs": "Lesotho",
 			"de": "Lesotho",
 			"es": "Lesotho",
 			"fa": "\u0644\u0633\u0648\u062a\u0648",
 			"fr": "Lesotho",
 			"hr": "Lesoto",
+			"hu": "Lesotho",
 			"it": "Lesotho",
 			"ja": "\u30ec\u30bd\u30c8",
 			"nl": "Lesotho",
+			"pl": "Lesotho",
 			"pt": "Lesoto",
-			"hu": "Lesotho"
+			"ru": "\u041b\u0435\u0441\u043e\u0442\u043e",
+			"se": "Lesotho",
+			"zh": "\u83b1\u7d22\u6258\u738b\u56fd"
 		},
 		"cioc": "LES"
 	},
@@ -10723,16 +11353,21 @@
 		],
 		"translations": {
 			"br": "Lib\u00e9ria",
+			"cs": "Lib\u00e9rie",
 			"de": "Liberia",
 			"es": "Liberia",
 			"fa": "\u0644\u06cc\u0628\u0631\u06cc\u0627",
 			"fr": "Liberia",
 			"hr": "Liberija",
+			"hu": "Lib\u00e9ria",
 			"it": "Liberia",
 			"ja": "\u30ea\u30d9\u30ea\u30a2",
 			"nl": "Liberia",
+			"pl": "Liberia",
 			"pt": "Lib\u00e9ria",
-			"hu": "Lib\u00e9ria"
+			"ru": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+			"se": "Liberia",
+			"zh": "\u5229\u6bd4\u91cc\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "LBR"
 	},
@@ -10820,16 +11455,21 @@
 		],
 		"translations": {
 			"br": "L\u00edbia",
+			"cs": "Libye",
 			"de": "Libyen",
 			"es": "Libia",
 			"fa": "\u0644\u06cc\u0628\u06cc",
 			"fr": "Libye",
 			"hr": "Libija",
+			"hu": "L\u00edbia",
 			"it": "Libia",
 			"ja": "\u30ea\u30d3\u30a2",
 			"nl": "Libi\u00eb",
+			"pl": "Libia",
 			"pt": "L\u00edbia",
-			"hu": "L\u00edbia"
+			"ru": "\u041b\u0438\u0432\u0438\u044f",
+			"se": "Libyen",
+			"zh": "\u5229\u6bd4\u4e9a\u56fd"
 		},
 		"cioc": "LBA"
 	},
@@ -10896,16 +11536,21 @@
 		],
 		"translations": {
 			"br": "Liechtenstein",
+			"cs": "Lichten\u0161tejnsko",
 			"de": "Liechtenstein",
 			"es": "Liechtenstein",
 			"fa": "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646",
 			"fr": "Liechtenstein",
 			"hr": "Lihten\u0161tajn",
+			"hu": "Liechtenstein",
 			"it": "Liechtenstein",
 			"ja": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
 			"nl": "Liechtenstein",
+			"pl": "Liechtenstein",
 			"pt": "Listenstaine",
-			"hu": "Liechtenstein"
+			"ru": "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d",
+			"se": "Liechtenstein",
+			"zh": "\u5217\u652f\u6566\u58eb\u767b\u516c\u56fd"
 		},
 		"cioc": "LIE"
 	},
@@ -10975,16 +11620,21 @@
 		],
 		"translations": {
 			"br": "Litu\u00e2nia",
+			"cs": "Litva",
 			"de": "Litauen",
 			"es": "Lituania",
 			"fa": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc",
 			"fr": "Lituanie",
 			"hr": "Litva",
+			"hu": "Litv\u00e1nia",
 			"it": "Lituania",
 			"ja": "\u30ea\u30c8\u30a2\u30cb\u30a2",
 			"nl": "Litouwen",
+			"pl": "Litwa",
 			"pt": "Litu\u00e2nia",
-			"hu": "Litv\u00e1nia"
+			"ru": "\u041b\u0438\u0442\u0432\u0430",
+			"se": "Litauen",
+			"zh": "\u7acb\u9676\u5b9b\u5171\u548c\u56fd"
 		},
 		"cioc": "LTU"
 	},
@@ -11067,16 +11717,21 @@
 		],
 		"translations": {
 			"br": "Luxemburgo",
+			"cs": "Lucembursko",
 			"de": "Luxemburg",
 			"es": "Luxemburgo",
 			"fa": "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af",
 			"fr": "Luxembourg",
 			"hr": "Luksemburg",
+			"hu": "Luxemburg",
 			"it": "Lussemburgo",
 			"ja": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af",
 			"nl": "Luxemburg",
+			"pl": "Luksemburg",
 			"pt": "Luxemburgo",
-			"hu": "Luxemburg"
+			"ru": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+			"se": "Luxemburg",
+			"zh": "\u5362\u68ee\u5821\u5927\u516c\u56fd"
 		},
 		"cioc": "LUX"
 	},
@@ -11146,16 +11801,21 @@
 		],
 		"translations": {
 			"br": "Macau",
+			"cs": "Macao",
 			"de": "Macao",
 			"es": "Macao",
 			"fa": "\u0645\u06a9\u0627\u0626\u0648",
 			"fr": "Macao",
 			"hr": "Makao",
+			"hu": "Maka\u00f3",
 			"it": "Macao",
 			"ja": "\u30de\u30ab\u30aa",
 			"nl": "Macao",
+			"pl": "Makau",
 			"pt": "Macau",
-			"hu": "Maka\u00f3"
+			"ru": "Macao",
+			"se": "Macao",
+			"zh": "\u6fb3\u95e8"
 		},
 		"cioc": ""
 	},
@@ -11226,16 +11886,21 @@
 		],
 		"translations": {
 			"br": "Maced\u00f4nia",
+			"cs": "Makedonie",
 			"de": "Mazedonien",
 			"es": "Macedonia",
 			"fa": "",
 			"fr": "Mac\u00e9doine",
 			"hr": "Makedonija",
+			"hu": "Maced\u00f3nia",
 			"it": "Macedonia",
 			"ja": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
 			"nl": "Macedoni\u00eb",
+			"pl": "Macedonia",
 			"pt": "Maced\u00f3nia",
-			"hu": "Maced\u00f3nia"
+			"ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+			"se": "Nordmakedonien",
+			"zh": "\u5317\u99ac\u5176\u9813\u5171\u548c\u570b"
 		},
 		"cioc": "MKD"
 	},
@@ -11314,16 +11979,21 @@
 		],
 		"translations": {
 			"br": "Madagascar",
+			"cs": "Madagaskar",
 			"de": "Madagaskar",
 			"es": "Madagascar",
 			"fa": "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631",
 			"fr": "Madagascar",
 			"hr": "Madagaskar",
+			"hu": "Madagaszk\u00e1r",
 			"it": "Madagascar",
 			"ja": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb",
 			"nl": "Madagaskar",
+			"pl": "Madagaskar",
 			"pt": "Madag\u00e1scar",
-			"hu": "Madagaszk\u00e1r"
+			"ru": "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440",
+			"se": "Madagaskar",
+			"zh": "\u9a6c\u8fbe\u52a0\u65af\u52a0\u5171\u548c\u56fd"
 		},
 		"cioc": "MAD"
 	},
@@ -11404,16 +12074,21 @@
 		],
 		"translations": {
 			"br": "Malawi",
+			"cs": "Malawi",
 			"de": "Malawi",
 			"es": "Malawi",
 			"fa": "\u0645\u0627\u0644\u0627\u0648\u06cc",
 			"fr": "Malawi",
 			"hr": "Malavi",
+			"hu": "Malawi",
 			"it": "Malawi",
 			"ja": "\u30de\u30e9\u30a6\u30a4",
 			"nl": "Malawi",
+			"pl": "Malawi",
 			"pt": "Mal\u00e1vi",
-			"hu": "Malawi"
+			"ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+			"se": "Malawi",
+			"zh": "\u9a6c\u62c9\u7ef4\u5171\u548c\u56fd"
 		},
 		"cioc": "MAW"
 	},
@@ -11480,16 +12155,21 @@
 		],
 		"translations": {
 			"br": "Mal\u00e1sia",
+			"cs": "Malajsie",
 			"de": "Malaysia",
 			"es": "Malasia",
 			"fa": "\u0645\u0627\u0644\u0632\u06cc",
 			"fr": "Malaisie",
 			"hr": "Malezija",
+			"hu": "Malajzia",
 			"it": "Malesia",
 			"ja": "\u30de\u30ec\u30fc\u30b7\u30a2",
 			"nl": "Maleisi\u00eb",
+			"pl": "Malezja",
 			"pt": "Mal\u00e1sia",
-			"hu": "Malajzia"
+			"ru": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f",
+			"se": "Malaysia",
+			"zh": "\u9a6c\u6765\u897f\u4e9a"
 		},
 		"cioc": "MAS"
 	},
@@ -11555,16 +12235,21 @@
 		],
 		"translations": {
 			"br": "Maldivas",
+			"cs": "Maledivy",
 			"de": "Malediven",
 			"es": "Maldivas",
 			"fa": "\u0645\u0627\u0644\u062f\u06cc\u0648",
 			"fr": "Maldives",
 			"hr": "Maldivi",
+			"hu": "Mald\u00edv-szigetek",
 			"it": "Maldive",
 			"ja": "\u30e2\u30eb\u30c7\u30a3\u30d6",
 			"nl": "Maldiven",
+			"pl": "Malediwy",
 			"pt": "Maldivas",
-			"hu": "Mald\u00edv-szigetek"
+			"ru": "\u041c\u0430\u043b\u044c\u0434\u0438\u0432\u044b",
+			"se": "Maldiverna",
+			"zh": "\u9a6c\u5c14\u4ee3\u592b\u5171\u548c\u56fd"
 		},
 		"cioc": "MDV"
 	},
@@ -11644,16 +12329,21 @@
 		],
 		"translations": {
 			"br": "Mali",
+			"cs": "Mali",
 			"de": "Mali",
 			"es": "Mali",
 			"fa": "\u0645\u0627\u0644\u06cc",
 			"fr": "Mali",
 			"hr": "Mali",
+			"hu": "Mali",
 			"it": "Mali",
 			"ja": "\u30de\u30ea",
 			"nl": "Mali",
+			"pl": "Mali",
 			"pt": "Mali",
-			"hu": "Mali"
+			"ru": "\u041c\u0430\u043b\u0438",
+			"se": "Mali",
+			"zh": "\u9a6c\u91cc\u5171\u548c\u56fd"
 		},
 		"cioc": "MLI"
 	},
@@ -11724,16 +12414,21 @@
 		],
 		"translations": {
 			"br": "Malta",
+			"cs": "Malta",
 			"de": "Malta",
 			"es": "Malta",
 			"fa": "\u0645\u0627\u0644\u062a",
 			"fr": "Malte",
 			"hr": "Malta",
+			"hu": "M\u00e1lta",
 			"it": "Malta",
 			"ja": "\u30de\u30eb\u30bf",
 			"nl": "Malta",
+			"pl": "Malta",
 			"pt": "Malta",
-			"hu": "M\u00e1lta"
+			"ru": "\u041c\u0430\u043b\u044c\u0442\u0430",
+			"se": "Malta",
+			"zh": "\u9a6c\u8033\u4ed6\u5171\u548c\u56fd"
 		},
 		"cioc": "MLT"
 	},
@@ -11798,16 +12493,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Marshall",
+			"cs": "Marshallovy ostrovy",
 			"de": "Marshallinseln",
 			"es": "Islas Marshall",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
 			"fr": "\u00celes Marshall",
 			"hr": "Mar\u0161alovi Otoci",
+			"hu": "Marshall-szigetek",
 			"it": "Isole Marshall",
 			"ja": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
 			"nl": "Marshalleilanden",
+			"pl": "Wyspy Marshalla",
 			"pt": "Ilhas Marshall",
-			"hu": "Marshall-szigetek"
+			"ru": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+			"se": "Marshall\u00f6arna",
+			"zh": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b\u5171\u548c\u56fd"
 		},
 		"cioc": "MHL"
 	},
@@ -11863,16 +12563,21 @@
 		],
 		"translations": {
 			"br": "Martinica",
+			"cs": "Martinik",
 			"de": "Martinique",
 			"es": "Martinica",
 			"fa": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
 			"fr": "Martinique",
 			"hr": "Martinique",
+			"hu": "Martinique",
 			"it": "Martinica",
 			"ja": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
 			"nl": "Martinique",
+			"pl": "Martynika",
 			"pt": "Martinica",
-			"hu": "Martinique"
+			"ru": "Martinique",
+			"se": "Martinique",
+			"zh": "\u9a6c\u63d0\u5c3c\u514b"
 		},
 		"cioc": ""
 	},
@@ -11958,16 +12663,21 @@
 		],
 		"translations": {
 			"br": "Maurit\u00e2nia",
+			"cs": "Maurit\u00e1nie",
 			"de": "Mauretanien",
 			"es": "Mauritania",
 			"fa": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc",
 			"fr": "Mauritanie",
 			"hr": "Mauritanija",
+			"hu": "Maurit\u00e1nia",
 			"it": "Mauritania",
 			"ja": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2",
 			"nl": "Mauritani\u00eb",
+			"pl": "Mauretania",
 			"pt": "Maurit\u00e2nia",
-			"hu": "Maurit\u00e1nia"
+			"ru": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+			"se": "Mauretanien",
+			"zh": "\u6bdb\u91cc\u5854\u5c3c\u4e9a\u4f0a\u65af\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "MTN"
 	},
@@ -12039,16 +12749,21 @@
 		],
 		"translations": {
 			"br": "Maur\u00edcio",
+			"cs": "Mauricius",
 			"de": "Mauritius",
 			"es": "Mauricio",
 			"fa": "\u0645\u0648\u0631\u06cc\u0633",
 			"fr": "\u00cele Maurice",
 			"hr": "Mauricijus",
+			"hu": "Mauritius",
 			"it": "Mauritius",
 			"ja": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9",
 			"nl": "Mauritius",
+			"pl": "Mauritius",
 			"pt": "Maur\u00edcia",
-			"hu": "Mauritius"
+			"ru": "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439",
+			"se": "Mauritius",
+			"zh": "\u6bdb\u91cc\u6c42\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "MRI"
 	},
@@ -12118,16 +12833,21 @@
 		],
 		"translations": {
 			"br": "Mayotte",
+			"cs": "Mayotte",
 			"de": "Mayotte",
 			"es": "Mayotte",
 			"fa": "\u0645\u0627\u06cc\u0648\u062a",
 			"fr": "Mayotte",
 			"hr": "Mayotte",
+			"hu": "Mayotte",
 			"it": "Mayotte",
 			"ja": "\u30de\u30e8\u30c3\u30c8",
 			"nl": "Mayotte",
+			"pl": "Majotta",
 			"pt": "Mayotte",
-			"hu": "Mayotte"
+			"ru": "Mayotte",
+			"se": "Mayotte",
+			"zh": "\u9a6c\u7ea6\u7279"
 		},
 		"cioc": ""
 	},
@@ -12210,16 +12930,21 @@
 		],
 		"translations": {
 			"br": "M\u00e9xico",
+			"cs": "Mexiko",
 			"de": "Mexiko",
 			"es": "M\u00e9xico",
 			"fa": "\u0645\u06a9\u0632\u06cc\u06a9",
 			"fr": "Mexique",
 			"hr": "Meksiko",
+			"hu": "Mexik\u00f3",
 			"it": "Messico",
 			"ja": "\u30e1\u30ad\u30b7\u30b3",
 			"nl": "Mexico",
+			"pl": "Meksyk",
 			"pt": "M\u00e9xico",
-			"hu": "Mexik\u00f3"
+			"ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+			"se": "Mexiko",
+			"zh": "\u58a8\u897f\u54e5\u5408\u4f17\u56fd"
 		},
 		"cioc": "MEX"
 	},
@@ -12279,16 +13004,21 @@
 		],
 		"translations": {
 			"br": "Micron\u00e9sia",
+			"cs": "Mikron\u00e9sie",
 			"de": "Mikronesien",
 			"es": "Micronesia",
 			"fa": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc",
 			"fr": "Micron\u00e9sie",
 			"hr": "Mikronezija",
+			"hu": "Mikron\u00e9zia",
 			"it": "Micronesia",
 			"ja": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6",
 			"nl": "Micronesi\u00eb",
+			"pl": "Mikronezja",
 			"pt": "Micron\u00e9sia",
-			"hu": "Mikron\u00e9zia"
+			"ru": "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f",
+			"se": "Mikronesiska federationen",
+			"zh": "\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a\u8054\u90a6"
 		},
 		"cioc": "FSM"
 	},
@@ -12356,16 +13086,21 @@
 		],
 		"translations": {
 			"br": "Mold\u00e1via",
+			"cs": "Moldavsko",
 			"de": "Moldawie",
 			"es": "Moldavia",
 			"fa": "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc",
 			"fr": "Moldavie",
 			"hr": "Moldova",
+			"hu": "Moldova",
 			"it": "Moldavia",
 			"ja": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd",
 			"nl": "Moldavi\u00eb",
+			"pl": "Mo\u0142dawia",
 			"pt": "Mold\u00e1via",
-			"hu": "Moldova"
+			"ru": "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f",
+			"se": "Moldavien",
+			"zh": "\u6469\u5c14\u591a\u74e6\u5171\u548c\u56fd"
 		},
 		"cioc": "MDA"
 	},
@@ -12426,16 +13161,21 @@
 		],
 		"translations": {
 			"br": "M\u00f4naco",
+			"cs": "Monako",
 			"de": "Monaco",
 			"es": "M\u00f3naco",
 			"fa": "\u0645\u0648\u0646\u0627\u06a9\u0648",
 			"fr": "Monaco",
 			"hr": "Monako",
+			"hu": "Monaco",
 			"it": "Principato di Monaco",
 			"ja": "\u30e2\u30ca\u30b3",
 			"nl": "Monaco",
+			"pl": "Monako",
 			"pt": "M\u00f3naco",
-			"hu": "Monaco"
+			"ru": "\u041c\u043e\u043d\u0430\u043a\u043e",
+			"se": "Monaco",
+			"zh": "\u6469\u7eb3\u54e5\u516c\u56fd"
 		},
 		"cioc": "MON"
 	},
@@ -12497,16 +13237,21 @@
 		],
 		"translations": {
 			"br": "Mong\u00f3lia",
+			"cs": "Mongolsko",
 			"de": "Mongolei",
 			"es": "Mongolia",
 			"fa": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646",
 			"fr": "Mongolie",
 			"hr": "Mongolija",
+			"hu": "Mong\u00f3lia",
 			"it": "Mongolia",
 			"ja": "\u30e2\u30f3\u30b4\u30eb",
 			"nl": "Mongoli\u00eb",
+			"pl": "Mongolia",
 			"pt": "Mong\u00f3lia",
-			"hu": "Mong\u00f3lia"
+			"ru": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+			"se": "Mongoliet",
+			"zh": "\u8499\u53e4"
 		},
 		"cioc": "MGL"
 	},
@@ -12594,16 +13339,21 @@
 		],
 		"translations": {
 			"br": "Montenegro",
+			"cs": "\u010cern\u00e1 Hora",
 			"de": "Montenegro",
 			"es": "Montenegro",
 			"fa": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648",
 			"fr": "Mont\u00e9n\u00e9gro",
 			"hr": "Crna Gora",
+			"hu": "Montenegr\u00f3",
 			"it": "Montenegro",
 			"ja": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
 			"nl": "Montenegro",
+			"pl": "Czarnog\u00f3ra",
 			"pt": "Montenegro",
-			"hu": "Montenegr\u00f3"
+			"ru": "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f",
+			"se": "Montenegro",
+			"zh": "\u9ed1\u5c71"
 		},
 		"cioc": "MNE"
 	},
@@ -12670,16 +13420,21 @@
 		],
 		"translations": {
 			"br": "Montserrat",
+			"cs": "Montserrat",
 			"de": "Montserrat",
 			"es": "Montserrat",
 			"fa": "\u0645\u0627\u06cc\u0648\u062a",
 			"fr": "Montserrat",
 			"hr": "Montserrat",
+			"hu": "Montserrat",
 			"it": "Montserrat",
 			"ja": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
 			"nl": "Montserrat",
+			"pl": "Montserrat",
 			"pt": "Monserrate",
-			"hu": "Montserrat"
+			"ru": "Montserrat",
+			"se": "Montserrat",
+			"zh": "\u8499\u7279\u585e\u62c9\u7279"
 		},
 		"cioc": ""
 	},
@@ -12764,16 +13519,21 @@
 		],
 		"translations": {
 			"br": "Marrocos",
+			"cs": "Maroko",
 			"de": "Marokko",
 			"es": "Marruecos",
 			"fa": "\u0627\u0644\u0645\u063a\u0631\u0628",
 			"fr": "Maroc",
 			"hr": "Maroko",
+			"hu": "Marokk\u00f3",
 			"it": "Marocco",
 			"ja": "\u30e2\u30ed\u30c3\u30b3",
 			"nl": "Marokko",
+			"pl": "Maroko",
 			"pt": "Marrocos",
-			"hu": "Marokk\u00f3"
+			"ru": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+			"se": "Marocko",
+			"zh": "\u6469\u6d1b\u54e5\u738b\u56fd"
 		},
 		"cioc": "MAR"
 	},
@@ -12852,16 +13612,21 @@
 		],
 		"translations": {
 			"br": "Mo\u00e7ambique",
+			"cs": "Mosambik",
 			"de": "Mosambik",
 			"es": "Mozambique",
 			"fa": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
 			"fr": "Mozambique",
 			"hr": "Mozambik",
+			"hu": "Mozambik",
 			"it": "Mozambico",
 			"ja": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
 			"nl": "Mozambique",
+			"pl": "Mozambik",
 			"pt": "Mo\u00e7ambique",
-			"hu": "Mozambik"
+			"ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+			"se": "Mo\u00e7ambique",
+			"zh": "\u83ab\u6851\u6bd4\u514b\u5171\u548c\u56fd"
 		},
 		"cioc": "MOZ"
 	},
@@ -12933,16 +13698,21 @@
 		],
 		"translations": {
 			"br": "Myanmar",
+			"cs": "Myanmar",
 			"de": "Myanmar",
 			"es": "Myanmar",
 			"fa": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
 			"fr": "Myanmar",
 			"hr": "Mijanmar",
+			"hu": "Mianmar",
 			"it": "Birmania",
 			"ja": "\u30df\u30e3\u30f3\u30de\u30fc",
 			"nl": "Myanmar",
+			"pl": "Mjanma (Birma)",
 			"pt": "Myanmar",
-			"hu": "Mianmar"
+			"ru": "\u041c\u044c\u044f\u043d\u043c\u0430",
+			"se": "Myanmar",
+			"zh": "\u7f05\u7538\u8054\u90a6\u5171\u548c\u56fd"
 		},
 		"cioc": "MYA"
 	},
@@ -13030,16 +13800,21 @@
 		],
 		"translations": {
 			"br": "Nam\u00edbia",
+			"cs": "Namibie",
 			"de": "Namibia",
 			"es": "Namibia",
 			"fa": "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627",
 			"fr": "Namibie",
 			"hr": "Namibija",
+			"hu": "Nam\u00edbia",
 			"it": "Namibia",
 			"ja": "\u30ca\u30df\u30d3\u30a2",
 			"nl": "Namibi\u00eb",
+			"pl": "Namibia",
 			"pt": "Nam\u00edbia",
-			"hu": "Nam\u00edbia"
+			"ru": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+			"se": "Namibia",
+			"zh": "\u7eb3\u7c73\u6bd4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "NAM"
 	},
@@ -13107,16 +13882,21 @@
 		],
 		"translations": {
 			"br": "Nauru",
+			"cs": "Nauru",
 			"de": "Nauru",
 			"es": "Nauru",
 			"fa": "\u0646\u0627\u0626\u0648\u0631\u0648",
 			"fr": "Nauru",
 			"hr": "Nauru",
+			"hu": "Nauru",
 			"it": "Nauru",
 			"ja": "\u30ca\u30a6\u30eb",
 			"nl": "Nauru",
+			"pl": "Nauru",
 			"pt": "Nauru",
-			"hu": "Nauru"
+			"ru": "\u041d\u0430\u0443\u0440\u0443",
+			"se": "Nauru",
+			"zh": "\u7459\u9c81\u5171\u548c\u56fd"
 		},
 		"cioc": "NRU"
 	},
@@ -13184,16 +13964,21 @@
 		],
 		"translations": {
 			"br": "Nepal",
+			"cs": "Nep\u00e1l",
 			"de": "N\u00e9pal",
 			"es": "Nepal",
 			"fa": "\u0646\u067e\u0627\u0644",
 			"fr": "N\u00e9pal",
 			"hr": "Nepal",
+			"hu": "Nep\u00e1l",
 			"it": "Nepal",
 			"ja": "\u30cd\u30d1\u30fc\u30eb",
 			"nl": "Nepal",
+			"pl": "Nepal",
 			"pt": "Nepal",
-			"hu": "Nep\u00e1l"
+			"ru": "\u041d\u0435\u043f\u0430\u043b",
+			"se": "Nepal",
+			"zh": "\u5c3c\u6cca\u5c14\u8054\u90a6\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "NEP"
 	},
@@ -13262,16 +14047,21 @@
 		],
 		"translations": {
 			"br": "Holanda",
+			"cs": "Nizozemsko",
 			"de": "Niederlande",
 			"es": "Pa\u00edses Bajos",
 			"fa": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0647\u0644\u0646\u062f",
 			"fr": "Pays-Bas",
 			"hr": "Nizozemska",
+			"hu": "Hollandia",
 			"it": "Paesi Bassi",
 			"ja": "\u30aa\u30e9\u30f3\u30c0",
 			"nl": "Nederland",
+			"pl": "Holandia",
 			"pt": "Pa\u00edses Baixos",
-			"hu": "Hollandia"
+			"ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+			"se": "Nederl\u00e4nderna",
+			"zh": "\u8377\u5170"
 		},
 		"cioc": "NED"
 	},
@@ -13328,16 +14118,21 @@
 		],
 		"translations": {
 			"br": "Nova Caled\u00f4nia",
+			"cs": "Nov\u00e1 Kaledonie",
 			"de": "Neukaledonien",
 			"es": "Nueva Caledonia",
 			"fa": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f",
 			"fr": "Nouvelle-Cal\u00e9donie",
 			"hr": "Nova Kaledonija",
+			"hu": "\u00daj-Kaled\u00f3nia",
 			"it": "Nuova Caledonia",
 			"ja": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2",
 			"nl": "Nieuw-Caledoni\u00eb",
+			"pl": "Nowa Kaledonia",
 			"pt": "Nova Caled\u00f3nia",
-			"hu": "\u00daj-Kaled\u00f3nia"
+			"ru": "New Caledonia",
+			"se": "Nya Kaledonien",
+			"zh": "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
 		},
 		"cioc": ""
 	},
@@ -13406,16 +14201,21 @@
 		],
 		"translations": {
 			"br": "Nova Zel\u00e2ndia",
+			"cs": "Nov\u00fd Z\u00e9land",
 			"de": "Neuseeland",
 			"es": "Nueva Zelanda",
 			"fa": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f",
 			"fr": "Nouvelle-Z\u00e9lande",
 			"hr": "Novi Zeland",
+			"hu": "\u00daj-Z\u00e9land",
 			"it": "Nuova Zelanda",
 			"ja": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
 			"nl": "Nieuw-Zeeland",
+			"pl": "Nowa Zelandia",
 			"pt": "Nova Zel\u00e2ndia",
-			"hu": "\u00daj-Z\u00e9land"
+			"ru": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+			"se": "Nya Zeeland",
+			"zh": "\u65b0\u897f\u5170"
 		},
 		"cioc": "NZL"
 	},
@@ -13489,16 +14289,21 @@
 		],
 		"translations": {
 			"br": "Nicar\u00e1gua",
+			"cs": "Nikaragua",
 			"de": "Nicaragua",
 			"es": "Nicaragua",
 			"fa": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
 			"fr": "Nicaragua",
 			"hr": "Nikaragva",
+			"hu": "Nicaragua",
 			"it": "Nicaragua",
 			"ja": "\u30cb\u30ab\u30e9\u30b0\u30a2",
 			"nl": "Nicaragua",
+			"pl": "Nikaragua",
 			"pt": "Nicar\u00e1gua",
-			"hu": "Nicaragua"
+			"ru": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+			"se": "Nicaragua",
+			"zh": "\u5c3c\u52a0\u62c9\u74dc\u5171\u548c\u56fd"
 		},
 		"cioc": "NCA"
 	},
@@ -13579,16 +14384,21 @@
 		],
 		"translations": {
 			"br": "N\u00edger",
+			"cs": "Niger",
 			"de": "Niger",
 			"es": "N\u00edger",
 			"fa": "\u0646\u06cc\u062c\u0631",
 			"fr": "Niger",
 			"hr": "Niger",
+			"hu": "Niger",
 			"it": "Niger",
 			"ja": "\u30cb\u30b8\u30a7\u30fc\u30eb",
 			"nl": "Niger",
+			"pl": "Niger",
 			"pt": "N\u00edger",
-			"hu": "Niger"
+			"ru": "\u041d\u0438\u0433\u0435\u0440",
+			"se": "Niger",
+			"zh": "\u5c3c\u65e5\u5c14\u5171\u548c\u56fd"
 		},
 		"cioc": "NIG"
 	},
@@ -13666,16 +14476,21 @@
 		],
 		"translations": {
 			"br": "Nig\u00e9ria",
+			"cs": "Nig\u00e9rie",
 			"de": "Nigeria",
 			"es": "Nigeria",
 			"fa": "\u0646\u06cc\u062c\u0631\u06cc\u0647",
 			"fr": "Nig\u00e9ria",
 			"hr": "Nigerija",
+			"hu": "Nig\u00e9ria",
 			"it": "Nigeria",
 			"ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
 			"nl": "Nigeria",
+			"pl": "Nigeria",
 			"pt": "Nig\u00e9ria",
-			"hu": "Nig\u00e9ria"
+			"ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+			"se": "Nigeria",
+			"zh": "\u5c3c\u65e5\u5229\u4e9a\u8054\u90a6\u5171\u548c\u56fd"
 		},
 		"cioc": "NGR"
 	},
@@ -13737,16 +14552,21 @@
 		],
 		"translations": {
 			"br": "Niue",
+			"cs": "Niue",
 			"de": "Niue",
 			"es": "Niue",
 			"fa": "\u0646\u06cc\u0648\u0648\u06cc",
 			"fr": "Niue",
 			"hr": "Niue",
+			"hu": "Niue",
 			"it": "Niue",
 			"ja": "\u30cb\u30a6\u30a8",
 			"nl": "Niue",
+			"pl": "Niue",
 			"pt": "Niue",
-			"hu": "Niue"
+			"ru": "Niue",
+			"se": "Niue",
+			"zh": "\u7ebd\u57c3"
 		},
 		"cioc": ""
 	},
@@ -13805,16 +14625,21 @@
 		],
 		"translations": {
 			"br": "Ilha Norfolk",
+			"cs": "Norfolk",
 			"de": "Norfolkinsel",
 			"es": "Isla de Norfolk",
 			"fa": "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9",
 			"fr": "\u00cele de Norfolk",
 			"hr": "Otok Norfolk",
+			"hu": "Norfolk-sziget",
 			"it": "Isola Norfolk",
 			"ja": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6",
 			"nl": "Norfolkeiland",
+			"pl": "Norfolk",
 			"pt": "Ilha Norfolk",
-			"hu": "Norfolk-sziget"
+			"ru": "Norfolk Island",
+			"se": "Norfolk\u00f6n",
+			"zh": "\u8bfa\u798f\u514b\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -13879,16 +14704,21 @@
 		],
 		"translations": {
 			"br": "Coreia do Norte",
+			"cs": "Severn\u00ed Korea",
 			"de": "Nordkorea",
 			"es": "Corea del Norte",
 			"fa": "\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc",
 			"fr": "Cor\u00e9e du Nord",
 			"hr": "Sjeverna Koreja",
+			"hu": "\u00c9szak-Korea",
 			"it": "Corea del Nord",
 			"ja": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
 			"nl": "Noord-Korea",
+			"pl": "Korea P\u00f3\u0142nocna",
 			"pt": "Coreia do Norte",
-			"hu": "\u00c9szak-Korea"
+			"ru": "\u041a\u041d\u0414\u0420 (\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)",
+			"se": "Nordkorea",
+			"zh": "\u671d\u9c9c\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "PRK"
 	},
@@ -13953,16 +14783,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Marianas",
+			"cs": "Severn\u00ed Mariany",
 			"de": "N\u00f6rdliche Marianen",
 			"es": "Islas Marianas del Norte",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
 			"fr": "\u00celes Mariannes du Nord",
 			"hr": "Sjevernomarijanski otoci",
+			"hu": "\u00c9szaki-Mariana-szigetek",
 			"it": "Isole Marianne Settentrionali",
 			"ja": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
 			"nl": "Noordelijke Marianeneilanden",
+			"pl": "Mariany P\u00f3\u0142nocne",
 			"pt": "Ilhas Marianas",
-			"hu": "\u00c9szaki-Mariana-szigetek"
+			"ru": "Northern Mariana Islands",
+			"se": "Nordmarianerna",
+			"zh": "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -14046,16 +14881,21 @@
 		],
 		"translations": {
 			"br": "Noruega",
+			"cs": "Norsko",
 			"de": "Norwegen",
 			"es": "Noruega",
 			"fa": "\u0646\u0631\u0648\u0698",
 			"fr": "Norv\u00e8ge",
 			"hr": "Norve\u0161ka",
+			"hu": "Norv\u00e9gia",
 			"it": "Norvegia",
 			"ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
 			"nl": "Noorwegen",
+			"pl": "Norwegia",
 			"pt": "Noruega",
-			"hu": "Norv\u00e9gia"
+			"ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+			"se": "Norge",
+			"zh": "\u632a\u5a01\u738b\u56fd"
 		},
 		"cioc": "NOR"
 	},
@@ -14129,16 +14969,21 @@
 		],
 		"translations": {
 			"br": "Om\u00e3",
+			"cs": "Om\u00e1n",
 			"de": "Oman",
 			"es": "Om\u00e1n",
 			"fa": "\u0639\u0645\u0627\u0646",
 			"fr": "Oman",
 			"hr": "Oman",
+			"hu": "Om\u00e1n",
 			"it": "oman",
 			"ja": "\u30aa\u30de\u30fc\u30f3",
 			"nl": "Oman",
+			"pl": "Oman",
 			"pt": "Om\u00e3",
-			"hu": "Om\u00e1n"
+			"ru": "\u041e\u043c\u0430\u043d",
+			"se": "Oman",
+			"zh": "\u963f\u66fc\u82cf\u4e39\u56fd"
 		},
 		"cioc": "OMA"
 	},
@@ -14215,16 +15060,21 @@
 		],
 		"translations": {
 			"br": "Paquist\u00e3o",
+			"cs": "P\u00e1kist\u00e1n",
 			"de": "Pakistan",
 			"es": "Pakist\u00e1n",
 			"fa": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
 			"fr": "Pakistan",
 			"hr": "Pakistan",
+			"hu": "Pakiszt\u00e1n",
 			"it": "Pakistan",
 			"ja": "\u30d1\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Pakistan",
+			"pl": "Pakistan",
 			"pt": "Paquist\u00e3o",
-			"hu": "Pakiszt\u00e1n"
+			"ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+			"se": "Pakistan",
+			"zh": "\u5df4\u57fa\u65af\u5766\u4f0a\u65af\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "PAK"
 	},
@@ -14283,16 +15133,21 @@
 		],
 		"translations": {
 			"br": "Palau",
+			"cs": "Palau",
 			"de": "Palau",
 			"es": "Palau",
 			"fa": "\u067e\u0627\u0644\u0627\u0626\u0648",
 			"fr": "Palaos",
 			"hr": "Palau",
+			"hu": "Palau",
 			"it": "Palau",
 			"ja": "\u30d1\u30e9\u30aa",
 			"nl": "Palau",
+			"pl": "Palau",
 			"pt": "Palau",
-			"hu": "Palau"
+			"ru": "\u041f\u0430\u043b\u0430\u0443",
+			"se": "Palau",
+			"zh": "\u5e15\u52b3\u5171\u548c\u56fd"
 		},
 		"cioc": "PLW"
 	},
@@ -14375,16 +15230,21 @@
 		],
 		"translations": {
 			"br": "Palestina",
+			"cs": "Palestina",
 			"de": "Pal\u00e4stina",
 			"es": "Palestina",
 			"fa": "\u0641\u0644\u0633\u0637\u06cc\u0646",
 			"fr": "Palestine",
 			"hr": "Palestina",
+			"hu": "Palesztina",
 			"it": "Palestina",
 			"ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
 			"nl": "Palestijnse gebieden",
+			"pl": "Palestyna",
 			"pt": "Palestina",
-			"hu": "Palesztina"
+			"ru": "Palestine, State of",
+			"se": "Palestina",
+			"zh": "\u5df4\u52d2\u65af\u5766\u56fd"
 		},
 		"cioc": "PLE",
 		"maps": {
@@ -14467,16 +15327,21 @@
 		],
 		"translations": {
 			"br": "Panam\u00e1",
+			"cs": "Panama",
 			"de": "Panama",
 			"es": "Panam\u00e1",
 			"fa": "\u067e\u0627\u0646\u0627\u0645\u0627",
 			"fr": "Panama",
 			"hr": "Panama",
+			"hu": "Panama",
 			"it": "Panama",
 			"ja": "\u30d1\u30ca\u30de",
 			"nl": "Panama",
+			"pl": "Panama",
 			"pt": "Panam\u00e1",
-			"hu": "Panama"
+			"ru": "\u041f\u0430\u043d\u0430\u043c\u0430",
+			"se": "Panama",
+			"zh": "\u5df4\u62ff\u9a6c\u5171\u548c\u56fd"
 		},
 		"cioc": "PAN"
 	},
@@ -14538,16 +15403,21 @@
 		],
 		"translations": {
 			"br": "Papua Nova Guin\u00e9",
+			"cs": "Papua-Nov\u00e1 Guinea",
 			"de": "Papua-Neuguinea",
 			"es": "Pap\u00faa Nueva Guinea",
 			"fa": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648",
 			"fr": "Papouasie-Nouvelle-Guin\u00e9e",
 			"hr": "Papua Nova Gvineja",
+			"hu": "P\u00e1pua \u00daj-Guinea",
 			"it": "Papua Nuova Guinea",
 			"ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
 			"nl": "Papoea-Nieuw-Guinea",
+			"pl": "Papua-Nowa Gwinea",
 			"pt": "Papua Nova Guin\u00e9",
-			"hu": "P\u00e1pua \u00daj-Guinea"
+			"ru": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+			"se": "Papua Nya Guinea",
+			"zh": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a"
 		},
 		"cioc": "PNG"
 	},
@@ -14634,16 +15504,21 @@
 		],
 		"translations": {
 			"br": "Paraguai",
+			"cs": "Paraguay",
 			"de": "Paraguay",
 			"es": "Paraguay",
 			"fa": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
 			"fr": "Paraguay",
 			"hr": "Paragvaj",
+			"hu": "Paraguay",
 			"it": "Paraguay",
 			"ja": "\u30d1\u30e9\u30b0\u30a2\u30a4",
 			"nl": "Paraguay",
+			"pl": "Paragwaj",
 			"pt": "Paraguai",
-			"hu": "Paraguay"
+			"ru": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+			"se": "Paraguay",
+			"zh": "\u5df4\u62c9\u572d\u5171\u548c\u56fd"
 		},
 		"cioc": "PAR"
 	},
@@ -14732,16 +15607,21 @@
 		],
 		"translations": {
 			"br": "Peru",
+			"cs": "Peru",
 			"de": "Peru",
 			"es": "Per\u00fa",
 			"fa": "\u067e\u0631\u0648",
 			"fr": "P\u00e9rou",
 			"hr": "Peru",
+			"hu": "Peru",
 			"it": "Per\u00f9",
 			"ja": "\u30da\u30eb\u30fc",
 			"nl": "Peru",
+			"pl": "Peru",
 			"pt": "Peru",
-			"hu": "Peru"
+			"ru": "\u041f\u0435\u0440\u0443",
+			"se": "Peru",
+			"zh": "\u79d8\u9c81\u5171\u548c\u56fd"
 		},
 		"cioc": "PER"
 	},
@@ -14806,16 +15686,21 @@
 		],
 		"translations": {
 			"br": "Filipinas",
+			"cs": "Filip\u00edny",
 			"de": "Philippinen",
 			"es": "Filipinas",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
 			"fr": "Philippines",
 			"hr": "Filipini",
+			"hu": "F\u00fcl\u00f6p-szigetek",
 			"it": "Filippine",
 			"ja": "\u30d5\u30a3\u30ea\u30d4\u30f3",
 			"nl": "Filipijnen",
+			"pl": "Filipiny",
 			"pt": "Filipinas",
-			"hu": "F\u00fcl\u00f6p-szigetek"
+			"ru": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+			"se": "Filippinerna",
+			"zh": "\u83f2\u5f8b\u5bbe\u5171\u548c\u56fd"
 		},
 		"cioc": "PHI"
 	},
@@ -14878,16 +15763,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Pitcairn",
+			"cs": "Pitcairnovy ostrovy",
 			"de": "Pitcairn",
 			"es": "Islas Pitcairn",
 			"fa": "\u067e\u06cc\u062a\u06a9\u0631\u0646",
 			"fr": "\u00celes Pitcairn",
 			"hr": "Pitcairnovo oto\u010dje",
+			"hu": "Pitcairn-szigetek",
 			"it": "Isole Pitcairn",
 			"ja": "\u30d4\u30c8\u30b1\u30a2\u30f3",
 			"nl": "Pitcairneilanden",
+			"pl": "Pitcairn",
 			"pt": "Ilhas Pic\u00e1rnia",
-			"hu": "Pitcairn-szigetek"
+			"ru": "Pitcairn",
+			"se": "Pitcairn\u00f6arna",
+			"zh": "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -14960,16 +15850,21 @@
 		],
 		"translations": {
 			"br": "Pol\u00f4nia",
+			"cs": "Polsko",
 			"de": "Polen",
 			"es": "Polonia",
 			"fa": "\u0644\u0647\u0633\u062a\u0627\u0646",
 			"fr": "Pologne",
 			"hr": "Poljska",
+			"hu": "Lengyelorsz\u00e1g",
 			"it": "Polonia",
 			"ja": "\u30dd\u30fc\u30e9\u30f3\u30c9",
 			"nl": "Polen",
+			"pl": "Polska",
 			"pt": "Pol\u00f3nia",
-			"hu": "Lengyelorsz\u00e1g"
+			"ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+			"se": "Polen",
+			"zh": "\u6ce2\u5170\u5171\u548c\u56fd"
 		},
 		"cioc": "POL"
 	},
@@ -15038,16 +15933,21 @@
 		],
 		"translations": {
 			"br": "Portugal",
+			"cs": "Portugalsko",
 			"de": "Portugal",
 			"es": "Portugal",
 			"fa": "\u067e\u0631\u062a\u063a\u0627\u0644",
 			"fr": "Portugal",
 			"hr": "Portugal",
+			"hu": "Portug\u00e1lia",
 			"it": "Portogallo",
 			"ja": "\u30dd\u30eb\u30c8\u30ac\u30eb",
 			"nl": "Portugal",
+			"pl": "Portugalia",
 			"pt": "Portugal",
-			"hu": "Portug\u00e1lia"
+			"ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+			"se": "Portugal",
+			"zh": "\u8461\u8404\u7259\u5171\u548c\u56fd"
 		},
 		"cioc": "POR"
 	},
@@ -15112,16 +16012,21 @@
 		],
 		"translations": {
 			"br": "Porto Rico",
+			"cs": "Portoriko",
 			"de": "Puerto Rico",
 			"es": "Puerto Rico",
 			"fa": "\u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648",
 			"fr": "Porto Rico",
 			"hr": "Portoriko",
+			"hu": "Puerto Rico",
 			"it": "Porto Rico",
 			"ja": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
 			"nl": "Puerto Rico",
+			"pl": "Portoryko",
 			"pt": "Porto Rico",
-			"hu": "Puerto Rico"
+			"ru": "Puerto Rico",
+			"se": "Puerto Rico",
+			"zh": "\u6ce2\u591a\u9ece\u5404\u8054\u90a6"
 		},
 		"cioc": "PUR"
 	},
@@ -15193,16 +16098,21 @@
 		],
 		"translations": {
 			"br": "Catar",
+			"cs": "Katar",
 			"de": "Katar",
 			"es": "Catar",
 			"fa": "\u0642\u0637\u0631",
 			"fr": "Qatar",
 			"hr": "Katar",
+			"hu": "Katar",
 			"it": "Qatar",
 			"ja": "\u30ab\u30bf\u30fc\u30eb",
 			"nl": "Qatar",
+			"pl": "Katar",
 			"pt": "Catar",
-			"hu": "Katar"
+			"ru": "\u041a\u0430\u0442\u0430\u0440",
+			"se": "Qatar",
+			"zh": "\u5361\u5854\u5c14\u56fd"
 		},
 		"cioc": "QAT"
 	},
@@ -15277,12 +16187,21 @@
 		],
 		"translations": {
 			"br": "Kosovo",
+			"cs": "Kosovo",
+			"de": "Republic of Kosovo",
 			"es": "Kosovo",
 			"fa": "\u06a9\u0648\u0632\u0648\u0648",
 			"fr": "Kosovo",
 			"hr": "Kosovo",
+			"hu": "Koszov\u00f3",
+			"it": "Republic of Kosovo",
+			"ja": "Republic of Kosovo",
+			"nl": "Republiek van Kosovo",
+			"pl": "Kosowo",
 			"pt": "Kosovo",
-			"hu": "Koszov\u00f3"
+			"ru": "Republic of Kosovo",
+			"se": "Kosovo",
+			"zh": "\u79d1\u7d22\u6c83"
 		}
 	},
 	{
@@ -15350,16 +16269,21 @@
 		],
 		"translations": {
 			"br": "Reuni\u00e3o",
+			"cs": "R\u00e9union",
 			"de": "R\u00e9union",
 			"es": "Reuni\u00f3n",
 			"fa": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646",
 			"fr": "R\u00e9union",
 			"hr": "R\u00e9union",
+			"hu": "R\u00e9union",
 			"it": "Riunione",
 			"ja": "\u30ec\u30e6\u30cb\u30aa\u30f3",
 			"nl": "R\u00e9union",
+			"pl": "Reunion",
 			"pt": "Reuni\u00e3o",
-			"hu": "R\u00e9union"
+			"ru": "R\u00e9union",
+			"se": "R\u00e9union",
+			"zh": "\u7559\u5c3c\u65fa\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -15431,16 +16355,21 @@
 		],
 		"translations": {
 			"br": "Rom\u00eania",
+			"cs": "Rumunsko",
 			"de": "Rum\u00e4nien",
 			"es": "Rumania",
 			"fa": "\u0631\u0648\u0645\u0627\u0646\u06cc",
 			"fr": "Roumanie",
 			"hr": "Rumunjska",
+			"hu": "Rom\u00e1nia",
 			"it": "Romania",
 			"ja": "\u30eb\u30fc\u30de\u30cb\u30a2",
 			"nl": "Roemeni\u00eb",
+			"pl": "Rumunia",
 			"pt": "Rom\u00e9nia",
-			"hu": "Rom\u00e1nia"
+			"ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+			"se": "Rum\u00e4nien",
+			"zh": "\u7f57\u9a6c\u5c3c\u4e9a"
 		},
 		"cioc": "ROU"
 	},
@@ -15533,16 +16462,21 @@
 		],
 		"translations": {
 			"br": "R\u00fassia",
+			"cs": "Rusko",
 			"de": "Russland",
 			"es": "Rusia",
 			"fa": "\u0631\u0648\u0633\u06cc\u0647",
 			"fr": "Russie",
 			"hr": "Rusija",
+			"hu": "Oroszorsz\u00e1g",
 			"it": "Russia",
 			"ja": "\u30ed\u30b7\u30a2\u9023\u90a6",
 			"nl": "Rusland",
+			"pl": "Rosja",
 			"pt": "R\u00fassia",
-			"hu": "Oroszorsz\u00e1g"
+			"ru": "\u0420\u043e\u0441\u0441\u0438\u044f",
+			"se": "Ryssland",
+			"zh": "\u4fc4\u7f57\u65af\u8054\u90a6"
 		},
 		"cioc": "RUS"
 	},
@@ -15632,16 +16566,21 @@
 		],
 		"translations": {
 			"br": "Ruanda",
+			"cs": "Rwanda",
 			"de": "Ruanda",
 			"es": "Ruanda",
 			"fa": "\u0631\u0648\u0627\u0646\u062f\u0627",
 			"fr": "Rwanda",
 			"hr": "Ruanda",
+			"hu": "Ruanda",
 			"it": "Ruanda",
 			"ja": "\u30eb\u30ef\u30f3\u30c0",
 			"nl": "Rwanda",
+			"pl": "Rwanda",
 			"pt": "Ruanda",
-			"hu": "Ruanda"
+			"ru": "\u0420\u0443\u0430\u043d\u0434\u0430",
+			"se": "Rwanda",
+			"zh": "\u5362\u65fa\u8fbe\u5171\u548c\u56fd"
 		},
 		"cioc": "RWA"
 	},
@@ -15701,16 +16640,21 @@
 		],
 		"translations": {
 			"br": "S\u00e3o Bartolomeu",
+			"cs": "Svat\u00fd Bartolom\u011bj",
 			"de": "Saint-Barth\u00e9lemy",
 			"es": "San Bartolom\u00e9",
 			"fa": "\u0633\u0646-\u0628\u0627\u0631\u062a\u0644\u0645\u06cc",
 			"fr": "Saint-Barth\u00e9lemy",
 			"hr": "Saint Barth\u00e9lemy",
+			"hu": "Saint-Barth\u00e9lemy",
 			"it": "Antille Francesi",
 			"ja": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
 			"nl": "Saint Barth\u00e9lemy",
+			"pl": "Wsp\u00f3lnota Saint-Barth\u00e9lemy",
 			"pt": "S\u00e3o Bartolomeu",
-			"hu": "Saint-Barth\u00e9lemy"
+			"ru": "Saint Barth\u00e9lemy",
+			"se": "Saint-Barth\u00e9lemy",
+			"zh": "\u5723\u5df4\u6cf0\u52d2\u7c73\u96c6\u4f53"
 		},
 		"cioc": ""
 	},
@@ -15778,16 +16722,21 @@
 		],
 		"translations": {
 			"br": "Santa Helena",
+			"cs": "Svat\u00e1 Helena,  Ascension a Tristan da Cunha",
 			"de": "Sankt Helena",
 			"es": "Santa Helena",
 			"fa": "\u0633\u0646\u062a \u0647\u0644\u0646\u0627\u060c \u0627\u0633\u0646\u0634\u0646 \u0648 \u062a\u0631\u06cc\u0633\u062a\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u0627",
 			"fr": "Sainte-H\u00e9l\u00e8ne",
 			"hr": "Sveta Helena",
+			"hu": "Szent Ilona",
 			"it": "Sant'Elena",
 			"ja": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
 			"nl": "Sint-Helena",
+			"pl": "\u015awi\u0119ta Helena",
 			"pt": "Santa Helena",
-			"hu": "Szent Ilona"
+			"ru": "Saint Helena, Ascension and Tristan da Cunha",
+			"se": "Sankta Helena",
+			"zh": "\u5723\u8d6b\u52d2\u62ff\u3001\u963f\u68ee\u677e\u548c\u7279\u91cc\u65af\u5766-\u8fbe\u5e93\u5c3c\u4e9a"
 		}
 	},
 	{
@@ -15854,16 +16803,21 @@
 		],
 		"translations": {
 			"br": "S\u00e3o Crist\u00f3v\u00e3o e Neves",
+			"cs": "Svat\u00fd Kry\u0161tof a Nevis",
 			"de": "St. Kitts und Nevis",
 			"es": "San Crist\u00f3bal y Nieves",
 			"fa": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
 			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
 			"hr": "Sveti Kristof i Nevis",
+			"hu": "Saint Kitts \u00e9s Nevis",
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
 			"nl": "Saint Kitts en Nevis",
+			"pl": "Saint Kitts i Nevis",
 			"pt": "S\u00e3o Crist\u00f3v\u00e3o e Neves",
-			"hu": "Saint Kitts \u00e9s Nevis"
+			"ru": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+			"se": "Saint Kitts och Nevis",
+			"zh": "\u5723\u514b\u91cc\u65af\u6258\u5f17\u548c\u5c3c\u7ef4\u65af\u8054\u90a6"
 		},
 		"cioc": "SKN"
 	},
@@ -15931,16 +16885,21 @@
 		],
 		"translations": {
 			"br": "Santa L\u00facia",
+			"cs": "Svat\u00e1 Lucie",
 			"de": "Saint Lucia",
 			"es": "Santa Luc\u00eda",
 			"fa": "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627",
 			"fr": "Saint-Lucie",
 			"hr": "Sveta Lucija",
+			"hu": "Saint Lucia",
 			"it": "Santa Lucia",
 			"ja": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2",
 			"nl": "Saint Lucia",
+			"pl": "Saint Lucia",
 			"pt": "Santa L\u00facia",
-			"hu": "Saint Lucia"
+			"ru": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f",
+			"se": "Saint Lucia",
+			"zh": "\u5723\u5362\u897f\u4e9a"
 		},
 		"cioc": "LCA"
 	},
@@ -16016,17 +16975,21 @@
 		],
 		"translations": {
 			"br": "Saint Martin",
+			"cs": "Svat\u00fd Martin",
 			"de": "Saint Martin",
 			"es": "Saint Martin",
 			"fa": "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646",
 			"fr": "Saint-Martin",
 			"hr": "Sveti Martin",
+			"hu": "Saint-Martin",
 			"it": "Saint Martin",
 			"ja": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09",
 			"nl": "Saint-Martin",
+			"pl": "Sint Maarten",
 			"pt": "Ilha S\u00e3o Martinho",
-			"hu": "Saint-Martin",
-			"se": "Saint Martin"
+			"ru": "Saint Martin (French part)",
+			"se": "Saint Martin",
+			"zh": "\u5723\u9a6c\u4e01"
 		},
 		"cioc": ""
 	},
@@ -16084,16 +17047,21 @@
 		],
 		"translations": {
 			"br": "Saint-Pierre e Miquelon",
+			"cs": "Saint-Pierre a Miquelon",
 			"de": "Saint-Pierre und Miquelon",
 			"es": "San Pedro y Miquel\u00f3n",
 			"fa": "\u0633\u0646 \u067e\u06cc\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u0646",
 			"fr": "Saint-Pierre-et-Miquelon",
 			"hr": "Sveti Petar i Mikelon",
+			"hu": "Saint-Pierre \u00e9s Miquelon",
 			"it": "Saint-Pierre e Miquelon",
 			"ja": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
 			"nl": "Saint Pierre en Miquelon",
+			"pl": "Wsp\u00f3lnota Terytorialna Saint Pierre i Miquelon",
 			"pt": "S\u00e3o Pedro e Miquelon",
-			"hu": "Saint-Pierre \u00e9s Miquelon"
+			"ru": "Saint Pierre and Miquelon",
+			"se": "Saint-Pierre och Miquelon",
+			"zh": "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686"
 		},
 		"cioc": ""
 	},
@@ -16160,16 +17128,21 @@
 		],
 		"translations": {
 			"br": "S\u00e3o Vicente e Granadinas",
+			"cs": "Svat\u00fd Vincenc a Grenadiny",
 			"de": "Saint Vincent und die Grenadinen",
 			"es": "San Vicente y Granadinas",
 			"fa": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627",
 			"fr": "Saint-Vincent-et-les-Grenadines",
 			"hr": "Sveti Vincent i Grenadini",
+			"hu": "Saint Vincent \u00e9s a Grenadine-szigetek",
 			"it": "Saint Vincent e Grenadine",
 			"ja": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
 			"nl": "Saint Vincent en de Grenadines",
+			"pl": "Saint Vincent i Grenadyny",
 			"pt": "S\u00e3o Vicente e Granadinas",
-			"hu": "Saint Vincent \u00e9s a Grenadine-szigetek"
+			"ru": "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b",
+			"se": "Saint Vincent och Grenadinerna",
+			"zh": "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af"
 		},
 		"cioc": "VIN"
 	},
@@ -16235,16 +17208,21 @@
 		],
 		"translations": {
 			"br": "Samoa",
+			"cs": "Samoa",
 			"de": "Samoa",
 			"es": "Samoa",
 			"fa": "\u0633\u0627\u0645\u0648\u0622",
 			"fr": "Samoa",
 			"hr": "Samoa",
+			"hu": "Szamoa",
 			"it": "Samoa",
 			"ja": "\u30b5\u30e2\u30a2",
 			"nl": "Samoa",
+			"pl": "Samoa",
 			"pt": "Samoa",
-			"hu": "Szamoa"
+			"ru": "\u0421\u0430\u043c\u043e\u0430",
+			"se": "Samoa",
+			"zh": "\u8428\u6469\u4e9a\u72ec\u7acb\u56fd"
 		},
 		"cioc": "SAM"
 	},
@@ -16305,16 +17283,21 @@
 		],
 		"translations": {
 			"br": "San Marino",
+			"cs": "San Marino",
 			"de": "San Marino",
 			"es": "San Marino",
 			"fa": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
 			"fr": "Saint-Marin",
 			"hr": "San Marino",
+			"hu": "San Marino",
 			"it": "San Marino",
 			"ja": "\u30b5\u30f3\u30de\u30ea\u30ce",
 			"nl": "San Marino",
+			"pl": "San Marino",
 			"pt": "S\u00e3o Marinho",
-			"hu": "San Marino"
+			"ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+			"se": "San Marino",
+			"zh": "\u5723\u9a6c\u529b\u8bfa\u5171\u548c\u56fd"
 		},
 		"cioc": "SMR"
 	},
@@ -16386,16 +17369,21 @@
 		],
 		"translations": {
 			"br": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+			"cs": "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov",
 			"de": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
 			"es": "Santo Tom\u00e9 y Pr\u00edncipe",
 			"fa": "\u06a9\u0648\u0627\u062a\u0631\u0648 \u062f\u0648 \u0641\u0631\u0648\u06cc\u0631\u0648",
 			"fr": "Sao Tom\u00e9-et-Principe",
 			"hr": "Sveti Toma i Princip",
+			"hu": "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe",
 			"it": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
 			"ja": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da",
 			"nl": "Sao Tom\u00e9 en Principe",
+			"pl": "Wyspy \u015awi\u0119tego Tomasza i Ksi\u0105\u017c\u0119ca",
 			"pt": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
-			"hu": "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
+			"ru": "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438",
+			"se": "S\u00e3o Tom\u00e9 och Pr\u00edncipe",
+			"zh": "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "STP"
 	},
@@ -16473,16 +17461,21 @@
 		],
 		"translations": {
 			"br": "Ar\u00e1bia Saudita",
+			"cs": "Sa\u00fadsk\u00e1 Ar\u00e1bie",
 			"de": "Saudi-Arabien",
 			"es": "Arabia Saud\u00ed",
 			"fa": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc",
 			"fr": "Arabie Saoudite",
 			"hr": "Saudijska Arabija",
+			"hu": "Sza\u00fad-Ar\u00e1bia",
 			"it": "Arabia Saudita",
 			"ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
 			"nl": "Saoedi-Arabi\u00eb",
+			"pl": "Arabia Saudyjska",
 			"pt": "Ar\u00e1bia Saudita",
-			"hu": "Sza\u00fad-Ar\u00e1bia"
+			"ru": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+			"se": "Saudiarabien",
+			"zh": "\u6c99\u7279\u963f\u62c9\u4f2f\u738b\u56fd"
 		},
 		"cioc": "KSA"
 	},
@@ -16560,16 +17553,21 @@
 		],
 		"translations": {
 			"br": "Senegal",
+			"cs": "Senegal",
 			"de": "Senegal",
 			"es": "Senegal",
 			"fa": "\u0633\u0646\u06af\u0627\u0644",
 			"fr": "S\u00e9n\u00e9gal",
 			"hr": "Senegal",
+			"hu": "Szeneg\u00e1l",
 			"it": "Senegal",
 			"ja": "\u30bb\u30cd\u30ac\u30eb",
 			"nl": "Senegal",
+			"pl": "Senegal",
 			"pt": "Senegal",
-			"hu": "Szeneg\u00e1l"
+			"ru": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+			"se": "Senegal",
+			"zh": "\u585e\u5185\u52a0\u5c14\u5171\u548c\u56fd"
 		},
 		"cioc": "SEN"
 	},
@@ -16645,16 +17643,21 @@
 		],
 		"translations": {
 			"br": "S\u00e9rvia",
+			"cs": "Srbsko",
 			"de": "Serbien",
 			"es": "Serbia",
 			"fa": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646",
 			"fr": "Serbie",
 			"hr": "Srbija",
+			"hu": "Szerbia",
 			"it": "Serbia",
 			"ja": "\u30bb\u30eb\u30d3\u30a2",
 			"nl": "Servi\u00eb",
+			"pl": "Serbia",
 			"pt": "S\u00e9rvia",
-			"hu": "Szerbia"
+			"ru": "\u0421\u0435\u0440\u0431\u0438\u044f",
+			"se": "Serbien",
+			"zh": "\u585e\u5c14\u7ef4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "SRB"
 	},
@@ -16733,16 +17736,21 @@
 		],
 		"translations": {
 			"br": "Seicheles",
+			"cs": "Seychely",
 			"de": "Seychellen",
 			"es": "Seychelles",
 			"fa": "\u0633\u06cc\u0634\u0644",
 			"fr": "Seychelles",
 			"hr": "Sej\u0161eli",
+			"hu": "Seychelle-szigetek",
 			"it": "Seychelles",
 			"ja": "\u30bb\u30fc\u30b7\u30a7\u30eb",
 			"nl": "Seychellen",
+			"pl": "Seszele",
 			"pt": "Seicheles",
-			"hu": "Seychelle-szigetek"
+			"ru": "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+			"se": "Seychellerna",
+			"zh": "\u585e\u820c\u5c14\u5171\u548c\u56fd"
 		},
 		"cioc": "SEY"
 	},
@@ -16816,16 +17824,21 @@
 		],
 		"translations": {
 			"br": "Serra Leoa",
+			"cs": "Sierra Leone",
 			"de": "Sierra Leone",
 			"es": "Sierra Leone",
 			"fa": "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646",
 			"fr": "Sierra Leone",
 			"hr": "Sijera Leone",
+			"hu": "Sierra Leone",
 			"it": "Sierra Leone",
 			"ja": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd",
 			"nl": "Sierra Leone",
+			"pl": "Sierra Leone",
 			"pt": "Serra Leoa",
-			"hu": "Sierra Leone"
+			"ru": "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+			"se": "Sierra Leone",
+			"zh": "\u585e\u62c9\u5229\u6602\u5171\u548c\u56fd"
 		},
 		"cioc": "SLE"
 	},
@@ -16914,16 +17927,21 @@
 		],
 		"translations": {
 			"br": "Singapura",
+			"cs": "Singapur",
 			"de": "Singapur",
 			"es": "Singapur",
 			"fa": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631",
 			"fr": "Singapour",
 			"hr": "Singapur",
+			"hu": "Szingap\u00far",
 			"it": "Singapore",
 			"ja": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
 			"nl": "Singapore",
+			"pl": "Singapur",
 			"pt": "Singapura",
-			"hu": "Szingap\u00far"
+			"ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+			"se": "Singapore",
+			"zh": "\u65b0\u52a0\u5761"
 		},
 		"cioc": "SIN"
 	},
@@ -16988,14 +18006,21 @@
 		],
 		"translations": {
 			"br": "Sint Maarten",
+			"cs": "Svat\u00fd Martin",
 			"de": "Sint Maarten (niederl. Teil)",
+			"es": "Sint Maarten (Dutch part)",
 			"fa": "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646",
 			"fr": "Saint Martin (partie n\u00e9erlandaise)",
+			"hr": "Sint Maarten (Dutch part)",
+			"hu": "Sint Maarten",
 			"it": "Saint Martin (parte olandese)",
+			"ja": "Sint Maarten (Dutch part)",
 			"nl": "Sint Maarten",
+			"pl": "Sint Maarten",
 			"pt": "S\u00e3o Martinho",
+			"ru": "Sint Maarten (Dutch part)",
 			"se": "Saint Martin",
-			"hu": "Sint Maarten"
+			"zh": "\u5723\u9a6c\u4e01\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -17066,16 +18091,21 @@
 		],
 		"translations": {
 			"br": "Eslov\u00e1quia",
+			"cs": "Slovensko",
 			"de": "Slowakei",
 			"es": "Rep\u00fablica Eslovaca",
 			"fa": "\u0627\u0633\u0644\u0648\u0627\u06a9\u06cc",
 			"fr": "Slovaquie",
 			"hr": "Slova\u010dka",
+			"hu": "Szlov\u00e1kia",
 			"it": "Slovacchia",
 			"ja": "\u30b9\u30ed\u30d0\u30ad\u30a2",
 			"nl": "Slowakije",
+			"pl": "S\u0142owacja",
 			"pt": "Eslov\u00e1quia",
-			"hu": "Szlov\u00e1kia"
+			"ru": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f",
+			"se": "Slovakien",
+			"zh": "\u65af\u6d1b\u4f10\u514b\u5171\u548c\u56fd"
 		},
 		"cioc": "SVK"
 	},
@@ -17145,16 +18175,21 @@
 		],
 		"translations": {
 			"br": "Eslov\u00eania",
+			"cs": "Slovinsko",
 			"de": "Slowenien",
 			"es": "Eslovenia",
 			"fa": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
 			"fr": "Slov\u00e9nie",
 			"hr": "Slovenija",
+			"hu": "Szlov\u00e9nia",
 			"it": "Slovenia",
 			"ja": "\u30b9\u30ed\u30d9\u30cb\u30a2",
 			"nl": "Sloveni\u00eb",
+			"pl": "S\u0142owenia",
 			"pt": "Eslov\u00e9nia",
-			"hu": "Szlov\u00e9nia"
+			"ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+			"se": "Slovenien",
+			"zh": "\u65af\u6d1b\u6587\u5c3c\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "SLO"
 	},
@@ -17212,16 +18247,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Salom\u00e3o",
+			"cs": "\u0160alamounovy ostrovy",
 			"de": "Salomonen",
 			"es": "Islas Salom\u00f3n",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
 			"fr": "\u00celes Salomon",
 			"hr": "Solomonski Otoci",
+			"hu": "Salamon-szigetek",
 			"it": "Isole Salomone",
 			"ja": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6",
 			"nl": "Salomonseilanden",
+			"pl": "Wyspy Salomona",
 			"pt": "Ilhas Salom\u00e3o",
-			"hu": "Salamon-szigetek"
+			"ru": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+			"se": "Salomon\u00f6arna",
+			"zh": "\u6240\u7f57\u95e8\u7fa4\u5c9b"
 		},
 		"cioc": "SOL"
 	},
@@ -17314,16 +18354,21 @@
 		],
 		"translations": {
 			"br": "Som\u00e1lia",
+			"cs": "Som\u00e1lsko",
 			"de": "Somalia",
 			"es": "Somalia",
 			"fa": "\u0633\u0648\u0645\u0627\u0644\u06cc",
 			"fr": "Somalie",
 			"hr": "Somalija",
+			"hu": "Szom\u00e1lia",
 			"it": "Somalia",
 			"ja": "\u30bd\u30de\u30ea\u30a2",
 			"nl": "Somali\u00eb",
+			"pl": "Somalia",
 			"pt": "Som\u00e1lia",
-			"hu": "Szom\u00e1lia"
+			"ru": "\u0421\u043e\u043c\u0430\u043b\u0438",
+			"se": "Somalia",
+			"zh": "\u7d22\u9a6c\u91cc\u5171\u548c\u56fd"
 		},
 		"cioc": "SOM"
 	},
@@ -17457,16 +18502,21 @@
 		],
 		"translations": {
 			"br": "Rep\u00fablica Sul-Africana",
+			"cs": "Jihoafrick\u00e1 republika",
 			"de": "Republik S\u00fcdafrika",
 			"es": "Rep\u00fablica de Sud\u00e1frica",
 			"fa": "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
 			"fr": "Afrique du Sud",
 			"hr": "Ju\u017enoafri\u010dka Republika",
+			"hu": "D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1g",
 			"it": "Sud Africa",
 			"ja": "\u5357\u30a2\u30d5\u30ea\u30ab",
 			"nl": "Zuid-Afrika",
+			"pl": "Republika Po\u0142udniowej Afryki",
 			"pt": "Rep\u00fablica Sul-Africana",
-			"hu": "D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1g"
+			"ru": "\u042e\u0410\u0420",
+			"se": "Sydafrika",
+			"zh": "\u5357\u975e\u5171\u548c\u56fd"
 		},
 		"cioc": "RSA"
 	},
@@ -17539,17 +18589,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Ge\u00f3rgias do Sul e Sandwich do Sul",
+			"cs": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy",
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
 			"es": "Islas Georgias del Sur y Sandwich del Sur",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc",
 			"fr": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud",
 			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich",
+			"hu": "D\u00edli-Georgia \u00eds D\u00edli-Sandwich-szigetek",
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
 			"ja": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
 			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+			"pl": "Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy",
 			"pt": "Ilhas Ge\u00f3rgia do Sul e Sandu\u00edche do Sul",
+			"ru": "South Georgia and the South Sandwich Islands",
 			"se": "Sydgeorgien och Sydsandwich\u00f6arna",
-			"hu": "D\u00edli-Georgia \u00eds D\u00edli-Sandwich-szigetek"
+			"zh": "\u5357\u4e54\u6cbb\u4e9a\u5c9b\u548c\u5357\u6851\u5a01\u5947\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -17610,16 +18664,21 @@
 		],
 		"translations": {
 			"br": "Coreia do Sul",
+			"cs": "Ji\u017en\u00ed Korea",
 			"de": "S\u00fcdkorea",
 			"es": "Corea del Sur",
 			"fa": "\u06a9\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc",
 			"fr": "Cor\u00e9e du Sud",
 			"hr": "Ju\u017ena Koreja",
+			"hu": "D\u00edl-Korea",
 			"it": "Corea del Sud",
 			"ja": "\u5927\u97d3\u6c11\u56fd",
 			"nl": "Zuid-Korea",
+			"pl": "Korea Po\u0142udniowa",
 			"pt": "Coreia do Sul",
-			"hu": "D\u00edl-Korea"
+			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+			"se": "Sydkorea",
+			"zh": "\u5927\u97e9\u6c11\u56fd"
 		},
 		"cioc": "KOR"
 	},
@@ -17691,16 +18750,21 @@
 		],
 		"translations": {
 			"br": "Espanha",
+			"cs": "\u0160pan\u011blsko",
 			"de": "Spanien",
 			"es": "Espa\u00f1a",
 			"fa": "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627",
 			"fr": "Espagne",
 			"hr": "\u0160panjolska",
+			"hu": "Spanyolorsz\u00e1g",
 			"it": "Spagna",
 			"ja": "\u30b9\u30da\u30a4\u30f3",
 			"nl": "Spanje",
+			"pl": "Hiszpania",
 			"pt": "Espanha",
-			"hu": "Spanyolorsz\u00e1g"
+			"ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+			"se": "Spanien",
+			"zh": "\u897f\u73ed\u7259\u738b\u56fd"
 		},
 		"cioc": "ESP"
 	},
@@ -17773,16 +18837,21 @@
 		],
 		"translations": {
 			"br": "Sri Lanka",
+			"cs": "Sr\u00ed Lanka",
 			"de": "Sri Lanka",
 			"es": "Sri Lanka",
 			"fa": "\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627",
 			"fr": "Sri Lanka",
 			"hr": "\u0160ri Lanka",
+			"hu": "Sr\u00ed Lanka",
 			"it": "Sri Lanka",
 			"ja": "\u30b9\u30ea\u30e9\u30f3\u30ab",
 			"nl": "Sri Lanka",
+			"pl": "Sri Lanka",
 			"pt": "Sri Lanka",
-			"hu": "Sr\u00ed Lanka"
+			"ru": "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430",
+			"se": "Sri Lanka",
+			"zh": "\u65af\u91cc\u5170\u5361\u6c11\u4e3b\u793e\u4f1a\u4e3b\u4e49\u5171\u548c\u56fd"
 		},
 		"cioc": "SRI"
 	},
@@ -17877,16 +18946,21 @@
 		],
 		"translations": {
 			"br": "Sud\u00e3o",
+			"cs": "S\u00fad\u00e1n",
 			"de": "Sudan",
 			"es": "Sud\u00e1n",
 			"fa": "\u0633\u0648\u062f\u0627\u0646",
 			"fr": "Soudan",
 			"hr": "Sudan",
+			"hu": "Szud\u00e1n",
 			"it": "Sudan",
 			"ja": "\u30b9\u30fc\u30c0\u30f3",
 			"nl": "Soedan",
+			"pl": "Sudan",
 			"pt": "Sud\u00e3o",
-			"hu": "Szud\u00e1n"
+			"ru": "\u0421\u0443\u0434\u0430\u043d",
+			"se": "Sudan",
+			"zh": "\u82cf\u4e39\u5171\u548c\u56fd"
 		},
 		"cioc": "SUD"
 	},
@@ -17967,6 +19041,7 @@
 		],
 		"translations": {
 			"br": "Sud\u00e3o do Sul",
+			"cs": "Ji\u017en\u00ed S\u00fad\u00e1n",
 			"de": "S\u00fcdsudan",
 			"es": "Sud\u00e1n del Sur",
 			"fa": "\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
@@ -17977,7 +19052,10 @@
 			"ja": "\u5357\u30b9\u30fc\u30c0\u30f3",
 			"nl": "Zuid-Soedan",
 			"pl": "Sudan Po\u0142udniowy",
-			"pt": "Sud\u00e3o do Sul"
+			"pt": "Sud\u00e3o do Sul",
+			"ru": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d",
+			"se": "Sydsudan",
+			"zh": "\u5357\u82cf\u4e39\u5171\u548c\u56fd"
 		},
 		"cioc": "SSD"
 	},
@@ -18069,16 +19147,21 @@
 		],
 		"translations": {
 			"br": "Suriname",
+			"cs": "Surinam",
 			"de": "Suriname",
 			"es": "Surinam",
 			"fa": "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645",
 			"fr": "Surinam",
 			"hr": "Surinam",
+			"hu": "Suriname",
 			"it": "Suriname",
 			"ja": "\u30b9\u30ea\u30ca\u30e0",
 			"nl": "Suriname",
+			"pl": "Surinam",
 			"pt": "Suriname",
-			"hu": "Suriname"
+			"ru": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+			"se": "Surinam",
+			"zh": "\u82cf\u91cc\u5357\u5171\u548c\u56fd"
 		},
 		"cioc": "SUR"
 	},
@@ -18135,16 +19218,21 @@
 		],
 		"translations": {
 			"br": "Svalbard",
+			"cs": "\u0160picberky a Jan Mayen",
 			"de": "Svalbard und Jan Mayen",
 			"es": "Islas Svalbard y Jan Mayen",
 			"fa": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
 			"fr": "Svalbard et Jan Mayen",
 			"hr": "Svalbard i Jan Mayen",
+			"hu": "Spitzberg\u00e1k \u00eds Jan Mayen-szigetek",
 			"it": "Svalbard e Jan Mayen",
 			"ja": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
 			"nl": "Svalbard en Jan Mayen",
+			"pl": "Svalbard",
 			"pt": "Svalbard",
-			"hu": "Spitzberg\u00e1k \u00eds Jan Mayen-szigetek"
+			"ru": "Svalbard and Jan Mayen",
+			"se": "Svalbard\u00a0och\u00a0Jan Mayen",
+			"zh": "\u65af\u74e6\u5c14\u5df4\u7279"
 		},
 		"cioc": ""
 	},
@@ -18228,16 +19316,21 @@
 		],
 		"translations": {
 			"br": "Suazil\u00e2ndia",
+			"cs": "Svazijsko",
 			"de": "Swasiland",
 			"es": "Suazilandia",
 			"fa": "\u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f",
 			"fr": "Swaziland",
 			"hr": "Svazi",
+			"hu": "Szv\u00e1zif\u00f6ld",
 			"it": "Swaziland",
 			"ja": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9",
 			"nl": "Swaziland",
+			"pl": "Suazi",
 			"pt": "Suazil\u00e2ndia",
-			"hu": "Szv\u00e1zif\u00f6ld"
+			"ru": "\u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438",
+			"se": "Swaziland",
+			"zh": "\u65af\u5a01\u58eb\u5170\u738b\u56fd"
 		},
 		"cioc": "SWZ"
 	},
@@ -18305,16 +19398,21 @@
 		],
 		"translations": {
 			"br": "Su\u00e9cia",
+			"cs": "\u0160v\u00e9dsko",
 			"de": "Schweden",
 			"es": "Suecia",
 			"fa": "\u0633\u0648\u0626\u062f",
 			"fr": "Su\u00e8de",
 			"hr": "\u0160vedska",
+			"hu": "Sv\u00eddorsz\u00e1g",
 			"it": "Svezia",
 			"ja": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
 			"nl": "Zweden",
+			"pl": "Szwecja",
 			"pt": "Su\u00e9cia",
-			"hu": "Sv\u00eddorsz\u00e1g"
+			"ru": "\u0428\u0432\u0435\u0446\u0438\u044f",
+			"se": "Sverige",
+			"zh": "\u745e\u5178\u738b\u56fd"
 		},
 		"cioc": "SWE"
 	},
@@ -18406,16 +19504,21 @@
 		],
 		"translations": {
 			"br": "Su\u00ed\u00e7a",
+			"cs": "\u0160v\u00fdcarsko",
 			"de": "Schweiz",
 			"es": "Suiza",
 			"fa": "\u0633\u0648\u0626\u06cc\u0633",
 			"fr": "Suisse",
 			"hr": "\u0160vicarska",
+			"hu": "Sv\u00e1jc",
 			"it": "Svizzera",
 			"ja": "\u30b9\u30a4\u30b9",
 			"nl": "Zwitserland",
+			"pl": "Szwajcaria",
 			"pt": "Su\u00ed\u00e7a",
-			"hu": "Sv\u00e1jc"
+			"ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+			"se": "Schweiz",
+			"zh": "\u745e\u58eb\u8054\u90a6"
 		},
 		"cioc": "SUI"
 	},
@@ -18491,16 +19594,21 @@
 		],
 		"translations": {
 			"br": "S\u00edria",
+			"cs": "S\u00fdrie",
 			"de": "Syrien",
 			"es": "Siria",
 			"fa": "\u0633\u0648\u0631\u06cc\u0647",
 			"fr": "Syrie",
 			"hr": "Sirija",
+			"hu": "Sz\u0151ria",
 			"it": "Siria",
 			"ja": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
 			"nl": "Syri\u00eb",
+			"pl": "Syria",
 			"pt": "S\u00edria",
-			"hu": "Sz\u0151ria"
+			"ru": "\u0421\u0438\u0440\u0438\u044f",
+			"se": "Syrien",
+			"zh": "\u53d9\u5229\u4e9a\u963f\u62c9\u4f2f\u5171\u548c\u56fd"
 		},
 		"cioc": "SYR"
 	},
@@ -18562,16 +19670,21 @@
 		],
 		"translations": {
 			"br": "Taiwan",
+			"cs": "Taiwan",
 			"de": "Taiwan",
 			"es": "Taiw\u00e1n",
 			"fa": "\u062a\u0627\u06cc\u0648\u0627\u0646",
 			"fr": "Ta\u00efwan",
 			"hr": "Tajvan",
+			"hu": "Tajvan",
 			"it": "Taiwan",
 			"ja": "\u53f0\u6e7e\uff08\u4e2d\u83ef\u6c11\u56fd\uff09",
 			"nl": "Taiwan",
+			"pl": "Tajwan",
 			"pt": "Taiwan",
-			"hu": "Tajvan"
+			"ru": "Taiwan",
+			"se": "Taiwan",
+			"zh": "\u53f0\u6e7e"
 		},
 		"cioc": "TPE"
 	},
@@ -18644,16 +19757,21 @@
 		],
 		"translations": {
 			"br": "Tajiquist\u00e3o",
+			"cs": "T\u00e1d\u017eikist\u00e1n",
 			"de": "Tadschikistan",
 			"es": "Tayikist\u00e1n",
 			"fa": "\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
 			"fr": "Tadjikistan",
 			"hr": "Ta\u0111ikistan",
+			"hu": "T\u00e1dzsikiszt\u00e1n",
 			"it": "Tagikistan",
 			"ja": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Tadzjikistan",
+			"pl": "Tad\u017cykistan",
 			"pt": "Tajiquist\u00e3o",
-			"hu": "T\u00e1dzsikiszt\u00e1n"
+			"ru": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+			"se": "Tadzjikistan",
+			"zh": "\u5854\u5409\u514b\u65af\u5766\u5171\u548c\u56fd"
 		},
 		"cioc": "TJK"
 	},
@@ -18740,16 +19858,21 @@
 		],
 		"translations": {
 			"br": "Tanz\u00e2nia",
+			"cs": "Tanzanie",
 			"de": "Tansania",
 			"es": "Tanzania",
 			"fa": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
 			"fr": "Tanzanie",
 			"hr": "Tanzanija",
+			"hu": "T\u00e1dzsikiszt\u00e1n",
 			"it": "Tanzania",
 			"ja": "\u30bf\u30f3\u30b6\u30cb\u30a2",
 			"nl": "Tanzania",
+			"pl": "Tanzania",
 			"pt": "Tanz\u00e2nia",
-			"hu": "T\u00e1dzsikiszt\u00e1n"
+			"ru": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+			"se": "Tanzania",
+			"zh": "\u5766\u6851\u5c3c\u4e9a\u8054\u5408\u5171\u548c\u56fd"
 		},
 		"cioc": "TAN"
 	},
@@ -18822,16 +19945,21 @@
 		],
 		"translations": {
 			"br": "Tail\u00e2ndia",
+			"cs": "Thajsko",
 			"de": "Thailand",
 			"es": "Tailandia",
 			"fa": "\u062a\u0627\u06cc\u0644\u0646\u062f",
 			"fr": "Tha\u00eflande",
 			"hr": "Tajland",
+			"hu": "Thaif\u00f6ld",
 			"it": "Tailandia",
 			"ja": "\u30bf\u30a4",
 			"nl": "Thailand",
+			"pl": "Tajlandia",
 			"pt": "Tail\u00e2ndia",
-			"hu": "Thaif\u00f6ld"
+			"ru": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+			"se": "Thailand",
+			"zh": "\u6cf0\u738b\u56fd"
 		},
 		"cioc": "THA"
 	},
@@ -18895,16 +20023,21 @@
 		],
 		"translations": {
 			"br": "Timor Leste",
+			"cs": "V\u00fdchodn\u00ed Timor",
 			"de": "Timor-Leste",
 			"es": "Timor Oriental",
 			"fa": "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc",
 			"fr": "Timor oriental",
 			"hr": "Isto\u010dni Timor",
+			"hu": "Kelet-Timor",
 			"it": "Timor Est",
 			"ja": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
 			"nl": "Oost-Timor",
+			"pl": "Timor Wschodni",
 			"pt": "Timor Leste",
-			"hu": "Kelet-Timor"
+			"ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440",
+			"se": "\u00d6sttimor\u00a0a.k.a.\u00a0Timor-Leste",
+			"zh": "\u4e1c\u5e1d\u6c76\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": "TLS"
 	},
@@ -18981,16 +20114,21 @@
 		],
 		"translations": {
 			"br": "Togo",
+			"cs": "Togo",
 			"de": "Togo",
 			"es": "Togo",
 			"fa": "\u062a\u0648\u06af\u0648",
 			"fr": "Togo",
 			"hr": "Togo",
+			"hu": "Togo",
 			"it": "Togo",
 			"ja": "\u30c8\u30fc\u30b4",
 			"nl": "Togo",
+			"pl": "Togo",
 			"pt": "Togo",
-			"hu": "Togo"
+			"ru": "\u0422\u043e\u0433\u043e",
+			"se": "Togo",
+			"zh": "\u591a\u54e5\u5171\u548c\u56fd"
 		},
 		"cioc": "TOG"
 	},
@@ -19047,16 +20185,21 @@
 		],
 		"translations": {
 			"br": "Tokelau",
+			"cs": "Tokelau",
 			"de": "Tokelau",
 			"es": "Islas Tokelau",
 			"fa": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648",
 			"fr": "Tokelau",
 			"hr": "Tokelau",
+			"hu": "Tokelau-szigetek",
 			"it": "Isole Tokelau",
 			"ja": "\u30c8\u30b1\u30e9\u30a6",
 			"nl": "Tokelau",
+			"pl": "Tokelau",
 			"pt": "Toquelau",
-			"hu": "Tokelau-szigetek"
+			"ru": "Tokelau",
+			"se": "Tokelau\u00f6arna",
+			"zh": "\u6258\u514b\u52b3"
 		},
 		"cioc": ""
 	},
@@ -19120,16 +20263,21 @@
 		],
 		"translations": {
 			"br": "Tonga",
+			"cs": "Tonga",
 			"de": "Tonga",
 			"es": "Tonga",
 			"fa": "\u062a\u0648\u0646\u06af\u0627",
 			"fr": "Tonga",
 			"hr": "Tonga",
+			"hu": "Tonga",
 			"it": "Tonga",
 			"ja": "\u30c8\u30f3\u30ac",
 			"nl": "Tonga",
+			"pl": "Tonga",
 			"pt": "Tonga",
-			"hu": "Tonga"
+			"ru": "\u0422\u043e\u043d\u0433\u0430",
+			"se": "Tonga",
+			"zh": "\u6c64\u52a0\u738b\u56fd"
 		},
 		"cioc": "TGA"
 	},
@@ -19198,16 +20346,21 @@
 		],
 		"translations": {
 			"br": "Trinidad e Tobago",
+			"cs": "Trinidad a Tobago",
 			"de": "Trinidad und Tobago",
 			"es": "Trinidad y Tobago",
 			"fa": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
 			"fr": "Trinit\u00e9 et Tobago",
 			"hr": "Trinidad i Tobago",
+			"hu": "Trinidad \u00eds Tobago",
 			"it": "Trinidad e Tobago",
 			"ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
 			"nl": "Trinidad en Tobago",
+			"pl": "Trynidad i Tobago",
 			"pt": "Trindade e Tobago",
-			"hu": "Trinidad \u00eds Tobago"
+			"ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+			"se": "Trinidad och Tobago",
+			"zh": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5\u5171\u548c\u56fd"
 		},
 		"cioc": "TTO"
 	},
@@ -19291,16 +20444,21 @@
 		],
 		"translations": {
 			"br": "Tun\u00edsia",
+			"cs": "Tunisko",
 			"de": "Tunesien",
 			"es": "T\u00fanez",
 			"fa": "\u062a\u0648\u0646\u0633",
 			"fr": "Tunisie",
 			"hr": "Tunis",
+			"hu": "Tun\u00edzia",
 			"it": "Tunisia",
 			"ja": "\u30c1\u30e5\u30cb\u30b8\u30a2",
 			"nl": "Tunesi\u00eb",
+			"pl": "Tunezja",
 			"pt": "Tun\u00edsia",
-			"hu": "Tun\u00edzia"
+			"ru": "\u0422\u0443\u043d\u0438\u0441",
+			"se": "Tunisien",
+			"zh": "\u7a81\u5c3c\u65af\u5171\u548c\u56fd"
 		},
 		"cioc": "TUN"
 	},
@@ -19369,16 +20527,21 @@
 		],
 		"translations": {
 			"br": "Turquia",
+			"cs": "Turecko",
 			"de": "T\u00fcrkei",
 			"es": "Turqu\u00eda",
 			"fa": "\u062a\u0631\u06a9\u06cc\u0647",
 			"fr": "Turquie",
 			"hr": "Turska",
+			"hu": "T\u00f6r\u00f6korsz\u00e1g",
 			"it": "Turchia",
 			"ja": "\u30c8\u30eb\u30b3",
 			"nl": "Turkije",
+			"pl": "Turcja",
 			"pt": "Turquia",
-			"hu": "T\u00f6r\u00f6korsz\u00e1g"
+			"ru": "\u0422\u0443\u0440\u0446\u0438\u044f",
+			"se": "Turkiet",
+			"zh": "\u571f\u8033\u5176\u5171\u548c\u56fd"
 		},
 		"cioc": "TUR"
 	},
@@ -19447,16 +20610,21 @@
 		],
 		"translations": {
 			"br": "Turcomenist\u00e3o",
+			"cs": "Turkmenist\u00e1n",
 			"de": "Turkmenistan",
 			"es": "Turkmenist\u00e1n",
 			"fa": "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646",
 			"fr": "Turkm\u00e9nistan",
 			"hr": "Turkmenistan",
+			"hu": "T\u00fcrkmeniszt\u00e1n",
 			"it": "Turkmenistan",
 			"ja": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Turkmenistan",
+			"pl": "Turkmenistan",
 			"pt": "Turquemenist\u00e3o",
-			"hu": "T\u00fcrkmeniszt\u00e1n"
+			"ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+			"se": "Turkmenistan",
+			"zh": "\u571f\u5e93\u66fc\u65af\u5766"
 		},
 		"cioc": "TKM"
 	},
@@ -19513,16 +20681,21 @@
 		],
 		"translations": {
 			"br": "Ilhas Turcas e Caicos",
+			"cs": "Turks a Caicos",
 			"de": "Turks- und Caicosinseln",
 			"es": "Islas Turks y Caicos",
 			"fa": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633",
 			"fr": "\u00celes Turques-et-Ca\u00efques",
 			"hr": "Otoci Turks i Caicos",
+			"hu": "Turks- \u00eds Caicos-szigetek",
 			"it": "Isole Turks e Caicos",
 			"ja": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
 			"nl": "Turks- en Caicoseilanden",
+			"pl": "Turks i Caicos",
 			"pt": "Ilhas Turcas e Caicos",
-			"hu": "Turks- \u00eds Caicos-szigetek"
+			"ru": "Turks and Caicos Islands",
+			"se": "Turks- och Caicos\u00f6arna",
+			"zh": "\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -19585,16 +20758,21 @@
 		],
 		"translations": {
 			"br": "Tuvalu",
+			"cs": "Tuvalu",
 			"de": "Tuvalu",
 			"es": "Tuvalu",
 			"fa": "\u062a\u0648\u0648\u0627\u0644\u0648",
 			"fr": "Tuvalu",
 			"hr": "Tuvalu",
+			"hu": "Tuvalu",
 			"it": "Tuvalu",
 			"ja": "\u30c4\u30d0\u30eb",
 			"nl": "Tuvalu",
+			"pl": "Tuvalu",
 			"pt": "Tuvalu",
-			"hu": "Tuvalu"
+			"ru": "\u0422\u0443\u0432\u0430\u043b\u0443",
+			"se": "Tuvalu",
+			"zh": "\u56fe\u74e6\u5362"
 		},
 		"cioc": "TUV"
 	},
@@ -19678,16 +20856,21 @@
 		],
 		"translations": {
 			"br": "Uganda",
+			"cs": "Uganda",
 			"de": "Uganda",
 			"es": "Uganda",
 			"fa": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627",
 			"fr": "Uganda",
 			"hr": "Uganda",
+			"hu": "Uganda",
 			"it": "Uganda",
 			"ja": "\u30a6\u30ac\u30f3\u30c0",
 			"nl": "Oeganda",
+			"pl": "Uganda",
 			"pt": "Uganda",
-			"hu": "Uganda"
+			"ru": "\u0423\u0433\u0430\u043d\u0434\u0430",
+			"se": "Uganda",
+			"zh": "\u4e4c\u5e72\u8fbe\u5171\u548c\u56fd"
 		},
 		"cioc": "UGA"
 	},
@@ -19754,16 +20937,21 @@
 		],
 		"translations": {
 			"br": "Ucr\u00e2nia",
+			"cs": "Ukrajina",
 			"de": "Ukraine",
 			"es": "Ucrania",
 			"fa": "\u0648\u06a9\u0631\u0627\u06cc\u0646",
 			"fr": "Ukraine",
 			"hr": "Ukrajina",
+			"hu": "Ukrajna",
 			"it": "Ucraina",
 			"ja": "\u30a6\u30af\u30e9\u30a4\u30ca",
 			"nl": "Oekra\u00efne",
+			"pl": "Ukraina",
 			"pt": "Ucr\u00e2nia",
-			"hu": "Ukrajna"
+			"ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+			"se": "Ukraina",
+			"zh": "\u4e4c\u514b\u5170"
 		},
 		"cioc": "UKR"
 	},
@@ -19835,16 +21023,21 @@
 		],
 		"translations": {
 			"br": "Emirados \u00e1rabes Unidos",
+			"cs": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty",
 			"de": "Vereinigte Arabische Emirate",
 			"es": "Emiratos \u00c1rabes Unidos",
 			"fa": "\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc",
 			"fr": "\u00c9mirats arabes unis",
 			"hr": "Ujedinjeni Arapski Emirati",
+			"hu": "Egyes\u00fclt Arab Em\u0151rs\u00edgek",
 			"it": "Emirati Arabi Uniti",
 			"ja": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
 			"nl": "Verenigde Arabische Emiraten",
+			"pl": "Zjednoczone Emiraty Arabskie",
 			"pt": "Emirados \u00e1rabes Unidos",
-			"hu": "Egyes\u00fclt Arab Em\u0151rs\u00edgek"
+			"ru": "\u041e\u0410\u042d",
+			"se": "F\u00f6renade Arabemiraten",
+			"zh": "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd"
 		},
 		"cioc": "UAE"
 	},
@@ -19913,16 +21106,21 @@
 		],
 		"translations": {
 			"br": "Reino Unido",
+			"cs": "Spojen\u00e9 kr\u00e1lovstv\u00ed",
 			"de": "Vereinigtes K\u00f6nigreich",
 			"es": "Reino Unido",
 			"fa": "\u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
 			"fr": "Royaume-Uni",
 			"hr": "Ujedinjeno Kraljevstvo",
+			"hu": "Nagy-Britannia",
 			"it": "Regno Unito",
 			"ja": "\u30a4\u30ae\u30ea\u30b9",
 			"nl": "Verenigd Koninkrijk",
+			"pl": "Wielka Brytania",
 			"pt": "Reino Unido",
-			"hu": "Nagy-Britannia"
+			"ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+			"se": "Storbritannien",
+			"zh": "\u5927\u4e0d\u5217\u98a0\u53ca\u5317\u7231\u5c14\u5170\u8054\u5408\u738b\u56fd"
 		},
 		"cioc": "GBR"
 	},
@@ -20004,16 +21202,21 @@
 		],
 		"translations": {
 			"br": "Estados Unidos",
+			"cs": "Spojen\u00e9 st\u00e1ty americk\u00e9",
 			"de": "Vereinigte Staaten von Amerika",
 			"es": "Estados Unidos",
 			"fa": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
 			"fr": "\u00c9tats-Unis",
 			"hr": "Sjedinjene Ameri\u010dke Dr\u017eave",
+			"hu": "Amerikai Egyes\u00fclt \u00c1llamok",
 			"it": "Stati Uniti D'America",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
 			"nl": "Verenigde Staten",
+			"pl": "Stany Zjednoczone",
 			"pt": "Estados Unidos",
-			"hu": "Amerikai Egyes\u00fclt \u00c1llamok"
+			"ru": "\u0421\u0428\u0410",
+			"se": "USA",
+			"zh": "\u7f8e\u5229\u575a\u5408\u4f17\u56fd"
 		},
 		"cioc": "USA"
 	},
@@ -20092,16 +21295,21 @@
 		],
 		"translations": {
 			"br": "Uruguai",
+			"cs": "Uruguay",
 			"de": "Uruguay",
 			"es": "Uruguay",
 			"fa": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647",
 			"fr": "Uruguay",
 			"hr": "Urugvaj",
+			"hu": "Uruguay",
 			"it": "Uruguay",
 			"ja": "\u30a6\u30eb\u30b0\u30a2\u30a4",
 			"nl": "Uruguay",
+			"pl": "Urugwaj",
 			"pt": "Uruguai",
-			"hu": "Uruguay"
+			"ru": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+			"se": "Uruguay",
+			"zh": "\u4e4c\u62c9\u572d\u4e1c\u5cb8\u5171\u548c\u56fd"
 		},
 		"cioc": "URU"
 	},
@@ -20173,16 +21381,21 @@
 		],
 		"translations": {
 			"br": "Uzbequist\u00e3o",
+			"cs": "Uzbekist\u00e1n",
 			"de": "Usbekistan",
 			"es": "Uzbekist\u00e1n",
 			"fa": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
 			"fr": "Ouzb\u00e9kistan",
 			"hr": "Uzbekistan",
+			"hu": "\u00dczbegiszt\u00e1n",
 			"it": "Uzbekistan",
 			"ja": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Oezbekistan",
+			"pl": "Uzbekistan",
 			"pt": "Usbequist\u00e3o",
-			"hu": "\u00dczbegiszt\u00e1n"
+			"ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+			"se": "Uzbekistan",
+			"zh": "\u4e4c\u5179\u522b\u514b\u65af\u5766\u5171\u548c\u56fd"
 		},
 		"cioc": "UZB"
 	},
@@ -20255,16 +21468,21 @@
 		],
 		"translations": {
 			"br": "Vanuatu",
+			"cs": "Vanuatu",
 			"de": "Vanuatu",
 			"es": "Vanuatu",
 			"fa": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648",
 			"fr": "Vanuatu",
 			"hr": "Vanuatu",
+			"hu": "Vanuatu",
 			"it": "Vanuatu",
 			"ja": "\u30d0\u30cc\u30a2\u30c4",
 			"nl": "Vanuatu",
+			"pl": "Vanuatu",
 			"pt": "Vanuatu",
-			"hu": "Vanuatu"
+			"ru": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+			"se": "Vanuatu",
+			"zh": "\u74e6\u52aa\u963f\u56fe\u5171\u548c\u56fd"
 		},
 		"cioc": "VAN"
 	},
@@ -20344,16 +21562,21 @@
 		],
 		"translations": {
 			"br": "Venezuela",
+			"cs": "Venezuela",
 			"de": "Venezuela",
 			"es": "Venezuela",
 			"fa": "\u0648\u0646\u0632\u0648\u0626\u0644\u0627",
 			"fr": "Venezuela",
 			"hr": "Venezuela",
+			"hu": "Venezuela",
 			"it": "Venezuela",
 			"ja": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
 			"nl": "Venezuela",
+			"pl": "Wenezuela",
 			"pt": "Venezuela",
-			"hu": "Venezuela"
+			"ru": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+			"se": "Venezuela",
+			"zh": "\u59d4\u5185\u745e\u62c9\u73bb\u5229\u74e6\u5c14\u5171\u548c\u56fd"
 		},
 		"cioc": "VEN"
 	},
@@ -20422,16 +21645,21 @@
 		],
 		"translations": {
 			"br": "Vietn\u00e3",
+			"cs": "Vietnam",
 			"de": "Vietnam",
 			"es": "Vietnam",
 			"fa": "\u0648\u06cc\u062a\u0646\u0627\u0645",
 			"fr": "Vi\u00eat Nam",
 			"hr": "Vijetnam",
+			"hu": "Vietn\u00e1m",
 			"it": "Vietnam",
 			"ja": "\u30d9\u30c8\u30ca\u30e0",
 			"nl": "Vietnam",
+			"pl": "Wietnam",
 			"pt": "Vietname",
-			"hu": "Vietn\u00e1m"
+			"ru": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+			"se": "Vietnam",
+			"zh": "\u8d8a\u5357\u793e\u4f1a\u4e3b\u4e49\u5171\u548c\u56fd"
 		},
 		"cioc": "VIE"
 	},
@@ -20490,16 +21718,21 @@
 		],
 		"translations": {
 			"br": "Wallis e Futuna",
+			"cs": "Wallis a Futuna",
 			"de": "Wallis und Futuna",
 			"es": "Wallis y Futuna",
 			"fa": "\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627",
 			"fr": "Wallis-et-Futuna",
 			"hr": "Wallis i Fortuna",
+			"hu": "Wallis \u00e9s Futuna",
 			"it": "Wallis e Futuna",
 			"ja": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca",
 			"nl": "Wallis en Futuna",
+			"pl": "Wallis i Futuna",
 			"pt": "Wallis e Futuna",
-			"hu": "Wallis \u00e9s Futuna"
+			"ru": "Wallis and Futuna",
+			"se": "Wallis- och Futuna\u00f6arna",
+			"zh": "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
 		},
 		"cioc": ""
 	},
@@ -20578,16 +21811,21 @@
 		],
 		"translations": {
 			"br": "Saara Ocidental",
+			"cs": "Z\u00e1padn\u00ed Sahara",
 			"de": "Westsahara",
 			"es": "Sahara Occidental",
 			"fa": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0639\u0631\u0628\u06cc \u0635\u062d\u0631\u0627",
 			"fr": "Sahara Occidental",
 			"hr": "Zapadna Sahara",
+			"hu": "Nyugat-Szahara",
 			"it": "Sahara Occidentale",
 			"ja": "\u897f\u30b5\u30cf\u30e9",
 			"nl": "Westelijke Sahara",
+			"pl": "Sahara Zachodnia",
 			"pt": "Saara Ocidental",
-			"hu": "Nyugat-Szahara"
+			"ru": "Western Sahara",
+			"se": "V\u00e4stsahara",
+			"zh": "\u963f\u62c9\u4f2f\u6492\u54c8\u62c9\u6c11\u4e3b\u5171\u548c\u56fd"
 		},
 		"cioc": ""
 	},
@@ -20660,16 +21898,21 @@
 		],
 		"translations": {
 			"br": "I\u00eamen",
+			"cs": "Jemen",
 			"de": "Jemen",
 			"es": "Yemen",
 			"fa": "\u06cc\u0645\u0646",
 			"fr": "Y\u00e9men",
 			"hr": "Jemen",
+			"hu": "Jemen",
 			"it": "Yemen",
 			"ja": "\u30a4\u30a8\u30e1\u30f3",
 			"nl": "Jemen",
+			"pl": "Jemen",
 			"pt": "I\u00e9men",
-			"hu": "Jemen"
+			"ru": "\u0419\u0435\u043c\u0435\u043d",
+			"se": "Jemen",
+			"zh": "\u4e5f\u95e8\u5171\u548c\u56fd"
 		},
 		"cioc": "YEM"
 	},
@@ -20749,16 +21992,21 @@
 		],
 		"translations": {
 			"br": "Z\u00e2mbia",
+			"cs": "Zambie",
 			"de": "Sambia",
 			"es": "Zambia",
 			"fa": "\u0632\u0627\u0645\u0628\u06cc\u0627",
 			"fr": "Zambie",
 			"hr": "Zambija",
+			"hu": "Zambia",
 			"it": "Zambia",
 			"ja": "\u30b6\u30f3\u30d3\u30a2",
 			"nl": "Zambia",
+			"pl": "Zambia",
 			"pt": "Z\u00e2mbia",
-			"hu": "Zambia"
+			"ru": "\u0417\u0430\u043c\u0431\u0438\u044f",
+			"se": "Zambia",
+			"zh": "\u8d5e\u6bd4\u4e9a\u5171\u548c\u56fd"
 		},
 		"cioc": "ZAM"
 	},
@@ -20846,16 +22094,21 @@
 		],
 		"translations": {
 			"br": "Zimbabwe",
+			"cs": "Zimbabwe",
 			"de": "Simbabwe",
 			"es": "Zimbabue",
 			"fa": "\u0632\u06cc\u0645\u0628\u0627\u0648\u0647",
 			"fr": "Zimbabwe",
 			"hr": "Zimbabve",
+			"hu": "Zimbabwe",
 			"it": "Zimbabwe",
 			"ja": "\u30b8\u30f3\u30d0\u30d6\u30a8",
 			"nl": "Zimbabwe",
+			"pl": "Zimbabwe",
 			"pt": "Zimbabu\u00e9",
-			"hu": "Zimbabwe"
+			"ru": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+			"se": "Zimbabwe",
+			"zh": "\u6d25\u5df4\u5e03\u97e6\u5171\u548c\u56fd"
 		},
 		"cioc": "ZIM"
 	}
