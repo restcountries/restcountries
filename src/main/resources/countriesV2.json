@@ -33,7 +33,7 @@
 			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
 			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
 		},
-		"gini": 29.4,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ps",
@@ -129,7 +129,7 @@
 			"svg": "https://flagcdn.com/ax.svg",
 			"png": "https://flagcdn.com/w320/ax.png"
 		},
-		"gini": 0,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "sv",
@@ -409,6 +409,7 @@
 			"svg": "https://flagcdn.com/as.svg",
 			"png": "https://flagcdn.com/w320/as.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -495,6 +496,7 @@
 			"svg": "https://flagcdn.com/ad.svg",
 			"png": "https://flagcdn.com/w320/ad.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ca",
@@ -665,6 +667,7 @@
 			"svg": "https://flagcdn.com/ai.svg",
 			"png": "https://flagcdn.com/w320/ai.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -732,6 +735,7 @@
 			"svg": "https://flagcdn.com/aq.svg",
 			"png": "https://flagcdn.com/w320/aq.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -820,6 +824,7 @@
 			"svg": "https://flagcdn.com/ag.svg",
 			"png": "https://flagcdn.com/w320/ag.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -1103,6 +1108,7 @@
 			"svg": "https://flagcdn.com/aw.svg",
 			"png": "https://flagcdn.com/w320/aw.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "nl",
@@ -1367,7 +1373,7 @@
 			"svg": "https://flagcdn.com/az.svg",
 			"png": "https://flagcdn.com/w320/az.png"
 		},
-		"gini": 33.7,
+		"gini": 26.6,
 		"languages": [
 			{
 				"iso639_1": "az",
@@ -1442,6 +1448,7 @@
 			"svg": "https://flagcdn.com/bs.svg",
 			"png": "https://flagcdn.com/w320/bs.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -1701,6 +1708,7 @@
 			"svg": "https://flagcdn.com/bb.svg",
 			"png": "https://flagcdn.com/w320/bb.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -2002,7 +2010,7 @@
 			"svg": "https://flagcdn.com/bz.svg",
 			"png": "https://flagcdn.com/w320/bz.png"
 		},
-		"gini": 53.1,
+		"gini": 53.3,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -2202,6 +2210,7 @@
 			"svg": "https://flagcdn.com/bm.svg",
 			"png": "https://flagcdn.com/w320/bm.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -2485,6 +2494,7 @@
 			"svg": "https://flagcdn.com/bq.svg",
 			"png": "https://flagcdn.com/w320/bq.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "nl",
@@ -2750,6 +2760,7 @@
 			"svg": "https://flagcdn.com/bv.svg",
 			"png": "https://flagcdn.com/w320/bv.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "no",
@@ -2939,6 +2950,7 @@
 			"svg": "https://flagcdn.com/io.svg",
 			"png": "https://flagcdn.com/w320/io.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -3021,6 +3033,7 @@
 			"svg": "https://flagcdn.com/um.svg",
 			"png": "https://flagcdn.com/w320/um.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -3091,6 +3104,7 @@
 			"svg": "https://flagcdn.com/vg.svg",
 			"png": "https://flagcdn.com/w320/vg.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -3165,6 +3179,7 @@
 			"svg": "https://flagcdn.com/vi.svg",
 			"png": "https://flagcdn.com/w320/vi.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -3245,6 +3260,7 @@
 			"svg": "https://flagcdn.com/bn.svg",
 			"png": "https://flagcdn.com/w320/bn.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ms",
@@ -3610,7 +3626,7 @@
 			"svg": "https://flagcdn.com/kh.svg",
 			"png": "https://flagcdn.com/w320/kh.png"
 		},
-		"gini": 37.9,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "km",
@@ -3966,6 +3982,7 @@
 			"svg": "https://flagcdn.com/ky.svg",
 			"png": "https://flagcdn.com/w320/ky.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -4046,7 +4063,7 @@
 			"svg": "https://flagcdn.com/cf.svg",
 			"png": "https://flagcdn.com/w320/cf.png"
 		},
-		"gini": 56.3,
+		"gini": 56.2,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -4434,6 +4451,7 @@
 			"svg": "https://flagcdn.com/cx.svg",
 			"png": "https://flagcdn.com/w320/cx.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -4507,6 +4525,7 @@
 			"svg": "https://flagcdn.com/cc.svg",
 			"png": "https://flagcdn.com/w320/cc.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -5009,6 +5028,7 @@
 			"svg": "https://flagcdn.com/ck.svg",
 			"png": "https://flagcdn.com/w320/ck.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -5267,7 +5287,7 @@
 			"svg": "https://flagcdn.com/cu.svg",
 			"png": "https://flagcdn.com/w320/cu.png"
 		},
-		"gini": 38,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "es",
@@ -5344,6 +5364,7 @@
 			"svg": "https://flagcdn.com/cw.svg",
 			"png": "https://flagcdn.com/w320/cw.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "nl",
@@ -5806,6 +5827,7 @@
 			"svg": "https://flagcdn.com/dm.svg",
 			"png": "https://flagcdn.com/w320/dm.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -6258,7 +6280,7 @@
 			"svg": "https://flagcdn.com/gq.svg",
 			"png": "https://flagcdn.com/w320/gq.png"
 		},
-		"gini": 39.4,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "es",
@@ -6370,6 +6392,7 @@
 			"svg": "https://flagcdn.com/er.svg",
 			"png": "https://flagcdn.com/w320/er.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ti",
@@ -6679,7 +6702,7 @@
 			"svg": "https://flagcdn.com/fk.svg",
 			"png": "https://flagcdn.com/w320/fk.png"
 		},
-		"gini": 36,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -6774,7 +6797,7 @@
 			"svg": "https://flagcdn.com/fo.svg",
 			"png": "https://flagcdn.com/w320/fo.png"
 		},
-		"gini": 22.7,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fo",
@@ -7136,6 +7159,7 @@
 			"svg": "https://flagcdn.com/gf.svg",
 			"png": "https://flagcdn.com/w320/gf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -7230,6 +7254,7 @@
 			"svg": "https://flagcdn.com/pf.svg",
 			"png": "https://flagcdn.com/w320/pf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -7303,6 +7328,7 @@
 			"svg": "https://flagcdn.com/tf.svg",
 			"png": "https://flagcdn.com/w320/tf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -7820,6 +7846,7 @@
 			"svg": "https://flagcdn.com/gi.svg",
 			"png": "https://flagcdn.com/w320/gi.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -7982,7 +8009,7 @@
 			"svg": "https://flagcdn.com/gl.svg",
 			"png": "https://flagcdn.com/w320/gl.png"
 		},
-		"gini": 33.9,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "kl",
@@ -8057,6 +8084,7 @@
 			"svg": "https://flagcdn.com/gd.svg",
 			"png": "https://flagcdn.com/w320/gd.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -8138,6 +8166,7 @@
 			"svg": "https://flagcdn.com/gp.svg",
 			"png": "https://flagcdn.com/w320/gp.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -8210,6 +8239,7 @@
 			"svg": "https://flagcdn.com/gu.svg",
 			"png": "https://flagcdn.com/w320/gu.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -8388,6 +8418,7 @@
 			"svg": "https://flagcdn.com/gg.svg",
 			"png": "https://flagcdn.com/w320/gg.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -8658,7 +8689,7 @@
 			"svg": "https://flagcdn.com/gy.svg",
 			"png": "https://flagcdn.com/w320/gy.png"
 		},
-		"gini": 44.5,
+		"gini": 45.1,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -8848,6 +8879,7 @@
 			"svg": "https://flagcdn.com/hm.svg",
 			"png": "https://flagcdn.com/w320/hm.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -9190,7 +9222,7 @@
 			"svg": "https://flagcdn.com/hk.svg",
 			"png": "https://flagcdn.com/w320/hk.png"
 		},
-		"gini": 53.3,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -9900,6 +9932,7 @@
 			"svg": "https://flagcdn.com/im.svg",
 			"png": "https://flagcdn.com/w320/im.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -10076,7 +10109,7 @@
 			"svg": "https://flagcdn.com/it.svg",
 			"png": "https://flagcdn.com/w320/it.png"
 		},
-		"gini": 36,
+		"gini": 35.9,
 		"languages": [
 			{
 				"iso639_1": "it",
@@ -10153,7 +10186,7 @@
 			"svg": "https://flagcdn.com/jm.svg",
 			"png": "https://flagcdn.com/w320/jm.png"
 		},
-		"gini": 35,
+		"gini": 45.5,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -10317,7 +10350,7 @@
 			"svg": "https://flagcdn.com/je.svg",
 			"png": "https://flagcdn.com/w320/je.png"
 		},
-		"gini": 0.3,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -10690,6 +10723,7 @@
 			"svg": "https://flagcdn.com/ki.svg",
 			"png": "https://flagcdn.com/w320/ki.png"
 		},
+		"gini": 37,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -11504,6 +11538,7 @@
 			"svg": "https://flagcdn.com/li.svg",
 			"png": "https://flagcdn.com/w320/li.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "de",
@@ -11767,7 +11802,7 @@
 			"svg": "https://flagcdn.com/mo.svg",
 			"png": "https://flagcdn.com/w320/mo.png"
 		},
-		"gini": 35,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "zh",
@@ -11853,7 +11888,7 @@
 			"svg": "https://flagcdn.com/mk.svg",
 			"png": "https://flagcdn.com/w320/mk.png"
 		},
-		"gini": 31.9,
+		"gini": 33,
 		"languages": [
 			{
 				"iso639_1": "mk",
@@ -12460,6 +12495,7 @@
 			"svg": "https://flagcdn.com/mh.svg",
 			"png": "https://flagcdn.com/w320/mh.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -12536,6 +12572,7 @@
 			"svg": "https://flagcdn.com/mq.svg",
 			"png": "https://flagcdn.com/w320/mq.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -12794,6 +12831,7 @@
 			"svg": "https://flagcdn.com/yt.svg",
 			"png": "https://flagcdn.com/w320/yt.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -13134,6 +13172,7 @@
 			"svg": "https://flagcdn.com/mc.svg",
 			"png": "https://flagcdn.com/w320/mc.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -13383,6 +13422,7 @@
 			"svg": "https://flagcdn.com/ms.svg",
 			"png": "https://flagcdn.com/w320/ms.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -14091,6 +14131,7 @@
 			"svg": "https://flagcdn.com/nc.svg",
 			"png": "https://flagcdn.com/w320/nc.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -14163,7 +14204,7 @@
 			"svg": "https://flagcdn.com/nz.svg",
 			"png": "https://flagcdn.com/w320/nz.png"
 		},
-		"gini": 36.2,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -14525,6 +14566,7 @@
 			"svg": "https://flagcdn.com/nu.svg",
 			"png": "https://flagcdn.com/w320/nu.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -14598,6 +14640,7 @@
 			"svg": "https://flagcdn.com/nf.svg",
 			"png": "https://flagcdn.com/w320/nf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -14750,6 +14793,7 @@
 			"svg": "https://flagcdn.com/mp.svg",
 			"png": "https://flagcdn.com/w320/mp.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -15106,6 +15150,7 @@
 			"svg": "https://flagcdn.com/pw.svg",
 			"png": "https://flagcdn.com/w320/pw.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -15192,7 +15237,7 @@
 			"svg": "https://flagcdn.com/ps.svg",
 			"png": "https://flagcdn.com/w320/ps.png"
 		},
-		"gini": 35.5,
+		"gini": 33.7,
 		"languages": [
 			{
 				"iso639_1": "ar",
@@ -15736,6 +15781,7 @@
 			"svg": "https://flagcdn.com/pn.svg",
 			"png": "https://flagcdn.com/w320/pn.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -15979,6 +16025,7 @@
 			"svg": "https://flagcdn.com/pr.svg",
 			"png": "https://flagcdn.com/w320/pr.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "es",
@@ -16060,7 +16107,7 @@
 			"svg": "https://flagcdn.com/qa.svg",
 			"png": "https://flagcdn.com/w320/qa.png"
 		},
-		"gini": 41.1,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ar",
@@ -16230,6 +16277,7 @@
 			"svg": "https://flagcdn.com/re.svg",
 			"png": "https://flagcdn.com/w320/re.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -16613,6 +16661,7 @@
 			"svg": "https://flagcdn.com/bl.svg",
 			"png": "https://flagcdn.com/w320/bl.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -16683,6 +16732,7 @@
 			"svg": "https://flagcdn.com/sh.svg",
 			"png": "https://flagcdn.com/w320/sh.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -16766,6 +16816,7 @@
 			"svg": "https://flagcdn.com/kn.svg",
 			"png": "https://flagcdn.com/w320/kn.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -16934,6 +16985,7 @@
 			"svg": "https://flagcdn.com/mf.svg",
 			"png": "https://flagcdn.com/w320/mf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -17020,6 +17072,7 @@
 			"svg": "https://flagcdn.com/pm.svg",
 			"png": "https://flagcdn.com/w320/pm.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -17091,6 +17144,7 @@
 			"svg": "https://flagcdn.com/vc.svg",
 			"png": "https://flagcdn.com/w320/vc.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -17256,6 +17310,7 @@
 			"svg": "https://flagcdn.com/sm.svg",
 			"png": "https://flagcdn.com/w320/sm.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "it",
@@ -17423,7 +17478,7 @@
 			"svg": "https://flagcdn.com/sa.svg",
 			"png": "https://flagcdn.com/w320/sa.png"
 		},
-		"gini": 45.9,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "ar",
@@ -17876,7 +17931,7 @@
 			"svg": "https://flagcdn.com/sg.svg",
 			"png": "https://flagcdn.com/w320/sg.png"
 		},
-		"gini": 45.9,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -17973,6 +18028,7 @@
 			"svg": "https://flagcdn.com/sx.svg",
 			"png": "https://flagcdn.com/w320/sx.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "nl",
@@ -18408,7 +18464,7 @@
 			"svg": "https://flagcdn.com/za.svg",
 			"png": "https://flagcdn.com/w320/za.png"
 		},
-		"gini": 63.1,
+		"gini": 63,
 		"languages": [
 			{
 				"iso639_1": "af",
@@ -18546,6 +18602,7 @@
 			"svg": "https://flagcdn.com/gs.svg",
 			"png": "https://flagcdn.com/w320/gs.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -18636,7 +18693,7 @@
 			"svg": "https://flagcdn.com/kr.svg",
 			"png": "https://flagcdn.com/w320/kr.png"
 		},
-		"gini": 31.3,
+		"gini": 31.4,
 		"languages": [
 			{
 				"iso639_1": "ko",
@@ -18997,7 +19054,7 @@
 			"svg": "https://flagcdn.com/ss.svg",
 			"png": "https://flagcdn.com/w320/ss.png"
 		},
-		"gini": 45.5,
+		"gini": 44.1,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -19191,6 +19248,7 @@
 			"svg": "https://flagcdn.com/sj.svg",
 			"png": "https://flagcdn.com/w320/sj.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "no",
@@ -19270,7 +19328,7 @@
 			"svg": "https://flagcdn.com/sz.svg",
 			"png": "https://flagcdn.com/w320/sz.png"
 		},
-		"gini": 51.5,
+		"gini": 54.6,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -19642,7 +19700,7 @@
 			"svg": "https://flagcdn.com/tw.svg",
 			"png": "https://flagcdn.com/w320/tw.png"
 		},
-		"gini": 33.6,
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "zh",
@@ -20158,6 +20216,7 @@
 			"svg": "https://flagcdn.com/tk.svg",
 			"png": "https://flagcdn.com/w320/tk.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -20654,6 +20713,7 @@
 			"svg": "https://flagcdn.com/tc.svg",
 			"png": "https://flagcdn.com/w320/tc.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "en",
@@ -21518,7 +21578,7 @@
 			"svg": "https://flagcdn.com/ve.svg",
 			"png": "https://flagcdn.com/w320/ve.png"
 		},
-		"gini": 39,
+		"gini": 44.8,
 		"languages": [
 			{
 				"iso639_1": "es",
@@ -21612,7 +21672,7 @@
 			"svg": "https://flagcdn.com/vn.svg",
 			"png": "https://flagcdn.com/w320/vn.png"
 		},
-		"gini": 35.6,
+		"gini": 35.7,
 		"languages": [
 			{
 				"iso639_1": "vi",
@@ -21691,6 +21751,7 @@
 			"svg": "https://flagcdn.com/wf.svg",
 			"png": "https://flagcdn.com/w320/wf.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "fr",
@@ -21772,6 +21833,7 @@
 			"svg": "https://flagcdn.com/eh.svg",
 			"png": "https://flagcdn.com/w320/eh.png"
 		},
+		"gini": null,
 		"languages": [
 			{
 				"iso639_1": "es",
