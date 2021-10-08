@@ -18,7 +18,7 @@ In this table you can find the fields of the different API versions, extra infor
 | independent            | v  | v  |  v   |      |
 | flag                   | v  | v  |  v   | v2: Link to the svg flag on [Flagpedia](https://flagpedia.net/), v3: flag emoji |
 | flags                  | v  | v  |  v   | [Flagpedia](https://flagpedia.net/) links to svg and png flags |
-| gini                   | v  | v  |  v   | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
+| gini                   | v  |    |      | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
 | landlocked             |    | v  |  v   |      |
 | languages              | v  | v  |  v   |      |
 | latlng                 | v  | v  |  v   |      |
