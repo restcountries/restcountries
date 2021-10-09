@@ -30,6 +30,7 @@ public class BaseCountry {
   private String flag;
   private Map<String, String> maps;
   private Integer population;
+  private Map<String, Double> gini;
 
   public Name getName() {
     return name;
@@ -267,5 +268,13 @@ public class BaseCountry {
 
   public void setPopulation(Integer population) {
     this.population = population;
+  }
+
+  public Map<String, Double> getGini() {
+    return gini;
+  }
+
+  public void setGini(Map<String, Double> gini) {
+    this.gini = gini;
   }
 }
