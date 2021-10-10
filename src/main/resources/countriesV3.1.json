@@ -21,6 +21,7 @@
 		"ccn3": "533",
 		"cca3": "ABW",
 		"cioc": "ARU",
+		"fifa": "ARU",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -156,7 +157,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -184,6 +186,7 @@
 		"ccn3": "004",
 		"cca3": "AFG",
 		"cioc": "AFG",
+		"fifa": "AFG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -332,7 +335,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/303427"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -352,6 +356,7 @@
 		"ccn3": "024",
 		"cca3": "AGO",
 		"cioc": "ANG",
+		"fifa": "ANG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -497,6 +502,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+		},
+		"gini": {
+			"2018": 51.3
 		}
 	},
 	{
@@ -517,6 +525,7 @@
 		"ccn3": "660",
 		"cca3": "AIA",
 		"cioc": "",
+		"fifa": "AIA",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -651,7 +660,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -671,6 +681,7 @@
 		"ccn3": "248",
 		"cca3": "ALA",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -808,7 +819,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -828,6 +840,7 @@
 		"ccn3": "008",
 		"cca3": "ALB",
 		"cioc": "ALB",
+		"fifa": "ALB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -974,6 +987,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/53292"
+		},
+		"gini": {
+			"2017": 33.2
 		}
 	},
 	{
@@ -994,6 +1010,7 @@
 		"ccn3": "020",
 		"cca3": "AND",
 		"cioc": "AND",
+		"fifa": "AND",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -1137,7 +1154,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/9407"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -1158,6 +1176,7 @@
 		"ccn3": "784",
 		"cca3": "ARE",
 		"cioc": "UAE",
+		"fifa": "UAE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -1297,6 +1316,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+		},
+		"gini": {
+			"2018": 26
 		}
 	},
 	{
@@ -1321,6 +1343,7 @@
 		"ccn3": "032",
 		"cca3": "ARG",
 		"cioc": "ARG",
+		"fifa": "ARG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -1468,6 +1491,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+		},
+		"gini": {
+			"2019": 42.9
 		}
 	},
 	{
@@ -1488,6 +1514,7 @@
 		"ccn3": "051",
 		"cca3": "ARM",
 		"cioc": "ARM",
+		"fifa": "ARM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -1634,6 +1661,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+		},
+		"gini": {
+			"2019": 29.9
 		}
 	},
 	{
@@ -1658,6 +1688,7 @@
 		"ccn3": "016",
 		"cca3": "ASM",
 		"cioc": "ASA",
+		"fifa": "ASA",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -1796,7 +1827,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177187"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -1811,6 +1843,7 @@
 		"ccn3": "010",
 		"cca3": "ATA",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -1938,7 +1971,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/kyBuJriu4itiXank7",
 			"openStreetMaps": "https://www.openstreetmap.org/node/36966060"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -1958,6 +1992,7 @@
 		"ccn3": "260",
 		"cca3": "ATF",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -2093,7 +2128,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -2113,6 +2149,7 @@
 		"ccn3": "028",
 		"cca3": "ATG",
 		"cioc": "ANT",
+		"fifa": "ATG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -2251,7 +2288,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536900"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -2271,6 +2309,7 @@
 		"ccn3": "036",
 		"cca3": "AUS",
 		"cioc": "AUS",
+		"fifa": "AUS",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -2409,6 +2448,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/80500"
+		},
+		"gini": {
+			"2014": 34.4
 		}
 	},
 	{
@@ -2429,6 +2471,7 @@
 		"ccn3": "040",
 		"cca3": "AUT",
 		"cioc": "AUT",
+		"fifa": "AUT",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -2578,6 +2621,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+		},
+		"gini": {
+			"2018": 30.8
 		}
 	},
 	{
@@ -2602,6 +2648,7 @@
 		"ccn3": "031",
 		"cca3": "AZE",
 		"cioc": "AZE",
+		"fifa": "AZE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -2749,6 +2796,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+		},
+		"gini": {
+			"2005": 26.6
 		}
 	},
 	{
@@ -2773,6 +2823,7 @@
 		"ccn3": "108",
 		"cca3": "BDI",
 		"cioc": "BDI",
+		"fifa": "BDI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -2919,6 +2970,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+		},
+		"gini": {
+			"2013": 38.6
 		}
 	},
 	{
@@ -2947,6 +3001,7 @@
 		"ccn3": "056",
 		"cca3": "BEL",
 		"cioc": "BEL",
+		"fifa": "BEL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3100,6 +3155,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/52411"
+		},
+		"gini": {
+			"2018": 27.2
 		}
 	},
 	{
@@ -3120,6 +3178,7 @@
 		"ccn3": "204",
 		"cca3": "BEN",
 		"cioc": "BEN",
+		"fifa": "BEN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3265,6 +3324,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192784"
+		},
+		"gini": {
+			"2015": 47.8
 		}
 	},
 	{
@@ -3285,6 +3347,7 @@
 		"ccn3": "854",
 		"cca3": "BFA",
 		"cioc": "BUR",
+		"fifa": "BFA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3430,6 +3493,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192783"
+		},
+		"gini": {
+			"2014": 35.3
 		}
 	},
 	{
@@ -3450,6 +3516,7 @@
 		"ccn3": "050",
 		"cca3": "BGD",
 		"cioc": "BAN",
+		"fifa": "BAN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3593,6 +3660,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+		},
+		"gini": {
+			"2016": 32.4
 		}
 	},
 	{
@@ -3613,6 +3683,7 @@
 		"ccn3": "100",
 		"cca3": "BGR",
 		"cioc": "BUL",
+		"fifa": "BUL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3759,6 +3830,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+		},
+		"gini": {
+			"2018": 41.3
 		}
 	},
 	{
@@ -3779,6 +3853,7 @@
 		"ccn3": "048",
 		"cca3": "BHR",
 		"cioc": "BRN",
+		"fifa": "BHR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -3919,7 +3994,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/378734"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -3939,6 +4015,7 @@
 		"ccn3": "044",
 		"cca3": "BHS",
 		"cioc": "BAH",
+		"fifa": "BAH",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -4082,7 +4159,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547469"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -4110,6 +4188,7 @@
 		"ccn3": "070",
 		"cca3": "BIH",
 		"cioc": "BIH",
+		"fifa": "BIH",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -4256,6 +4335,9 @@
 		"maps": {
 			"googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
+		},
+		"gini": {
+			"2011": 33
 		}
 	},
 	{
@@ -4276,6 +4358,7 @@
 		"ccn3": "652",
 		"cca3": "BLM",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -4413,7 +4496,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Mc7GqH466S7AAk297",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7552779"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -4434,6 +4518,7 @@
 		"ccn3": "654",
 		"cca3": "SHN",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -4574,7 +4659,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -4598,6 +4684,7 @@
 		"ccn3": "112",
 		"cca3": "BLR",
 		"cioc": "BLR",
+		"fifa": "BLR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -4747,6 +4834,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+		},
+		"gini": {
+			"2019": 25.3
 		}
 	},
 	{
@@ -4775,6 +4865,7 @@
 		"ccn3": "084",
 		"cca3": "BLZ",
 		"cioc": "BIZ",
+		"fifa": "BLZ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -4918,6 +5009,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+		},
+		"gini": {
+			"1999": 53.3
 		}
 	},
 	{
@@ -4938,6 +5032,7 @@
 		"ccn3": "060",
 		"cca3": "BMU",
 		"cioc": "BER",
+		"fifa": "BER",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -5079,7 +5174,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -5111,6 +5207,7 @@
 		"ccn3": "068",
 		"cca3": "BOL",
 		"cioc": "BOL",
+		"fifa": "BOL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -5266,6 +5363,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+		},
+		"gini": {
+			"2019": 41.6
 		}
 	},
 	{
@@ -5291,6 +5391,7 @@
 		"ccn3": "535",
 		"cca3": "BES",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -5427,7 +5528,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -5447,6 +5549,7 @@
 		"ccn3": "076",
 		"cca3": "BRA",
 		"cioc": "BRA",
+		"fifa": "BRA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -5599,6 +5702,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+		},
+		"gini": {
+			"2019": 53.4
 		}
 	},
 	{
@@ -5619,6 +5725,7 @@
 		"ccn3": "052",
 		"cca3": "BRB",
 		"cioc": "BAR",
+		"fifa": "BRB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -5757,7 +5864,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547511"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -5777,6 +5885,7 @@
 		"ccn3": "096",
 		"cca3": "BRN",
 		"cioc": "BRU",
+		"fifa": "BRU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -5924,7 +6033,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -5944,6 +6054,7 @@
 		"ccn3": "064",
 		"cca3": "BTN",
 		"cioc": "BHU",
+		"fifa": "BHU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -6090,6 +6201,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184629"
+		},
+		"gini": {
+			"2017": 37.4
 		}
 	},
 	{
@@ -6110,6 +6224,7 @@
 		"ccn3": "074",
 		"cca3": "BVT",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -6239,7 +6354,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
 			"openStreetMaps": "https://www.openstreetmap.org/way/174996681"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -6263,6 +6379,7 @@
 		"ccn3": "072",
 		"cca3": "BWA",
 		"cioc": "BOT",
+		"fifa": "BOT",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -6405,6 +6522,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+		},
+		"gini": {
+			"2015": 53.3
 		}
 	},
 	{
@@ -6429,6 +6549,7 @@
 		"ccn3": "140",
 		"cca3": "CAF",
 		"cioc": "CAF",
+		"fifa": "CTA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -6577,6 +6698,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192790"
+		},
+		"gini": {
+			"2008": 56.2
 		}
 	},
 	{
@@ -6601,6 +6725,7 @@
 		"ccn3": "124",
 		"cca3": "CAN",
 		"cioc": "CAN",
+		"fifa": "CAN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -6742,6 +6867,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+		},
+		"gini": {
+			"2017": 33.3
 		}
 	},
 	{
@@ -6762,6 +6890,7 @@
 		"ccn3": "166",
 		"cca3": "CCK",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -6902,7 +7031,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/3eCdKVpVfMcZyKcK6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/82636"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -6934,6 +7064,7 @@
 		"ccn3": "756",
 		"cca3": "CHE",
 		"cioc": "SUI",
+		"fifa": "SUI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7082,6 +7213,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/51701"
+		},
+		"gini": {
+			"2018": 33.1
 		}
 	},
 	{
@@ -7102,6 +7236,7 @@
 		"ccn3": "152",
 		"cca3": "CHL",
 		"cioc": "CHI",
+		"fifa": "CHI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7246,6 +7381,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+		},
+		"gini": {
+			"2017": 44.4
 		}
 	},
 	{
@@ -7270,6 +7408,7 @@
 		"ccn3": "156",
 		"cca3": "CHN",
 		"cioc": "CHN",
+		"fifa": "CHN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7427,6 +7566,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+		},
+		"gini": {
+			"2016": 38.5
 		}
 	},
 	{
@@ -7447,6 +7589,7 @@
 		"ccn3": "384",
 		"cca3": "CIV",
 		"cioc": "CIV",
+		"fifa": "CIV",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7591,6 +7734,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+		},
+		"gini": {
+			"2015": 41.5
 		}
 	},
 	{
@@ -7615,6 +7761,7 @@
 		"ccn3": "120",
 		"cca3": "CMR",
 		"cioc": "CMR",
+		"fifa": "CMR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7763,6 +7910,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192830"
+		},
+		"gini": {
+			"2014": 46.6
 		}
 	},
 	{
@@ -7799,6 +7949,7 @@
 		"ccn3": "180",
 		"cca3": "COD",
 		"cioc": "COD",
+		"fifa": "COD",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -7955,6 +8106,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+		},
+		"gini": {
+			"2012": 42.1
 		}
 	},
 	{
@@ -7983,6 +8137,7 @@
 		"ccn3": "178",
 		"cca3": "COG",
 		"cioc": "CGO",
+		"fifa": "CGO",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -8131,6 +8286,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+		},
+		"gini": {
+			"2011": 48.9
 		}
 	},
 	{
@@ -8155,6 +8313,7 @@
 		"ccn3": "184",
 		"cca3": "COK",
 		"cioc": "COK",
+		"fifa": "COK",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -8299,7 +8458,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -8319,6 +8479,7 @@
 		"ccn3": "170",
 		"cca3": "COL",
 		"cioc": "COL",
+		"fifa": "COL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -8465,6 +8626,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+		},
+		"gini": {
+			"2019": 51.3
 		}
 	},
 	{
@@ -8493,6 +8657,7 @@
 		"ccn3": "174",
 		"cca3": "COM",
 		"cioc": "COM",
+		"fifa": "COM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -8637,6 +8802,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/535790"
+		},
+		"gini": {
+			"2014": 45.3
 		}
 	},
 	{
@@ -8657,6 +8825,7 @@
 		"ccn3": "132",
 		"cca3": "CPV",
 		"cioc": "CPV",
+		"fifa": "CPV",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -8797,6 +8966,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+		},
+		"gini": {
+			"2015": 42.4
 		}
 	},
 	{
@@ -8817,6 +8989,7 @@
 		"ccn3": "188",
 		"cca3": "CRI",
 		"cioc": "CRC",
+		"fifa": "CRC",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -8960,6 +9133,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+		},
+		"gini": {
+			"2019": 48.2
 		}
 	},
 	{
@@ -8980,6 +9156,7 @@
 		"ccn3": "192",
 		"cca3": "CUB",
 		"cioc": "CUB",
+		"fifa": "CUB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -9124,7 +9301,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307833"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -9152,6 +9330,7 @@
 		"ccn3": "531",
 		"cca3": "CUW",
 		"cioc": "",
+		"fifa": "CUW",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -9285,7 +9464,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -9305,6 +9485,7 @@
 		"ccn3": "162",
 		"cca3": "CXR",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -9444,7 +9625,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/6365444"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -9464,6 +9646,7 @@
 		"ccn3": "136",
 		"cca3": "CYM",
 		"cioc": "CAY",
+		"fifa": "CAY",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -9602,7 +9785,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -9626,6 +9810,7 @@
 		"ccn3": "196",
 		"cca3": "CYP",
 		"cioc": "CYP",
+		"fifa": "CYP",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -9770,6 +9955,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+		},
+		"gini": {
+			"2018": 32.7
 		}
 	},
 	{
@@ -9794,6 +9982,7 @@
 		"ccn3": "203",
 		"cca3": "CZE",
 		"cioc": "CZE",
+		"fifa": "CZE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -9940,6 +10129,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+		},
+		"gini": {
+			"2018": 25
 		}
 	},
 	{
@@ -9960,6 +10152,7 @@
 		"ccn3": "276",
 		"cca3": "DEU",
 		"cioc": "GER",
+		"fifa": "GER",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10106,6 +10299,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+		},
+		"gini": {
+			"2016": 31.9
 		}
 	},
 	{
@@ -10130,6 +10326,7 @@
 		"ccn3": "262",
 		"cca3": "DJI",
 		"cioc": "DJI",
+		"fifa": "DJI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10279,6 +10476,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+		},
+		"gini": {
+			"2017": 41.6
 		}
 	},
 	{
@@ -10299,6 +10499,7 @@
 		"ccn3": "212",
 		"cca3": "DMA",
 		"cioc": "DMA",
+		"fifa": "DMA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10440,7 +10641,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307823"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -10460,6 +10662,7 @@
 		"ccn3": "208",
 		"cca3": "DNK",
 		"cioc": "DEN",
+		"fifa": "DEN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10603,6 +10806,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+		},
+		"gini": {
+			"2018": 28.2
 		}
 	},
 	{
@@ -10623,6 +10829,7 @@
 		"ccn3": "214",
 		"cca3": "DOM",
 		"cioc": "DOM",
+		"fifa": "DOM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10765,6 +10972,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+		},
+		"gini": {
+			"2019": 41.9
 		}
 	},
 	{
@@ -10786,6 +10996,7 @@
 		"ccn3": "012",
 		"cca3": "DZA",
 		"cioc": "ALG",
+		"fifa": "ALG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -10934,6 +11145,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+		},
+		"gini": {
+			"2011": 27.6
 		}
 	},
 	{
@@ -10954,6 +11168,7 @@
 		"ccn3": "218",
 		"cca3": "ECU",
 		"cioc": "ECU",
+		"fifa": "ECU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -11097,6 +11312,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+		},
+		"gini": {
+			"2019": 45.7
 		}
 	},
 	{
@@ -11118,6 +11336,7 @@
 		"ccn3": "818",
 		"cca3": "EGY",
 		"cioc": "EGY",
+		"fifa": "EGY",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -11262,6 +11481,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
+		},
+		"gini": {
+			"2017": 31.5
 		}
 	},
 	{
@@ -11290,6 +11512,7 @@
 		"ccn3": "232",
 		"cca3": "ERI",
 		"cioc": "ERI",
+		"fifa": "ERI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -11439,7 +11662,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/296961"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -11467,6 +11691,7 @@
 		"ccn3": "732",
 		"cca3": "ESH",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -11617,7 +11842,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/5441968"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -11637,6 +11863,7 @@
 		"ccn3": "724",
 		"cca3": "ESP",
 		"cioc": "ESP",
+		"fifa": "ESP",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -11779,6 +12006,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+		},
+		"gini": {
+			"2018": 34.7
 		}
 	},
 	{
@@ -11799,6 +12029,7 @@
 		"ccn3": "233",
 		"cca3": "EST",
 		"cioc": "EST",
+		"fifa": "EST",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -11943,6 +12174,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+		},
+		"gini": {
+			"2018": 30.3
 		}
 	},
 	{
@@ -11963,6 +12197,7 @@
 		"ccn3": "231",
 		"cca3": "ETH",
 		"cioc": "ETH",
+		"fifa": "ETH",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -12111,6 +12346,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192800"
+		},
+		"gini": {
+			"2015": 35
 		}
 	},
 	{
@@ -12135,6 +12373,7 @@
 		"ccn3": "246",
 		"cca3": "FIN",
 		"cioc": "FIN",
+		"fifa": "FIN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -12278,6 +12517,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
 			"openStreetMaps": "openstreetmap.org/relation/54224"
+		},
+		"gini": {
+			"2018": 27.3
 		}
 	},
 	{
@@ -12306,6 +12548,7 @@
 		"ccn3": "242",
 		"cca3": "FJI",
 		"cioc": "FIJ",
+		"fifa": "FIJ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -12446,6 +12689,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+		},
+		"gini": {
+			"2013": 36.7
 		}
 	},
 	{
@@ -12466,6 +12712,7 @@
 		"ccn3": "238",
 		"cca3": "FLK",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -12602,7 +12849,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -12622,6 +12870,7 @@
 		"ccn3": "250",
 		"cca3": "FRA",
 		"cioc": "FRA",
+		"fifa": "FRA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -12767,6 +13016,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+		},
+		"gini": {
+			"2018": 32.4
 		}
 	},
 	{
@@ -12791,6 +13043,7 @@
 		"ccn3": "234",
 		"cca3": "FRO",
 		"cioc": "",
+		"fifa": "FRO",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -12932,7 +13185,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/52939"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -12952,6 +13206,7 @@
 		"ccn3": "583",
 		"cca3": "FSM",
 		"cioc": "FSM",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -13088,6 +13343,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571802"
+		},
+		"gini": {
+			"2013": 40.1
 		}
 	},
 	{
@@ -13108,6 +13366,7 @@
 		"ccn3": "266",
 		"cca3": "GAB",
 		"cioc": "GAB",
+		"fifa": "GAB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -13248,6 +13507,9 @@
 		"maps": {
 			"googleMaps": "https://www.openstreetmap.org/relation/192793",
 			"openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+		},
+		"gini": {
+			"2017": 38
 		}
 	},
 	{
@@ -13268,6 +13530,7 @@
 		"ccn3": "826",
 		"cca3": "GBR",
 		"cioc": "GBR",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -13406,6 +13669,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+		},
+		"gini": {
+			"2017": 35.1
 		}
 	},
 	{
@@ -13426,6 +13692,7 @@
 		"ccn3": "268",
 		"cca3": "GEO",
 		"cioc": "GEO",
+		"fifa": "GEO",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -13566,6 +13833,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+		},
+		"gini": {
+			"2019": 35.9
 		}
 	},
 	{
@@ -13594,6 +13864,7 @@
 		"ccn3": "831",
 		"cca3": "GGY",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -13736,7 +14007,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/270009"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -13756,6 +14028,7 @@
 		"ccn3": "288",
 		"cca3": "GHA",
 		"cioc": "GHA",
+		"fifa": "GHA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -13894,6 +14167,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+		},
+		"gini": {
+			"2016": 43.5
 		}
 	},
 	{
@@ -13914,6 +14190,7 @@
 		"ccn3": "292",
 		"cca3": "GIB",
 		"cioc": "",
+		"fifa": "GIB",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -14050,7 +14327,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -14070,6 +14348,7 @@
 		"ccn3": "324",
 		"cca3": "GIN",
 		"cioc": "GUI",
+		"fifa": "GUI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -14213,6 +14492,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192778"
+		},
+		"gini": {
+			"2012": 33.7
 		}
 	},
 	{
@@ -14233,6 +14515,7 @@
 		"ccn3": "312",
 		"cca3": "GLP",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -14368,7 +14651,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -14388,6 +14672,7 @@
 		"ccn3": "270",
 		"cca3": "GMB",
 		"cioc": "GAM",
+		"fifa": "GAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -14525,6 +14810,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+		},
+		"gini": {
+			"2015": 35.9
 		}
 	},
 	{
@@ -14549,6 +14837,7 @@
 		"ccn3": "624",
 		"cca3": "GNB",
 		"cioc": "GBS",
+		"fifa": "GNB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -14689,6 +14978,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192776"
+		},
+		"gini": {
+			"2010": 50.7
 		}
 	},
 	{
@@ -14717,6 +15009,7 @@
 		"ccn3": "226",
 		"cca3": "GNQ",
 		"cioc": "GEQ",
+		"fifa": "EQG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -14864,7 +15157,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192791"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -14884,6 +15178,7 @@
 		"ccn3": "300",
 		"cca3": "GRC",
 		"cioc": "GRE",
+		"fifa": "GRE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -15026,6 +15321,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+		},
+		"gini": {
+			"2018": 32.9
 		}
 	},
 	{
@@ -15046,6 +15344,7 @@
 		"ccn3": "308",
 		"cca3": "GRD",
 		"cioc": "GRN",
+		"fifa": "GRN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -15180,7 +15479,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/550727"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -15200,6 +15500,7 @@
 		"ccn3": "304",
 		"cca3": "GRL",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -15335,7 +15636,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -15355,6 +15657,7 @@
 		"ccn3": "320",
 		"cca3": "GTM",
 		"cioc": "GUA",
+		"fifa": "GUA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -15494,6 +15797,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+		},
+		"gini": {
+			"2014": 48.3
 		}
 	},
 	{
@@ -15514,6 +15820,7 @@
 		"ccn3": "254",
 		"cca3": "GUF",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -15653,7 +15960,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -15681,6 +15989,7 @@
 		"ccn3": "316",
 		"cca3": "GUM",
 		"cioc": "GUM",
+		"fifa": "GUM",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -15818,7 +16127,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/306001"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -15838,6 +16148,7 @@
 		"ccn3": "328",
 		"cca3": "GUY",
 		"cioc": "GUY",
+		"fifa": "GUY",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -15977,6 +16288,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+		},
+		"gini": {
+			"1998": 45.1
 		}
 	},
 	{
@@ -16002,6 +16316,7 @@
 		"ccn3": "344",
 		"cca3": "HKG",
 		"cioc": "HKG",
+		"fifa": "HKG",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -16135,7 +16450,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/913110"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -16156,6 +16472,7 @@
 		"ccn3": "334",
 		"cca3": "HMD",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -16282,7 +16599,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177227"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -16302,6 +16620,7 @@
 		"ccn3": "340",
 		"cca3": "HND",
 		"cioc": "HON",
+		"fifa": "HON",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -16442,6 +16761,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+		},
+		"gini": {
+			"2019": 48.2
 		}
 	},
 	{
@@ -16462,6 +16784,7 @@
 		"ccn3": "191",
 		"cca3": "HRV",
 		"cioc": "CRO",
+		"fifa": "CRO",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -16609,6 +16932,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/214885"
+		},
+		"gini": {
+			"2018": 29.7
 		}
 	},
 	{
@@ -16633,6 +16959,7 @@
 		"ccn3": "332",
 		"cca3": "HTI",
 		"cioc": "HAI",
+		"fifa": "HAI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -16773,6 +17100,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+		},
+		"gini": {
+			"2012": 41.1
 		}
 	},
 	{
@@ -16793,6 +17123,7 @@
 		"ccn3": "348",
 		"cca3": "HUN",
 		"cioc": "HUN",
+		"fifa": "HUN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -16935,6 +17266,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+		},
+		"gini": {
+			"2018": 29.6
 		}
 	},
 	{
@@ -16955,6 +17289,7 @@
 		"ccn3": "360",
 		"cca3": "IDN",
 		"cioc": "INA",
+		"fifa": "IDN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -17095,6 +17430,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+		},
+		"gini": {
+			"2019": 38.2
 		}
 	},
 	{
@@ -17119,6 +17457,7 @@
 		"ccn3": "833",
 		"cca3": "IMN",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -17261,7 +17600,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/62269"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -17289,6 +17629,7 @@
 		"ccn3": "356",
 		"cca3": "IND",
 		"cioc": "IND",
+		"fifa": "IND",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -17436,6 +17777,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+		},
+		"gini": {
+			"2011": 35.7
 		}
 	},
 	{
@@ -17456,6 +17800,7 @@
 		"ccn3": "086",
 		"cca3": "IOT",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -17594,7 +17939,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -17618,6 +17964,7 @@
 		"ccn3": "372",
 		"cca3": "IRL",
 		"cioc": "IRL",
+		"fifa": "IRL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -17758,6 +18105,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+		},
+		"gini": {
+			"2017": 31.4
 		}
 	},
 	{
@@ -17779,6 +18129,7 @@
 		"ccn3": "364",
 		"cca3": "IRN",
 		"cioc": "IRI",
+		"fifa": "IRN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -17920,6 +18271,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/304938"
+		},
+		"gini": {
+			"2018": 42
 		}
 	},
 	{
@@ -17948,6 +18302,7 @@
 		"ccn3": "368",
 		"cca3": "IRQ",
 		"cioc": "IRQ",
+		"fifa": "IRQ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -18093,6 +18448,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/304934"
+		},
+		"gini": {
+			"2012": 29.5
 		}
 	},
 	{
@@ -18113,6 +18471,7 @@
 		"ccn3": "352",
 		"cca3": "ISL",
 		"cioc": "ISL",
+		"fifa": "ISL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -18250,6 +18609,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/299133"
+		},
+		"gini": {
+			"2017": 26.1
 		}
 	},
 	{
@@ -18274,6 +18636,7 @@
 		"ccn3": "376",
 		"cca3": "ISR",
 		"cioc": "ISR",
+		"fifa": "ISR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -18417,6 +18780,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+		},
+		"gini": {
+			"2016": 39
 		}
 	},
 	{
@@ -18437,6 +18803,7 @@
 		"ccn3": "380",
 		"cca3": "ITA",
 		"cioc": "ITA",
+		"fifa": "ITA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -18580,6 +18947,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+		},
+		"gini": {
+			"2017": 35.9
 		}
 	},
 	{
@@ -18604,6 +18974,7 @@
 		"ccn3": "388",
 		"cca3": "JAM",
 		"cioc": "JAM",
+		"fifa": "JAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -18739,6 +19110,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+		},
+		"gini": {
+			"2004": 45.5
 		}
 	},
 	{
@@ -18767,6 +19141,7 @@
 		"ccn3": "832",
 		"cca3": "JEY",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -18910,7 +19285,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/367988"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -18931,6 +19307,7 @@
 		"ccn3": "400",
 		"cca3": "JOR",
 		"cioc": "JOR",
+		"fifa": "JOR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19073,6 +19450,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184818"
+		},
+		"gini": {
+			"2010": 33.7
 		}
 	},
 	{
@@ -19094,6 +19474,7 @@
 		"ccn3": "392",
 		"cca3": "JPN",
 		"cioc": "JPN",
+		"fifa": "JPN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19230,6 +19611,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+		},
+		"gini": {
+			"2013": 32.9
 		}
 	},
 	{
@@ -19255,6 +19639,7 @@
 		"ccn3": "398",
 		"cca3": "KAZ",
 		"cioc": "KAZ",
+		"fifa": "KAZ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19404,6 +19789,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+		},
+		"gini": {
+			"2018": 27.8
 		}
 	},
 	{
@@ -19428,6 +19816,7 @@
 		"ccn3": "404",
 		"cca3": "KEN",
 		"cioc": "KEN",
+		"fifa": "KEN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19571,6 +19960,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192798"
+		},
+		"gini": {
+			"2015": 40.8
 		}
 	},
 	{
@@ -19595,6 +19987,7 @@
 		"ccn3": "417",
 		"cca3": "KGZ",
 		"cioc": "KGZ",
+		"fifa": "KGZ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19739,6 +20132,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/178009"
+		},
+		"gini": {
+			"2019": 29.7
 		}
 	},
 	{
@@ -19759,6 +20155,7 @@
 		"ccn3": "116",
 		"cca3": "KHM",
 		"cioc": "CAM",
+		"fifa": "CAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -19906,7 +20303,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/49898"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -19930,6 +20328,7 @@
 		"ccn3": "296",
 		"cca3": "KIR",
 		"cioc": "KIR",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -20071,6 +20470,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571178"
+		},
+		"gini": {
+			"2006": 37
 		}
 	},
 	{
@@ -20091,6 +20493,7 @@
 		"ccn3": "659",
 		"cca3": "KNA",
 		"cioc": "SKN",
+		"fifa": "SKN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -20226,7 +20629,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536899"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -20247,6 +20651,7 @@
 		"ccn3": "410",
 		"cca3": "KOR",
 		"cioc": "KOR",
+		"fifa": "KOR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -20387,6 +20792,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+		},
+		"gini": {
+			"2016": 31.4
 		}
 	},
 	{
@@ -20409,6 +20817,7 @@
 		"ccn3": "",
 		"cca3": "UNK",
 		"cioc": "KOS",
+		"fifa": "KVX",
 		"independent": null,
 		"status": "user-assigned",
 		"unMember": false,
@@ -20546,6 +20955,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2088990"
+		},
+		"gini": {
+			"2017": 29
 		}
 	},
 	{
@@ -20566,6 +20978,7 @@
 		"ccn3": "414",
 		"cca3": "KWT",
 		"cioc": "KUW",
+		"fifa": "KUW",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -20705,7 +21118,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305099"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -20725,6 +21139,7 @@
 		"ccn3": "418",
 		"cca3": "LAO",
 		"cioc": "LAO",
+		"fifa": "LAO",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -20868,6 +21283,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+		},
+		"gini": {
+			"2018": 38.8
 		}
 	},
 	{
@@ -20892,6 +21310,7 @@
 		"ccn3": "422",
 		"cca3": "LBN",
 		"cioc": "LIB",
+		"fifa": "LBN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21032,6 +21451,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+		},
+		"gini": {
+			"2011": 31.8
 		}
 	},
 	{
@@ -21052,6 +21474,7 @@
 		"ccn3": "430",
 		"cca3": "LBR",
 		"cioc": "LBR",
+		"fifa": "LBR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21191,6 +21614,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192780"
+		},
+		"gini": {
+			"2016": 35.3
 		}
 	},
 	{
@@ -21211,6 +21637,7 @@
 		"ccn3": "434",
 		"cca3": "LBY",
 		"cioc": "LBA",
+		"fifa": "LBY",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21354,7 +21781,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
 			"openStreetMaps": "openstreetmap.org/relation/192758"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -21374,6 +21802,7 @@
 		"ccn3": "662",
 		"cca3": "LCA",
 		"cioc": "LCA",
+		"fifa": "LCA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21508,6 +21937,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+		},
+		"gini": {
+			"2016": 51.2
 		}
 	},
 	{
@@ -21528,6 +21960,7 @@
 		"ccn3": "438",
 		"cca3": "LIE",
 		"cioc": "LIE",
+		"fifa": "LIE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21667,7 +22100,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -21693,6 +22127,7 @@
 		"ccn3": "144",
 		"cca3": "LKA",
 		"cioc": "SRI",
+		"fifa": "SRI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21832,6 +22267,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536807"
+		},
+		"gini": {
+			"2016": 39.3
 		}
 	},
 	{
@@ -21856,6 +22294,7 @@
 		"ccn3": "426",
 		"cca3": "LSO",
 		"cioc": "LES",
+		"fifa": "LES",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -21999,6 +22438,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
+		},
+		"gini": {
+			"2017": 44.9
 		}
 	},
 	{
@@ -22019,6 +22461,7 @@
 		"ccn3": "440",
 		"cca3": "LTU",
 		"cioc": "LTU",
+		"fifa": "LTU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -22160,6 +22603,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+		},
+		"gini": {
+			"2018": 35.7
 		}
 	},
 	{
@@ -22188,6 +22634,7 @@
 		"ccn3": "442",
 		"cca3": "LUX",
 		"cioc": "LUX",
+		"fifa": "LUX",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -22332,6 +22779,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+		},
+		"gini": {
+			"2018": 35.4
 		}
 	},
 	{
@@ -22352,6 +22802,7 @@
 		"ccn3": "428",
 		"cca3": "LVA",
 		"cioc": "LAT",
+		"fifa": "LVA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -22493,6 +22944,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+		},
+		"gini": {
+			"2018": 35.1
 		}
 	},
 	{
@@ -22517,6 +22971,7 @@
 		"ccn3": "446",
 		"cca3": "MAC",
 		"cioc": "",
+		"fifa": "MAC",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -22653,7 +23108,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -22674,6 +23130,7 @@
 		"ccn3": "663",
 		"cca3": "MAF",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -22813,7 +23270,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/63064"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -22838,6 +23296,7 @@
 		"ccn3": "504",
 		"cca3": "MAR",
 		"cioc": "MAR",
+		"fifa": "MAR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -22979,6 +23438,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3630439"
+		},
+		"gini": {
+			"2013": 39.5
 		}
 	},
 	{
@@ -22999,6 +23461,7 @@
 		"ccn3": "492",
 		"cca3": "MCO",
 		"cioc": "MON",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23137,7 +23600,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -23157,6 +23621,7 @@
 		"ccn3": "498",
 		"cca3": "MDA",
 		"cioc": "MDA",
+		"fifa": "MDA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23297,6 +23762,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/58974"
+		},
+		"gini": {
+			"2018": 25.7
 		}
 	},
 	{
@@ -23321,6 +23789,7 @@
 		"ccn3": "450",
 		"cca3": "MDG",
 		"cioc": "MAD",
+		"fifa": "MAD",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23459,6 +23928,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/447325"
+		},
+		"gini": {
+			"2012": 42.6
 		}
 	},
 	{
@@ -23479,6 +23951,7 @@
 		"ccn3": "462",
 		"cca3": "MDV",
 		"cioc": "MDV",
+		"fifa": "MDV",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23616,6 +24089,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+		},
+		"gini": {
+			"2016": 31.3
 		}
 	},
 	{
@@ -23636,6 +24112,7 @@
 		"ccn3": "484",
 		"cca3": "MEX",
 		"cioc": "MEX",
+		"fifa": "MEX",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23777,6 +24254,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+		},
+		"gini": {
+			"2018": 45.4
 		}
 	},
 	{
@@ -23801,6 +24281,7 @@
 		"ccn3": "584",
 		"cca3": "MHL",
 		"cioc": "MHL",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -23938,7 +24419,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571771"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -23958,6 +24440,7 @@
 		"ccn3": "807",
 		"cca3": "MKD",
 		"cioc": "MKD",
+		"fifa": "MKD",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24102,6 +24585,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+		},
+		"gini": {
+			"2018": 33
 		}
 	},
 	{
@@ -24122,6 +24608,7 @@
 		"ccn3": "466",
 		"cca3": "MLI",
 		"cioc": "MLI",
+		"fifa": "MLI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24266,6 +24753,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+		},
+		"gini": {
+			"2009": 33
 		}
 	},
 	{
@@ -24290,6 +24780,7 @@
 		"ccn3": "470",
 		"cca3": "MLT",
 		"cioc": "MLT",
+		"fifa": "MLT",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24427,6 +24918,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+		},
+		"gini": {
+			"2018": 28.7
 		}
 	},
 	{
@@ -24447,6 +24941,7 @@
 		"ccn3": "104",
 		"cca3": "MMR",
 		"cioc": "MYA",
+		"fifa": "MYA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24590,6 +25085,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/50371"
+		},
+		"gini": {
+			"2017": 30.7
 		}
 	},
 	{
@@ -24610,6 +25108,7 @@
 		"ccn3": "499",
 		"cca3": "MNE",
 		"cioc": "MNE",
+		"fifa": "MNE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24751,6 +25250,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/53296"
+		},
+		"gini": {
+			"2016": 38.5
 		}
 	},
 	{
@@ -24771,6 +25273,7 @@
 		"ccn3": "496",
 		"cca3": "MNG",
 		"cioc": "MGL",
+		"fifa": "MNG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -24908,6 +25411,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/161033"
+		},
+		"gini": {
+			"2018": 32.7
 		}
 	},
 	{
@@ -24936,6 +25442,7 @@
 		"ccn3": "580",
 		"cca3": "MNP",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -25074,7 +25581,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/306004"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -25094,6 +25602,7 @@
 		"ccn3": "508",
 		"cca3": "MOZ",
 		"cioc": "MOZ",
+		"fifa": "MOZ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -25237,6 +25746,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195273"
+		},
+		"gini": {
+			"2014": 54
 		}
 	},
 	{
@@ -25257,6 +25769,7 @@
 		"ccn3": "478",
 		"cca3": "MRT",
 		"cioc": "MTN",
+		"fifa": "MTN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -25398,6 +25911,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192763"
+		},
+		"gini": {
+			"2014": 32.6
 		}
 	},
 	{
@@ -25418,6 +25934,7 @@
 		"ccn3": "500",
 		"cca3": "MSR",
 		"cioc": "",
+		"fifa": "MSR",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -25552,7 +26069,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/537257"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -25572,6 +26090,7 @@
 		"ccn3": "474",
 		"cca3": "MTQ",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -25706,7 +26225,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -25734,6 +26254,7 @@
 		"ccn3": "480",
 		"cca3": "MUS",
 		"cioc": "MRI",
+		"fifa": "MRI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -25872,6 +26393,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/535828"
+		},
+		"gini": {
+			"2017": 36.8
 		}
 	},
 	{
@@ -25896,6 +26420,7 @@
 		"ccn3": "454",
 		"cca3": "MWI",
 		"cioc": "MAW",
+		"fifa": "MWI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -26036,6 +26561,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+		},
+		"gini": {
+			"2016": 44.7
 		}
 	},
 	{
@@ -26060,6 +26588,7 @@
 		"ccn3": "458",
 		"cca3": "MYS",
 		"cioc": "MAS",
+		"fifa": "MAS",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -26199,6 +26728,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+		},
+		"gini": {
+			"2015": 41.1
 		}
 	},
 	{
@@ -26219,6 +26751,7 @@
 		"ccn3": "175",
 		"cca3": "MYT",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -26355,7 +26888,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1259885"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -26407,6 +26941,7 @@
 		"ccn3": "516",
 		"cca3": "NAM",
 		"cioc": "NAM",
+		"fifa": "NAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -26560,6 +27095,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+		},
+		"gini": {
+			"2015": 59.1
 		}
 	},
 	{
@@ -26580,6 +27118,7 @@
 		"ccn3": "540",
 		"cca3": "NCL",
 		"cioc": "",
+		"fifa": "NCL",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -26714,7 +27253,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3407643"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -26734,6 +27274,7 @@
 		"ccn3": "562",
 		"cca3": "NER",
 		"cioc": "NIG",
+		"fifa": "NIG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -26877,6 +27418,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+		},
+		"gini": {
+			"2014": 34.3
 		}
 	},
 	{
@@ -26901,6 +27445,7 @@
 		"ccn3": "574",
 		"cca3": "NFK",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -27038,7 +27583,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2574988"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -27058,6 +27604,7 @@
 		"ccn3": "566",
 		"cca3": "NGA",
 		"cioc": "NGR",
+		"fifa": "NGA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -27200,6 +27747,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+		},
+		"gini": {
+			"2018": 35.1
 		}
 	},
 	{
@@ -27220,6 +27770,7 @@
 		"ccn3": "558",
 		"cca3": "NIC",
 		"cioc": "NCA",
+		"fifa": "NCA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -27359,6 +27910,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+		},
+		"gini": {
+			"2014": 46.2
 		}
 	},
 	{
@@ -27383,6 +27937,7 @@
 		"ccn3": "570",
 		"cca3": "NIU",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -27518,7 +28073,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -27538,6 +28094,7 @@
 		"ccn3": "528",
 		"cca3": "NLD",
 		"cioc": "NED",
+		"fifa": "NED",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -27678,6 +28235,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/47796"
+		},
+		"gini": {
+			"2018": 28.1
 		}
 	},
 	{
@@ -27706,6 +28266,7 @@
 		"ccn3": "578",
 		"cca3": "NOR",
 		"cioc": "NOR",
+		"fifa": "NOR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -27851,6 +28412,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
+		},
+		"gini": {
+			"2018": 27.6
 		}
 	},
 	{
@@ -27871,6 +28435,7 @@
 		"ccn3": "524",
 		"cca3": "NPL",
 		"cioc": "NEP",
+		"fifa": "NEP",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28010,6 +28575,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+		},
+		"gini": {
+			"2010": 32.8
 		}
 	},
 	{
@@ -28034,6 +28602,7 @@
 		"ccn3": "520",
 		"cca3": "NRU",
 		"cioc": "NRU",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28173,6 +28742,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571804"
+		},
+		"gini": {
+			"2012": 34.8
 		}
 	},
 	{
@@ -28201,6 +28773,7 @@
 		"ccn3": "554",
 		"cca3": "NZL",
 		"cioc": "NZL",
+		"fifa": "NZL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28338,7 +28911,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -28358,6 +28932,7 @@
 		"ccn3": "512",
 		"cca3": "OMN",
 		"cioc": "OMA",
+		"fifa": "OMA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28498,7 +29073,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305138"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -28522,6 +29098,7 @@
 		"ccn3": "586",
 		"cca3": "PAK",
 		"cioc": "PAK",
+		"fifa": "PAK",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28665,6 +29242,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+		},
+		"gini": {
+			"2018": 31.6
 		}
 	},
 	{
@@ -28685,6 +29265,7 @@
 		"ccn3": "591",
 		"cca3": "PAN",
 		"cioc": "PAN",
+		"fifa": "PAN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -28828,6 +29409,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+		},
+		"gini": {
+			"2019": 49.8
 		}
 	},
 	{
@@ -28848,6 +29432,7 @@
 		"ccn3": "612",
 		"cca3": "PCN",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -28984,7 +29569,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -29012,6 +29598,7 @@
 		"ccn3": "604",
 		"cca3": "PER",
 		"cioc": "PER",
+		"fifa": "PER",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -29156,6 +29743,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+		},
+		"gini": {
+			"2019": 41.5
 		}
 	},
 	{
@@ -29180,6 +29770,7 @@
 		"ccn3": "608",
 		"cca3": "PHL",
 		"cioc": "PHI",
+		"fifa": "PHI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -29317,6 +29908,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+		},
+		"gini": {
+			"2018": 42.3
 		}
 	},
 	{
@@ -29341,6 +29935,7 @@
 		"ccn3": "585",
 		"cca3": "PLW",
 		"cioc": "PLW",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -29478,7 +30073,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571805"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -29506,6 +30102,7 @@
 		"ccn3": "598",
 		"cca3": "PNG",
 		"cioc": "PNG",
+		"fifa": "PNG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -29646,6 +30243,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
 			"openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
+		},
+		"gini": {
+			"2009": 41.9
 		}
 	},
 	{
@@ -29666,6 +30266,7 @@
 		"ccn3": "616",
 		"cca3": "POL",
 		"cioc": "POL",
+		"fifa": "POL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -29810,6 +30411,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+		},
+		"gini": {
+			"2018": 30.2
 		}
 	},
 	{
@@ -29834,6 +30438,7 @@
 		"ccn3": "630",
 		"cca3": "PRI",
 		"cioc": "PUR",
+		"fifa": "PUR",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -29972,7 +30577,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -29992,6 +30598,7 @@
 		"ccn3": "408",
 		"cca3": "PRK",
 		"cioc": "PRK",
+		"fifa": "PRK",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -30137,7 +30744,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192734"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -30157,6 +30765,7 @@
 		"ccn3": "620",
 		"cca3": "PRT",
 		"cioc": "POR",
+		"fifa": "POR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -30296,6 +30905,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+		},
+		"gini": {
+			"2018": 33.5
 		}
 	},
 	{
@@ -30320,6 +30932,7 @@
 		"ccn3": "600",
 		"cca3": "PRY",
 		"cioc": "PAR",
+		"fifa": "PAR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -30462,6 +31075,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+		},
+		"gini": {
+			"2019": 45.7
 		}
 	},
 	{
@@ -30483,6 +31099,7 @@
 		"ccn3": "275",
 		"cca3": "PSE",
 		"cioc": "PLE",
+		"fifa": "PLE",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -30632,6 +31249,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+		},
+		"gini": {
+			"2016": 33.7
 		}
 	},
 	{
@@ -30652,6 +31272,7 @@
 		"ccn3": "258",
 		"cca3": "PYF",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -30789,7 +31410,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -30810,6 +31432,7 @@
 		"ccn3": "634",
 		"cca3": "QAT",
 		"cioc": "QAT",
+		"fifa": "QAT",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -30948,7 +31571,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305095"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -30968,6 +31592,7 @@
 		"ccn3": "638",
 		"cca3": "REU",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -31103,7 +31728,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -31123,6 +31749,7 @@
 		"ccn3": "642",
 		"cca3": "ROU",
 		"cioc": "ROU",
+		"fifa": "ROU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -31266,6 +31893,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+		},
+		"gini": {
+			"2018": 35.8
 		}
 	},
 	{
@@ -31288,6 +31918,7 @@
 		"ccn3": "643",
 		"cca3": "RUS",
 		"cioc": "RUS",
+		"fifa": "RUS",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -31443,6 +32074,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+		},
+		"gini": {
+			"2018": 37.5
 		}
 	},
 	{
@@ -31471,6 +32105,7 @@
 		"ccn3": "646",
 		"cca3": "RWA",
 		"cioc": "RWA",
+		"fifa": "RWA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -31615,6 +32250,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/171496"
+		},
+		"gini": {
+			"2016": 43.7
 		}
 	},
 	{
@@ -31636,6 +32274,7 @@
 		"ccn3": "682",
 		"cca3": "SAU",
 		"cioc": "KSA",
+		"fifa": "KSA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -31781,7 +32420,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307584"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -31805,6 +32445,7 @@
 		"ccn3": "729",
 		"cca3": "SDN",
 		"cioc": "SUD",
+		"fifa": "SDN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -31950,6 +32591,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192789"
+		},
+		"gini": {
+			"2014": 34.2
 		}
 	},
 	{
@@ -31970,6 +32614,7 @@
 		"ccn3": "686",
 		"cca3": "SEN",
 		"cioc": "SEN",
+		"fifa": "SEN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -32112,6 +32757,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+		},
+		"gini": {
+			"2011": 40.3
 		}
 	},
 	{
@@ -32146,6 +32794,7 @@
 		"ccn3": "702",
 		"cca3": "SGP",
 		"cioc": "SIN",
+		"fifa": "SIN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -32282,7 +32931,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536780"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -32302,6 +32952,7 @@
 		"ccn3": "239",
 		"cca3": "SGS",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -32437,7 +33088,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -32457,6 +33109,7 @@
 		"ccn3": "744",
 		"cca3": "SJM",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -32592,7 +33245,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1337397"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -32612,6 +33266,7 @@
 		"ccn3": "090",
 		"cca3": "SLB",
 		"cioc": "SOL",
+		"fifa": "SOL",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -32746,6 +33401,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
+		},
+		"gini": {
+			"2012": 37.1
 		}
 	},
 	{
@@ -32766,6 +33424,7 @@
 		"ccn3": "694",
 		"cca3": "SLE",
 		"cioc": "SLE",
+		"fifa": "SLE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -32904,6 +33563,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192777"
+		},
+		"gini": {
+			"2018": 35.7
 		}
 	},
 	{
@@ -32924,6 +33586,7 @@
 		"ccn3": "222",
 		"cca3": "SLV",
 		"cioc": "ESA",
+		"fifa": "SLV",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -33067,6 +33730,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+		},
+		"gini": {
+			"2019": 38.8
 		}
 	},
 	{
@@ -33087,6 +33753,7 @@
 		"ccn3": "674",
 		"cca3": "SMR",
 		"cioc": "SMR",
+		"fifa": "SMR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -33225,7 +33892,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/54624"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -33249,6 +33917,7 @@
 		"ccn3": "706",
 		"cca3": "SOM",
 		"cioc": "SOM",
+		"fifa": "SOM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -33392,6 +34061,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192799"
+		},
+		"gini": {
+			"2017": 36.8
 		}
 	},
 	{
@@ -33412,6 +34084,7 @@
 		"ccn3": "666",
 		"cca3": "SPM",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -33547,7 +34220,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -33568,6 +34242,7 @@
 		"ccn3": "688",
 		"cca3": "SRB",
 		"cioc": "SRB",
+		"fifa": "SRB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -33715,6 +34390,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
+		},
+		"gini": {
+			"2017": 36.2
 		}
 	},
 	{
@@ -33735,6 +34413,7 @@
 		"ccn3": "728",
 		"cca3": "SSD",
 		"cioc": "",
+		"fifa": "SSD",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -33876,6 +34555,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
+		},
+		"gini": {
+			"2016": 44.1
 		}
 	},
 	{
@@ -33896,6 +34578,7 @@
 		"ccn3": "678",
 		"cca3": "STP",
 		"cioc": "STP",
+		"fifa": "STP",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34033,6 +34716,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/535880"
+		},
+		"gini": {
+			"2017": 56.3
 		}
 	},
 	{
@@ -34053,6 +34739,7 @@
 		"ccn3": "740",
 		"cca3": "SUR",
 		"cioc": "SUR",
+		"fifa": "SUR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34195,6 +34882,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+		},
+		"gini": {
+			"1999": 57.9
 		}
 	},
 	{
@@ -34215,6 +34905,7 @@
 		"ccn3": "703",
 		"cca3": "SVK",
 		"cioc": "SVK",
+		"fifa": "SVK",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34357,6 +35048,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/14296"
+		},
+		"gini": {
+			"2018": 25
 		}
 	},
 	{
@@ -34377,6 +35071,7 @@
 		"ccn3": "705",
 		"cca3": "SVN",
 		"cioc": "SLO",
+		"fifa": "SVN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34518,6 +35213,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+		},
+		"gini": {
+			"2018": 24.6
 		}
 	},
 	{
@@ -34538,6 +35236,7 @@
 		"ccn3": "752",
 		"cca3": "SWE",
 		"cioc": "SWE",
+		"fifa": "SWE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34677,6 +35376,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+		},
+		"gini": {
+			"2018": 30
 		}
 	},
 	{
@@ -34701,6 +35403,7 @@
 		"ccn3": "748",
 		"cca3": "SWZ",
 		"cioc": "SWZ",
+		"fifa": "SWZ",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -34849,6 +35552,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+		},
+		"gini": {
+			"2016": 54.6
 		}
 	},
 	{
@@ -34877,6 +35583,7 @@
 		"ccn3": "534",
 		"cca3": "SXM",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -35016,7 +35723,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -35044,6 +35752,7 @@
 		"ccn3": "690",
 		"cca3": "SYC",
 		"cioc": "SEY",
+		"fifa": "SEY",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -35183,6 +35892,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+		},
+		"gini": {
+			"2018": 32.1
 		}
 	},
 	{
@@ -35204,6 +35916,7 @@
 		"ccn3": "760",
 		"cca3": "SYR",
 		"cioc": "SYR",
+		"fifa": "SYR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -35346,6 +36059,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/184840"
+		},
+		"gini": {
+			"2003": 37.5
 		}
 	},
 	{
@@ -35366,6 +36082,7 @@
 		"ccn3": "796",
 		"cca3": "TCA",
 		"cioc": "",
+		"fifa": "TCA",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -35500,7 +36217,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547479"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -35524,6 +36242,7 @@
 		"ccn3": "148",
 		"cca3": "TCD",
 		"cioc": "CHA",
+		"fifa": "CHA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -35673,6 +36392,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
+		},
+		"gini": {
+			"2011": 43.3
 		}
 	},
 	{
@@ -35693,6 +36415,7 @@
 		"ccn3": "768",
 		"cca3": "TGO",
 		"cioc": "TOG",
+		"fifa": "TOG",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -35834,6 +36557,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192782"
+		},
+		"gini": {
+			"2015": 43.1
 		}
 	},
 	{
@@ -35855,6 +36581,7 @@
 		"ccn3": "764",
 		"cca3": "THA",
 		"cioc": "THA",
+		"fifa": "THA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -35999,6 +36726,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+		},
+		"gini": {
+			"2019": 34.9
 		}
 	},
 	{
@@ -36023,6 +36753,7 @@
 		"ccn3": "762",
 		"cca3": "TJK",
 		"cioc": "TJK",
+		"fifa": "TJK",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -36167,6 +36898,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+		},
+		"gini": {
+			"2015": 34
 		}
 	},
 	{
@@ -36195,6 +36929,7 @@
 		"ccn3": "772",
 		"cca3": "TKL",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -36331,7 +37066,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -36355,6 +37091,7 @@
 		"ccn3": "795",
 		"cca3": "TKM",
 		"cioc": "TKM",
+		"fifa": "TKM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -36495,6 +37232,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+		},
+		"gini": {
+			"1998": 40.8
 		}
 	},
 	{
@@ -36519,6 +37259,7 @@
 		"ccn3": "626",
 		"cca3": "TLS",
 		"cioc": "TLS",
+		"fifa": "TLS",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -36662,6 +37403,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+		},
+		"gini": {
+			"2014": 28.7
 		}
 	},
 	{
@@ -36686,6 +37430,7 @@
 		"ccn3": "776",
 		"cca3": "TON",
 		"cioc": "TGA",
+		"fifa": "TGA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -36821,6 +37566,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2186665"
+		},
+		"gini": {
+			"2015": 37.6
 		}
 	},
 	{
@@ -36841,6 +37589,7 @@
 		"ccn3": "780",
 		"cca3": "TTO",
 		"cioc": "TTO",
+		"fifa": "TRI",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -36976,6 +37725,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/555717"
+		},
+		"gini": {
+			"1992": 40.3
 		}
 	},
 	{
@@ -36996,6 +37748,7 @@
 		"ccn3": "788",
 		"cca3": "TUN",
 		"cioc": "TUN",
+		"fifa": "TUN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -37135,6 +37888,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+		},
+		"gini": {
+			"2015": 32.8
 		}
 	},
 	{
@@ -37155,6 +37911,7 @@
 		"ccn3": "792",
 		"cca3": "TUR",
 		"cioc": "TUR",
+		"fifa": "TUR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -37301,6 +38058,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+		},
+		"gini": {
+			"2019": 41.9
 		}
 	},
 	{
@@ -37325,6 +38085,7 @@
 		"ccn3": "798",
 		"cca3": "TUV",
 		"cioc": "TUV",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -37464,6 +38225,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177266"
+		},
+		"gini": {
+			"2010": 39.1
 		}
 	},
 	{
@@ -37486,6 +38250,7 @@
 		"ccn3": "158",
 		"cca3": "TWN",
 		"cioc": "TPE",
+		"fifa": "TPE",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -37621,7 +38386,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/449220"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -37645,6 +38411,7 @@
 		"ccn3": "834",
 		"cca3": "TZA",
 		"cioc": "TAN",
+		"fifa": "TAN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -37792,6 +38559,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195270"
+		},
+		"gini": {
+			"2017": 40.5
 		}
 	},
 	{
@@ -37816,6 +38586,7 @@
 		"ccn3": "800",
 		"cca3": "UGA",
 		"cioc": "UGA",
+		"fifa": "UGA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -37959,6 +38730,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192796"
+		},
+		"gini": {
+			"2016": 42.8
 		}
 	},
 	{
@@ -37980,6 +38754,7 @@
 		"ccn3": "804",
 		"cca3": "UKR",
 		"cioc": "UKR",
+		"fifa": "UKR",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -38123,6 +38898,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+		},
+		"gini": {
+			"2019": 26.6
 		}
 	},
 	{
@@ -38143,6 +38921,7 @@
 		"ccn3": "581",
 		"cca3": "UMI",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -38275,7 +39054,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -38295,6 +39075,7 @@
 		"ccn3": "858",
 		"cca3": "URY",
 		"cioc": "URU",
+		"fifa": "URU",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -38434,6 +39215,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+		},
+		"gini": {
+			"2019": 39.7
 		}
 	},
 	{
@@ -38454,6 +39238,7 @@
 		"ccn3": "840",
 		"cca3": "USA",
 		"cioc": "USA",
+		"fifa": "USA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -38909,6 +39694,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+		},
+		"gini": {
+			"2018": 41.4
 		}
 	},
 	{
@@ -38933,6 +39721,7 @@
 		"ccn3": "860",
 		"cca3": "UZB",
 		"cioc": "UZB",
+		"fifa": "UZB",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -39077,6 +39866,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+		},
+		"gini": {
+			"2003": 35.3
 		}
 	},
 	{
@@ -39101,6 +39893,7 @@
 		"ccn3": "336",
 		"cca3": "VAT",
 		"cioc": "",
+		"fifa": "",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -39242,7 +40035,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/36989"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -39262,6 +40056,7 @@
 		"ccn3": "670",
 		"cca3": "VCT",
 		"cioc": "VIN",
+		"fifa": "VIN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -39396,7 +40191,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/550725"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -39416,6 +40212,7 @@
 		"ccn3": "862",
 		"cca3": "VEN",
 		"cioc": "VEN",
+		"fifa": "VEN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -39557,6 +40354,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+		},
+		"gini": {
+			"2006": 44.8
 		}
 	},
 	{
@@ -39577,6 +40377,7 @@
 		"ccn3": "092",
 		"cca3": "VGB",
 		"cioc": "IVB",
+		"fifa": "VGB",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -39712,7 +40513,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/285454"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -39732,6 +40534,7 @@
 		"ccn3": "850",
 		"cca3": "VIR",
 		"cioc": "ISV",
+		"fifa": "VIR",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -39867,7 +40670,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
 			"openStreetMaps": "openstreetmap.org/relation/286898"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -39887,6 +40691,7 @@
 		"ccn3": "704",
 		"cca3": "VNM",
 		"cioc": "VIE",
+		"fifa": "VIE",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -40028,6 +40833,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/49915"
+		},
+		"gini": {
+			"2018": 35.7
 		}
 	},
 	{
@@ -40056,6 +40864,7 @@
 		"ccn3": "548",
 		"cca3": "VUT",
 		"cioc": "VAN",
+		"fifa": "VAN",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -40195,6 +41004,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
+		},
+		"gini": {
+			"2010": 37.6
 		}
 	},
 	{
@@ -40215,6 +41027,7 @@
 		"ccn3": "876",
 		"cca3": "WLF",
 		"cioc": "",
+		"fifa": "",
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
@@ -40351,7 +41164,8 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3412448"
-		}
+		},
+		"gini": {}
 	},
 	{
 		"name": {
@@ -40375,6 +41189,7 @@
 		"ccn3": "882",
 		"cca3": "WSM",
 		"cioc": "SAM",
+		"fifa": "SAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -40512,6 +41327,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1872673"
+		},
+		"gini": {
+			"2013": 38.7
 		}
 	},
 	{
@@ -40532,6 +41350,7 @@
 		"ccn3": "887",
 		"cca3": "YEM",
 		"cioc": "YEM",
+		"fifa": "YEM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -40671,6 +41490,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305092"
+		},
+		"gini": {
+			"2014": 36.7
 		}
 	},
 	{
@@ -40731,6 +41553,7 @@
 		"ccn3": "710",
 		"cca3": "ZAF",
 		"cioc": "RSA",
+		"fifa": "RSA",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -40887,6 +41710,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/87565"
+		},
+		"gini": {
+			"2014": 63
 		}
 	},
 	{
@@ -40907,6 +41733,7 @@
 		"ccn3": "894",
 		"cca3": "ZMB",
 		"cioc": "ZAM",
+		"fifa": "ZAM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -41051,6 +41878,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195271"
+		},
+		"gini": {
+			"2015": 57.1
 		}
 	},
 	{
@@ -41127,6 +41957,7 @@
 		"ccn3": "716",
 		"cca3": "ZWE",
 		"cioc": "ZIM",
+		"fifa": "ZIM",
 		"independent": true,
 		"status": "officially-assigned",
 		"unMember": true,
@@ -41313,6 +42144,9 @@
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+		},
+		"gini": {
+			"2019": 50.3
 		}
 	}
 ]
