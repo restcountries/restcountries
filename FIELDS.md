@@ -18,7 +18,7 @@ In this table you can find the fields of the different API versions, extra infor
 | independent            | v  | v  |  v   | ISO 3166-1 independence status (the country is considered a sovereign state) |
 | flag                   | v  | v  |  v   | v2: Link to the svg flag on [Flagpedia](https://flagpedia.net/), v3: flag emoji |
 | flags                  | v  | v  |  v   | [Flagpedia](https://flagpedia.net/) links to svg and png flags |
-| gini                   | v  |    |      | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
+| gini                   | v  | v  |  v   | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
 | landlocked             |    | v  |  v   | Landlocked country |
 | languages              | v  | v  |  v   | List of official languages |
 | latlng                 | v  | v  |  v   | latitude and longitude |
