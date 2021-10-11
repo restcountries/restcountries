@@ -1,26 +1,30 @@
 # About this Project
-This project is inspired on restcountries.eu by Fayder Florez. As it hasn't had any activity in at least 14 months, I decided to take action :)
+This project is inspired on restcountries.eu by Fayder Florez. Although the original project has now moved to 
+a subscription base API, this project is still Open Source and Free to use.
 
 ## Important Information About Version 2
 The structure has been reverted to its original form from the [Original Project] to maintain compatibility.
 
 # REST Countries
-You can access API through https://restcountries.com/v3/all
+You can access API through https://restcountries.com/v3.1/all
 
-# TODO:
-Please reffer to the [issue website](https://gitlab.com/amatos/rest-countries/-/issues)
 
 # Contributing
 Any help is welcome! Just edit the file relevant file and create a new Merge Request or you can also 
-[donate](https://www.paypal.me/amatosg/15).
+[donate].
 
 # Donations
-Donation will help me paying the server's bills and any upgrade the server might need due to usage so if 
-you feel like helping me, you're welcome to [donate](https://www.paypal.me/amatosg/15) or you can also 
+We're getting about 1.6 millions hits each day and that means also bandwidth (24 GB per day!) so
+costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's 
+bills, you're welcome to [donate] or you can also 
 [buy me a coffee](https://www.buymeacoffee.com/amatos). 
 
+#Fields
+You can check the [FIELDS.md](FIELDS.md) file to get a description for each field (thanks to @ePascalC!).
 
 # Changelog
+### General
+- Netherlands' population fixed
 ### V3
 - Added population
 ### V3.1
@@ -411,3 +415,5 @@ https://restcountries.com/v2/all?fields=name,capital,currencies
 [Countries of the world]: http://countries.petethompson.net
 [REST Countries]: https://github.com/apilayer/restcountries
 [Original Project]: https://github.com/apilayer/restcountries/
+[donation]: https://www.paypal.me/amatosg/15
+[donate]: https://www.paypal.me/amatosg/15

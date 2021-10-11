@@ -25,7 +25,7 @@ In version 3 you get:
   "https://restcountries.com/data/png/per.png"
 ]
 ``` 
-In version 3.1 you'll get:
+In version 3.1 you get:
 
 ```json
 "flags": {
@@ -40,11 +40,10 @@ The structure has been reverted to its original form from the [Original Project]
 
 Donate!
 ---------------
-Please consider donating [$5], [$10], [$15] o [more]. This will allow me to pay the server's bills 😃
-
-The original restcountries project was acquired by apilayer, one of the leading providers of 
-API microservices. As the original project has shown very little activity, I created this project 
-in order to provide a more updated version and with some fixes requested in the original project.
+We're getting about 1.6 millions hits each day and that means also bandwidth (24 GB per day!) so
+costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's
+bills, you're welcome to [donate] or you can also
+[buy me a coffee](https://www.buymeacoffee.com/amatos).
 
 Users
 ---------------
@@ -724,3 +723,5 @@ License
 [Much Better Adventures]: https://www.muchbetteradventures.com
 [SKROSS]: http://www.skross.com/en
 [this]: https://github.com/mledoze/countries
+[donation]: https://www.paypal.me/amatosg/15
+[donate]: https://www.paypal.me/amatosg/15
