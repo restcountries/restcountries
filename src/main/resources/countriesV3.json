@@ -45193,40 +45193,8 @@
 		"status": "officially-assigned",
 		"unMember": true,
 		"currencies": {
-			"BWP": {
-				"name": "Botswana pula",
-				"symbol": "P"
-			},
-			"CNY": {
-				"name": "Chinese yuan",
-				"symbol": "\u00a5"
-			},
-			"EUR": {
-				"name": "Euro",
-				"symbol": "\u20ac"
-			},
-			"GBP": {
-				"name": "British pound",
-				"symbol": "\u00a3"
-			},
-			"INR": {
-				"name": "Indian rupee",
-				"symbol": "\u20b9"
-			},
-			"JPY": {
-				"name": "Japanese yen",
-				"symbol": "\u00a5"
-			},
-			"USD": {
-				"name": "United States dollar",
-				"symbol": "$"
-			},
-			"ZAR": {
-				"name": "South African rand",
-				"symbol": "Rs"
-			},
-			"ZWB": {
-				"name": "Zimbabwean bonds",
+			"ZWL": {
+				"name": "Zimbabwean dollar",
 				"symbol": "$"
 			}
 		},
