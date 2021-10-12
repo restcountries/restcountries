@@ -56,6 +56,7 @@ Users
 ---------------
 
 This project is used by
+
 - [Famosos](https://famosos.com)
 - [Cultural Care](https://www.culturalcare.world/)
 - [Covidata](https://worldcovidata.com/)
@@ -180,7 +181,7 @@ https://restcountries.com/v3.1/lang/spa
 https://restcountries.com/v3.1/lang/german
 ```
 
-Translations (new!)
+Translations (*V3 only*)
 -
 Now you can search by name in any available translation
 ``` html
