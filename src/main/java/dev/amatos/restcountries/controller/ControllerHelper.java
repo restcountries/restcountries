@@ -32,6 +32,7 @@ public class ControllerHelper {
       "maps",
       "population",
       "gini",
-      "fifa"
+      "fifa",
+      "car"
   };
 }

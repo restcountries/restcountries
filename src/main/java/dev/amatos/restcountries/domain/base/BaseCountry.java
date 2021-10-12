@@ -32,6 +32,7 @@ public class BaseCountry {
   private Integer population;
   private Map<String, Double> gini;
   private String fifa;
+  private Car car;
 
   public Name getName() {
     return name;
@@ -285,5 +286,13 @@ public class BaseCountry {
 
   public void setFifa(String fifa) {
     this.fifa = fifa;
+  }
+
+  public Car getCar() {
+    return car;
+  }
+
+  public void setCar(Car car) {
+    this.car = car;
   }
 }
