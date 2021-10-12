@@ -23,7 +23,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Response;
 
 @Controller("v3/")
-public class CountryControllerV3 {
+public class CountryControllerV3 extends ControllerHelper {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
@@ -225,7 +225,7 @@ public class CountryControllerV3 {
   }
 
   private List<String> getExcludedFields(List<String> fields) {
-    List<String> excludedFields = new ArrayList<>(Arrays.asList(COUNTRY_FIELDS));
+    List<String> excludedFields = new ArrayList<>(Arrays.asList(V3_COUNTRY_FIELDS));
     excludedFields.removeAll(fields);
     return excludedFields;
   }
@@ -260,38 +260,6 @@ public class CountryControllerV3 {
     excludedFields.forEach(jsonObject::remove);
     return jsonObject.toString();
   }
-
-  private static final String[] COUNTRY_FIELDS = new String[]{
-      "name",
-      "tld",
-      "cca2",
-      "ccn3",
-      "cca3",
-      "cioc",
-      "independent",
-      "status",
-      "unMember",
-      "currencies",
-      "idd",
-      "capital",
-      "altSpellings",
-      "region",
-      "subregion",
-      "languages",
-      "translations",
-      "latlng",
-      "landlocked",
-      "borders",
-      "area",
-      "flags",
-      "demonyms",
-      "population",
-      "flags",
-      "flag",
-      "maps",
-      "population",
-      "gini"
-  };
 
   private boolean isEmpty(String value) {
     return value == null || value.isEmpty();

@@ -25,6 +25,9 @@ You can check the [FIELDS.md](FIELDS.md) file to get a description for each fiel
 # Changelog
 ### General
 - Netherlands' population fixed
+- Added `fifa` codes
+- Added country's driving side
+- Added country Distinguishing (oval) sign
 ### V3
 - Added population
 ### V3.1
@@ -44,7 +47,15 @@ Currently there are 3 versions:
   "png": "https://restcountries.com/data/png/per.png"
 }
 ```
+## Using this Project
 
+- [Famosos](https://famosos.com)
+- [Cultural Care](https://www.culturalcare.world/)
+- [Covidata](https://worldcovidata.com/)
+- [Asendia](https://tracking.asendia.com)
+- [Picker](https://mwb.pickerexpress.com/#/login)
+
+#Endpoints
 Below are described the REST endpoints available that you can use to search for countries
 
 ## All
@@ -394,9 +405,6 @@ https://restcountries.com/v2/{service}?fields={field},{field},{field}
 ``` html
 https://restcountries.com/v2/all?fields=name,capital,currencies
 ```
-## Using this Project
-
-- [Nations24](https://nations24.com)
 
 ## Similar projects
 * [REST Countries] (original project)

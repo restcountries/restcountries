@@ -7,17 +7,24 @@ Get information about countries via a RESTful API
 
 New in Version 3
 -
-Version 3 uses [this] project to get the country's structure and adds a couple of new features:
+Version 3 and 3.1 uses [this] project to get the country's structure and adds a couple of new features:
 
 - Search by translations
 - Search by language's name (not just language code)
 - Search by currency's name (not just currency code)
 - Turning back from V2 to V3: continent to region and region to subregion
 - Population
+- Fifa code
+- Added country's driving side
+- Added country Distinguishing (oval) sign
 
 In addition to those features, I added the flags (svg and png) to each country. 
 
-In version 3 you get:
+V3 vs V3.1
+-
+The only difference between v3 and v3.1 is
+
+V3:
 
 ```json
 "flags": [
@@ -25,7 +32,7 @@ In version 3 you get:
   "https://restcountries.com/data/png/per.png"
 ]
 ``` 
-In version 3.1 you get:
+V3.1:
 
 ```json
 "flags": {
@@ -40,7 +47,7 @@ The structure has been reverted to its original form from the [Original Project]
 
 Donate!
 ---------------
-We're getting about 1.6 millions hits each day and that means also bandwidth (24 GB per day!) so
+We're getting about 1.6 millions hits each day and that means also bandwidth (25 GB per day!) so
 costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's
 bills, you're welcome to [donate] or you can also
 [buy me a coffee](https://www.buymeacoffee.com/amatos).
@@ -52,6 +59,8 @@ This project is used by
 - [Famosos](https://famosos.com)
 - [Cultural Care](https://www.culturalcare.world/)
 - [Covidata](https://worldcovidata.com/)
+- [Asendia](https://tracking.asendia.com)
+- [Picker](https://mwb.pickerexpress.com/#/login)
 
 Original RESTCountries project has over 1200 users, including:
 
