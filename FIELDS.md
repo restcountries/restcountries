@@ -11,6 +11,8 @@ In this table you can find the fields of the different API versions, extra infor
 | borders                | v  | v  |  v   | Border countries |
 | callingCodes / idd     | v  | v  |  v   | International dialing codes |
 | capital                | v  | v  |  v   | Capital cities) |
+| car > signs            |    |    |  v   | Car distinguised (oval) sign |
+| car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
 | currencies             | v  | v  |  v   | List of all currencies |
 | demonym                | v  |    |      | Inhabitants of the country |

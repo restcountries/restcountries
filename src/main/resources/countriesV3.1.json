@@ -166,7 +166,11 @@
 			"googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [],
+			"side": ""
+		}
 	},
 	{
 		"name": {
@@ -348,7 +352,13 @@
 			"googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/303427"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AFG"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -521,6 +531,12 @@
 		},
 		"gini": {
 			"2018": 51.3
+		},
+		"car": {
+			"signs": [
+				"ANG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -685,7 +701,13 @@
 			"googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -852,7 +874,13 @@
 			"googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -1026,6 +1054,12 @@
 		},
 		"gini": {
 			"2017": 33.2
+		},
+		"car": {
+			"signs": [
+				"AL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -1195,7 +1229,13 @@
 			"googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/9407"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AND"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -1367,6 +1407,12 @@
 		},
 		"gini": {
 			"2018": 26
+		},
+		"car": {
+			"signs": [
+				"UAE"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -1546,6 +1592,12 @@
 		},
 		"gini": {
 			"2019": 42.9
+		},
+		"car": {
+			"signs": [
+				"RA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -1720,6 +1772,12 @@
 		},
 		"gini": {
 			"2019": 29.9
+		},
+		"car": {
+			"signs": [
+				"AM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -1892,7 +1950,13 @@
 			"googleMaps": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177187"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -2040,7 +2104,13 @@
 			"googleMaps": "https://goo.gl/maps/kyBuJriu4itiXank7",
 			"openStreetMaps": "https://www.openstreetmap.org/node/36966060"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -2205,7 +2275,13 @@
 			"googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -2369,7 +2445,13 @@
 			"googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536900"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AG"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -2535,6 +2617,12 @@
 		},
 		"gini": {
 			"2014": 34.4
+		},
+		"car": {
+			"signs": [
+				"AUS"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -2712,6 +2800,12 @@
 		},
 		"gini": {
 			"2018": 30.8
+		},
+		"car": {
+			"signs": [
+				"A"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -2891,6 +2985,12 @@
 		},
 		"gini": {
 			"2005": 26.6
+		},
+		"car": {
+			"signs": [
+				"AZ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -3069,6 +3169,12 @@
 		},
 		"gini": {
 			"2013": 38.6
+		},
+		"car": {
+			"signs": [
+				"RU"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -3258,6 +3364,12 @@
 		},
 		"gini": {
 			"2018": 27.2
+		},
+		"car": {
+			"signs": [
+				"B"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -3431,6 +3543,12 @@
 		},
 		"gini": {
 			"2015": 47.8
+		},
+		"car": {
+			"signs": [
+				"DY"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -3604,6 +3722,12 @@
 		},
 		"gini": {
 			"2014": 35.3
+		},
+		"car": {
+			"signs": [
+				"BF"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -3775,6 +3899,12 @@
 		},
 		"gini": {
 			"2016": 32.4
+		},
+		"car": {
+			"signs": [
+				"BD"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -3949,6 +4079,12 @@
 		},
 		"gini": {
 			"2018": 41.3
+		},
+		"car": {
+			"signs": [
+				"BG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -4115,7 +4251,13 @@
 			"googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/378734"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"BRN"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -4284,7 +4426,13 @@
 			"googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547469"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"BS"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -4466,6 +4614,12 @@
 		},
 		"gini": {
 			"2011": 33
+		},
+		"car": {
+			"signs": [
+				"BIH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -4633,7 +4787,13 @@
 			"googleMaps": "https://goo.gl/maps/Mc7GqH466S7AAk297",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7552779"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -4804,7 +4964,13 @@
 			"googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -4985,6 +5151,12 @@
 		},
 		"gini": {
 			"2019": 25.3
+		},
+		"car": {
+			"signs": [
+				"BY"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -5164,6 +5336,12 @@
 		},
 		"gini": {
 			"1999": 53.3
+		},
+		"car": {
+			"signs": [
+				"BH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -5331,7 +5509,13 @@
 			"googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -5526,6 +5710,12 @@
 		},
 		"gini": {
 			"2019": 41.6
+		},
+		"car": {
+			"signs": [
+				"BOL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -5697,7 +5887,13 @@
 			"googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -5877,6 +6073,12 @@
 		},
 		"gini": {
 			"2019": 53.4
+		},
+		"car": {
+			"signs": [
+				"BR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -6041,7 +6243,13 @@
 			"googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547511"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"BDS"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -6214,7 +6422,13 @@
 			"googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"BRU"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -6388,6 +6602,12 @@
 		},
 		"gini": {
 			"2017": 37.4
+		},
+		"car": {
+			"signs": [
+				"BHT"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -6547,7 +6767,13 @@
 			"googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
 			"openStreetMaps": "https://www.openstreetmap.org/way/174996681"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -6725,6 +6951,12 @@
 		},
 		"gini": {
 			"2015": 53.3
+		},
+		"car": {
+			"signs": [
+				"BW"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -6905,6 +7137,12 @@
 		},
 		"gini": {
 			"2008": 56.2
+		},
+		"car": {
+			"signs": [
+				"RCA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -7078,6 +7316,12 @@
 		},
 		"gini": {
 			"2017": 33.3
+		},
+		"car": {
+			"signs": [
+				"CDN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -7244,7 +7488,13 @@
 			"googleMaps": "https://goo.gl/maps/3eCdKVpVfMcZyKcK6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/82636"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AUS"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -7436,6 +7686,12 @@
 		},
 		"gini": {
 			"2018": 33.1
+		},
+		"car": {
+			"signs": [
+				"CH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -7608,6 +7864,12 @@
 		},
 		"gini": {
 			"2017": 44.4
+		},
+		"car": {
+			"signs": [
+				"RCH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -7797,6 +8059,12 @@
 		},
 		"gini": {
 			"2016": 38.5
+		},
+		"car": {
+			"signs": [
+				"RC"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -7973,6 +8241,12 @@
 		},
 		"gini": {
 			"2015": 41.5
+		},
+		"car": {
+			"signs": [
+				"CI"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -8153,6 +8427,12 @@
 		},
 		"gini": {
 			"2014": 46.6
+		},
+		"car": {
+			"signs": [
+				"CAM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -8353,6 +8633,12 @@
 		},
 		"gini": {
 			"2012": 42.1
+		},
+		"car": {
+			"signs": [
+				"CGO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -8537,6 +8823,12 @@
 		},
 		"gini": {
 			"2011": 48.9
+		},
+		"car": {
+			"signs": [
+				"RCB"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -8711,7 +9003,13 @@
 			"googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"NZ"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -8885,6 +9183,12 @@
 		},
 		"gini": {
 			"2019": 51.3
+		},
+		"car": {
+			"signs": [
+				"CO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -9065,6 +9369,12 @@
 		},
 		"gini": {
 			"2014": 45.3
+		},
+		"car": {
+			"signs": [
+				"COM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -9233,6 +9543,12 @@
 		},
 		"gini": {
 			"2015": 42.4
+		},
+		"car": {
+			"signs": [
+				"CV"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -9404,6 +9720,12 @@
 		},
 		"gini": {
 			"2019": 48.2
+		},
+		"car": {
+			"signs": [
+				"CR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -9574,7 +9896,13 @@
 			"googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307833"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"C"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -9745,7 +10073,13 @@
 			"googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"CW"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -9910,7 +10244,13 @@
 			"googleMaps": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/6365444"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AUS"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -10074,7 +10414,13 @@
 			"googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -10250,6 +10596,12 @@
 		},
 		"gini": {
 			"2018": 32.7
+		},
+		"car": {
+			"signs": [
+				"CY"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -10428,6 +10780,12 @@
 		},
 		"gini": {
 			"2018": 25
+		},
+		"car": {
+			"signs": [
+				"CZ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -10606,6 +10964,12 @@
 		},
 		"gini": {
 			"2016": 31.9
+		},
+		"car": {
+			"signs": [
+				"DY"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -10787,6 +11151,12 @@
 		},
 		"gini": {
 			"2017": 41.6
+		},
+		"car": {
+			"signs": [
+				"DJI"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -10954,7 +11324,13 @@
 			"googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307823"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"WD"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -11125,6 +11501,12 @@
 		},
 		"gini": {
 			"2018": 28.2
+		},
+		"car": {
+			"signs": [
+				"DK"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -11295,6 +11677,12 @@
 		},
 		"gini": {
 			"2019": 41.9
+		},
+		"car": {
+			"signs": [
+				"DOM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -11472,6 +11860,12 @@
 		},
 		"gini": {
 			"2011": 27.6
+		},
+		"car": {
+			"signs": [
+				"DZ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -11643,6 +12037,12 @@
 		},
 		"gini": {
 			"2019": 45.7
+		},
+		"car": {
+			"signs": [
+				"EC"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -11816,6 +12216,12 @@
 		},
 		"gini": {
 			"2017": 31.5
+		},
+		"car": {
+			"signs": [
+				"ET"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -11999,7 +12405,13 @@
 			"googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/296961"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"ER"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -12187,7 +12599,13 @@
 			"googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/5441968"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -12361,6 +12779,12 @@
 		},
 		"gini": {
 			"2018": 34.7
+		},
+		"car": {
+			"signs": [
+				"E"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -12533,6 +12957,12 @@
 		},
 		"gini": {
 			"2018": 30.3
+		},
+		"car": {
+			"signs": [
+				"EST"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -12709,6 +13139,12 @@
 		},
 		"gini": {
 			"2015": 35
+		},
+		"car": {
+			"signs": [
+				"ETH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -12888,6 +13324,12 @@
 		},
 		"gini": {
 			"2018": 27.3
+		},
+		"car": {
+			"signs": [
+				"FIN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -13068,6 +13510,12 @@
 		},
 		"gini": {
 			"2013": 36.7
+		},
+		"car": {
+			"signs": [
+				"FJI"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -13234,7 +13682,13 @@
 			"googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -13411,6 +13865,12 @@
 		},
 		"gini": {
 			"2018": 32.4
+		},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -13586,7 +14046,13 @@
 			"googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/52939"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"FO"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -13754,6 +14220,12 @@
 		},
 		"gini": {
 			"2013": 40.1
+		},
+		"car": {
+			"signs": [
+				"FSM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -13926,6 +14398,12 @@
 		},
 		"gini": {
 			"2017": 38
+		},
+		"car": {
+			"signs": [
+				"G"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -14096,6 +14574,12 @@
 		},
 		"gini": {
 			"2017": 35.1
+		},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -14268,6 +14752,12 @@
 		},
 		"gini": {
 			"2019": 35.9
+		},
+		"car": {
+			"signs": [
+				"GE"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -14448,7 +14938,13 @@
 			"googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/270009"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GBG"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -14618,6 +15114,12 @@
 		},
 		"gini": {
 			"2016": 43.5
+		},
+		"car": {
+			"signs": [
+				"GH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -14784,7 +15286,13 @@
 			"googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GBZ"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -14959,6 +15467,12 @@
 		},
 		"gini": {
 			"2012": 33.7
+		},
+		"car": {
+			"signs": [
+				"RG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -15124,7 +15638,13 @@
 			"googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -15293,6 +15813,12 @@
 		},
 		"gini": {
 			"2015": 35.9
+		},
+		"car": {
+			"signs": [
+				"WAG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -15469,6 +15995,12 @@
 		},
 		"gini": {
 			"2010": 50.7
+		},
+		"car": {
+			"signs": [
+				"RGB"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -15650,7 +16182,13 @@
 			"googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192791"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GQ"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -15824,6 +16362,12 @@
 		},
 		"gini": {
 			"2018": 32.9
+		},
+		"car": {
+			"signs": [
+				"GR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -15988,7 +16532,13 @@
 			"googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/550727"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"WG"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -16153,7 +16703,13 @@
 			"googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"DK"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -16324,6 +16880,12 @@
 		},
 		"gini": {
 			"2014": 48.3
+		},
+		"car": {
+			"signs": [
+				"GCA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -16493,7 +17055,13 @@
 			"googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -16668,7 +17236,13 @@
 			"googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/306001"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -16839,6 +17413,12 @@
 		},
 		"gini": {
 			"1998": 45.1
+		},
+		"car": {
+			"signs": [
+				"GUY"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -17007,7 +17587,13 @@
 			"googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/913110"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"HK"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -17164,7 +17750,13 @@
 			"googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2177227"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -17336,6 +17928,12 @@
 		},
 		"gini": {
 			"2019": 48.2
+		},
+		"car": {
+			"signs": [
+				"HN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -17511,6 +18109,12 @@
 		},
 		"gini": {
 			"2018": 29.7
+		},
+		"car": {
+			"signs": [
+				"HR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -17687,6 +18291,12 @@
 		},
 		"gini": {
 			"2012": 41.1
+		},
+		"car": {
+			"signs": [
+				"RH"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -17861,6 +18471,12 @@
 		},
 		"gini": {
 			"2018": 29.6
+		},
+		"car": {
+			"signs": [
+				"H"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -18033,6 +18649,12 @@
 		},
 		"gini": {
 			"2019": 38.2
+		},
+		"car": {
+			"signs": [
+				"RI"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -18209,7 +18831,13 @@
 			"googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/62269"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GBM"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -18396,6 +19024,12 @@
 		},
 		"gini": {
 			"2011": 35.7
+		},
+		"car": {
+			"signs": [
+				"IND"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -18560,7 +19194,13 @@
 			"googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -18736,6 +19376,12 @@
 		},
 		"gini": {
 			"2017": 31.4
+		},
+		"car": {
+			"signs": [
+				"IRL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -18910,6 +19556,12 @@
 		},
 		"gini": {
 			"2018": 42
+		},
+		"car": {
+			"signs": [
+				"IR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -19095,6 +19747,12 @@
 		},
 		"gini": {
 			"2012": 29.5
+		},
+		"car": {
+			"signs": [
+				"IRQ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -19264,6 +19922,12 @@
 		},
 		"gini": {
 			"2017": 26.1
+		},
+		"car": {
+			"signs": [
+				"IS"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -19443,6 +20107,12 @@
 		},
 		"gini": {
 			"2016": 39
+		},
+		"car": {
+			"signs": [
+				"IL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -19618,6 +20288,12 @@
 		},
 		"gini": {
 			"2017": 35.9
+		},
+		"car": {
+			"signs": [
+				"I"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -19789,6 +20465,12 @@
 		},
 		"gini": {
 			"2004": 45.5
+		},
+		"car": {
+			"signs": [
+				"JA"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -19970,7 +20652,13 @@
 			"googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/367988"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GBJ"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -20145,6 +20833,12 @@
 		},
 		"gini": {
 			"2010": 33.7
+		},
+		"car": {
+			"signs": [
+				"HKJ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -20314,6 +21008,12 @@
 		},
 		"gini": {
 			"2013": 32.9
+		},
+		"car": {
+			"signs": [
+				"J"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -20500,6 +21200,12 @@
 		},
 		"gini": {
 			"2018": 27.8
+		},
+		"car": {
+			"signs": [
+				"KZ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -20679,6 +21385,12 @@
 		},
 		"gini": {
 			"2015": 40.8
+		},
+		"car": {
+			"signs": [
+				"EAK"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -20859,6 +21571,12 @@
 		},
 		"gini": {
 			"2019": 29.7
+		},
+		"car": {
+			"signs": [
+				"KS"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -21032,7 +21750,13 @@
 			"googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/49898"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"K"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -21209,6 +21933,12 @@
 		},
 		"gini": {
 			"2006": 37
+		},
+		"car": {
+			"signs": [
+				"KIR"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -21374,7 +22104,13 @@
 			"googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536899"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"KN"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -21547,6 +22283,12 @@
 		},
 		"gini": {
 			"2016": 31.4
+		},
+		"car": {
+			"signs": [
+				"ROK"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -21718,6 +22460,12 @@
 		},
 		"gini": {
 			"2017": 29
+		},
+		"car": {
+			"signs": [
+				"CS"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -21887,7 +22635,13 @@
 			"googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305099"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"KWT"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -22062,6 +22816,12 @@
 		},
 		"gini": {
 			"2018": 38.8
+		},
+		"car": {
+			"signs": [
+				"LAO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -22238,6 +22998,12 @@
 		},
 		"gini": {
 			"2011": 31.8
+		},
+		"car": {
+			"signs": [
+				"RL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -22409,6 +23175,12 @@
 		},
 		"gini": {
 			"2016": 35.3
+		},
+		"car": {
+			"signs": [
+				"LB"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -22582,7 +23354,13 @@
 			"googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
 			"openStreetMaps": "openstreetmap.org/relation/192758"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"LAR"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -22748,6 +23526,12 @@
 		},
 		"gini": {
 			"2016": 51.2
+		},
+		"car": {
+			"signs": [
+				"WL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -22917,7 +23701,13 @@
 			"googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"FL"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -23094,6 +23884,12 @@
 		},
 		"gini": {
 			"2016": 39.3
+		},
+		"car": {
+			"signs": [
+				"CL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -23273,6 +24069,12 @@
 		},
 		"gini": {
 			"2017": 44.9
+		},
+		"car": {
+			"signs": [
+				"LS"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -23446,6 +24248,12 @@
 		},
 		"gini": {
 			"2018": 35.7
+		},
+		"car": {
+			"signs": [
+				"LT"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -23630,6 +24438,12 @@
 		},
 		"gini": {
 			"2018": 35.4
+		},
+		"car": {
+			"signs": [
+				"L"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -23803,6 +24617,12 @@
 		},
 		"gini": {
 			"2018": 35.1
+		},
+		"car": {
+			"signs": [
+				"LV"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -23973,7 +24793,13 @@
 			"googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"MO"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -24143,7 +24969,13 @@
 			"googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/63064"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -24321,6 +25153,12 @@
 		},
 		"gini": {
 			"2013": 39.5
+		},
+		"car": {
+			"signs": [
+				"MA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -24489,7 +25327,13 @@
 			"googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"MC"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -24661,6 +25505,12 @@
 		},
 		"gini": {
 			"2018": 25.7
+		},
+		"car": {
+			"signs": [
+				"MD"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -24835,6 +25685,12 @@
 		},
 		"gini": {
 			"2012": 42.6
+		},
+		"car": {
+			"signs": [
+				"RM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -25004,6 +25860,12 @@
 		},
 		"gini": {
 			"2016": 31.3
+		},
+		"car": {
+			"signs": [
+				"MV"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -25177,6 +26039,12 @@
 		},
 		"gini": {
 			"2018": 45.4
+		},
+		"car": {
+			"signs": [
+				"MEX"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -25348,7 +26216,13 @@
 			"googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571771"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"MH"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -25524,6 +26398,12 @@
 		},
 		"gini": {
 			"2018": 33
+		},
+		"car": {
+			"signs": [
+				"MK"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -25700,6 +26580,12 @@
 		},
 		"gini": {
 			"2009": 33
+		},
+		"car": {
+			"signs": [
+				"RMM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -25873,6 +26759,12 @@
 		},
 		"gini": {
 			"2018": 28.7
+		},
+		"car": {
+			"signs": [
+				"M"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -26048,6 +26940,12 @@
 		},
 		"gini": {
 			"2017": 30.7
+		},
+		"car": {
+			"signs": [
+				"BUR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -26221,6 +27119,12 @@
 		},
 		"gini": {
 			"2016": 38.5
+		},
+		"car": {
+			"signs": [
+				"SCG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -26390,6 +27294,12 @@
 		},
 		"gini": {
 			"2018": 32.7
+		},
+		"car": {
+			"signs": [
+				"MGL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -26566,7 +27476,13 @@
 			"googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/306004"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -26741,6 +27657,12 @@
 		},
 		"gini": {
 			"2014": 54
+		},
+		"car": {
+			"signs": [
+				"MOC"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -26914,6 +27836,12 @@
 		},
 		"gini": {
 			"2014": 32.6
+		},
+		"car": {
+			"signs": [
+				"RIM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -27078,7 +28006,13 @@
 			"googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/537257"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -27242,7 +28176,13 @@
 			"googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -27420,6 +28360,12 @@
 		},
 		"gini": {
 			"2017": 36.8
+		},
+		"car": {
+			"signs": [
+				"MS"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -27596,6 +28542,12 @@
 		},
 		"gini": {
 			"2016": 44.7
+		},
+		"car": {
+			"signs": [
+				"MW"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -27771,6 +28723,12 @@
 		},
 		"gini": {
 			"2015": 41.1
+		},
+		"car": {
+			"signs": [
+				"MAL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -27937,7 +28895,13 @@
 			"googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1259885"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -28154,6 +29118,12 @@
 		},
 		"gini": {
 			"2015": 59.1
+		},
+		"car": {
+			"signs": [
+				"NAM"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -28318,7 +29288,13 @@
 			"googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3407643"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -28493,6 +29469,12 @@
 		},
 		"gini": {
 			"2014": 34.3
+		},
+		"car": {
+			"signs": [
+				"RN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -28664,7 +29646,13 @@
 			"googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2574988"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"AUS"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -28838,6 +29826,12 @@
 		},
 		"gini": {
 			"2018": 35.1
+		},
+		"car": {
+			"signs": [
+				"WAN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -29009,6 +30003,12 @@
 		},
 		"gini": {
 			"2014": 46.2
+		},
+		"car": {
+			"signs": [
+				"NIC"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -29178,7 +30178,13 @@
 			"googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"NZ"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -29350,6 +30356,12 @@
 		},
 		"gini": {
 			"2018": 28.1
+		},
+		"car": {
+			"signs": [
+				"NL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -29535,6 +30547,12 @@
 		},
 		"gini": {
 			"2018": 27.6
+		},
+		"car": {
+			"signs": [
+				"N"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -29706,6 +30724,12 @@
 		},
 		"gini": {
 			"2010": 32.8
+		},
+		"car": {
+			"signs": [
+				"NEP"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -29881,6 +30905,12 @@
 		},
 		"gini": {
 			"2012": 34.8
+		},
+		"car": {
+			"signs": [
+				"NAU"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -30056,7 +31086,13 @@
 			"googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"NZ"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -30226,7 +31262,13 @@
 			"googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305138"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"OM"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -30405,6 +31447,12 @@
 		},
 		"gini": {
 			"2018": 31.6
+		},
+		"car": {
+			"signs": [
+				"PK"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -30580,6 +31628,12 @@
 		},
 		"gini": {
 			"2019": 49.8
+		},
+		"car": {
+			"signs": [
+				"PA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -30746,7 +31800,13 @@
 			"googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -30930,6 +31990,12 @@
 		},
 		"gini": {
 			"2019": 41.5
+		},
+		"car": {
+			"signs": [
+				"PE"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -31103,6 +32169,12 @@
 		},
 		"gini": {
 			"2018": 42.3
+		},
+		"car": {
+			"signs": [
+				"RP"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -31274,7 +32346,13 @@
 			"googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/571805"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"PAL"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -31454,6 +32532,12 @@
 		},
 		"gini": {
 			"2009": 41.9
+		},
+		"car": {
+			"signs": [
+				"PNG"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -31630,6 +32714,12 @@
 		},
 		"gini": {
 			"2018": 30.2
+		},
+		"car": {
+			"signs": [
+				"PL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -31802,7 +32892,13 @@
 			"googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -31977,7 +33073,13 @@
 			"googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/192734"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -32148,6 +33250,12 @@
 		},
 		"gini": {
 			"2018": 33.5
+		},
+		"car": {
+			"signs": [
+				"P"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -32326,6 +33434,12 @@
 		},
 		"gini": {
 			"2019": 45.7
+		},
+		"car": {
+			"signs": [
+				"PY"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -32508,6 +33622,12 @@
 		},
 		"gini": {
 			"2016": 33.7
+		},
+		"car": {
+			"signs": [
+				"PS"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -32675,7 +33795,13 @@
 			"googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -32844,7 +33970,13 @@
 			"googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/305095"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"Q"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -33009,7 +34141,13 @@
 			"googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -33184,6 +34322,12 @@
 		},
 		"gini": {
 			"2018": 35.8
+		},
+		"car": {
+			"signs": [
+				"RO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -33373,6 +34517,12 @@
 		},
 		"gini": {
 			"2018": 37.5
+		},
+		"car": {
+			"signs": [
+				"RUS"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -33557,6 +34707,12 @@
 		},
 		"gini": {
 			"2016": 43.7
+		},
+		"car": {
+			"signs": [
+				"RWA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -33733,7 +34889,13 @@
 			"googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/307584"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"SA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -33914,6 +35076,12 @@
 		},
 		"gini": {
 			"2014": 34.2
+		},
+		"car": {
+			"signs": [
+				"SUD"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -34088,6 +35256,12 @@
 		},
 		"gini": {
 			"2011": 40.3
+		},
+		"car": {
+			"signs": [
+				"SN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -34268,7 +35442,13 @@
 			"googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/536780"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"SGP"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -34433,7 +35613,13 @@
 			"googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -34598,7 +35784,13 @@
 			"googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1337397"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"N"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -34764,6 +35956,12 @@
 		},
 		"gini": {
 			"2012": 37.1
+		},
+		"car": {
+			"signs": [
+				"SOL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -34934,6 +36132,12 @@
 		},
 		"gini": {
 			"2018": 35.7
+		},
+		"car": {
+			"signs": [
+				"WAL"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -35105,6 +36309,12 @@
 		},
 		"gini": {
 			"2019": 38.8
+		},
+		"car": {
+			"signs": [
+				"ES"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -35273,7 +36483,13 @@
 			"googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/54624"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"RSM"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -35452,6 +36668,12 @@
 		},
 		"gini": {
 			"2017": 36.8
+		},
+		"car": {
+			"signs": [
+				"SO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -35617,7 +36839,13 @@
 			"googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -35797,6 +37025,12 @@
 		},
 		"gini": {
 			"2017": 36.2
+		},
+		"car": {
+			"signs": [
+				"SRB"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -35970,6 +37204,12 @@
 		},
 		"gini": {
 			"2016": 44.1
+		},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -36139,6 +37379,12 @@
 		},
 		"gini": {
 			"2017": 56.3
+		},
+		"car": {
+			"signs": [
+				"STP"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -36313,6 +37559,12 @@
 		},
 		"gini": {
 			"1999": 57.9
+		},
+		"car": {
+			"signs": [
+				"SME"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -36487,6 +37739,12 @@
 		},
 		"gini": {
 			"2018": 25
+		},
+		"car": {
+			"signs": [
+				"SK"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -36660,6 +37918,12 @@
 		},
 		"gini": {
 			"2018": 24.6
+		},
+		"car": {
+			"signs": [
+				"SLO"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -36831,6 +38095,12 @@
 		},
 		"gini": {
 			"2018": 30
+		},
+		"car": {
+			"signs": [
+				"S"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -37015,6 +38285,12 @@
 		},
 		"gini": {
 			"2016": 54.6
+		},
+		"car": {
+			"signs": [
+				"SD"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -37192,7 +38468,13 @@
 			"googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"SX"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -37371,6 +38653,12 @@
 		},
 		"gini": {
 			"2018": 32.1
+		},
+		"car": {
+			"signs": [
+				"SY"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -37546,6 +38834,12 @@
 		},
 		"gini": {
 			"2003": 37.5
+		},
+		"car": {
+			"signs": [
+				"SYR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -37710,7 +39004,13 @@
 			"googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/547479"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"GB"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -37891,6 +39191,13 @@
 		},
 		"gini": {
 			"2011": 43.3
+		},
+		"car": {
+			"signs": [
+				"TCH",
+				"TD"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -38064,6 +39371,12 @@
 		},
 		"gini": {
 			"2015": 43.1
+		},
+		"car": {
+			"signs": [
+				"TG"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -38241,6 +39554,12 @@
 		},
 		"gini": {
 			"2019": 34.9
+		},
+		"car": {
+			"signs": [
+				"T"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -38421,6 +39740,12 @@
 		},
 		"gini": {
 			"2015": 34
+		},
+		"car": {
+			"signs": [
+				"TJ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -38595,7 +39920,13 @@
 			"googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -38771,6 +40102,12 @@
 		},
 		"gini": {
 			"1998": 40.8
+		},
+		"car": {
+			"signs": [
+				"TM"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -38950,6 +40287,12 @@
 		},
 		"gini": {
 			"2014": 28.7
+		},
+		"car": {
+			"signs": [
+				"TL"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -39121,6 +40464,12 @@
 		},
 		"gini": {
 			"2015": 37.6
+		},
+		"car": {
+			"signs": [
+				"TO"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -39288,6 +40637,12 @@
 		},
 		"gini": {
 			"1992": 40.3
+		},
+		"car": {
+			"signs": [
+				"TT"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -39459,6 +40814,12 @@
 		},
 		"gini": {
 			"2015": 32.8
+		},
+		"car": {
+			"signs": [
+				"TN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -39637,6 +40998,12 @@
 		},
 		"gini": {
 			"2019": 41.9
+		},
+		"car": {
+			"signs": [
+				"TR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -39812,6 +41179,12 @@
 		},
 		"gini": {
 			"2010": 39.1
+		},
+		"car": {
+			"signs": [
+				"TUV"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -39979,7 +41352,13 @@
 			"googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/449220"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"RC"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -40162,6 +41541,12 @@
 		},
 		"gini": {
 			"2017": 40.5
+		},
+		"car": {
+			"signs": [
+				"EAT"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -40341,6 +41726,12 @@
 		},
 		"gini": {
 			"2016": 42.8
+		},
+		"car": {
+			"signs": [
+				"EAU"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -40517,6 +41908,12 @@
 		},
 		"gini": {
 			"2019": 26.6
+		},
+		"car": {
+			"signs": [
+				"UA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -40679,7 +42076,13 @@
 			"googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				""
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -40850,6 +42253,12 @@
 		},
 		"gini": {
 			"2019": 39.7
+		},
+		"car": {
+			"signs": [
+				"ROU"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -41337,6 +42746,12 @@
 		},
 		"gini": {
 			"2018": 41.4
+		},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -41517,6 +42932,12 @@
 		},
 		"gini": {
 			"2003": 35.3
+		},
+		"car": {
+			"signs": [
+				"UZ"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -41692,7 +43113,13 @@
 			"googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/36989"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"V"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -41856,7 +43283,13 @@
 			"googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/550725"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"WV"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -42029,6 +43462,12 @@
 		},
 		"gini": {
 			"2006": 44.8
+		},
+		"car": {
+			"signs": [
+				"YV"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -42194,7 +43633,13 @@
 			"googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/285454"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"BVI"
+			],
+			"side": "left"
+		}
 	},
 	{
 		"name": {
@@ -42359,7 +43804,13 @@
 			"googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
 			"openStreetMaps": "openstreetmap.org/relation/286898"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"USA"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -42532,6 +43983,12 @@
 		},
 		"gini": {
 			"2018": 35.7
+		},
+		"car": {
+			"signs": [
+				"VN"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -42711,6 +44168,12 @@
 		},
 		"gini": {
 			"2010": 37.6
+		},
+		"car": {
+			"signs": [
+				"VU"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -42877,7 +44340,13 @@
 			"googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
 			"openStreetMaps": "https://www.openstreetmap.org/relation/3412448"
 		},
-		"gini": {}
+		"gini": {},
+		"car": {
+			"signs": [
+				"F"
+			],
+			"side": "right"
+		}
 	},
 	{
 		"name": {
@@ -43050,6 +44519,12 @@
 		},
 		"gini": {
 			"2013": 38.7
+		},
+		"car": {
+			"signs": [
+				"WS"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -43221,6 +44696,12 @@
 		},
 		"gini": {
 			"2014": 36.7
+		},
+		"car": {
+			"signs": [
+				"YAR"
+			],
+			"side": "right"
 		}
 	},
 	{
@@ -43449,6 +44930,12 @@
 		},
 		"gini": {
 			"2014": 63
+		},
+		"car": {
+			"signs": [
+				"ZA"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -43625,6 +45112,12 @@
 		},
 		"gini": {
 			"2015": 57.1
+		},
+		"car": {
+			"signs": [
+				"RNR"
+			],
+			"side": "left"
 		}
 	},
 	{
@@ -43899,6 +45392,12 @@
 		},
 		"gini": {
 			"2019": 50.3
+		},
+		"car": {
+			"signs": [
+				"ZW"
+			],
+			"side": "left"
 		}
 	}
 ]
