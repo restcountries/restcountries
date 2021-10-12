@@ -170,7 +170,10 @@
 		"car": {
 			"signs": [],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -358,7 +361,10 @@
 				"AFG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04:30"
+		]
 	},
 	{
 		"name": {
@@ -537,7 +543,10 @@
 				"ANG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -707,7 +716,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -880,7 +892,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -1060,7 +1075,10 @@
 				"AL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -1235,7 +1253,10 @@
 				"AND"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -1413,7 +1434,10 @@
 				"UAE"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04"
+		]
 	},
 	{
 		"name": {
@@ -1598,7 +1622,10 @@
 				"RA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-03:00"
+		]
 	},
 	{
 		"name": {
@@ -1778,7 +1805,10 @@
 				"AM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -1956,7 +1986,10 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-11:00"
+		]
 	},
 	{
 		"name": {
@@ -2110,7 +2143,17 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-03:00",
+			"UTC+03:00",
+			"UTC+05:00",
+			"UTC+06:00",
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+10:00",
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -2281,7 +2324,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -2451,7 +2497,10 @@
 				"AG"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -2623,7 +2672,17 @@
 				"AUS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:00",
+			"UTC+06:30",
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:30",
+			"UTC+10:00",
+			"UTC+10:30",
+			"UTC+11:30"
+		]
 	},
 	{
 		"name": {
@@ -2806,7 +2865,10 @@
 				"A"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -2991,7 +3053,10 @@
 				"AZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -3175,7 +3240,10 @@
 				"RU"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -3370,7 +3438,10 @@
 				"B"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -3549,7 +3620,10 @@
 				"DY"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -3728,7 +3802,10 @@
 				"BF"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -3905,7 +3982,10 @@
 				"BD"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -4085,7 +4165,10 @@
 				"BG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -4257,7 +4340,10 @@
 				"BRN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -4432,7 +4518,10 @@
 				"BS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -4620,7 +4709,10 @@
 				"BIH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -4793,7 +4885,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -4970,7 +5065,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -5157,7 +5255,10 @@
 				"BY"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -5342,7 +5443,10 @@
 				"BH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -5515,7 +5619,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -5716,7 +5823,10 @@
 				"BOL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -5893,7 +6003,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -6079,7 +6192,13 @@
 				"BR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00",
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC-02:00"
+		]
 	},
 	{
 		"name": {
@@ -6249,7 +6368,10 @@
 				"BDS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -6428,7 +6550,10 @@
 				"BRU"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -6608,7 +6733,10 @@
 				"BHT"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -6773,7 +6901,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -6957,7 +7088,10 @@
 				"BW"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -7143,7 +7277,10 @@
 				"RCA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -7322,7 +7459,15 @@
 				"CDN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-08:00",
+			"UTC-07:00",
+			"UTC-06:00",
+			"UTC-05:00",
+			"UTC-04:00",
+			"UTC-03:30"
+		]
 	},
 	{
 		"name": {
@@ -7494,7 +7639,10 @@
 				"AUS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+06:30"
+		]
 	},
 	{
 		"name": {
@@ -7692,7 +7840,10 @@
 				"CH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -7870,7 +8021,11 @@
 				"RCH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00",
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -8065,7 +8220,10 @@
 				"RC"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -8247,7 +8405,10 @@
 				"CI"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -8433,7 +8594,10 @@
 				"CAM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -8639,7 +8803,11 @@
 				"CGO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00",
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -8829,7 +8997,10 @@
 				"RCB"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -9009,7 +9180,10 @@
 				"NZ"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-10:00"
+		]
 	},
 	{
 		"name": {
@@ -9189,7 +9363,10 @@
 				"CO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -9375,7 +9552,10 @@
 				"COM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -9549,7 +9729,10 @@
 				"CV"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-01:00"
+		]
 	},
 	{
 		"name": {
@@ -9726,7 +9909,10 @@
 				"CR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -9902,7 +10088,10 @@
 				"C"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -10079,7 +10268,10 @@
 				"CW"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -10250,7 +10442,10 @@
 				"AUS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+07:00"
+		]
 	},
 	{
 		"name": {
@@ -10420,7 +10615,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -10602,7 +10800,10 @@
 				"CY"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -10786,7 +10987,10 @@
 				"CZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -10970,7 +11174,10 @@
 				"DY"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -11157,7 +11364,10 @@
 				"DJI"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -11330,7 +11540,10 @@
 				"WD"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -11507,7 +11720,14 @@
 				"DK"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC-01:00",
+			"UTC",
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -11683,7 +11903,10 @@
 				"DOM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -11866,7 +12089,10 @@
 				"DZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -12043,7 +12269,11 @@
 				"EC"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00",
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -12222,7 +12452,10 @@
 				"ET"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -12411,7 +12644,10 @@
 				"ER"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -12605,7 +12841,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -12785,7 +13024,11 @@
 				"E"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC",
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -12963,7 +13206,10 @@
 				"EST"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -13145,7 +13391,10 @@
 				"ETH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -13330,7 +13579,10 @@
 				"FIN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -13516,7 +13768,10 @@
 				"FJI"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -13688,7 +13943,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -13871,7 +14129,23 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-10:00",
+			"UTC-09:30",
+			"UTC-09:00",
+			"UTC-08:00",
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC+01:00",
+			"UTC+02:00",
+			"UTC+03:00",
+			"UTC+04:00",
+			"UTC+05:00",
+			"UTC+10:00",
+			"UTC+11:00",
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -14052,7 +14326,10 @@
 				"FO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -14226,7 +14503,11 @@
 				"FSM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+10:00",
+			"UTC+11"
+		]
 	},
 	{
 		"name": {
@@ -14404,7 +14685,10 @@
 				"G"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -14580,7 +14864,18 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-08:00",
+			"UTC-05:00",
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC-02:00",
+			"UTC",
+			"UTC+01:00",
+			"UTC+02:00",
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -14758,7 +15053,10 @@
 				"GE"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -14944,7 +15242,10 @@
 				"GBG"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -15120,7 +15421,10 @@
 				"GH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -15292,7 +15596,10 @@
 				"GBZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -15473,7 +15780,10 @@
 				"RG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -15644,7 +15954,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -15819,7 +16132,10 @@
 				"WAG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -16001,7 +16317,10 @@
 				"RGB"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -16188,7 +16507,10 @@
 				"GQ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -16368,7 +16690,10 @@
 				"GR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -16538,7 +16863,10 @@
 				"WG"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -16709,7 +17037,13 @@
 				"DK"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC-01:00",
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -16886,7 +17220,10 @@
 				"GCA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -17061,7 +17398,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-03:00"
+		]
 	},
 	{
 		"name": {
@@ -17242,7 +17582,10 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+10:00"
+		]
 	},
 	{
 		"name": {
@@ -17419,7 +17762,10 @@
 				"GUY"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -17593,7 +17939,10 @@
 				"HK"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -17756,7 +18105,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -17934,7 +18286,10 @@
 				"HN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -18115,7 +18470,10 @@
 				"HR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -18297,7 +18655,10 @@
 				"RH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -18477,7 +18838,10 @@
 				"H"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -18655,7 +19019,12 @@
 				"RI"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -18837,7 +19206,10 @@
 				"GBM"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+00:00"
+		]
 	},
 	{
 		"name": {
@@ -19030,7 +19402,10 @@
 				"IND"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:30"
+		]
 	},
 	{
 		"name": {
@@ -19200,7 +19575,10 @@
 				"GB"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -19382,7 +19760,10 @@
 				"IRL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -19562,7 +19943,10 @@
 				"IR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:30"
+		]
 	},
 	{
 		"name": {
@@ -19753,7 +20137,10 @@
 				"IRQ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -19928,7 +20315,10 @@
 				"IS"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -20113,7 +20503,10 @@
 				"IL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -20294,7 +20687,10 @@
 				"I"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -20471,7 +20867,10 @@
 				"JA"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -20658,7 +21057,10 @@
 				"GBJ"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -20839,7 +21241,10 @@
 				"HKJ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -21014,7 +21419,10 @@
 				"J"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -21206,7 +21614,11 @@
 				"KZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00",
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -21391,7 +21803,10 @@
 				"EAK"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -21577,7 +21992,10 @@
 				"KS"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+06:00"
+		]
 	},
 	{
 		"name": {
@@ -21756,7 +22174,10 @@
 				"K"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+07:00"
+		]
 	},
 	{
 		"name": {
@@ -21939,7 +22360,12 @@
 				"KIR"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+12:00",
+			"UTC+13:00",
+			"UTC+14:00"
+		]
 	},
 	{
 		"name": {
@@ -22110,7 +22536,10 @@
 				"KN"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -22289,7 +22718,10 @@
 				"ROK"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -22466,7 +22898,10 @@
 				"CS"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -22641,7 +23076,10 @@
 				"KWT"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -22822,7 +23260,10 @@
 				"LAO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+07:00"
+		]
 	},
 	{
 		"name": {
@@ -23004,7 +23445,10 @@
 				"RL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -23181,7 +23625,10 @@
 				"LB"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -23360,7 +23807,10 @@
 				"LAR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -23532,7 +23982,10 @@
 				"WL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -23707,7 +24160,10 @@
 				"FL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -23890,7 +24346,10 @@
 				"CL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:30"
+		]
 	},
 	{
 		"name": {
@@ -24075,7 +24534,10 @@
 				"LS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -24254,7 +24716,10 @@
 				"LT"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -24444,7 +24909,10 @@
 				"L"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -24623,7 +25091,10 @@
 				"LV"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -24799,7 +25270,10 @@
 				"MO"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -24975,7 +25449,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -25159,7 +25636,10 @@
 				"MA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -25333,7 +25813,10 @@
 				"MC"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -25511,7 +25994,10 @@
 				"MD"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -25691,7 +26177,10 @@
 				"RM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -25866,7 +26355,10 @@
 				"MV"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -26045,7 +26537,12 @@
 				"MEX"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-08:00",
+			"UTC-07:00",
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -26222,7 +26719,10 @@
 				"MH"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -26404,7 +26904,10 @@
 				"MK"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -26586,7 +27089,10 @@
 				"RMM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -26765,7 +27271,10 @@
 				"M"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -26946,7 +27455,10 @@
 				"BUR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+06:30"
+		]
 	},
 	{
 		"name": {
@@ -27125,7 +27637,10 @@
 				"SCG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -27300,7 +27815,11 @@
 				"MGL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+07:00",
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -27482,7 +28001,10 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+10:00"
+		]
 	},
 	{
 		"name": {
@@ -27663,7 +28185,10 @@
 				"MOC"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -27842,7 +28367,10 @@
 				"RIM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -28012,7 +28540,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -28182,7 +28713,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -28366,7 +28900,10 @@
 				"MS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -28548,7 +29085,10 @@
 				"MW"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -28729,7 +29269,10 @@
 				"MAL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -28901,7 +29444,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -29124,7 +29670,10 @@
 				"NAM"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -29294,7 +29843,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+11:00"
+		]
 	},
 	{
 		"name": {
@@ -29475,7 +30027,10 @@
 				"RN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -29652,7 +30207,10 @@
 				"AUS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+11:30"
+		]
 	},
 	{
 		"name": {
@@ -29832,7 +30390,10 @@
 				"WAN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -30009,7 +30570,10 @@
 				"NIC"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -30184,7 +30748,10 @@
 				"NZ"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-11:00"
+		]
 	},
 	{
 		"name": {
@@ -30362,7 +30929,11 @@
 				"NL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00",
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -30553,7 +31124,10 @@
 				"N"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -30730,7 +31304,10 @@
 				"NEP"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:45"
+		]
 	},
 	{
 		"name": {
@@ -30911,7 +31488,10 @@
 				"NAU"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -31092,7 +31672,14 @@
 				"NZ"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-11:00",
+			"UTC-10:00",
+			"UTC+12:00",
+			"UTC+12:45",
+			"UTC+13:00"
+		]
 	},
 	{
 		"name": {
@@ -31268,7 +31855,10 @@
 				"OM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -31453,7 +32043,10 @@
 				"PK"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -31634,7 +32227,10 @@
 				"PA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -31806,7 +32402,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-08:00"
+		]
 	},
 	{
 		"name": {
@@ -31996,7 +32595,10 @@
 				"PE"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-05:00"
+		]
 	},
 	{
 		"name": {
@@ -32175,7 +32777,10 @@
 				"RP"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -32352,7 +32957,10 @@
 				"PAL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -32538,7 +33146,10 @@
 				"PNG"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+10:00"
+		]
 	},
 	{
 		"name": {
@@ -32720,7 +33331,10 @@
 				"PL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -32898,7 +33512,10 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -33079,7 +33696,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -33256,7 +33876,11 @@
 				"P"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-01:00",
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -33440,7 +34064,10 @@
 				"PY"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -33628,7 +34255,10 @@
 				"PS"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -33801,7 +34431,12 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-10:00",
+			"UTC-09:30",
+			"UTC-09:00"
+		]
 	},
 	{
 		"name": {
@@ -33976,7 +34611,10 @@
 				"Q"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -34147,7 +34785,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -34328,7 +34969,10 @@
 				"RO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -34523,7 +35167,18 @@
 				"RUS"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00",
+			"UTC+04:00",
+			"UTC+06:00",
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:00",
+			"UTC+10:00",
+			"UTC+11:00",
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -34713,7 +35368,10 @@
 				"RWA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -34895,7 +35553,10 @@
 				"SA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -35082,7 +35743,10 @@
 				"SUD"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -35262,7 +35926,10 @@
 				"SN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -35448,7 +36115,10 @@
 				"SGP"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -35619,7 +36289,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-02:00"
+		]
 	},
 	{
 		"name": {
@@ -35790,7 +36463,10 @@
 				"N"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -35962,7 +36638,10 @@
 				"SOL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+11:00"
+		]
 	},
 	{
 		"name": {
@@ -36138,7 +36817,10 @@
 				"WAL"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -36315,7 +36997,10 @@
 				"ES"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-06:00"
+		]
 	},
 	{
 		"name": {
@@ -36489,7 +37174,10 @@
 				"RSM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -36674,7 +37362,10 @@
 				"SO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -36845,7 +37536,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-03:00"
+		]
 	},
 	{
 		"name": {
@@ -37031,7 +37725,10 @@
 				"SRB"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -37210,7 +37907,10 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -37385,7 +38085,10 @@
 				"STP"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -37565,7 +38268,10 @@
 				"SME"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-03:00"
+		]
 	},
 	{
 		"name": {
@@ -37745,7 +38451,10 @@
 				"SK"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -37924,7 +38633,10 @@
 				"SLO"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -38101,7 +38813,10 @@
 				"S"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -38291,7 +39006,10 @@
 				"SD"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -38474,7 +39192,10 @@
 				"SX"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -38659,7 +39380,10 @@
 				"SY"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+04:00"
+		]
 	},
 	{
 		"name": {
@@ -38840,7 +39564,10 @@
 				"SYR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -39010,7 +39737,10 @@
 				"GB"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -39198,7 +39928,10 @@
 				"TD"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -39377,7 +40110,10 @@
 				"TG"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC"
+		]
 	},
 	{
 		"name": {
@@ -39560,7 +40296,10 @@
 				"T"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+07:00"
+		]
 	},
 	{
 		"name": {
@@ -39746,7 +40485,10 @@
 				"TJ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -39926,7 +40668,10 @@
 				""
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+13:00"
+		]
 	},
 	{
 		"name": {
@@ -40108,7 +40853,10 @@
 				"TM"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -40293,7 +41041,10 @@
 				"TL"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+09:00"
+		]
 	},
 	{
 		"name": {
@@ -40470,7 +41221,10 @@
 				"TO"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+13:00"
+		]
 	},
 	{
 		"name": {
@@ -40643,7 +41397,10 @@
 				"TT"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -40820,7 +41577,10 @@
 				"TN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -41004,7 +41764,10 @@
 				"TR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -41185,7 +41948,10 @@
 				"TUV"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -41358,7 +42124,10 @@
 				"RC"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+08:00"
+		]
 	},
 	{
 		"name": {
@@ -41547,7 +42316,10 @@
 				"EAT"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -41732,7 +42504,10 @@
 				"EAU"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -41914,7 +42689,10 @@
 				"UA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -42082,7 +42860,12 @@
 				""
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-11:00",
+			"UTC-10:00",
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -42259,7 +43042,10 @@
 				"ROU"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-03:00"
+		]
 	},
 	{
 		"name": {
@@ -42752,7 +43538,20 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-12:00",
+			"UTC-11:00",
+			"UTC-10:00",
+			"UTC-09:00",
+			"UTC-08:00",
+			"UTC-07:00",
+			"UTC-06:00",
+			"UTC-05:00",
+			"UTC-04:00",
+			"UTC+10:00",
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -42938,7 +43737,10 @@
 				"UZ"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+05:00"
+		]
 	},
 	{
 		"name": {
@@ -43119,7 +43921,10 @@
 				"V"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+01:00"
+		]
 	},
 	{
 		"name": {
@@ -43289,7 +44094,10 @@
 				"WV"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -43468,7 +44276,10 @@
 				"YV"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -43639,7 +44450,10 @@
 				"BVI"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -43810,7 +44624,10 @@
 				"USA"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC-04:00"
+		]
 	},
 	{
 		"name": {
@@ -43989,7 +44806,10 @@
 				"VN"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+07:00"
+		]
 	},
 	{
 		"name": {
@@ -44174,7 +44994,10 @@
 				"VU"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+11:00"
+		]
 	},
 	{
 		"name": {
@@ -44346,7 +45169,10 @@
 				"F"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+12:00"
+		]
 	},
 	{
 		"name": {
@@ -44525,7 +45351,10 @@
 				"WS"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+13:00"
+		]
 	},
 	{
 		"name": {
@@ -44702,7 +45531,10 @@
 				"YAR"
 			],
 			"side": "right"
-		}
+		},
+		"timezones": [
+			"UTC+03:00"
+		]
 	},
 	{
 		"name": {
@@ -44936,7 +45768,10 @@
 				"ZA"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -45118,7 +45953,10 @@
 				"RNR"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	},
 	{
 		"name": {
@@ -45366,6 +46204,9 @@
 				"ZW"
 			],
 			"side": "left"
-		}
+		},
+		"timezones": [
+			"UTC+02:00"
+		]
 	}
 ]
