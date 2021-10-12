@@ -2753,7 +2753,7 @@
 				"symbol": "kr"
 			}
 		],
-		"demonym": "",
+		"demonym": "Norwegian",
 		"independent": false,
 		"flag": "https://flagcdn.com/bv.svg",
 		"flags": {
@@ -7152,7 +7152,7 @@
 				"symbol": "\u20ac"
 			}
 		],
-		"demonym": "",
+		"demonym": "French Guianan",
 		"independent": false,
 		"flag": "https://flagcdn.com/gf.svg",
 		"flags": {
@@ -10524,7 +10524,7 @@
 				"symbol": "\u20b8"
 			}
 		],
-		",demonym": "Kazakhstani",
+		"demonym": "Kazakhstani",
 		"flag": "https://flagcdn.com/kz.svg",
 		"flags": {
 			"svg": "https://flagcdn.com/kz.svg",
@@ -20552,7 +20552,7 @@
 				"symbol": "\u058f"
 			}
 		],
-		",demonym": "Turkish",
+		"demonym": "Turkish",
 		"flag": "https://flagcdn.com/tr.svg",
 		"flags": {
 			"svg": "https://flagcdn.com/tr.svg",
@@ -21401,7 +21401,7 @@
 				"symbol": "so'm"
 			}
 		],
-		",demonym": "Uzbekistani",
+		"demonym": "Uzbekistani",
 		"flag": "https://flagcdn.com/uz.svg",
 		"flags": {
 			"svg": "https://flagcdn.com/uz.svg",

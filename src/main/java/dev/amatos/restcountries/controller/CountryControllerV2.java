@@ -21,7 +21,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Response;
 
 @Controller("v2/")
-public class CountryController {
+public class CountryControllerV2 {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
