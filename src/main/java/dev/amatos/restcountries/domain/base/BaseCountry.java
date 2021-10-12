@@ -31,6 +31,7 @@ public class BaseCountry {
   private Map<String, String> maps;
   private Integer population;
   private Map<String, Double> gini;
+  private String fifa;
 
   public Name getName() {
     return name;
@@ -276,5 +277,13 @@ public class BaseCountry {
 
   public void setGini(Map<String, Double> gini) {
     this.gini = gini;
+  }
+
+  public String getFifa() {
+    return fifa;
+  }
+
+  public void setFifa(String fifa) {
+    this.fifa = fifa;
   }
 }
