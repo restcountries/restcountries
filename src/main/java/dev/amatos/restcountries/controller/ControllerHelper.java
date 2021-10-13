@@ -34,6 +34,7 @@ public class ControllerHelper {
       "gini",
       "fifa",
       "car",
-      "timezones"
+      "timezones",
+      "continents"
   };
 }

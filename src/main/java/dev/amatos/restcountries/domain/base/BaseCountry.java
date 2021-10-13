@@ -35,6 +35,7 @@ public class BaseCountry {
   private String fifa;
   private Car car;
   private List<String> timezones;
+  private List<String> continents;
 
   public Name getName() {
     return name;
@@ -304,5 +305,13 @@ public class BaseCountry {
 
   public void setTimezones(List<String> timezones) {
     this.timezones = timezones;
+  }
+
+  public List<String> getContinents() {
+    return continents;
+  }
+
+  public void setContinents(List<String> continents) {
+    this.continents = continents;
   }
 }

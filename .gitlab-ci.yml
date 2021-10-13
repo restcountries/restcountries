@@ -5,20 +5,14 @@ variables:
 image: adoptopenjdk/openjdk14:alpine-slim
 
 stages:
-    - test
     - package
     - release
     - run
 
-test:
-  stage: test
-  script:
-    - ./mvnw test
-
 maven-package:
     stage: package
     script:
-        - ./mvnw clean install -DskipTests -Dmaven.repo.local=$MAVEN_USER_HOME
+        - ./mvnw clean install -Dmaven.repo.local=$MAVEN_USER_HOME
     artifacts:
         paths:
             - target/*.jar
