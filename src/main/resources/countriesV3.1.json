@@ -45,6 +45,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"nld": "Dutch",
 			"pap": "Papiamento"
@@ -226,6 +229,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"prs": "Dari",
 			"pus": "Pashto",
@@ -410,6 +416,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -590,6 +599,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -766,6 +778,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"swe": "Swedish"
 		},
@@ -942,6 +957,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"sqi": "Albanian"
 		},
@@ -1124,6 +1142,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"cat": "Catalan"
 		},
@@ -1303,6 +1324,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -1487,6 +1511,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"grn": "Guaran\u00ed",
 			"spa": "Spanish"
@@ -1672,6 +1699,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"hye": "Armenian"
 		},
@@ -1859,6 +1889,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan"
@@ -2019,6 +2052,9 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
+		"continents": [
+			"Antarctica"
+		],
 		"languages": {},
 		"translations": {
 			"ara": {
@@ -2198,6 +2234,9 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
+		"continents": [
+			"Antarctica"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -2371,6 +2410,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -2544,6 +2586,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -2728,6 +2773,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"bar": "Austro-Bavarian German"
 		},
@@ -2918,6 +2966,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"aze": "Azerbaijani",
 			"rus": "Russian"
@@ -3107,6 +3158,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"run": "Kirundi"
@@ -3303,6 +3357,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"deu": "German",
 			"fra": "French",
@@ -3487,6 +3544,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -3667,6 +3727,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -3851,6 +3914,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ben": "Bengali"
 		},
@@ -4031,6 +4097,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"bul": "Bulgarian"
 		},
@@ -4214,6 +4283,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -4392,6 +4464,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -4575,6 +4650,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"bos": "Bosnian",
 			"hrv": "Croatian",
@@ -4759,6 +4837,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -4939,6 +5020,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -5120,6 +5204,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"bel": "Belarusian",
 			"rus": "Russian"
@@ -5310,6 +5397,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"bjz": "Belizean Creole",
 			"eng": "English",
@@ -5493,6 +5583,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -5686,6 +5779,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"aym": "Aymara",
 			"grn": "Guaran\u00ed",
@@ -5875,6 +5971,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"nld": "Dutch",
@@ -6053,6 +6152,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -6242,6 +6344,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -6422,6 +6527,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"msa": "Malay"
 		},
@@ -6602,6 +6710,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"dzo": "Dzongkha"
 		},
@@ -6775,6 +6886,9 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
+		"continents": [
+			"Antarctica"
+		],
 		"languages": {
 			"nor": "Norwegian"
 		},
@@ -6954,6 +7068,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Southern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"tsn": "Tswana"
@@ -7141,6 +7258,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"sag": "Sango"
@@ -7328,6 +7448,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French"
@@ -7513,6 +7636,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -7703,6 +7829,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"fra": "French",
 			"gsw": "Swiss German",
@@ -7889,6 +8018,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -8079,6 +8211,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"zho": "Chinese"
 		},
@@ -8271,6 +8406,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -8458,6 +8596,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French"
@@ -8661,6 +8802,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"kon": "Kikongo",
@@ -8861,6 +9005,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"kon": "Kikongo",
@@ -9053,6 +9200,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"rar": "Cook Islands M\u0101ori"
@@ -9229,6 +9379,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -9422,6 +9575,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French",
@@ -9601,6 +9757,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -9778,6 +9937,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -9962,6 +10124,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -10148,6 +10313,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"nld": "Dutch",
@@ -10316,6 +10484,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -10489,6 +10660,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -10671,6 +10845,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ell": "Greek",
 			"tur": "Turkish"
@@ -10853,6 +11030,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ces": "Czech",
 			"slk": "Slovak"
@@ -11036,6 +11216,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"deu": "German"
 		},
@@ -11231,6 +11414,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -11414,6 +11600,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -11590,6 +11779,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"dan": "Danish"
 		},
@@ -11773,6 +11965,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -11953,6 +12148,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -12138,6 +12336,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -12319,6 +12520,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -12512,6 +12716,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"eng": "English",
@@ -12709,6 +12916,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ber": "Berber",
 			"mey": "Hassaniya",
@@ -12890,6 +13100,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -13075,6 +13288,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"est": "Estonian"
 		},
@@ -13256,6 +13472,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"amh": "Amharic"
 		},
@@ -13446,6 +13665,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"fin": "Finnish",
 			"swe": "Swedish"
@@ -13638,6 +13860,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Melanesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"fij": "Fijian",
@@ -13817,6 +14042,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -13992,6 +14220,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -14199,6 +14430,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"dan": "Danish",
 			"fao": "Faroese"
@@ -14375,6 +14609,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -14553,6 +14790,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -14734,6 +14974,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -14920,6 +15163,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"kat": "Georgian"
 		},
@@ -15114,6 +15360,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -15289,6 +15538,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -15468,6 +15720,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -15645,6 +15900,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -15828,6 +16086,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -16002,6 +16263,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -16185,6 +16449,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"por": "Portuguese",
 			"pov": "Upper Guinea Creole"
@@ -16376,6 +16643,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"por": "Portuguese",
@@ -16557,6 +16827,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ell": "Greek"
 		},
@@ -16737,6 +17010,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -16911,6 +17187,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"kal": "Greenlandic"
 		},
@@ -17087,6 +17366,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -17269,6 +17551,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -17454,6 +17739,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"cha": "Chamorro",
 			"eng": "English",
@@ -17630,6 +17918,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -17814,6 +18105,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English",
 			"zho": "Chinese"
@@ -17979,6 +18273,9 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
+		"continents": [
+			"Antarctica"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -18154,6 +18451,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -18336,6 +18636,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"hrv": "Croatian"
 		},
@@ -18524,6 +18827,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French",
 			"hat": "Haitian Creole"
@@ -18702,6 +19008,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"hun": "Hungarian"
 		},
@@ -18887,6 +19196,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ind": "Indonesian"
 		},
@@ -19079,6 +19391,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English",
 			"glv": "Manx"
@@ -19265,6 +19580,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English",
 			"hin": "Hindi",
@@ -19449,6 +19767,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -19629,6 +19950,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English",
 			"gle": "Irish"
@@ -19811,6 +20135,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"fas": "Persian (Farsi)"
 		},
@@ -20000,6 +20327,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"arc": "Aramaic",
@@ -20187,6 +20517,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"isl": "Icelandic"
 		},
@@ -20368,6 +20701,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"heb": "Hebrew"
@@ -20552,6 +20888,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ita": "Italian"
 		},
@@ -20738,6 +21077,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"jam": "Jamaican Patois"
@@ -20929,6 +21271,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -21107,6 +21452,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -21291,6 +21639,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"jpn": "Japanese"
 		},
@@ -21479,6 +21830,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Central Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"kaz": "Kazakh",
 			"rus": "Russian"
@@ -21668,6 +22022,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -21858,6 +22215,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Central Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"kir": "Kyrgyz",
 			"rus": "Russian"
@@ -22044,6 +22404,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"khm": "Khmer"
 		},
@@ -22231,6 +22594,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"gil": "Gilbertese"
@@ -22410,6 +22776,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -22588,6 +22957,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"kor": "Korean"
 		},
@@ -22768,6 +23140,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"sqi": "Albanian",
 			"srp": "Serbian"
@@ -22947,6 +23322,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -23126,6 +23504,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"lao": "Lao"
 		},
@@ -23313,6 +23694,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -23493,6 +23877,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -23674,6 +24061,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -23854,6 +24244,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -24031,6 +24424,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"deu": "German"
 		},
@@ -24215,6 +24611,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"sin": "Sinhala",
 			"tam": "Tamil"
@@ -24403,6 +24802,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Southern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"sot": "Sotho"
@@ -24583,6 +24985,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"lit": "Lithuanian"
 		},
@@ -24775,6 +25180,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"deu": "German",
 			"fra": "French",
@@ -24958,6 +25366,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"lav": "Latvian"
 		},
@@ -25145,6 +25556,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"por": "Portuguese",
 			"zho": "Chinese"
@@ -25321,6 +25735,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -25503,6 +25920,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"ber": "Berber"
@@ -25685,6 +26105,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -25863,6 +26286,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ron": "Moldavian"
 		},
@@ -26048,6 +26474,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French",
 			"mlg": "Malagasy"
@@ -26227,6 +26656,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"div": "Maldivian"
 		},
@@ -26405,6 +26837,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -26592,6 +27027,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"mah": "Marshallese"
@@ -26770,6 +27208,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"mkd": "Macedonian"
 		},
@@ -26953,6 +27394,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -27142,6 +27586,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"eng": "English",
 			"mlt": "Maltese"
@@ -27321,6 +27768,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"mya": "Burmese"
 		},
@@ -27503,6 +27953,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"cnr": "Montenegrin"
 		},
@@ -27684,6 +28137,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"mon": "Mongolian"
 		},
@@ -27873,6 +28329,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"cal": "Carolinian",
 			"cha": "Chamorro",
@@ -28050,6 +28509,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -28234,6 +28696,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -28414,6 +28879,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -28587,6 +29055,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -28770,6 +29241,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -28952,6 +29426,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"nya": "Chewa"
@@ -29136,6 +29613,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English",
 			"msa": "Malay"
@@ -29318,6 +29798,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -29529,6 +30012,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Southern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"afr": "Afrikaans",
 			"deu": "German",
@@ -29717,6 +30203,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Melanesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -29891,6 +30380,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -30080,6 +30572,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"pih": "Norfuk"
@@ -30257,6 +30752,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -30439,6 +30937,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -30621,6 +31122,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"niu": "Niuean"
@@ -30798,6 +31302,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Western Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"nld": "Dutch"
 		},
@@ -30990,6 +31497,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"nno": "Norwegian Nynorsk",
 			"nob": "Norwegian Bokm\u00e5l",
@@ -31173,6 +31683,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"nep": "Nepali"
 		},
@@ -31359,6 +31872,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"nau": "Nauru"
@@ -31544,6 +32060,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"mri": "M\u0101ori",
@@ -31725,6 +32244,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -31909,6 +32431,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Southern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English",
 			"urd": "Urdu"
@@ -32096,6 +32621,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -32276,6 +32804,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -32459,6 +32990,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"aym": "Aymara",
 			"que": "Quechua",
@@ -32648,6 +33182,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"eng": "English",
 			"fil": "Filipino"
@@ -32830,6 +33367,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Micronesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"pau": "Palauan"
@@ -33014,6 +33554,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Melanesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"hmo": "Hiri Motu",
@@ -33195,6 +33738,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"pol": "Polish"
 		},
@@ -33385,6 +33931,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"spa": "Spanish"
@@ -33566,6 +34115,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"kor": "Korean"
 		},
@@ -33746,6 +34298,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -33931,6 +34486,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"grn": "Guaran\u00ed",
 			"spa": "Spanish"
@@ -34123,6 +34681,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -34305,6 +34866,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -34483,6 +35047,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -34659,6 +35226,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -34835,6 +35405,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ron": "Romanian"
 		},
@@ -35024,6 +35597,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"rus": "Russian"
 		},
@@ -35233,6 +35809,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -35419,6 +35998,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -35606,6 +36188,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"eng": "English"
@@ -35792,6 +36377,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -35990,6 +36578,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"zho": "Chinese",
 			"eng": "English",
@@ -36163,6 +36754,9 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
+		"continents": [
+			"Antarctica"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -36337,6 +36931,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"nor": "Norwegian"
 		},
@@ -36510,6 +37107,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Melanesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -36686,6 +37286,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -36866,6 +37469,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Central America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -37046,6 +37652,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ita": "Italian"
 		},
@@ -37229,6 +37838,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"som": "Somali"
@@ -37410,6 +38022,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -37588,6 +38203,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southeast Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"srp": "Serbian"
 		},
@@ -37772,6 +38390,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -37957,6 +38578,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -38136,6 +38760,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"nld": "Dutch"
 		},
@@ -38317,6 +38944,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"slk": "Slovak"
 		},
@@ -38500,6 +39130,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Central Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"slv": "Slovene"
 		},
@@ -38682,6 +39315,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Northern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"swe": "Swedish"
 		},
@@ -38874,6 +39510,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Southern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"ssw": "Swazi"
@@ -39062,6 +39701,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -39250,6 +39892,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"crs": "Seychellois Creole",
 			"eng": "English",
@@ -39430,6 +40075,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -39611,6 +40259,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -39791,6 +40442,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Middle Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -39978,6 +40632,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Western Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -40163,6 +40820,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"tha": "Thai"
 		},
@@ -40351,6 +41011,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Central Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"rus": "Russian",
 			"tgk": "Tajik"
@@ -40540,6 +41203,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan",
@@ -40719,6 +41385,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Central Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"rus": "Russian",
 			"tuk": "Turkmen"
@@ -40910,6 +41579,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"por": "Portuguese",
 			"tet": "Tetum"
@@ -41092,6 +41764,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"ton": "Tongan"
@@ -41269,6 +41944,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -41446,6 +42124,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Northern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -41627,6 +42308,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"tur": "Turkish"
 		},
@@ -41819,6 +42503,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"tvl": "Tuvaluan"
@@ -42002,6 +42689,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"zho": "Chinese"
 		},
@@ -42178,6 +42868,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -42369,6 +43062,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -42553,6 +43249,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ukr": "Ukrainian"
 		},
@@ -42734,6 +43433,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -42911,6 +43613,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -43407,6 +44112,9 @@
 		],
 		"region": "Americas",
 		"subregion": "North America",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -43602,6 +44310,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Central Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"rus": "Russian",
 			"uzb": "Uzbek"
@@ -43792,6 +44503,9 @@
 		],
 		"region": "Europe",
 		"subregion": "Southern Europe",
+		"continents": [
+			"Europe"
+		],
 		"languages": {
 			"ita": "Italian",
 			"lat": "Latin"
@@ -43968,6 +44682,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -44144,6 +44861,9 @@
 		],
 		"region": "Americas",
 		"subregion": "South America",
+		"continents": [
+			"South America"
+		],
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -44324,6 +45044,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -44498,6 +45221,9 @@
 		],
 		"region": "Americas",
 		"subregion": "Caribbean",
+		"continents": [
+			"North America"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -44674,6 +45400,9 @@
 		],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"vie": "Vietnamese"
 		},
@@ -44864,6 +45593,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Melanesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"bis": "Bislama",
 			"eng": "English",
@@ -45043,6 +45775,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"fra": "French"
 		},
@@ -45222,6 +45957,9 @@
 		],
 		"region": "Oceania",
 		"subregion": "Polynesia",
+		"continents": [
+			"Oceania"
+		],
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan"
@@ -45400,6 +46138,9 @@
 		],
 		"region": "Asia",
 		"subregion": "Western Asia",
+		"continents": [
+			"Asia"
+		],
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -45623,6 +46364,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Southern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"afr": "Afrikaans",
 			"eng": "English",
@@ -45816,6 +46560,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"eng": "English"
 		},
@@ -46057,6 +46804,9 @@
 		],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
+		"continents": [
+			"Africa"
+		],
 		"languages": {
 			"bwg": "Chibarwe",
 			"eng": "English",

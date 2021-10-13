@@ -10,10 +10,11 @@ In this table you can find the fields of the different API versions, extra infor
 | area                   | v  | v  |  v   | Geographical size |
 | borders                | v  | v  |  v   | Border countries |
 | callingCodes / idd     | v  | v  |  v   | International dialing codes |
-| capital                | v  | v  |  v   | Capital cities) |
+| capital                | v  | v  |  v   | Capital cities |
 | car > signs            |    |    |  v   | Car distinguised (oval) signs |
 | car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
+| continents             |    |    |      | List of continents the country is on |
 | currencies             | v  | v  |  v   | List of all currencies |
 | demonym                | v  |    |      | Inhabitants of the country |
 | demonyms (m/f)         |    | v  |  v   | Genderized inhabitants of the country |
