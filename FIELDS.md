@@ -14,7 +14,8 @@ In this table you can find the fields of the different API versions, extra infor
 | car > signs            |    |    |  v   | Car distinguised (oval) signs |
 | car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
-| continents             |    |    |      | List of continents the country is on |
+| coatOfArms             |    |    |      | [MainFacts.com](https://mainfacts.com/coat-of-arms-countries-world) links to svg and png images |
+| continents             |    |    |  v   | List of continents the country is on |
 | currencies             | v  | v  |  v   | List of all currencies |
 | demonym                | v  |    |      | Inhabitants of the country |
 | demonyms (m/f)         |    | v  |  v   | Genderized inhabitants of the country |
@@ -35,6 +36,7 @@ In this table you can find the fields of the different API versions, extra infor
 | population             | v  | v  |   v  | Country population |
 | region                 | v  | v  |   v  | UN [demographic regions](https://unstats.un.org/unsd/methodology/m49/) |
 | regionalBlocs          | v  |    |      |      |
+| startOfWeek            |    |    |      | Day of the start of week (Sunday/Monday) |
 | status                 |    | v  |  v   | ISO 3166-1 assignment status |
 | subregion              | v  | v  |  v   | UN [demographic subregions](https://unstats.un.org/unsd/methodology/m49/) |
 | timezones              | v  |    |      | Timezones |

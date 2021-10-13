@@ -164,6 +164,10 @@
 			"svg": "https://flagcdn.com/aw.svg",
 			"png": "https://flagcdn.com/w320/aw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/aw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/aw.png"
+		},
 		"population": 106766,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
@@ -174,6 +178,7 @@
 			"signs": [],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -356,6 +361,10 @@
 			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
 			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/af.png"
+		},
 		"population": 2837743,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
@@ -368,6 +377,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:30"
 		]
@@ -539,6 +549,10 @@
 			"svg": "https://flagcdn.com/ao.svg",
 			"png": "https://flagcdn.com/w320/ao.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ao.png"
+		},
 		"population": 32866268,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
@@ -553,6 +567,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -717,6 +732,10 @@
 			"svg": "https://flagcdn.com/ai.svg",
 			"png": "https://flagcdn.com/w320/ai.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ai.png"
+		},
 		"population": 13452,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
@@ -729,6 +748,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -896,6 +916,10 @@
 			"svg": "https://flagcdn.com/ax.svg",
 			"png": "https://flagcdn.com/w320/ax.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ax.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ax.png"
+		},
 		"population": 29458,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
@@ -908,6 +932,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -1080,6 +1105,10 @@
 			"svg": "https://flagcdn.com/al.svg",
 			"png": "https://flagcdn.com/w320/al.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/al.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/al.png"
+		},
 		"population": 2837743,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
@@ -1094,6 +1123,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -1263,6 +1293,10 @@
 			"svg": "https://flagcdn.com/ad.svg",
 			"png": "https://flagcdn.com/w320/ad.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ad.png"
+		},
 		"population": 77265,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
@@ -1275,6 +1309,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -1445,6 +1480,10 @@
 			"svg": "https://flagcdn.com/ae.svg",
 			"png": "https://flagcdn.com/w320/ae.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ae.png"
+		},
 		"population": 9890400,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
@@ -1459,6 +1498,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+04"
 		]
@@ -1636,6 +1676,10 @@
 			"svg": "https://flagcdn.com/ar.svg",
 			"png": "https://flagcdn.com/w320/ar.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ar.png"
+		},
 		"population": 45376763,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
@@ -1650,6 +1694,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
 		]
@@ -1822,6 +1867,10 @@
 			"svg": "https://flagcdn.com/am.svg",
 			"png": "https://flagcdn.com/w320/am.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/am.png"
+		},
 		"population": 2963234,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
@@ -1836,6 +1885,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -2008,6 +2058,10 @@
 			"svg": "https://flagcdn.com/as.svg",
 			"png": "https://flagcdn.com/w320/as.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 55197,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
@@ -2020,6 +2074,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00"
 		]
@@ -2168,6 +2223,10 @@
 			"svg": "https://flagcdn.com/aq.svg",
 			"png": "https://flagcdn.com/w320/aq.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/aq.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/aq.png"
+		},
 		"population": 1000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/kyBuJriu4itiXank7",
@@ -2180,6 +2239,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00",
 			"UTC+03:00",
@@ -2352,6 +2412,10 @@
 			"svg": "https://flagcdn.com/tf.svg",
 			"png": "https://flagcdn.com/w320/tf.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tf.png"
+		},
 		"population": 400,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
@@ -2364,6 +2428,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -2528,6 +2593,10 @@
 			"svg": "https://flagcdn.com/ag.svg",
 			"png": "https://flagcdn.com/w320/ag.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ag.png"
+		},
 		"population": 97928,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
@@ -2540,6 +2609,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -2704,6 +2774,10 @@
 			"svg": "https://flagcdn.com/au.svg",
 			"png": "https://flagcdn.com/w320/au.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/au.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/au.png"
+		},
 		"population": 25687041,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
@@ -2718,6 +2792,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00",
 			"UTC+06:30",
@@ -2900,6 +2975,10 @@
 			"svg": "https://flagcdn.com/at.svg",
 			"png": "https://flagcdn.com/w320/at.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/at.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/at.png"
+		},
 		"population": 8917205,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
@@ -2914,6 +2993,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -3091,6 +3171,10 @@
 			"svg": "https://flagcdn.com/az.svg",
 			"png": "https://flagcdn.com/w320/az.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/az.png"
+		},
 		"population": 10110116,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
@@ -3105,6 +3189,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -3281,6 +3366,10 @@
 			"svg": "https://flagcdn.com/bi.svg",
 			"png": "https://flagcdn.com/w320/bi.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bi.png"
+		},
 		"population": 11890781,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
@@ -3295,6 +3384,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -3482,6 +3572,10 @@
 			"svg": "https://flagcdn.com/be.svg",
 			"png": "https://flagcdn.com/w320/be.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/be.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/be.png"
+		},
 		"population": 11555997,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
@@ -3496,6 +3590,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -3667,6 +3762,10 @@
 			"svg": "https://flagcdn.com/bj.svg",
 			"png": "https://flagcdn.com/w320/bj.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bj.png"
+		},
 		"population": 12123198,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
@@ -3681,6 +3780,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -3852,6 +3952,10 @@
 			"svg": "https://flagcdn.com/bf.svg",
 			"png": "https://flagcdn.com/w320/bf.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bf.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bf.png"
+		},
 		"population": 20903278,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
@@ -3866,6 +3970,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -4035,6 +4140,10 @@
 			"svg": "https://flagcdn.com/bd.svg",
 			"png": "https://flagcdn.com/w320/bd.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bd.png"
+		},
 		"population": 164689383,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
@@ -4049,6 +4158,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+06:00"
 		]
@@ -4221,6 +4331,10 @@
 			"svg": "https://flagcdn.com/bg.svg",
 			"png": "https://flagcdn.com/w320/bg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bg.png"
+		},
 		"population": 6927288,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
@@ -4235,6 +4349,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -4401,6 +4516,10 @@
 			"svg": "https://flagcdn.com/bh.svg",
 			"png": "https://flagcdn.com/w320/bh.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bh.png"
+		},
 		"population": 1701583,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
@@ -4413,6 +4532,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -4582,6 +4702,10 @@
 			"svg": "https://flagcdn.com/bs.svg",
 			"png": "https://flagcdn.com/w320/bs.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bs.png"
+		},
 		"population": 393248,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
@@ -4594,6 +4718,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -4774,6 +4899,10 @@
 			"svg": "https://flagcdn.com/ba.svg",
 			"png": "https://flagcdn.com/w320/ba.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ba.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ba.png"
+		},
 		"population": 3280815,
 		"maps": {
 			"googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
@@ -4788,6 +4917,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -4955,6 +5085,10 @@
 			"svg": "https://flagcdn.com/bl.svg",
 			"png": "https://flagcdn.com/w320/bl.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 4255,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Mc7GqH466S7AAk297",
@@ -4967,6 +5101,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -5138,6 +5273,10 @@
 			"svg": "https://flagcdn.com/sh.svg",
 			"png": "https://flagcdn.com/w320/sh.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 53192,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
@@ -5150,6 +5289,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -5329,6 +5469,10 @@
 			"svg": "https://flagcdn.com/by.svg",
 			"png": "https://flagcdn.com/w320/by.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/by.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/by.png"
+		},
 		"population": 9398861,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
@@ -5343,6 +5487,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -5520,6 +5665,10 @@
 			"svg": "https://flagcdn.com/bz.svg",
 			"png": "https://flagcdn.com/w320/bz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bz.png"
+		},
 		"population": 397621,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
@@ -5534,6 +5683,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -5701,6 +5851,10 @@
 			"svg": "https://flagcdn.com/bm.svg",
 			"png": "https://flagcdn.com/w320/bm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bm.png"
+		},
 		"population": 63903,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
@@ -5713,6 +5867,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -5906,6 +6061,10 @@
 			"svg": "https://flagcdn.com/bo.svg",
 			"png": "https://flagcdn.com/w320/bo.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bo.png"
+		},
 		"population": 11673029,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
@@ -5920,6 +6079,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -6091,6 +6251,10 @@
 			"svg": "https://flagcdn.com/bq.svg",
 			"png": "https://flagcdn.com/w320/bq.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bq.png"
+		},
 		"population": 25987,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
@@ -6103,6 +6267,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -6281,6 +6446,10 @@
 			"svg": "https://flagcdn.com/br.svg",
 			"png": "https://flagcdn.com/w320/br.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/br.png"
+		},
 		"population": 212559409,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
@@ -6295,6 +6464,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00",
 			"UTC-04:00",
@@ -6462,6 +6632,10 @@
 			"svg": "https://flagcdn.com/bb.svg",
 			"png": "https://flagcdn.com/w320/bb.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bb.png"
+		},
 		"population": 287371,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
@@ -6474,6 +6648,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -6647,6 +6822,10 @@
 			"svg": "https://flagcdn.com/bn.svg",
 			"png": "https://flagcdn.com/w320/bn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bn.png"
+		},
 		"population": 437483,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
@@ -6659,6 +6838,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -6831,6 +7011,10 @@
 			"svg": "https://flagcdn.com/bt.svg",
 			"png": "https://flagcdn.com/w320/bt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bt.png"
+		},
 		"population": 771612,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
@@ -6845,6 +7029,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
 		]
@@ -7004,6 +7189,10 @@
 			"svg": "https://flagcdn.com/bv.svg",
 			"png": "https://flagcdn.com/w320/bv.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 0,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
@@ -7016,6 +7205,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -7192,6 +7382,10 @@
 			"svg": "https://flagcdn.com/bw.svg",
 			"png": "https://flagcdn.com/w320/bw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/bw.png"
+		},
 		"population": 2351625,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
@@ -7206,6 +7400,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -7384,6 +7579,10 @@
 			"svg": "https://flagcdn.com/cf.svg",
 			"png": "https://flagcdn.com/w320/cf.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cf.png"
+		},
 		"population": 4829764,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
@@ -7398,6 +7597,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -7569,6 +7769,10 @@
 			"svg": "https://flagcdn.com/ca.svg",
 			"png": "https://flagcdn.com/w320/ca.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ca.png"
+		},
 		"population": 38005238,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
@@ -7583,6 +7787,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC-08:00",
 			"UTC-07:00",
@@ -7754,6 +7959,10 @@
 			"svg": "https://flagcdn.com/cc.svg",
 			"png": "https://flagcdn.com/w320/cc.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 544,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/3eCdKVpVfMcZyKcK6",
@@ -7766,6 +7975,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:30"
 		]
@@ -7956,6 +8166,10 @@
 			"svg": "https://flagcdn.com/ch.svg",
 			"png": "https://flagcdn.com/w320/ch.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ch.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ch.png"
+		},
 		"population": 17500657,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
@@ -7970,6 +8184,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -8140,6 +8355,10 @@
 			"svg": "https://flagcdn.com/cl.svg",
 			"png": "https://flagcdn.com/w320/cl.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cl.png"
+		},
 		"population": 19116209,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
@@ -8154,6 +8373,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00",
 			"UTC-04:00"
@@ -8342,6 +8562,10 @@
 			"svg": "https://flagcdn.com/cn.svg",
 			"png": "https://flagcdn.com/w320/cn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cn.png"
+		},
 		"population": 1402112000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
@@ -8356,6 +8580,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -8530,6 +8755,10 @@
 			"svg": "https://flagcdn.com/ci.svg",
 			"png": "https://flagcdn.com/w320/ci.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ci.png"
+		},
 		"population": 26378275,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
@@ -8544,6 +8773,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -8722,6 +8952,10 @@
 			"svg": "https://flagcdn.com/cm.svg",
 			"png": "https://flagcdn.com/w320/cm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cm.png"
+		},
 		"population": 26545864,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
@@ -8736,6 +8970,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -8934,6 +9169,10 @@
 			"svg": "https://flagcdn.com/cd.svg",
 			"png": "https://flagcdn.com/w320/cd.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cd.png"
+		},
 		"population": 89561404,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
@@ -8948,6 +9187,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00",
 			"UTC+02:00"
@@ -9131,6 +9371,10 @@
 			"svg": "https://flagcdn.com/cg.svg",
 			"png": "https://flagcdn.com/w320/cg.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 89561404,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
@@ -9145,6 +9389,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -9319,6 +9564,10 @@
 			"svg": "https://flagcdn.com/ck.svg",
 			"png": "https://flagcdn.com/w320/ck.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ck.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ck.png"
+		},
 		"population": 18100,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
@@ -9331,6 +9580,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00"
 		]
@@ -9503,6 +9753,10 @@
 			"svg": "https://flagcdn.com/co.svg",
 			"png": "https://flagcdn.com/w320/co.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/co.png"
+		},
 		"population": 50882884,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
@@ -9517,6 +9771,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -9695,6 +9950,10 @@
 			"svg": "https://flagcdn.com/km.svg",
 			"png": "https://flagcdn.com/w320/km.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/km.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/km.png"
+		},
 		"population": 869595,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
@@ -9709,6 +9968,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -9875,6 +10135,10 @@
 			"svg": "https://flagcdn.com/cv.svg",
 			"png": "https://flagcdn.com/w320/cv.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cv.png"
+		},
 		"population": 555988,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
@@ -9889,6 +10153,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-01:00"
 		]
@@ -10058,6 +10323,10 @@
 			"svg": "https://flagcdn.com/cr.svg",
 			"png": "https://flagcdn.com/w320/cr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cr.png"
+		},
 		"population": 5094114,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
@@ -10072,6 +10341,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -10242,6 +10512,10 @@
 			"svg": "https://flagcdn.com/cu.svg",
 			"png": "https://flagcdn.com/w320/cu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cu.png"
+		},
 		"population": 11326616,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
@@ -10254,6 +10528,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -10425,6 +10700,10 @@
 			"svg": "https://flagcdn.com/cw.svg",
 			"png": "https://flagcdn.com/w320/cw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cw.png"
+		},
 		"population": 155014,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
@@ -10437,6 +10716,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -10602,6 +10882,10 @@
 			"svg": "https://flagcdn.com/cx.svg",
 			"png": "https://flagcdn.com/w320/cx.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cx.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cx.png"
+		},
 		"population": 2072,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
@@ -10614,6 +10898,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
 		]
@@ -10778,6 +11063,10 @@
 			"svg": "https://flagcdn.com/ky.svg",
 			"png": "https://flagcdn.com/w320/ky.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ky.png"
+		},
 		"population": 65720,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
@@ -10790,6 +11079,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -10964,6 +11254,10 @@
 			"svg": "https://flagcdn.com/cy.svg",
 			"png": "https://flagcdn.com/w320/cy.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cy.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cy.png"
+		},
 		"population": 1207361,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
@@ -10978,6 +11272,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -11154,6 +11449,10 @@
 			"svg": "https://flagcdn.com/cz.svg",
 			"png": "https://flagcdn.com/w320/cz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/cz.png"
+		},
 		"population": 10698896,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
@@ -11168,6 +11467,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -11344,6 +11644,10 @@
 			"svg": "https://flagcdn.com/de.svg",
 			"png": "https://flagcdn.com/w320/de.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/de.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/de.png"
+		},
 		"population": 83240525,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
@@ -11358,6 +11662,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -11537,6 +11842,10 @@
 			"svg": "https://flagcdn.com/dj.svg",
 			"png": "https://flagcdn.com/w320/dj.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/dj.png"
+		},
 		"population": 988002,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
@@ -11551,6 +11860,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -11718,6 +12028,10 @@
 			"svg": "https://flagcdn.com/dm.svg",
 			"png": "https://flagcdn.com/w320/dm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/dm.png"
+		},
 		"population": 71991,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
@@ -11730,6 +12044,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -11899,6 +12214,10 @@
 			"svg": "https://flagcdn.com/dk.svg",
 			"png": "https://flagcdn.com/w320/dk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/dk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/dk.png"
+		},
 		"population": 5831404,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
@@ -11913,6 +12232,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
 			"UTC-03:00",
@@ -12085,6 +12405,10 @@
 			"svg": "https://flagcdn.com/do.svg",
 			"png": "https://flagcdn.com/w320/do.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/do.png"
+		},
 		"population": 10847904,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
@@ -12099,6 +12423,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -12274,6 +12599,10 @@
 			"svg": "https://flagcdn.com/dz.svg",
 			"png": "https://flagcdn.com/w320/dz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/dz.png"
+		},
 		"population": 510713,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
@@ -12288,6 +12617,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -12457,6 +12787,10 @@
 			"svg": "https://flagcdn.com/ec.svg",
 			"png": "https://flagcdn.com/w320/ec.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ec.png"
+		},
 		"population": 17643060,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
@@ -12471,6 +12805,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00",
 			"UTC-05:00"
@@ -12643,6 +12978,10 @@
 			"svg": "https://flagcdn.com/eg.svg",
 			"png": "https://flagcdn.com/w320/eg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/eg.png"
+		},
 		"population": 102334403,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
@@ -12657,6 +12996,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -12840,6 +13180,10 @@
 			"svg": "https://flagcdn.com/er.svg",
 			"png": "https://flagcdn.com/w320/er.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/er.png"
+		},
 		"population": 5352000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
@@ -12852,6 +13196,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -13040,6 +13385,10 @@
 			"svg": "https://flagcdn.com/eh.svg",
 			"png": "https://flagcdn.com/w320/eh.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 510713,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
@@ -13052,6 +13401,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -13224,6 +13574,10 @@
 			"svg": "https://flagcdn.com/es.svg",
 			"png": "https://flagcdn.com/w320/es.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/es.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/es.png"
+		},
 		"population": 47351567,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
@@ -13238,6 +13592,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC",
 			"UTC+01:00"
@@ -13409,6 +13764,10 @@
 			"svg": "https://flagcdn.com/ee.svg",
 			"png": "https://flagcdn.com/w320/ee.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ee.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ee.png"
+		},
 		"population": 1331057,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
@@ -13423,6 +13782,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -13597,6 +13957,10 @@
 			"svg": "https://flagcdn.com/et.svg",
 			"png": "https://flagcdn.com/w320/et.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/et.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/et.png"
+		},
 		"population": 114963583,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
@@ -13611,6 +13975,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -13788,6 +14153,10 @@
 			"svg": "https://flagcdn.com/fi.svg",
 			"png": "https://flagcdn.com/w320/fi.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fi.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fi.png"
+		},
 		"population": 5530719,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
@@ -13802,6 +14171,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -13980,6 +14350,10 @@
 			"svg": "https://flagcdn.com/fj.svg",
 			"png": "https://flagcdn.com/w320/fj.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fj.png"
+		},
 		"population": 896444,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
@@ -13994,6 +14368,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
 		]
@@ -14160,6 +14535,10 @@
 			"svg": "https://flagcdn.com/fk.svg",
 			"png": "https://flagcdn.com/w320/fk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fk.png"
+		},
 		"population": 2563,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
@@ -14172,6 +14551,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -14347,6 +14727,10 @@
 			"svg": "https://flagcdn.com/fr.svg",
 			"png": "https://flagcdn.com/w320/fr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fr.png"
+		},
 		"population": 67391582,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
@@ -14361,6 +14745,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00",
 			"UTC-09:30",
@@ -14549,6 +14934,10 @@
 			"svg": "https://flagcdn.com/fo.svg",
 			"png": "https://flagcdn.com/w320/fo.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fo.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fo.png"
+		},
 		"population": 48865,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
@@ -14561,6 +14950,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -14727,6 +15117,10 @@
 			"svg": "https://flagcdn.com/fm.svg",
 			"png": "https://flagcdn.com/w320/fm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/fm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/fm.png"
+		},
 		"population": 115021,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
@@ -14741,6 +15135,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00",
 			"UTC+11"
@@ -14912,6 +15307,10 @@
 			"svg": "https://flagcdn.com/ga.svg",
 			"png": "https://flagcdn.com/w320/ga.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ga.png"
+		},
 		"population": 2225728,
 		"maps": {
 			"googleMaps": "https://www.openstreetmap.org/relation/192793",
@@ -14926,6 +15325,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -15094,6 +15494,10 @@
 			"svg": "https://flagcdn.com/gb.svg",
 			"png": "https://flagcdn.com/w320/gb.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gb.png"
+		},
 		"population": 67215293,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
@@ -15108,6 +15512,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00",
 			"UTC-05:00",
@@ -15286,6 +15691,10 @@
 			"svg": "https://flagcdn.com/ge.svg",
 			"png": "https://flagcdn.com/w320/ge.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ge.png"
+		},
 		"population": 3714000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
@@ -15300,6 +15709,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -15480,6 +15890,10 @@
 			"svg": "https://flagcdn.com/gg.svg",
 			"png": "https://flagcdn.com/w320/gg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gg.png"
+		},
 		"population": 62999,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
@@ -15492,6 +15906,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -15660,6 +16075,10 @@
 			"svg": "https://flagcdn.com/gh.svg",
 			"png": "https://flagcdn.com/w320/gh.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gh.png"
+		},
 		"population": 31072945,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
@@ -15674,6 +16093,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -15840,6 +16260,10 @@
 			"svg": "https://flagcdn.com/gi.svg",
 			"png": "https://flagcdn.com/w320/gi.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gi.png"
+		},
 		"population": 33691,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
@@ -15852,6 +16276,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -16025,6 +16450,10 @@
 			"svg": "https://flagcdn.com/gn.svg",
 			"png": "https://flagcdn.com/w320/gn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gn.png"
+		},
 		"population": 13132792,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
@@ -16039,6 +16468,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -16204,6 +16634,10 @@
 			"svg": "https://flagcdn.com/gp.svg",
 			"png": "https://flagcdn.com/w320/gp.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gp.png"
+		},
 		"population": 400132,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
@@ -16216,6 +16650,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -16383,6 +16818,10 @@
 			"svg": "https://flagcdn.com/gm.svg",
 			"png": "https://flagcdn.com/w320/gm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gm.png"
+		},
 		"population": 2416664,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
@@ -16397,6 +16836,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -16571,6 +17011,10 @@
 			"svg": "https://flagcdn.com/gw.svg",
 			"png": "https://flagcdn.com/w320/gw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gw.png"
+		},
 		"population": 1967998,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
@@ -16585,6 +17029,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -16766,6 +17211,10 @@
 			"svg": "https://flagcdn.com/gq.svg",
 			"png": "https://flagcdn.com/w320/gq.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gq.png"
+		},
 		"population": 1402985,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
@@ -16778,6 +17227,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -16950,6 +17400,10 @@
 			"svg": "https://flagcdn.com/gr.svg",
 			"png": "https://flagcdn.com/w320/gr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gr.png"
+		},
 		"population": 10715549,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
@@ -16964,6 +17418,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -17128,6 +17583,10 @@
 			"svg": "https://flagcdn.com/gd.svg",
 			"png": "https://flagcdn.com/w320/gd.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gd.png"
+		},
 		"population": 112519,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
@@ -17140,6 +17599,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -17305,6 +17765,10 @@
 			"svg": "https://flagcdn.com/gl.svg",
 			"png": "https://flagcdn.com/w320/gl.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gl.png"
+		},
 		"population": 56367,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
@@ -17317,6 +17781,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
 			"UTC-03:00",
@@ -17489,6 +17954,10 @@
 			"svg": "https://flagcdn.com/gt.svg",
 			"png": "https://flagcdn.com/w320/gt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gt.png"
+		},
 		"population": 16858333,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
@@ -17503,6 +17972,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -17672,6 +18142,10 @@
 			"svg": "https://flagcdn.com/gf.svg",
 			"png": "https://flagcdn.com/w320/gf.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gf.png"
+		},
 		"population": 254541,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
@@ -17684,6 +18158,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
 		]
@@ -17859,6 +18334,10 @@
 			"svg": "https://flagcdn.com/gu.svg",
 			"png": "https://flagcdn.com/w320/gu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gu.png"
+		},
 		"population": 168783,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
@@ -17871,6 +18350,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
 		]
@@ -18040,6 +18520,10 @@
 			"svg": "https://flagcdn.com/gy.svg",
 			"png": "https://flagcdn.com/w320/gy.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/gy.png"
+		},
 		"population": 786559,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
@@ -18054,6 +18538,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -18222,6 +18707,10 @@
 			"svg": "https://flagcdn.com/hk.svg",
 			"png": "https://flagcdn.com/w320/hk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/hk.png"
+		},
 		"population": 7500700,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
@@ -18234,6 +18723,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -18391,6 +18881,10 @@
 			"svg": "https://flagcdn.com/hm.svg",
 			"png": "https://flagcdn.com/w320/hm.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 0,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
@@ -18403,6 +18897,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -18573,6 +19068,10 @@
 			"svg": "https://flagcdn.com/hn.svg",
 			"png": "https://flagcdn.com/w320/hn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/hn.png"
+		},
 		"population": 9904608,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
@@ -18587,6 +19086,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -18760,6 +19260,10 @@
 			"svg": "https://flagcdn.com/hr.svg",
 			"png": "https://flagcdn.com/w320/hr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/hr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/hr.png"
+		},
 		"population": 4047200,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
@@ -18774,6 +19278,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -18948,6 +19453,10 @@
 			"svg": "https://flagcdn.com/ht.svg",
 			"png": "https://flagcdn.com/w320/ht.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ht.png"
+		},
 		"population": 11402533,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
@@ -18962,6 +19471,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -19134,6 +19644,10 @@
 			"svg": "https://flagcdn.com/hu.svg",
 			"png": "https://flagcdn.com/w320/hu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/hu.png"
+		},
 		"population": 9749763,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
@@ -19148,6 +19662,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -19318,6 +19833,10 @@
 			"svg": "https://flagcdn.com/id.svg",
 			"png": "https://flagcdn.com/w320/id.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/id.png"
+		},
 		"population": 273523621,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
@@ -19332,6 +19851,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00",
 			"UTC+08:00",
@@ -19510,6 +20030,10 @@
 			"svg": "https://flagcdn.com/im.svg",
 			"png": "https://flagcdn.com/w320/im.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/im.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/im.png"
+		},
 		"population": 85032,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
@@ -19522,6 +20046,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
 		]
@@ -19707,6 +20232,10 @@
 			"svg": "https://flagcdn.com/in.svg",
 			"png": "https://flagcdn.com/w320/in.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/in.png"
+		},
 		"population": 1380004385,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
@@ -19721,6 +20250,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:30"
 		]
@@ -19885,6 +20415,10 @@
 			"svg": "https://flagcdn.com/io.svg",
 			"png": "https://flagcdn.com/w320/io.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 3000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
@@ -19897,6 +20431,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
 		]
@@ -20071,6 +20606,10 @@
 			"svg": "https://flagcdn.com/ie.svg",
 			"png": "https://flagcdn.com/w320/ie.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ie.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ie.png"
+		},
 		"population": 4994724,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
@@ -20085,6 +20624,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -20257,6 +20797,10 @@
 			"svg": "https://flagcdn.com/ir.svg",
 			"png": "https://flagcdn.com/w320/ir.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ir.png"
+		},
 		"population": 83992953,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
@@ -20271,6 +20815,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "turday",
 		"timezones": [
 			"UTC+03:30"
 		]
@@ -20454,6 +20999,10 @@
 			"svg": "https://flagcdn.com/iq.svg",
 			"png": "https://flagcdn.com/w320/iq.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/iq.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/iq.png"
+		},
 		"population": 40222503,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
@@ -20468,6 +21017,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -20635,6 +21185,10 @@
 			"svg": "https://flagcdn.com/is.svg",
 			"png": "https://flagcdn.com/w320/is.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/is.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/is.png"
+		},
 		"population": 366425,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
@@ -20649,6 +21203,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -20826,6 +21381,10 @@
 			"svg": "https://flagcdn.com/il.svg",
 			"png": "https://flagcdn.com/w320/il.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/il.png"
+		},
 		"population": 9216900,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
@@ -20840,6 +21399,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -21013,6 +21573,10 @@
 			"svg": "https://flagcdn.com/it.svg",
 			"png": "https://flagcdn.com/w320/it.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/it.png"
+		},
 		"population": 59554023,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
@@ -21027,6 +21591,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -21196,6 +21761,10 @@
 			"svg": "https://flagcdn.com/jm.svg",
 			"png": "https://flagcdn.com/w320/jm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/jm.png"
+		},
 		"population": 2961161,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
@@ -21210,6 +21779,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -21391,6 +21961,10 @@
 			"svg": "https://flagcdn.com/je.svg",
 			"png": "https://flagcdn.com/w320/je.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/je.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/je.png"
+		},
 		"population": 100800,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
@@ -21403,6 +21977,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -21576,6 +22151,10 @@
 			"svg": "https://flagcdn.com/jo.svg",
 			"png": "https://flagcdn.com/w320/jo.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/jo.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/jo.png"
+		},
 		"population": 10203140,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
@@ -21590,6 +22169,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -21757,6 +22337,10 @@
 			"svg": "https://flagcdn.com/jp.svg",
 			"png": "https://flagcdn.com/w320/jp.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/jp.png"
+		},
 		"population": 125836021,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
@@ -21771,6 +22355,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
 		]
@@ -21955,6 +22540,10 @@
 			"svg": "https://flagcdn.com/kz.svg",
 			"png": "https://flagcdn.com/w320/kz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kz.png"
+		},
 		"population": 18754440,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
@@ -21969,6 +22558,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00",
 			"UTC+06:00"
@@ -22147,6 +22737,10 @@
 			"svg": "https://flagcdn.com/ke.svg",
 			"png": "https://flagcdn.com/w320/ke.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ke.png"
+		},
 		"population": 53771300,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
@@ -22161,6 +22755,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -22339,6 +22934,10 @@
 			"svg": "https://flagcdn.com/kg.svg",
 			"png": "https://flagcdn.com/w320/kg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kg.png"
+		},
 		"population": 6591600,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
@@ -22353,6 +22952,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
 		]
@@ -22526,6 +23126,10 @@
 			"svg": "https://flagcdn.com/kh.svg",
 			"png": "https://flagcdn.com/w320/kh.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kh.png"
+		},
 		"population": 16718971,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
@@ -22538,6 +23142,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
 		]
@@ -22713,6 +23318,10 @@
 			"svg": "https://flagcdn.com/ki.svg",
 			"png": "https://flagcdn.com/w320/ki.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ki.png"
+		},
 		"population": 119446,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
@@ -22727,6 +23336,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00",
 			"UTC+13:00",
@@ -22894,6 +23504,10 @@
 			"svg": "https://flagcdn.com/kn.svg",
 			"png": "https://flagcdn.com/w320/kn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kn.png"
+		},
 		"population": 53192,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
@@ -22906,6 +23520,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -23077,6 +23692,10 @@
 			"svg": "https://flagcdn.com/kr.svg",
 			"png": "https://flagcdn.com/w320/kr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kr.png"
+		},
 		"population": 51780579,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
@@ -23091,6 +23710,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
 		]
@@ -23260,6 +23880,10 @@
 			"svg": "https://flagcdn.com/xk.svg",
 			"png": "https://flagcdn.com/w320/xk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/xk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/xk.png"
+		},
 		"population": 1775378,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
@@ -23274,6 +23898,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -23443,6 +24068,10 @@
 			"svg": "https://flagcdn.com/kw.svg",
 			"png": "https://flagcdn.com/w320/kw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kw.png"
+		},
 		"population": 4270563,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
@@ -23455,6 +24084,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -23628,6 +24258,10 @@
 			"svg": "https://flagcdn.com/la.svg",
 			"png": "https://flagcdn.com/w320/la.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/la.png"
+		},
 		"population": 7275556,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
@@ -23642,6 +24276,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
 		]
@@ -23816,6 +24451,10 @@
 			"svg": "https://flagcdn.com/lb.svg",
 			"png": "https://flagcdn.com/w320/lb.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lb.png"
+		},
 		"population": 6825442,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
@@ -23830,6 +24469,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -23999,6 +24639,10 @@
 			"svg": "https://flagcdn.com/lr.svg",
 			"png": "https://flagcdn.com/w320/lr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lr.png"
+		},
 		"population": 5057677,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
@@ -24013,6 +24657,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -24186,6 +24831,10 @@
 			"svg": "https://flagcdn.com/ly.svg",
 			"png": "https://flagcdn.com/w320/ly.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ly.png"
+		},
 		"population": 6871287,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
@@ -24198,6 +24847,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -24362,6 +25012,10 @@
 			"svg": "https://flagcdn.com/lc.svg",
 			"png": "https://flagcdn.com/w320/lc.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lc.png"
+		},
 		"population": 183629,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
@@ -24376,6 +25030,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -24545,6 +25200,10 @@
 			"svg": "https://flagcdn.com/li.svg",
 			"png": "https://flagcdn.com/w320/li.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/li.png"
+		},
 		"population": 38137,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
@@ -24557,6 +25216,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -24732,6 +25392,10 @@
 			"svg": "https://flagcdn.com/lk.svg",
 			"png": "https://flagcdn.com/w320/lk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lk.png"
+		},
 		"population": 21919000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
@@ -24746,6 +25410,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:30"
 		]
@@ -24923,6 +25588,10 @@
 			"svg": "https://flagcdn.com/ls.svg",
 			"png": "https://flagcdn.com/w320/ls.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ls.png"
+		},
 		"population": 2142252,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
@@ -24937,6 +25606,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -25108,6 +25778,10 @@
 			"svg": "https://flagcdn.com/lt.svg",
 			"png": "https://flagcdn.com/w320/lt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lt.png"
+		},
 		"population": 2794700,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
@@ -25122,6 +25796,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -25304,6 +25979,10 @@
 			"svg": "https://flagcdn.com/lu.svg",
 			"png": "https://flagcdn.com/w320/lu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lu.png"
+		},
 		"population": 632275,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
@@ -25318,6 +25997,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -25489,6 +26169,10 @@
 			"svg": "https://flagcdn.com/lv.svg",
 			"png": "https://flagcdn.com/w320/lv.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/lv.png"
+		},
 		"population": 1901548,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
@@ -25503,6 +26187,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -25673,6 +26358,10 @@
 			"svg": "https://flagcdn.com/mo.svg",
 			"png": "https://flagcdn.com/w320/mo.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mo.png"
+		},
 		"population": 649342,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
@@ -25685,6 +26374,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -25855,6 +26545,10 @@
 			"svg": "https://flagcdn.com/mf.svg",
 			"png": "https://flagcdn.com/w320/mf.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 38659,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
@@ -25867,6 +26561,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -26043,6 +26738,10 @@
 			"svg": "https://flagcdn.com/ma.svg",
 			"png": "https://flagcdn.com/w320/ma.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ma.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ma.png"
+		},
 		"population": 36910558,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
@@ -26057,6 +26756,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -26225,6 +26925,10 @@
 			"svg": "https://flagcdn.com/mc.svg",
 			"png": "https://flagcdn.com/w320/mc.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mc.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mc.png"
+		},
 		"population": 39244,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
@@ -26237,6 +26941,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -26407,6 +27112,10 @@
 			"svg": "https://flagcdn.com/md.svg",
 			"png": "https://flagcdn.com/w320/md.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/md.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/md.png"
+		},
 		"population": 2617820,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
@@ -26421,6 +27130,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -26593,6 +27303,10 @@
 			"svg": "https://flagcdn.com/mg.svg",
 			"png": "https://flagcdn.com/w320/mg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mg.png"
+		},
 		"population": 27691019,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
@@ -26607,6 +27321,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -26774,6 +27489,10 @@
 			"svg": "https://flagcdn.com/mv.svg",
 			"png": "https://flagcdn.com/w320/mv.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mv.png"
+		},
 		"population": 540542,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
@@ -26788,6 +27507,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -26959,6 +27679,10 @@
 			"svg": "https://flagcdn.com/mx.svg",
 			"png": "https://flagcdn.com/w320/mx.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mx.png"
+		},
 		"population": 128932753,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
@@ -26973,6 +27697,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00",
 			"UTC-07:00",
@@ -27146,6 +27871,10 @@
 			"svg": "https://flagcdn.com/mh.svg",
 			"png": "https://flagcdn.com/w320/mh.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mh.png"
+		},
 		"population": 59194,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
@@ -27158,6 +27887,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
 		]
@@ -27332,6 +28062,10 @@
 			"svg": "https://flagcdn.com/mk.svg",
 			"png": "https://flagcdn.com/w320/mk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mk.png"
+		},
 		"population": 2077132,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
@@ -27346,6 +28080,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -27520,6 +28255,10 @@
 			"svg": "https://flagcdn.com/ml.svg",
 			"png": "https://flagcdn.com/w320/ml.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ml.png"
+		},
 		"population": 20250834,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
@@ -27534,6 +28273,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -27705,6 +28445,10 @@
 			"svg": "https://flagcdn.com/mt.svg",
 			"png": "https://flagcdn.com/w320/mt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mt.png"
+		},
 		"population": 525285,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
@@ -27719,6 +28463,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -27892,6 +28637,10 @@
 			"svg": "https://flagcdn.com/mm.svg",
 			"png": "https://flagcdn.com/w320/mm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mm.png"
+		},
 		"population": 54409794,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
@@ -27906,6 +28655,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:30"
 		]
@@ -28077,6 +28827,10 @@
 			"svg": "https://flagcdn.com/me.svg",
 			"png": "https://flagcdn.com/w320/me.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/me.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/me.png"
+		},
 		"population": 621718,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
@@ -28091,6 +28845,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -28258,6 +29013,10 @@
 			"svg": "https://flagcdn.com/mn.svg",
 			"png": "https://flagcdn.com/w320/mn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mn.png"
+		},
 		"population": 3278292,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
@@ -28272,6 +29031,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00",
 			"UTC+08:00"
@@ -28449,6 +29209,10 @@
 			"svg": "https://flagcdn.com/mp.svg",
 			"png": "https://flagcdn.com/w320/mp.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 57557,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
@@ -28461,6 +29225,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
 		]
@@ -28634,6 +29399,10 @@
 			"svg": "https://flagcdn.com/mz.svg",
 			"png": "https://flagcdn.com/w320/mz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mz.png"
+		},
 		"population": 31255435,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
@@ -28648,6 +29417,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -28819,6 +29589,10 @@
 			"svg": "https://flagcdn.com/mr.svg",
 			"png": "https://flagcdn.com/w320/mr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mr.png"
+		},
 		"population": 4649660,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
@@ -28833,6 +29607,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -28997,6 +29772,10 @@
 			"svg": "https://flagcdn.com/ms.svg",
 			"png": "https://flagcdn.com/w320/ms.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ms.png"
+		},
 		"population": 4922,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
@@ -29009,6 +29788,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -29173,6 +29953,10 @@
 			"svg": "https://flagcdn.com/mq.svg",
 			"png": "https://flagcdn.com/w320/mq.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mq.png"
+		},
 		"population": 378243,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
@@ -29185,6 +29969,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -29361,6 +30146,10 @@
 			"svg": "https://flagcdn.com/mu.svg",
 			"png": "https://flagcdn.com/w320/mu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mu.png"
+		},
 		"population": 1265740,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
@@ -29375,6 +30164,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -29549,6 +30339,10 @@
 			"svg": "https://flagcdn.com/mw.svg",
 			"png": "https://flagcdn.com/w320/mw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/mw.png"
+		},
 		"population": 19129955,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
@@ -29563,6 +30357,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -29736,6 +30531,10 @@
 			"svg": "https://flagcdn.com/my.svg",
 			"png": "https://flagcdn.com/w320/my.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/my.png"
+		},
 		"population": 32365998,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
@@ -29750,6 +30549,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -29916,6 +30716,10 @@
 			"svg": "https://flagcdn.com/yt.svg",
 			"png": "https://flagcdn.com/w320/yt.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 226915,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
@@ -29928,6 +30732,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -30143,6 +30948,10 @@
 			"svg": "https://flagcdn.com/na.svg",
 			"png": "https://flagcdn.com/w320/na.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/na.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/na.png"
+		},
 		"population": 2540916,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
@@ -30157,6 +30966,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -30321,6 +31131,10 @@
 			"svg": "https://flagcdn.com/nc.svg",
 			"png": "https://flagcdn.com/w320/nc.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/nc.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/nc.png"
+		},
 		"population": 271960,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
@@ -30333,6 +31147,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
 		]
@@ -30506,6 +31321,10 @@
 			"svg": "https://flagcdn.com/ne.svg",
 			"png": "https://flagcdn.com/w320/ne.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ne.png"
+		},
 		"population": 24206636,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
@@ -30520,6 +31339,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -30691,6 +31511,10 @@
 			"svg": "https://flagcdn.com/nf.svg",
 			"png": "https://flagcdn.com/w320/nf.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 2302,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
@@ -30703,6 +31527,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:30"
 		]
@@ -30875,6 +31700,10 @@
 			"svg": "https://flagcdn.com/ng.svg",
 			"png": "https://flagcdn.com/w320/ng.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ng.png"
+		},
 		"population": 206139587,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
@@ -30889,6 +31718,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -31058,6 +31888,10 @@
 			"svg": "https://flagcdn.com/ni.svg",
 			"png": "https://flagcdn.com/w320/ni.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ni.png"
+		},
 		"population": 6624554,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
@@ -31072,6 +31906,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -31241,6 +32076,10 @@
 			"svg": "https://flagcdn.com/nu.svg",
 			"png": "https://flagcdn.com/w320/nu.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 1470,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
@@ -31253,6 +32092,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00"
 		]
@@ -31423,6 +32263,10 @@
 			"svg": "https://flagcdn.com/nl.svg",
 			"png": "https://flagcdn.com/w320/nl.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/nl.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/nl.png"
+		},
 		"population": 16655799,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
@@ -31437,6 +32281,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
 			"UTC+01:00"
@@ -31621,6 +32466,10 @@
 			"svg": "https://flagcdn.com/no.svg",
 			"png": "https://flagcdn.com/w320/no.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/no.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/no.png"
+		},
 		"population": 5379475,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
@@ -31635,6 +32484,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -31804,6 +32654,10 @@
 			"svg": "https://flagcdn.com/np.svg",
 			"png": "https://flagcdn.com/w320/np.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/np.png"
+		},
 		"population": 29136808,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
@@ -31818,6 +32672,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+05:45"
 		]
@@ -31991,6 +32846,10 @@
 			"svg": "https://flagcdn.com/nr.svg",
 			"png": "https://flagcdn.com/w320/nr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/nr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/nr.png"
+		},
 		"population": 10834,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
@@ -32005,6 +32864,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
 		]
@@ -32180,6 +33040,10 @@
 			"svg": "https://flagcdn.com/nz.svg",
 			"png": "https://flagcdn.com/w320/nz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/nz.png"
+		},
 		"population": 5084300,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
@@ -32192,6 +33056,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00",
 			"UTC-10:00",
@@ -32366,6 +33231,10 @@
 			"svg": "https://flagcdn.com/om.svg",
 			"png": "https://flagcdn.com/w320/om.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/om.png"
+		},
 		"population": 5106622,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
@@ -32378,6 +33247,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -32555,6 +33425,10 @@
 			"svg": "https://flagcdn.com/pk.svg",
 			"png": "https://flagcdn.com/w320/pk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pk.png"
+		},
 		"population": 220892331,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
@@ -32569,6 +33443,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -32742,6 +33617,10 @@
 			"svg": "https://flagcdn.com/pa.svg",
 			"png": "https://flagcdn.com/w320/pa.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pa.png"
+		},
 		"population": 4314768,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
@@ -32756,6 +33635,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -32922,6 +33802,10 @@
 			"svg": "https://flagcdn.com/pn.svg",
 			"png": "https://flagcdn.com/w320/pn.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 56,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
@@ -32934,6 +33818,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00"
 		]
@@ -33116,6 +34001,10 @@
 			"svg": "https://flagcdn.com/pe.svg",
 			"png": "https://flagcdn.com/w320/pe.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pe.png"
+		},
 		"population": 32971846,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
@@ -33130,6 +34019,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
 		]
@@ -33301,6 +34191,10 @@
 			"svg": "https://flagcdn.com/ph.svg",
 			"png": "https://flagcdn.com/w320/ph.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ph.png"
+		},
 		"population": 109581085,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
@@ -33315,6 +34209,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -33486,6 +34381,10 @@
 			"svg": "https://flagcdn.com/pw.svg",
 			"png": "https://flagcdn.com/w320/pw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pw.png"
+		},
 		"population": 18092,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
@@ -33498,6 +34397,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
 		]
@@ -33676,6 +34576,10 @@
 			"svg": "https://flagcdn.com/pg.svg",
 			"png": "https://flagcdn.com/w320/pg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pg.png"
+		},
 		"population": 8947027,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
@@ -33690,6 +34594,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
 		]
@@ -33864,6 +34769,10 @@
 			"svg": "https://flagcdn.com/pl.svg",
 			"png": "https://flagcdn.com/w320/pl.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pl.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pl.png"
+		},
 		"population": 37950802,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
@@ -33878,6 +34787,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -34050,6 +34960,10 @@
 			"svg": "https://flagcdn.com/pr.svg",
 			"png": "https://flagcdn.com/w320/pr.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 3194034,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
@@ -34062,6 +34976,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -34237,6 +35152,10 @@
 			"svg": "https://flagcdn.com/kp.svg",
 			"png": "https://flagcdn.com/w320/kp.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/kp.png"
+		},
 		"population": 25778815,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
@@ -34249,6 +35168,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
 		]
@@ -34418,6 +35338,10 @@
 			"svg": "https://flagcdn.com/pt.svg",
 			"png": "https://flagcdn.com/w320/pt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pt.png"
+		},
 		"population": 10305564,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
@@ -34432,6 +35356,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-01:00",
 			"UTC"
@@ -34609,6 +35534,10 @@
 			"svg": "https://flagcdn.com/py.svg",
 			"png": "https://flagcdn.com/w320/py.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/py.png"
+		},
 		"population": 7132530,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
@@ -34623,6 +35552,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -34803,6 +35733,10 @@
 			"svg": "https://flagcdn.com/ps.svg",
 			"png": "https://flagcdn.com/w320/ps.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ps.png"
+		},
 		"population": 4803269,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
@@ -34817,6 +35751,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -34984,6 +35919,10 @@
 			"svg": "https://flagcdn.com/pf.svg",
 			"png": "https://flagcdn.com/w320/pf.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/pf.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/pf.png"
+		},
 		"population": 280904,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
@@ -34996,6 +35935,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00",
 			"UTC-09:30",
@@ -35167,6 +36107,10 @@
 			"svg": "https://flagcdn.com/qa.svg",
 			"png": "https://flagcdn.com/w320/qa.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/qa.png"
+		},
 		"population": 2881060,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
@@ -35179,6 +36123,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -35344,6 +36289,10 @@
 			"svg": "https://flagcdn.com/re.svg",
 			"png": "https://flagcdn.com/w320/re.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 840974,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
@@ -35356,6 +36305,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -35529,6 +36479,10 @@
 			"svg": "https://flagcdn.com/ro.svg",
 			"png": "https://flagcdn.com/w320/ro.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ro.png"
+		},
 		"population": 19286123,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
@@ -35543,6 +36497,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -35730,6 +36685,10 @@
 			"svg": "https://flagcdn.com/ru.svg",
 			"png": "https://flagcdn.com/w320/ru.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ru.png"
+		},
 		"population": 144104080,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
@@ -35744,6 +36703,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00",
 			"UTC+04:00",
@@ -35934,6 +36894,10 @@
 			"svg": "https://flagcdn.com/rw.svg",
 			"png": "https://flagcdn.com/w320/rw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/rw.png"
+		},
 		"population": 12952209,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
@@ -35948,6 +36912,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -36124,6 +37089,10 @@
 			"svg": "https://flagcdn.com/sa.svg",
 			"png": "https://flagcdn.com/w320/sa.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sa.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sa.png"
+		},
 		"population": 34813867,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
@@ -36136,6 +37105,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -36315,6 +37285,10 @@
 			"svg": "https://flagcdn.com/sd.svg",
 			"png": "https://flagcdn.com/w320/sd.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sd.png"
+		},
 		"population": 43849269,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
@@ -36329,6 +37303,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -36501,6 +37476,10 @@
 			"svg": "https://flagcdn.com/sn.svg",
 			"png": "https://flagcdn.com/w320/sn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sn.png"
+		},
 		"population": 16743930,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
@@ -36515,6 +37494,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -36695,6 +37675,10 @@
 			"svg": "https://flagcdn.com/sg.svg",
 			"png": "https://flagcdn.com/w320/sg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sg.png"
+		},
 		"population": 5685807,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
@@ -36707,6 +37691,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -36872,6 +37857,10 @@
 			"svg": "https://flagcdn.com/gs.svg",
 			"png": "https://flagcdn.com/w320/gs.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 30,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
@@ -36884,6 +37873,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-02:00"
 		]
@@ -37049,6 +38039,10 @@
 			"svg": "https://flagcdn.com/sj.svg",
 			"png": "https://flagcdn.com/w320/sj.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 2562,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
@@ -37061,6 +38055,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -37225,6 +38220,10 @@
 			"svg": "https://flagcdn.com/sb.svg",
 			"png": "https://flagcdn.com/w320/sb.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sb.png"
+		},
 		"population": 686878,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
@@ -37239,6 +38238,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
 		]
@@ -37407,6 +38407,10 @@
 			"svg": "https://flagcdn.com/sl.svg",
 			"png": "https://flagcdn.com/w320/sl.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sl.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sl.png"
+		},
 		"population": 7976985,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
@@ -37421,6 +38425,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -37590,6 +38595,10 @@
 			"svg": "https://flagcdn.com/sv.svg",
 			"png": "https://flagcdn.com/w320/sv.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sv.png"
+		},
 		"population": 6486201,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
@@ -37604,6 +38613,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
 		]
@@ -37772,6 +38782,10 @@
 			"svg": "https://flagcdn.com/sm.svg",
 			"png": "https://flagcdn.com/w320/sm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sm.png"
+		},
 		"population": 33938,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
@@ -37784,6 +38798,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -37961,6 +38976,10 @@
 			"svg": "https://flagcdn.com/so.svg",
 			"png": "https://flagcdn.com/w320/so.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/so.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/so.png"
+		},
 		"population": 15893219,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
@@ -37975,6 +38994,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -38140,6 +39160,10 @@
 			"svg": "https://flagcdn.com/pm.svg",
 			"png": "https://flagcdn.com/w320/pm.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 6069,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
@@ -38152,6 +39176,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
 		]
@@ -38330,6 +39355,10 @@
 			"svg": "https://flagcdn.com/rs.svg",
 			"png": "https://flagcdn.com/w320/rs.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/rs.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/rs.png"
+		},
 		"population": 6908224,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
@@ -38344,6 +39373,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -38515,6 +39545,10 @@
 			"svg": "https://flagcdn.com/ss.svg",
 			"png": "https://flagcdn.com/w320/ss.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ss.png"
+		},
 		"population": 11193729,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
@@ -38529,6 +39563,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -38696,6 +39731,10 @@
 			"svg": "https://flagcdn.com/st.svg",
 			"png": "https://flagcdn.com/w320/st.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/st.png"
+		},
 		"population": 219161,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
@@ -38710,6 +39749,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -38882,6 +39922,10 @@
 			"svg": "https://flagcdn.com/sr.svg",
 			"png": "https://flagcdn.com/w320/sr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sr.png"
+		},
 		"population": 586634,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
@@ -38896,6 +39940,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
 		]
@@ -39068,6 +40113,10 @@
 			"svg": "https://flagcdn.com/sk.svg",
 			"png": "https://flagcdn.com/w320/sk.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sk.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sk.png"
+		},
 		"population": 5458827,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
@@ -39082,6 +40131,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -39253,6 +40303,10 @@
 			"svg": "https://flagcdn.com/si.svg",
 			"png": "https://flagcdn.com/w320/si.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/si.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/si.png"
+		},
 		"population": 2100126,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
@@ -39267,6 +40321,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -39436,6 +40491,10 @@
 			"svg": "https://flagcdn.com/se.svg",
 			"png": "https://flagcdn.com/w320/se.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/se.png"
+		},
 		"population": 10353442,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
@@ -39450,6 +40509,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -39632,6 +40692,10 @@
 			"svg": "https://flagcdn.com/sz.svg",
 			"png": "https://flagcdn.com/w320/sz.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 1160164,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
@@ -39646,6 +40710,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -39823,6 +40888,10 @@
 			"svg": "https://flagcdn.com/sx.svg",
 			"png": "https://flagcdn.com/w320/sx.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 40812,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
@@ -39835,6 +40904,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -40012,6 +41082,10 @@
 			"svg": "https://flagcdn.com/sc.svg",
 			"png": "https://flagcdn.com/w320/sc.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sc.png"
+		},
 		"population": 98462,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
@@ -40026,6 +41100,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
 		]
@@ -40199,6 +41274,10 @@
 			"svg": "https://flagcdn.com/sy.svg",
 			"png": "https://flagcdn.com/w320/sy.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/sy.png"
+		},
 		"population": 17500657,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
@@ -40213,6 +41292,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -40377,6 +41457,10 @@
 			"svg": "https://flagcdn.com/tc.svg",
 			"png": "https://flagcdn.com/w320/tc.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 38718,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
@@ -40389,6 +41473,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -40568,6 +41653,10 @@
 			"svg": "https://flagcdn.com/td.svg",
 			"png": "https://flagcdn.com/w320/td.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/td.png"
+		},
 		"population": 16425859,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
@@ -40583,6 +41672,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -40754,6 +41844,10 @@
 			"svg": "https://flagcdn.com/tg.svg",
 			"png": "https://flagcdn.com/w320/tg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tg.png"
+		},
 		"population": 8278737,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
@@ -40768,6 +41862,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
 		]
@@ -40943,6 +42038,10 @@
 			"svg": "https://flagcdn.com/th.svg",
 			"png": "https://flagcdn.com/w320/th.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/th.png"
+		},
 		"population": 69799978,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
@@ -40957,6 +42056,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
 		]
@@ -41135,6 +42235,10 @@
 			"svg": "https://flagcdn.com/tj.svg",
 			"png": "https://flagcdn.com/w320/tj.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tj.png"
+		},
 		"population": 9537642,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
@@ -41149,6 +42253,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -41323,6 +42428,10 @@
 			"svg": "https://flagcdn.com/tk.svg",
 			"png": "https://flagcdn.com/w320/tk.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 1411,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
@@ -41335,6 +42444,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
 		]
@@ -41509,6 +42619,10 @@
 			"svg": "https://flagcdn.com/tm.svg",
 			"png": "https://flagcdn.com/w320/tm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tm.png"
+		},
 		"population": 6031187,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
@@ -41523,6 +42637,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -41700,6 +42815,10 @@
 			"svg": "https://flagcdn.com/tl.svg",
 			"png": "https://flagcdn.com/w320/tl.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 1318442,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
@@ -41714,6 +42833,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
 		]
@@ -41883,6 +43003,10 @@
 			"svg": "https://flagcdn.com/to.svg",
 			"png": "https://flagcdn.com/w320/to.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/to.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/to.png"
+		},
 		"population": 105697,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
@@ -41897,6 +43021,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
 		]
@@ -42062,6 +43187,10 @@
 			"svg": "https://flagcdn.com/tt.svg",
 			"png": "https://flagcdn.com/w320/tt.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tt.png"
+		},
 		"population": 1399491,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
@@ -42076,6 +43205,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -42245,6 +43375,10 @@
 			"svg": "https://flagcdn.com/tn.svg",
 			"png": "https://flagcdn.com/w320/tn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tn.png"
+		},
 		"population": 11818618,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
@@ -42259,6 +43393,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -42435,6 +43570,10 @@
 			"svg": "https://flagcdn.com/tr.svg",
 			"png": "https://flagcdn.com/w320/tr.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tr.png"
+		},
 		"population": 84339067,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
@@ -42449,6 +43588,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -42622,6 +43762,10 @@
 			"svg": "https://flagcdn.com/tv.svg",
 			"png": "https://flagcdn.com/w320/tv.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tv.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tv.png"
+		},
 		"population": 11792,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
@@ -42636,6 +43780,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
 		]
@@ -42803,6 +43948,10 @@
 			"svg": "https://flagcdn.com/tw.svg",
 			"png": "https://flagcdn.com/w320/tw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tw.png"
+		},
 		"population": 23503349,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
@@ -42815,6 +43964,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
 		]
@@ -42996,6 +44146,10 @@
 			"svg": "https://flagcdn.com/tz.svg",
 			"png": "https://flagcdn.com/w320/tz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/tz.png"
+		},
 		"population": 59734213,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
@@ -43010,6 +44164,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -43187,6 +44342,10 @@
 			"svg": "https://flagcdn.com/ug.svg",
 			"png": "https://flagcdn.com/w320/ug.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ug.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ug.png"
+		},
 		"population": 45741000,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
@@ -43201,6 +44360,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -43375,6 +44535,10 @@
 			"svg": "https://flagcdn.com/ua.svg",
 			"png": "https://flagcdn.com/w320/ua.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ua.png"
+		},
 		"population": 44134693,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
@@ -43389,6 +44553,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -43551,6 +44716,10 @@
 			"svg": "https://flagcdn.com/um.svg",
 			"png": "https://flagcdn.com/w320/um.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 300,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
@@ -43563,6 +44732,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00",
 			"UTC-10:00",
@@ -43734,6 +44904,10 @@
 			"svg": "https://flagcdn.com/uy.svg",
 			"png": "https://flagcdn.com/w320/uy.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/uy.png"
+		},
 		"population": 3473727,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
@@ -43748,6 +44922,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
 		]
@@ -44233,6 +45408,10 @@
 			"svg": "https://flagcdn.com/us.svg",
 			"png": "https://flagcdn.com/w320/us.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/us.png"
+		},
 		"population": 329484123,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
@@ -44247,6 +45426,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC-12:00",
 			"UTC-11:00",
@@ -44435,6 +45615,10 @@
 			"svg": "https://flagcdn.com/uz.svg",
 			"png": "https://flagcdn.com/w320/uz.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/uz.png"
+		},
 		"population": 34232050,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
@@ -44449,6 +45633,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
 		]
@@ -44624,6 +45809,10 @@
 			"svg": "https://flagcdn.com/va.svg",
 			"png": "https://flagcdn.com/w320/va.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/va.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/va.png"
+		},
 		"population": 451,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
@@ -44636,6 +45825,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
 		]
@@ -44800,6 +45990,10 @@
 			"svg": "https://flagcdn.com/vc.svg",
 			"png": "https://flagcdn.com/w320/vc.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/vc.png"
+		},
 		"population": 110947,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
@@ -44812,6 +46006,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -44983,6 +46178,10 @@
 			"svg": "https://flagcdn.com/ve.svg",
 			"png": "https://flagcdn.com/w320/ve.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ve.png"
+		},
 		"population": 28435943,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
@@ -44997,6 +46196,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -45162,6 +46362,10 @@
 			"svg": "https://flagcdn.com/vg.svg",
 			"png": "https://flagcdn.com/w320/vg.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/vg.png"
+		},
 		"population": 30237,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
@@ -45174,6 +46378,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -45339,6 +46544,10 @@
 			"svg": "https://flagcdn.com/vi.svg",
 			"png": "https://flagcdn.com/w320/vi.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 106290,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
@@ -45351,6 +46560,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
 		]
@@ -45522,6 +46732,10 @@
 			"svg": "https://flagcdn.com/vn.svg",
 			"png": "https://flagcdn.com/w320/vn.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/vn.png"
+		},
 		"population": 97338583,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
@@ -45536,6 +46750,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
 		]
@@ -45713,6 +46928,10 @@
 			"svg": "https://flagcdn.com/vu.svg",
 			"png": "https://flagcdn.com/w320/vu.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/vu.png"
+		},
 		"population": 307150,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
@@ -45727,6 +46946,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
 		]
@@ -45893,6 +47113,10 @@
 			"svg": "https://flagcdn.com/wf.svg",
 			"png": "https://flagcdn.com/w320/wf.png"
 		},
+		"coatOfArms": {
+			"png": "",
+			"svg": ""
+		},
 		"population": 11750,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
@@ -45905,6 +47129,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
 		]
@@ -46076,6 +47301,10 @@
 			"svg": "https://flagcdn.com/ws.svg",
 			"png": "https://flagcdn.com/w320/ws.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ws.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ws.png"
+		},
 		"population": 198410,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
@@ -46090,6 +47319,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
 		]
@@ -46259,6 +47489,10 @@
 			"svg": "https://flagcdn.com/ye.svg",
 			"png": "https://flagcdn.com/w320/ye.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/ye.png"
+		},
 		"population": 29825968,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
@@ -46273,6 +47507,7 @@
 			],
 			"side": "right"
 		},
+		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
 		]
@@ -46499,6 +47734,10 @@
 			"svg": "https://flagcdn.com/za.svg",
 			"png": "https://flagcdn.com/w320/za.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/za.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/za.png"
+		},
 		"population": 59308690,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
@@ -46513,6 +47752,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -46687,6 +47927,10 @@
 			"svg": "https://flagcdn.com/zm.svg",
 			"png": "https://flagcdn.com/w320/zm.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/zm.png"
+		},
 		"population": 18383956,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
@@ -46701,6 +47945,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
@@ -46941,6 +48186,10 @@
 			"svg": "https://flagcdn.com/zw.svg",
 			"png": "https://flagcdn.com/w320/zw.png"
 		},
+		"coatOfArms": {
+			"svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg",
+			"png": "https://mainfacts.com/media/images/coats_of_arms/zw.png"
+		},
 		"population": 14862927,
 		"maps": {
 			"googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
@@ -46955,6 +48204,7 @@
 			],
 			"side": "left"
 		},
+		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
 		]
