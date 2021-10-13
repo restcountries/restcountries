@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 public class BaseCountry {
+
   private Name name;
   private List<String> tld;
   private String cca2;
@@ -33,6 +34,7 @@ public class BaseCountry {
   private Map<String, Double> gini;
   private String fifa;
   private Car car;
+  private List<String> timezones;
 
   public Name getName() {
     return name;
@@ -198,7 +200,7 @@ public class BaseCountry {
 
   @Override
   public String toString() {
-    return "Country{" +  "\n" +
+    return "Country{" + "\n" +
         "NativeName=" + name.getNativeName() + "\n" +
         "Common=" + name.getCommon() + "\n" +
         "Official=" + name.getOfficial() + "\n" +
@@ -294,5 +296,13 @@ public class BaseCountry {
 
   public void setCar(Car car) {
     this.car = car;
+  }
+
+  public List<String> getTimezones() {
+    return timezones;
+  }
+
+  public void setTimezones(List<String> timezones) {
+    this.timezones = timezones;
   }
 }

@@ -33,6 +33,7 @@ public class ControllerHelper {
       "population",
       "gini",
       "fifa",
-      "car"
+      "car",
+      "timezones"
   };
 }
