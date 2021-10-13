@@ -141,11 +141,11 @@ public class CountryControllerV2 {
     }
   }
 
-  @Get("continent/{continent}")
-  public Object getByContinent(@PathVariable("continent") String region,
+  @Get("region/{region}")
+  public Object getByContinent(@PathVariable("region") String region,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryServiceV2.getInstance().getByContinent(region);
+      List<Country> countries = CountryServiceV2.getInstance().getByRegion(region);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
@@ -155,11 +155,11 @@ public class CountryControllerV2 {
     }
   }
 
-  @Get("region/{region}")
-  public Object getBySubRegion(@PathVariable("region") String region,
+  @Get("subregion/{subregion}")
+  public Object getBySubRegion(@PathVariable("subregion") String subregion,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      List<Country> countries = CountryServiceV2.getInstance().getByRegion(region);
+      List<Country> countries = CountryServiceV2.getInstance().getBySubregion(subregion);
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }

@@ -14,7 +14,7 @@ Any help is welcome! Just edit the file relevant file and create a new Merge Req
 [donate].
 
 # Donations
-We're getting about 1.6 millions hits each day and that means also bandwidth (24 GB per day!) so
+We're getting about 1.6 millions hits **each day** and that means also bandwidth (24 GB **per day!**) so
 costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's 
 bills, you're welcome to [donate] or you can also 
 [buy me a coffee](https://www.buymeacoffee.com/amatos). 
@@ -65,9 +65,9 @@ Below are described the REST endpoints available that you can use to search for 
 https://restcountries.com/v2/all
 ```
 
-### V3
+### V3.1
 ``` html
-https://restcountries.com/v3/all
+https://restcountries.com/v3.1/all
 ```
 
 
@@ -88,18 +88,18 @@ https://restcountries.com/v2/name/eesti
 https://restcountries.com/v2/name/united
 ```
 
-### V3
+### V3.1
 Search by country name. It can be the common or official value
 ``` html
-https://restcountries.com/v3/name/{name}
+https://restcountries.com/v3.1/name/{name}
 ```
 
 ``` html
-https://restcountries.com/v3/name/eesti
+https://restcountries.com/v3.1/name/eesti
 ```
 
 ``` html
-https://restcountries.com/v3/name/deutschland
+https://restcountries.com/v3.1/name/deutschland
 ```
 
 ## Full Name
@@ -114,14 +114,14 @@ https://restcountries.com/v2/name/{name}?fullText=true
 https://restcountries.com/v2/name/aruba?fullText=true
 ```
 
-### V3
+### V3.1
 Search by country's full name. It can be the common or official value
 ``` html
-https://restcountries.com/v3/name/{name}?fullText=true
+https://restcountries.com/v3.1/name/{name}?fullText=true
 ```
 
 ``` html
-https://restcountries.com/v3/name/aruba?fullText=true
+https://restcountries.com/v3.1/name/aruba?fullText=true
 ```
 ## Code
 ### V2
@@ -138,23 +138,23 @@ https://restcountries.com/v2/alpha/co
 ``` html
 https://restcountries.com/v2/alpha/col
 ```
-### V3
+### V3.1
 Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
 
 ``` html
-https://restcountries.com/v3/alpha/{code}
+https://restcountries.com/v3.1/alpha/{code}
 ```
 
 ``` html
-https://restcountries.com/v3/alpha/co
+https://restcountries.com/v3.1/alpha/co
 ```
 
 ``` html
-https://restcountries.com/v3/alpha/col
+https://restcountries.com/v3.1/alpha/col
 ```
 
 ``` html
-https://restcountries.com/v3/alpha/170
+https://restcountries.com/v3.1/alpha/170
 ```
 ## List of codes
 ### V2
@@ -167,14 +167,14 @@ https://restcountries.com/v2/alpha?codes={code},{code},{code}
 ``` html
 https://restcountries.com/v2/alpha?codes=col,no,ee,pe
 ```
-### V3
+### V3.1
 Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
 ``` html
-https://restcountries.com/v3/alpha?codes={code},{code},{code}
+https://restcountries.com/v3.1/alpha?codes={code},{code},{code}
 ```
 
 ``` html
-https://restcountries.com/v3/alpha?codes=170,no,est,pe
+https://restcountries.com/v3.1/alpha?codes=170,no,est,pe
 ```
 ## Currency
 ### V2
@@ -186,23 +186,23 @@ https://restcountries.com/v2/currency/{currency}
 ``` html
 https://restcountries.com/v2/currency/cop
 ```
-### V3
+### V3.1
 Search by currency code or name
 ``` html
-https://restcountries.com/v3/currency/{currency}
+https://restcountries.com/v3.1/currency/{currency}
 ```
 ``` html
-https://restcountries.com/v3/currency/cop
+https://restcountries.com/v3.1/currency/cop
 ```
 
 ### Demonym
-### V3
+### V3.1
 Now you can search by how a citizen is called.
 ``` html
-https://restcountries.com/v3/demonym/{demonym}
+https://restcountries.com/v3.1/demonym/{demonym}
 ```
 ``` html
-https://restcountries.com/v3/demonym/peruvian
+https://restcountries.com/v3.1/demonym/peruvian
 ```
 
 ## Language
@@ -216,16 +216,16 @@ https://restcountries.com/v2/lang/{et}
 https://restcountries.com/v2/lang/es
 ```
 
-### V3
+### V3.1
 Search by language code or name
 ``` html
-https://restcountries.com/v3/lang/{currency}
+https://restcountries.com/v3.1/lang/{currency}
 ```
 ``` html
-https://restcountries.com/v3/lang/cop
+https://restcountries.com/v3.1/lang/cop
 ```
 ``` html
-https://restcountries.com/v3/lang/spanish
+https://restcountries.com/v3.1/lang/spanish
 ```
 
 ## Capital city
@@ -242,10 +242,10 @@ https://restcountries.com/v2/capital/tallinn
 ```
 
 ``` javascript
-https://restcountries.com/v3/capital/{capital}
+https://restcountries.com/v3.1/capital/{capital}
 ```
 ``` html
-https://restcountries.com/v3/capital/tallinn
+https://restcountries.com/v3.1/capital/tallinn
 ```
 
 ## Calling code
@@ -258,43 +258,31 @@ https://restcountries.com/v2/callingcode/{callingcode}
 ``` html
 https://restcountries.com/v2/callingcode/372
 ```
-### V3
+### V3.1
 In version 3, calling codes are in the _idd_ object. There is no implementation 
 to search by calling codes in V3.
 
 ## Region
-### V2
-In version 2 regions are _continent_ and subregions are _region_
-Search by continent: Africa, Americas, Asia, Europe, Oceania
+### V2 - V3 & V3.1
+Search by region (replace X with the version you want to use)
 
 ``` html
-https://restcountries.com/v2/continent/{continent}
+https://restcountries.com/vX/region/{region}
 ```
 ``` html
-https://restcountries.com/v2/continent/europe
-```
-### V3
-In version 3, continents are _Regions_ and regions are _Subregions_
-
-``` html
-https://restcountries.com/v2/region/{region}
-```
-``` html
-https://restcountries.com/v2/region/europe
+https://restcountries.com/vX/region/europe
 ```
 ## Subregions
-###V3
-You can search by subregions
+### V2 - V3 & V3.1
+You can search by subregions (replace X with the version you want to use)
 ``` html
-https://restcountries.com/v2/subregion/{subregion}
+https://restcountries.com/vX/subregion/{subregion}
 ```
 ``` html
-https://restcountries.com/v2/subregion/Northern Europe
+https://restcountries.com/vX/subregion/Northern Europe
 ```
 
 ## Regional Bloc (*Version 2 only*)
-
-
 
 Search by regional bloc:
 
@@ -319,19 +307,19 @@ https://restcountries.com/v2/regionalbloc/{regionalbloc}
 https://restcountries.com/v2/regionalbloc/eu
 ```
 
-## Translation
+## Translation (*V3.x only*)
 You can search by any translation name
 ``` html
-https://restcountries.com/v3/translation/{translation}
+https://restcountries.com/v3.1/translation/{translation}
 ```
 ``` html
-https://restcountries.com/v3/translation/germany
+https://restcountries.com/v3.1/translation/germany
 ```
 ``` html
-https://restcountries.com/v3/translation/alemania
+https://restcountries.com/v3.1/translation/alemania
 ```
 ``` html
-https://restcountries.com/v3/translation/Saksamaa
+https://restcountries.com/v3.1/translation/Saksamaa
 ```
 
 ## Response Example

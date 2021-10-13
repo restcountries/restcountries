@@ -56,20 +56,20 @@ public class CountryServiceV2 extends CountryServiceBaseV2 {
   }
 
   @SuppressWarnings("unchecked")
-  public List<Country> getByContinent(String region) {
-    return (List<Country>) super.getByContinent(region, countries);
+  public List<Country> getByRegion(String region) {
+    return (List<Country>) super.getByRegion(region, countries);
   }
 
   @SuppressWarnings("unchecked")
-  public List<Country> getByRegion(String subregion) {
-    return (List<Country>) super.getByRegion(subregion, countries);
+  public List<Country> getBySubregion(String subregion) {
+    return (List<Country>) super.getBySubregion(subregion, countries);
   }
 
   public List<Country> getByCurrency(String currency) {
     List<Country> result = new ArrayList<>();
     for (Country country : countries) {
       for (Currency curr : country.getCurrencies()) {
-        if (curr.getCode() != null && currency.toLowerCase().equals(curr.getCode().toLowerCase())) {
+        if (curr.getCode() != null && currency.equalsIgnoreCase(curr.getCode())) {
           result.add(country);
         }
       }
@@ -80,23 +80,27 @@ public class CountryServiceV2 extends CountryServiceBaseV2 {
   public List<Country> getByLanguage(String language) {
     List<Country> result = new ArrayList<>();
     if (language.length() == 2) {
-      for (Country country : countries) {
-        for (Language lang : country.getLanguages()) {
-          if (language.toLowerCase().equals(lang.getIso639_1())) {
-            result.add(country);
-          }
-        }
-      }
+      checkLanguageAndAddIfIso1Matches(language, result);
     } else if (language.length() == 3) {
-      for (Country country : countries) {
-        for (Language lang : country.getLanguages()) {
-          if (language.toLowerCase().equals(lang.getIso639_2())) {
-            result.add(country);
-          }
-        }
-      }
+      checkLanguageAndAddIfIso2Matches(language, result);
     }
     return result;
+  }
+
+  private void checkLanguageAndAddIfIso2Matches(String language, List<Country> result) {
+    countries.forEach(country -> country.getLanguages().forEach(lang -> {
+      if (language.toLowerCase().equals(lang.getIso639_2())) {
+        result.add(country);
+      }
+    }));
+  }
+
+  private void checkLanguageAndAddIfIso1Matches(String language, List<Country> result) {
+    countries.forEach(country -> country.getLanguages().forEach(lang -> {
+      if (language.toLowerCase().equals(lang.getIso639_1())) {
+        result.add(country);
+      }
+    }));
   }
 
   public List<Country> getByDemonym(String demonym) {

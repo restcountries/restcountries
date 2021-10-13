@@ -12,3 +12,10 @@ micronaut:
         web:
           allowedMethods:
           - GET
+  caches:
+    rate-limiter:
+      expire-after-access: 10m
+rate-limiter:
+  timeout-duration: 100ms
+  limit-refresh-period: 5s
+  limit-for-period: 5
