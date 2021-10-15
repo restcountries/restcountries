@@ -11,6 +11,7 @@ In this table you can find the fields of the different API versions, extra infor
 | borders                | v  | v  |  v   | Border countries |
 | callingCodes / idd     | v  | v  |  v   | International dialing codes |
 | capital                | v  | v  |  v   | Capital cities |
+| capitalInfo > latlng   |    |    |      | Capital latitude and longitude |
 | car > signs            |    |    |  v   | Car distinguised (oval) signs |
 | car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
@@ -21,6 +22,7 @@ In this table you can find the fields of the different API versions, extra infor
 | demonyms (m/f)         |    | v  |  v   | Genderized inhabitants of the country |
 | independent            | v  | v  |  v   | ISO 3166-1 independence status (the country is considered a sovereign state) |
 | fifa                   |    |    |  v   | FIFA code |
+| fips                   |    |    |      | US government FIPS country code |
 | flag                   | v  | v  |  v   | v2: Link to the svg flag on [Flagpedia](https://flagpedia.net/), v3: flag emoji |
 | flags                  | v  | v  |  v   | [Flagpedia](https://flagpedia.net/) links to svg and png flags |
 | gini                   | v  | v  |  v   | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
@@ -34,6 +36,7 @@ In this table you can find the fields of the different API versions, extra infor
 | nativeName > official/common |    | v  |  v   | Official and common native country name |
 | numericCode / ccn3     | v  |    |      | ISO 3166-1 numeric code (UN M49) |
 | population             | v  | v  |   v  | Country population |
+| postalCodes > format/regex |    |    |      | Country postal codes |
 | region                 | v  | v  |   v  | UN [demographic regions](https://unstats.un.org/unsd/methodology/m49/) |
 | regionalBlocs          | v  |    |      |      |
 | startOfWeek            |    |    |      | Day of the start of week (Sunday/Monday) |
