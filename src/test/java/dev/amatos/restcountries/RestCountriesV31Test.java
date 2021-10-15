@@ -150,4 +150,22 @@ class RestCountriesV31Test {
     }
     Assertions.assertTrue(result);
   }
+
+  @Test
+  void testCoatOfArms() {
+    var countries = CountryServiceV31.getInstance().getAll();
+    var result = true;
+    try {
+      for (var country : countries) {
+        if (null == country.getCoatOfArms().getPng() || null == country.getCoatOfArms().getSvg()) {
+          result = false;
+          break;
+        }
+      }
+    } catch (
+        Exception ex) {
+      Assertions.fail();
+    }
+    Assertions.assertTrue(result);
+  }
 }

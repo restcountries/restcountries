@@ -35,6 +35,8 @@ public class ControllerHelper {
       "fifa",
       "car",
       "timezones",
-      "continents"
+      "continents",
+      "coatOfArms",
+      "startOfWeek"
   };
 }
