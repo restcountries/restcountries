@@ -15,14 +15,13 @@ In this table you can find the fields of the different API versions, extra infor
 | car > signs            |    |    |  v   | Car distinguised (oval) signs |
 | car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
-| coatOfArms             |    |    |      | [MainFacts.com](https://mainfacts.com/coat-of-arms-countries-world) links to svg and png images |
+| coatOfArms             |    |    |  v   | [MainFacts.com](https://mainfacts.com/coat-of-arms-countries-world) links to svg and png images |
 | continents             |    |    |  v   | List of continents the country is on |
 | currencies             | v  | v  |  v   | List of all currencies |
 | demonym                | v  |    |      | Inhabitants of the country |
 | demonyms (m/f)         |    | v  |  v   | Genderized inhabitants of the country |
 | independent            | v  | v  |  v   | ISO 3166-1 independence status (the country is considered a sovereign state) |
 | fifa                   |    |    |  v   | FIFA code |
-| fips                   |    |    |      | US government FIPS country code |
 | flag                   | v  | v  |  v   | v2: Link to the svg flag on [Flagpedia](https://flagpedia.net/), v3: flag emoji |
 | flags                  | v  | v  |  v   | [Flagpedia](https://flagpedia.net/) links to svg and png flags |
 | gini                   | v  | v  |  v   | Worldbank [Gini](https://data.worldbank.org/indicator/SI.POV.GINI) index     |
