@@ -11,10 +11,11 @@ In this table you can find the fields of the different API versions, extra infor
 | borders                | v  | v  |  v   | Border countries |
 | callingCodes / idd     | v  | v  |  v   | International dialing codes |
 | capital                | v  | v  |  v   | Capital cities |
+| capitalInfo > latlng   |    |    |      | Capital latitude and longitude |
 | car > signs            |    |    |  v   | Car distinguised (oval) signs |
 | car > side             |    |    |  v   | Car driving side |
 | cioc                   | v  | v  |  v   | Code of the International Olympic Committee |
-| coatOfArms             |    |    |      | [MainFacts.com](https://mainfacts.com/coat-of-arms-countries-world) links to svg and png images |
+| coatOfArms             |    |    |  v   | [MainFacts.com](https://mainfacts.com/coat-of-arms-countries-world) links to svg and png images |
 | continents             |    |    |  v   | List of continents the country is on |
 | currencies             | v  | v  |  v   | List of all currencies |
 | demonym                | v  |    |      | Inhabitants of the country |
@@ -34,6 +35,7 @@ In this table you can find the fields of the different API versions, extra infor
 | nativeName > official/common |    | v  |  v   | Official and common native country name |
 | numericCode / ccn3     | v  |    |      | ISO 3166-1 numeric code (UN M49) |
 | population             | v  | v  |   v  | Country population |
+| postalCodes > format/regex |    |    |      | Country postal codes |
 | region                 | v  | v  |   v  | UN [demographic regions](https://unstats.un.org/unsd/methodology/m49/) |
 | regionalBlocs          | v  |    |      |      |
 | startOfWeek            |    |    |      | Day of the start of week (Sunday/Monday) |

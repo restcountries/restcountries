@@ -40,6 +40,12 @@
 		"capital": [
 			"Oranjestad"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.52,
+				-70.03
+			]
+		},
 		"altSpellings": [
 			"AW"
 		],
@@ -178,6 +184,10 @@
 			"signs": [],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -228,6 +238,12 @@
 		"capital": [
 			"Kabul"
 		],
+		"capitalInfo": {
+			"latlng": [
+				34.52,
+				69.18
+			]
+		},
 		"altSpellings": [
 			"AF",
 			"Af\u0121\u0101nist\u0101n"
@@ -377,6 +393,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:30"
@@ -419,6 +439,12 @@
 		"capital": [
 			"Luanda"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-8.83,
+				13.22
+			]
+		},
 		"altSpellings": [
 			"AO",
 			"Rep\u00fablica de Angola",
@@ -567,6 +593,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -609,6 +639,12 @@
 		"capital": [
 			"The Valley"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.22,
+				-63.05
+			]
+		},
 		"altSpellings": [
 			"AI"
 		],
@@ -748,6 +784,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -790,6 +830,12 @@
 		"capital": [
 			"Mariehamn"
 		],
+		"capitalInfo": {
+			"latlng": [
+				60.12,
+				19.9
+			]
+		},
 		"altSpellings": [
 			"AX",
 			"Aaland",
@@ -932,6 +978,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -974,6 +1024,12 @@
 		"capital": [
 			"Tirana"
 		],
+		"capitalInfo": {
+			"latlng": [
+				41.32,
+				19.82
+			]
+		},
 		"altSpellings": [
 			"AL",
 			"Shqip\u00ebri",
@@ -1123,6 +1179,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -1165,6 +1225,12 @@
 		"capital": [
 			"Andorra la Vella"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42.5,
+				1.52
+			]
+		},
 		"altSpellings": [
 			"AD",
 			"Principality of Andorra",
@@ -1309,6 +1375,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "AD###",
+			"regex": "^(?:AD)*(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -1352,6 +1422,12 @@
 		"capital": [
 			"Abu Dhabi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				24.47,
+				54.37
+			]
+		},
 		"altSpellings": [
 			"AE",
 			"UAE",
@@ -1498,6 +1574,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+04"
@@ -1544,6 +1624,12 @@
 		"capital": [
 			"Buenos Aires"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-34.58,
+				-58.67
+			]
+		},
 		"altSpellings": [
 			"AR",
 			"Argentine Republic",
@@ -1694,6 +1780,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "@####@@@",
+			"regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
@@ -1736,6 +1826,12 @@
 		"capital": [
 			"Yerevan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				40.17,
+				44.5
+			]
+		},
 		"altSpellings": [
 			"AM",
 			"Hayastan",
@@ -1885,6 +1981,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
@@ -1931,6 +2031,12 @@
 		"capital": [
 			"Pago Pago"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-14.27,
+				-170.7
+			]
+		},
 		"altSpellings": [
 			"AS",
 			"Amerika S\u0101moa",
@@ -2074,6 +2180,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00"
@@ -2102,6 +2212,9 @@
 			"suffixes": []
 		},
 		"capital": [],
+		"capitalInfo": {
+			"latlng": []
+		},
 		"altSpellings": [
 			"AQ"
 		],
@@ -2239,6 +2352,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00",
@@ -2288,6 +2405,12 @@
 		"capital": [
 			"Port-aux-Fran\u00e7ais"
 		],
+		"capitalInfo": {
+			"latlng": [
+				48.81,
+				-1.4
+			]
+		},
 		"altSpellings": [
 			"TF",
 			"French Southern Territories"
@@ -2428,6 +2551,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -2470,6 +2597,12 @@
 		"capital": [
 			"Saint John's"
 		],
+		"capitalInfo": {
+			"latlng": [
+				17.12,
+				-61.85
+			]
+		},
 		"altSpellings": [
 			"AG"
 		],
@@ -2609,6 +2742,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -2651,6 +2788,12 @@
 		"capital": [
 			"Canberra"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-35.27,
+				149.13
+			]
+		},
 		"altSpellings": [
 			"AU"
 		],
@@ -2792,6 +2935,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00",
@@ -2841,6 +2988,12 @@
 		"capital": [
 			"Vienna"
 		],
+		"capitalInfo": {
+			"latlng": [
+				48.2,
+				16.37
+			]
+		},
 		"altSpellings": [
 			"AT",
 			"Osterreich",
@@ -2993,6 +3146,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -3039,6 +3196,12 @@
 		"capital": [
 			"Baku"
 		],
+		"capitalInfo": {
+			"latlng": [
+				40.38,
+				49.87
+			]
+		},
 		"altSpellings": [
 			"AZ",
 			"Republic of Azerbaijan",
@@ -3189,6 +3352,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "AZ ####",
+			"regex": "^(?:AZ)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
@@ -3235,6 +3402,12 @@
 		"capital": [
 			"Gitega"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-3.43,
+				29.93
+			]
+		},
 		"altSpellings": [
 			"BI",
 			"Republic of Burundi",
@@ -3384,6 +3557,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -3434,6 +3611,12 @@
 		"capital": [
 			"Brussels"
 		],
+		"capitalInfo": {
+			"latlng": [
+				50.83,
+				4.33
+			]
+		},
 		"altSpellings": [
 			"BE",
 			"Belgi\u00eb",
@@ -3590,6 +3773,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -3632,6 +3819,12 @@
 		"capital": [
 			"Porto-Novo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.48,
+				2.62
+			]
+		},
 		"altSpellings": [
 			"BJ",
 			"Republic of Benin",
@@ -3780,6 +3973,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -3822,6 +4019,12 @@
 		"capital": [
 			"Ouagadougou"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.37,
+				-1.52
+			]
+		},
 		"altSpellings": [
 			"BF"
 		],
@@ -3970,6 +4173,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -4012,6 +4219,12 @@
 		"capital": [
 			"Dhaka"
 		],
+		"capitalInfo": {
+			"latlng": [
+				23.72,
+				90.4
+			]
+		},
 		"altSpellings": [
 			"BD",
 			"People's Republic of Bangladesh",
@@ -4158,6 +4371,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+06:00"
@@ -4200,6 +4417,12 @@
 		"capital": [
 			"Sofia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42.68,
+				23.32
+			]
+		},
 		"altSpellings": [
 			"BG",
 			"Republic of Bulgaria",
@@ -4349,6 +4572,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -4391,6 +4618,12 @@
 		"capital": [
 			"Manama"
 		],
+		"capitalInfo": {
+			"latlng": [
+				26.23,
+				50.57
+			]
+		},
 		"altSpellings": [
 			"BH",
 			"Kingdom of Bahrain",
@@ -4532,6 +4765,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####|###",
+			"regex": "^(\\d{3}\\d?)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -4578,6 +4815,12 @@
 		"capital": [
 			"Nassau"
 		],
+		"capitalInfo": {
+			"latlng": [
+				25.08,
+				-77.35
+			]
+		},
 		"altSpellings": [
 			"BS",
 			"Commonwealth of the Bahamas"
@@ -4718,6 +4961,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -4768,6 +5015,12 @@
 		"capital": [
 			"Sarajevo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				43.87,
+				18.42
+			]
+		},
 		"altSpellings": [
 			"BA",
 			"Bosnia-Herzegovina",
@@ -4917,6 +5170,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -4959,6 +5216,12 @@
 		"capital": [
 			"Gustavia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				17.88,
+				-62.85
+			]
+		},
 		"altSpellings": [
 			"BL",
 			"St. Barthelemy",
@@ -5101,6 +5364,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "### ###",
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -5149,6 +5416,12 @@
 		"capital": [
 			"Jamestown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-15.93,
+				-5.72
+			]
+		},
 		"altSpellings": [
 			"Saint Helena",
 			"St. Helena, Ascension and Tristan da Cunha"
@@ -5289,6 +5562,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "STHL 1ZZ",
+			"regex": "^(STHL1ZZ)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -5335,6 +5612,12 @@
 		"capital": [
 			"Minsk"
 		],
+		"capitalInfo": {
+			"latlng": [
+				53.9,
+				27.57
+			]
+		},
 		"altSpellings": [
 			"BY",
 			"Bielaru\u015b",
@@ -5487,6 +5770,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -5537,6 +5824,12 @@
 		"capital": [
 			"Belmopan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				17.25,
+				-88.77
+			]
+		},
 		"altSpellings": [
 			"BZ"
 		],
@@ -5683,6 +5976,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -5725,6 +6022,12 @@
 		"capital": [
 			"Hamilton"
 		],
+		"capitalInfo": {
+			"latlng": [
+				32.28,
+				-64.78
+			]
+		},
 		"altSpellings": [
 			"BM",
 			"The Islands of Bermuda",
@@ -5867,6 +6170,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@@ ##",
+			"regex": "^([A-Z]{2}\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -5921,6 +6228,12 @@
 		"capital": [
 			"Sucre"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-19.02,
+				-65.26
+			]
+		},
 		"altSpellings": [
 			"BO",
 			"Buliwya",
@@ -6079,6 +6392,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -6126,6 +6443,12 @@
 		"capital": [
 			"Kralendijk"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.14,
+				-68.27
+			]
+		},
 		"altSpellings": [
 			"BES islands"
 		],
@@ -6267,6 +6590,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -6309,6 +6636,12 @@
 		"capital": [
 			"Bras\u00edlia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-15.79,
+				-47.88
+			]
+		},
 		"altSpellings": [
 			"BR",
 			"Brasil",
@@ -6464,6 +6797,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####-###",
+			"regex": "^(\\d{8})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00",
@@ -6509,6 +6846,12 @@
 		"capital": [
 			"Bridgetown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.1,
+				-59.62
+			]
+		},
 		"altSpellings": [
 			"BB"
 		],
@@ -6648,6 +6991,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "BB#####",
+			"regex": "^(?:BB)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -6694,6 +7041,12 @@
 		"capital": [
 			"Bandar Seri Begawan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.88,
+				114.93
+			]
+		},
 		"altSpellings": [
 			"BN",
 			"Brunei Darussalam",
@@ -6838,6 +7191,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@@####",
+			"regex": "^([A-Z]{2}\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -6884,6 +7241,12 @@
 		"capital": [
 			"Thimphu"
 		],
+		"capitalInfo": {
+			"latlng": [
+				27.47,
+				89.63
+			]
+		},
 		"altSpellings": [
 			"BT",
 			"Kingdom of Bhutan"
@@ -7029,6 +7392,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
@@ -7064,6 +7431,9 @@
 			]
 		},
 		"capital": [],
+		"capitalInfo": {
+			"latlng": []
+		},
 		"altSpellings": [
 			"BV",
 			"Bouvet\u00f8ya",
@@ -7205,6 +7575,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -7251,6 +7625,12 @@
 		"capital": [
 			"Gaborone"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-24.63,
+				25.9
+			]
+		},
 		"altSpellings": [
 			"BW",
 			"Republic of Botswana",
@@ -7400,6 +7780,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -7446,6 +7830,12 @@
 		"capital": [
 			"Bangui"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.37,
+				18.58
+			]
+		},
 		"altSpellings": [
 			"CF",
 			"Central African Republic",
@@ -7597,6 +7987,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -7643,6 +8037,12 @@
 		"capital": [
 			"Ottawa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				45.42,
+				-75.7
+			]
+		},
 		"altSpellings": [
 			"CA"
 		],
@@ -7787,6 +8187,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "@#@ #@#",
+			"regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$ "
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC-08:00",
@@ -7834,6 +8238,12 @@
 		"capital": [
 			"West Island"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-12.17,
+				96.83
+			]
+		},
 		"altSpellings": [
 			"CC",
 			"Keeling Islands",
@@ -7975,6 +8385,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:30"
@@ -8029,6 +8443,12 @@
 		"capital": [
 			"Bern"
 		],
+		"capitalInfo": {
+			"latlng": [
+				46.92,
+				7.47
+			]
+		},
 		"altSpellings": [
 			"CH",
 			"Swiss Confederation",
@@ -8184,6 +8604,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -8226,6 +8650,12 @@
 		"capital": [
 			"Santiago"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-33.45,
+				-70.67
+			]
+		},
 		"altSpellings": [
 			"CL",
 			"Republic of Chile",
@@ -8373,6 +8803,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#######",
+			"regex": "^(\\d{7})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00",
@@ -8420,6 +8854,12 @@
 		"capital": [
 			"Beijing"
 		],
+		"capitalInfo": {
+			"latlng": [
+				39.92,
+				116.38
+			]
+		},
 		"altSpellings": [
 			"CN",
 			"Zh\u014dnggu\u00f3",
@@ -8580,6 +9020,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -8622,6 +9066,12 @@
 		"capital": [
 			"Yamoussoukro"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.82,
+				-5.27
+			]
+		},
 		"altSpellings": [
 			"CI",
 			"C\u00f4te d'Ivoire",
@@ -8773,6 +9223,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -8819,6 +9273,12 @@
 		"capital": [
 			"Yaound\u00e9"
 		],
+		"capitalInfo": {
+			"latlng": [
+				3.85,
+				11.5
+			]
+		},
 		"altSpellings": [
 			"CM",
 			"Republic of Cameroon",
@@ -8970,6 +9430,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -9028,6 +9492,12 @@
 		"capital": [
 			"Kinshasa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-4.32,
+				15.3
+			]
+		},
 		"altSpellings": [
 			"CD",
 			"DR Congo",
@@ -9187,6 +9657,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00",
@@ -9238,6 +9712,12 @@
 		"capital": [
 			"Brazzaville"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-4.25,
+				15.28
+			]
+		},
 		"altSpellings": [
 			"CG",
 			"Congo",
@@ -9389,6 +9869,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -9439,6 +9923,12 @@
 		"capital": [
 			"Avarua"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-21.2,
+				-159.77
+			]
+		},
 		"altSpellings": [
 			"CK",
 			"K\u016bki '\u0100irani"
@@ -9580,6 +10070,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00"
@@ -9622,6 +10116,12 @@
 		"capital": [
 			"Bogot\u00e1"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.71,
+				-74.07
+			]
+		},
 		"altSpellings": [
 			"CO",
 			"Republic of Colombia",
@@ -9771,6 +10271,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -9821,6 +10325,12 @@
 		"capital": [
 			"Moroni"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-11.7,
+				43.23
+			]
+		},
 		"altSpellings": [
 			"KM",
 			"Union of the Comoros",
@@ -9968,6 +10478,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -10010,6 +10524,12 @@
 		"capital": [
 			"Praia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.92,
+				-23.52
+			]
+		},
 		"altSpellings": [
 			"CV",
 			"Republic of Cabo Verde",
@@ -10153,6 +10673,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-01:00"
@@ -10195,6 +10719,12 @@
 		"capital": [
 			"San Jos\u00e9"
 		],
+		"capitalInfo": {
+			"latlng": [
+				9.93,
+				-84.09
+			]
+		},
 		"altSpellings": [
 			"CR",
 			"Republic of Costa Rica",
@@ -10341,6 +10871,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -10387,6 +10921,12 @@
 		"capital": [
 			"Havana"
 		],
+		"capitalInfo": {
+			"latlng": [
+				23.12,
+				-82.35
+			]
+		},
 		"altSpellings": [
 			"CU",
 			"Republic of Cuba",
@@ -10528,6 +11068,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "CP #####",
+			"regex": "^(?:CP)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -10578,6 +11122,12 @@
 		"capital": [
 			"Willemstad"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.1,
+				-68.92
+			]
+		},
 		"altSpellings": [
 			"CW",
 			"Curacao",
@@ -10716,6 +11266,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -10758,6 +11312,12 @@
 		"capital": [
 			"Flying Fish Cove"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-10.42,
+				105.68
+			]
+		},
 		"altSpellings": [
 			"CX",
 			"Territory of Christmas Island"
@@ -10898,6 +11458,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
@@ -10940,6 +11504,12 @@
 		"capital": [
 			"George Town"
 		],
+		"capitalInfo": {
+			"latlng": [
+				19.3,
+				-81.38
+			]
+		},
 		"altSpellings": [
 			"KY"
 		],
@@ -11079,6 +11649,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -11125,6 +11699,12 @@
 		"capital": [
 			"Nicosia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				35.17,
+				33.37
+			]
+		},
 		"altSpellings": [
 			"CY",
 			"K\u00fdpros",
@@ -11272,6 +11852,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -11318,6 +11902,12 @@
 		"capital": [
 			"Prague"
 		],
+		"capitalInfo": {
+			"latlng": [
+				50.08,
+				14.47
+			]
+		},
 		"altSpellings": [
 			"CZ",
 			"\u010cesk\u00e1 republika",
@@ -11467,6 +12057,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "### ##",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -11509,6 +12103,12 @@
 		"capital": [
 			"Berlin"
 		],
+		"capitalInfo": {
+			"latlng": [
+				52.52,
+				13.4
+			]
+		},
 		"altSpellings": [
 			"DE",
 			"Federal Republic of Germany",
@@ -11662,6 +12262,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -11708,6 +12312,12 @@
 		"capital": [
 			"Djibouti"
 		],
+		"capitalInfo": {
+			"latlng": [
+				11.58,
+				43.15
+			]
+		},
 		"altSpellings": [
 			"DJ",
 			"Jabuuti",
@@ -11860,6 +12470,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -11902,6 +12516,12 @@
 		"capital": [
 			"Roseau"
 		],
+		"capitalInfo": {
+			"latlng": [
+				15.3,
+				-61.4
+			]
+		},
 		"altSpellings": [
 			"DM",
 			"Dominique",
@@ -12044,6 +12664,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -12086,6 +12710,12 @@
 		"capital": [
 			"Copenhagen"
 		],
+		"capitalInfo": {
+			"latlng": [
+				55.67,
+				12.58
+			]
+		},
 		"altSpellings": [
 			"DK",
 			"Danmark",
@@ -12232,6 +12862,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
@@ -12280,6 +12914,12 @@
 		"capital": [
 			"Santo Domingo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.47,
+				-69.9
+			]
+		},
 		"altSpellings": [
 			"DO"
 		],
@@ -12423,6 +13063,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -12466,6 +13110,12 @@
 		"capital": [
 			"Algiers"
 		],
+		"capitalInfo": {
+			"latlng": [
+				36.75,
+				3.05
+			]
+		},
 		"altSpellings": [
 			"DZ",
 			"Dzayer",
@@ -12617,6 +13267,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+01:00"
@@ -12659,6 +13313,12 @@
 		"capital": [
 			"Quito"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-0.22,
+				-78.5
+			]
+		},
 		"altSpellings": [
 			"EC",
 			"Republic of Ecuador",
@@ -12805,6 +13465,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "@####@",
+			"regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00",
@@ -12849,6 +13513,12 @@
 		"capital": [
 			"Cairo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				30.05,
+				31.25
+			]
+		},
 		"altSpellings": [
 			"EG",
 			"Arab Republic of Egypt"
@@ -12996,6 +13666,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
@@ -13046,6 +13720,12 @@
 		"capital": [
 			"Asmara"
 		],
+		"capitalInfo": {
+			"latlng": [
+				15.33,
+				38.93
+			]
+		},
 		"altSpellings": [
 			"ER",
 			"State of Eritrea",
@@ -13196,6 +13876,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -13255,6 +13939,12 @@
 		"capital": [
 			"El Aai\u00fan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-13.28,
+				27.14
+			]
+		},
 		"altSpellings": [
 			"EH",
 			"Tane\u1e93roft Tutrimt"
@@ -13401,6 +14091,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -13443,6 +14137,12 @@
 		"capital": [
 			"Madrid"
 		],
+		"capitalInfo": {
+			"latlng": [
+				40.4,
+				-3.68
+			]
+		},
 		"altSpellings": [
 			"ES",
 			"Kingdom of Spain",
@@ -13592,6 +14292,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC",
@@ -13635,6 +14339,12 @@
 		"capital": [
 			"Tallinn"
 		],
+		"capitalInfo": {
+			"latlng": [
+				59.43,
+				24.72
+			]
+		},
 		"altSpellings": [
 			"EE",
 			"Eesti",
@@ -13782,6 +14492,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -13824,6 +14538,12 @@
 		"capital": [
 			"Addis Ababa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				9.03,
+				38.7
+			]
+		},
 		"altSpellings": [
 			"ET",
 			"\u02be\u012aty\u014d\u1e57\u1e57y\u0101",
@@ -13975,6 +14695,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -14021,6 +14745,12 @@
 		"capital": [
 			"Helsinki"
 		],
+		"capitalInfo": {
+			"latlng": [
+				60.17,
+				24.93
+			]
+		},
 		"altSpellings": [
 			"FI",
 			"Suomi",
@@ -14171,6 +14901,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(?:FI)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -14221,6 +14955,12 @@
 		"capital": [
 			"Suva"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-18.13,
+				178.42
+			]
+		},
 		"altSpellings": [
 			"FJ",
 			"Viti",
@@ -14368,6 +15108,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
@@ -14410,6 +15154,12 @@
 		"capital": [
 			"Stanley"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-51.7,
+				-57.85
+			]
+		},
 		"altSpellings": [
 			"FK",
 			"Islas Malvinas",
@@ -14551,6 +15301,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -14593,6 +15347,12 @@
 		"capital": [
 			"Paris"
 		],
+		"capitalInfo": {
+			"latlng": [
+				48.87,
+				2.33
+			]
+		},
 		"altSpellings": [
 			"FR",
 			"French Republic",
@@ -14745,6 +15505,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00",
@@ -14808,6 +15572,12 @@
 		"capital": [
 			"T\u00f3rshavn"
 		],
+		"capitalInfo": {
+			"latlng": [
+				62.01,
+				-6.77
+			]
+		},
 		"altSpellings": [
 			"FO",
 			"F\u00f8royar",
@@ -14950,6 +15720,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "FO-###",
+			"regex": "^(?:FO)*(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -14992,6 +15766,12 @@
 		"capital": [
 			"Palikir"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.92,
+				158.15
+			]
+		},
 		"altSpellings": [
 			"FM",
 			"Federated States of Micronesia",
@@ -15135,6 +15915,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00",
@@ -15178,6 +15962,12 @@
 		"capital": [
 			"Libreville"
 		],
+		"capitalInfo": {
+			"latlng": [
+				0.38,
+				9.45
+			]
+		},
 		"altSpellings": [
 			"GA",
 			"Gabonese Republic",
@@ -15325,6 +16115,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -15367,6 +16161,12 @@
 		"capital": [
 			"London"
 		],
+		"capitalInfo": {
+			"latlng": [
+				51.5,
+				-0.08
+			]
+		},
 		"altSpellings": [
 			"GB",
 			"UK",
@@ -15512,6 +16312,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+			"regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00",
@@ -15562,6 +16366,12 @@
 		"capital": [
 			"Tbilisi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				41.68,
+				44.83
+			]
+		},
 		"altSpellings": [
 			"GE",
 			"Sakartvelo"
@@ -15709,6 +16519,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -15763,6 +16577,12 @@
 		"capital": [
 			"St. Peter Port"
 		],
+		"capitalInfo": {
+			"latlng": [
+				49.45,
+				-2.54
+			]
+		},
 		"altSpellings": [
 			"GG",
 			"Bailiwick of Guernsey",
@@ -15906,6 +16726,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+			"regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -15948,6 +16772,12 @@
 		"capital": [
 			"Accra"
 		],
+		"capitalInfo": {
+			"latlng": [
+				5.55,
+				-0.22
+			]
+		},
 		"altSpellings": [
 			"GH"
 		],
@@ -16093,6 +16923,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -16135,6 +16969,12 @@
 		"capital": [
 			"Gibraltar"
 		],
+		"capitalInfo": {
+			"latlng": [
+				36.13,
+				-5.35
+			]
+		},
 		"altSpellings": [
 			"GI"
 		],
@@ -16276,6 +17116,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -16318,6 +17162,12 @@
 		"capital": [
 			"Conakry"
 		],
+		"capitalInfo": {
+			"latlng": [
+				9.5,
+				-13.7
+			]
+		},
 		"altSpellings": [
 			"GN",
 			"Republic of Guinea",
@@ -16468,6 +17318,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -16510,6 +17364,12 @@
 		"capital": [
 			"Basse-Terre"
 		],
+		"capitalInfo": {
+			"latlng": [
+				16.03,
+				-61.73
+			]
+		},
 		"altSpellings": [
 			"GP",
 			"Gwadloup"
@@ -16650,6 +17510,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^((97|98)\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -16692,6 +17556,12 @@
 		"capital": [
 			"Banjul"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.45,
+				-16.57
+			]
+		},
 		"altSpellings": [
 			"GM",
 			"Republic of the Gambia"
@@ -16836,6 +17706,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -16882,6 +17756,12 @@
 		"capital": [
 			"Bissau"
 		],
+		"capitalInfo": {
+			"latlng": [
+				11.85,
+				-15.58
+			]
+		},
 		"altSpellings": [
 			"GW",
 			"Republic of Guinea-Bissau",
@@ -17029,6 +17909,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -17079,6 +17963,12 @@
 		"capital": [
 			"Malabo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				3.75,
+				8.78
+			]
+		},
 		"altSpellings": [
 			"GQ",
 			"Republic of Equatorial Guinea",
@@ -17227,6 +18117,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -17269,6 +18163,12 @@
 		"capital": [
 			"Athens"
 		],
+		"capitalInfo": {
+			"latlng": [
+				37.98,
+				23.73
+			]
+		},
 		"altSpellings": [
 			"GR",
 			"Ell\u00e1da",
@@ -17418,6 +18318,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "### ##",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -17460,6 +18364,12 @@
 		"capital": [
 			"St. George's"
 		],
+		"capitalInfo": {
+			"latlng": [
+				32.38,
+				-64.68
+			]
+		},
 		"altSpellings": [
 			"GD"
 		],
@@ -17599,6 +18509,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -17641,6 +18555,12 @@
 		"capital": [
 			"Nuuk"
 		],
+		"capitalInfo": {
+			"latlng": [
+				64.18,
+				-51.75
+			]
+		},
 		"altSpellings": [
 			"GL",
 			"Gr\u00f8nland"
@@ -17781,6 +18701,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
@@ -17826,6 +18750,12 @@
 		"capital": [
 			"Guatemala City"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.62,
+				-90.52
+			]
+		},
 		"altSpellings": [
 			"GT"
 		],
@@ -17972,6 +18902,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -18014,6 +18948,12 @@
 		"capital": [
 			"Cayenne"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.94,
+				-52.33
+			]
+		},
 		"altSpellings": [
 			"GF",
 			"Guiana",
@@ -18158,6 +19098,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^((97|98)3\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
@@ -18208,6 +19152,12 @@
 		"capital": [
 			"Hag\u00e5t\u00f1a"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.48,
+				144.75
+			]
+		},
 		"altSpellings": [
 			"GU",
 			"Gu\u00e5h\u00e5n"
@@ -18350,6 +19300,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "969##",
+			"regex": "^(969\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
@@ -18392,6 +19346,12 @@
 		"capital": [
 			"Georgetown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.8,
+				-58.15
+			]
+		},
 		"altSpellings": [
 			"GY",
 			"Co-operative Republic of Guyana"
@@ -18538,6 +19498,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -18585,6 +19549,12 @@
 		"capital": [
 			"City of Victoria"
 		],
+		"capitalInfo": {
+			"latlng": [
+				48.41,
+				-123.33
+			]
+		},
 		"altSpellings": [
 			"HK"
 		],
@@ -18723,6 +19693,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -18757,6 +19731,9 @@
 			"suffixes": []
 		},
 		"capital": [],
+		"capitalInfo": {
+			"latlng": []
+		},
 		"altSpellings": [
 			"HM",
 			"Heard Island and McDonald Islands"
@@ -18897,6 +19874,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -18939,6 +19920,12 @@
 		"capital": [
 			"Tegucigalpa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.1,
+				-87.22
+			]
+		},
 		"altSpellings": [
 			"HN",
 			"Republic of Honduras",
@@ -19086,6 +20073,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "@@####",
+			"regex": "^([A-Z]{2}\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -19128,6 +20119,12 @@
 		"capital": [
 			"Zagreb"
 		],
+		"capitalInfo": {
+			"latlng": [
+				45.8,
+				16
+			]
+		},
 		"altSpellings": [
 			"HR",
 			"Hrvatska",
@@ -19278,6 +20275,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "HR-#####",
+			"regex": "^(?:HR)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -19324,6 +20325,12 @@
 		"capital": [
 			"Port-au-Prince"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.53,
+				-72.33
+			]
+		},
 		"altSpellings": [
 			"HT",
 			"Republic of Haiti",
@@ -19471,6 +20478,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "HT####",
+			"regex": "^(?:HT)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -19513,6 +20524,12 @@
 		"capital": [
 			"Budapest"
 		],
+		"capitalInfo": {
+			"latlng": [
+				47.5,
+				19.08
+			]
+		},
 		"altSpellings": [
 			"HU"
 		],
@@ -19662,6 +20679,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -19704,6 +20725,12 @@
 		"capital": [
 			"Jakarta"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-6.17,
+				106.82
+			]
+		},
 		"altSpellings": [
 			"ID",
 			"Republic of Indonesia",
@@ -19851,6 +20878,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00",
@@ -19903,6 +20934,12 @@
 		"capital": [
 			"Douglas"
 		],
+		"capitalInfo": {
+			"latlng": [
+				54.15,
+				-4.48
+			]
+		},
 		"altSpellings": [
 			"IM",
 			"Ellan Vannin",
@@ -20046,6 +21083,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+			"regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+00:00"
@@ -20096,6 +21137,12 @@
 		"capital": [
 			"New Delhi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				28.6,
+				77.2
+			]
+		},
 		"altSpellings": [
 			"IN",
 			"Bh\u0101rat",
@@ -20250,6 +21297,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:30"
@@ -20292,6 +21343,12 @@
 		"capital": [
 			"Diego Garcia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-7.3,
+				72.4
+			]
+		},
 		"altSpellings": [
 			"IO"
 		],
@@ -20431,6 +21488,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
@@ -20477,6 +21538,12 @@
 		"capital": [
 			"Dublin"
 		],
+		"capitalInfo": {
+			"latlng": [
+				53.32,
+				-6.23
+			]
+		},
 		"altSpellings": [
 			"IE",
 			"\u00c9ire",
@@ -20624,6 +21691,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -20667,6 +21738,12 @@
 		"capital": [
 			"Tehran"
 		],
+		"capitalInfo": {
+			"latlng": [
+				35.7,
+				51.42
+			]
+		},
 		"altSpellings": [
 			"IR",
 			"Islamic Republic of Iran",
@@ -20815,6 +21892,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "##########",
+			"regex": "^(\\d{10})$"
+		},
 		"startOfWeek": "turday",
 		"timezones": [
 			"UTC+03:30"
@@ -20865,6 +21946,12 @@
 		"capital": [
 			"Baghdad"
 		],
+		"capitalInfo": {
+			"latlng": [
+				33.33,
+				44.4
+			]
+		},
 		"altSpellings": [
 			"IQ",
 			"Republic of Iraq",
@@ -21017,6 +22104,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -21059,6 +22150,12 @@
 		"capital": [
 			"Reykjavik"
 		],
+		"capitalInfo": {
+			"latlng": [
+				64.15,
+				-21.95
+			]
+		},
 		"altSpellings": [
 			"IS",
 			"Island",
@@ -21203,6 +22300,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###",
+			"regex": "^(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -21249,6 +22350,12 @@
 		"capital": [
 			"Jerusalem"
 		],
+		"capitalInfo": {
+			"latlng": [
+				31.77,
+				35.23
+			]
+		},
 		"altSpellings": [
 			"IL",
 			"State of Israel",
@@ -21399,6 +22506,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
@@ -21441,6 +22552,12 @@
 		"capital": [
 			"Rome"
 		],
+		"capitalInfo": {
+			"latlng": [
+				41.9,
+				12.48
+			]
+		},
 		"altSpellings": [
 			"IT",
 			"Italian Republic",
@@ -21591,6 +22708,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -21637,6 +22758,12 @@
 		"capital": [
 			"Kingston"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-29.05,
+				167.97
+			]
+		},
 		"altSpellings": [
 			"JM"
 		],
@@ -21779,6 +22906,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -21833,6 +22964,12 @@
 		"capital": [
 			"Saint Helier"
 		],
+		"capitalInfo": {
+			"latlng": [
+				49.18,
+				-2.1
+			]
+		},
 		"altSpellings": [
 			"JE",
 			"Bailiwick of Jersey",
@@ -21977,6 +23114,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+			"regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -22020,6 +23161,12 @@
 		"capital": [
 			"Amman"
 		],
+		"capitalInfo": {
+			"latlng": [
+				31.95,
+				35.93
+			]
+		},
 		"altSpellings": [
 			"JO",
 			"Hashemite Kingdom of Jordan",
@@ -22169,6 +23316,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -22212,6 +23363,12 @@
 		"capital": [
 			"Tokyo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				35.68,
+				139.75
+			]
+		},
 		"altSpellings": [
 			"JP",
 			"Nippon",
@@ -22355,6 +23512,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "###-####",
+			"regex": "^(\\d{7})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
@@ -22403,6 +23564,12 @@
 		"capital": [
 			"Nur-Sultan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				51.16,
+				71.45
+			]
+		},
 		"altSpellings": [
 			"KZ",
 			"Qazaqstan",
@@ -22558,6 +23725,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00",
@@ -22605,6 +23776,12 @@
 		"capital": [
 			"Nairobi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-1.28,
+				36.82
+			]
+		},
 		"altSpellings": [
 			"KE",
 			"Republic of Kenya",
@@ -22755,6 +23932,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -22801,6 +23982,12 @@
 		"capital": [
 			"Bishkek"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42.87,
+				74.6
+			]
+		},
 		"altSpellings": [
 			"KG",
 			"\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
@@ -22952,6 +24139,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:00"
@@ -22998,6 +24189,12 @@
 		"capital": [
 			"Phnom Penh"
 		],
+		"capitalInfo": {
+			"latlng": [
+				11.55,
+				104.92
+			]
+		},
 		"altSpellings": [
 			"KH",
 			"Kingdom of Cambodia"
@@ -23142,6 +24339,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
@@ -23192,6 +24393,12 @@
 		"capital": [
 			"South Tarawa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				1.33,
+				172.98
+			]
+		},
 		"altSpellings": [
 			"KI",
 			"Republic of Kiribati",
@@ -23336,6 +24543,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00",
@@ -23380,6 +24591,12 @@
 		"capital": [
 			"Basseterre"
 		],
+		"capitalInfo": {
+			"latlng": [
+				17.3,
+				-62.72
+			]
+		},
 		"altSpellings": [
 			"KN",
 			"Federation of Saint Christopher and Nevis"
@@ -23520,6 +24737,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -23563,6 +24784,12 @@
 		"capital": [
 			"Seoul"
 		],
+		"capitalInfo": {
+			"latlng": [
+				37.55,
+				126.98
+			]
+		},
 		"altSpellings": [
 			"KR",
 			"Korea, Republic of",
@@ -23710,6 +24937,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "SEOUL ###-###",
+			"regex": "^(?:SEOUL)*(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
@@ -23754,6 +24985,12 @@
 		"capital": [
 			"Pristina"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42.67,
+				21.17
+			]
+		},
 		"altSpellings": [
 			"XK",
 			"\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
@@ -23898,6 +25135,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -23940,6 +25181,12 @@
 		"capital": [
 			"Kuwait City"
 		],
+		"capitalInfo": {
+			"latlng": [
+				29.37,
+				47.97
+			]
+		},
 		"altSpellings": [
 			"KW",
 			"State of Kuwait",
@@ -24084,6 +25331,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -24126,6 +25377,12 @@
 		"capital": [
 			"Vientiane"
 		],
+		"capitalInfo": {
+			"latlng": [
+				17.97,
+				102.6
+			]
+		},
 		"altSpellings": [
 			"LA",
 			"Lao",
@@ -24276,6 +25533,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
@@ -24322,6 +25583,12 @@
 		"capital": [
 			"Beirut"
 		],
+		"capitalInfo": {
+			"latlng": [
+				33.87,
+				35.5
+			]
+		},
 		"altSpellings": [
 			"LB",
 			"Lebanese Republic",
@@ -24469,6 +25736,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#### ####|####",
+			"regex": "^(\\d{4}(\\d{4})?)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -24511,6 +25782,12 @@
 		"capital": [
 			"Monrovia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.3,
+				-10.8
+			]
+		},
 		"altSpellings": [
 			"LR",
 			"Republic of Liberia"
@@ -24657,6 +25934,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -24699,6 +25980,12 @@
 		"capital": [
 			"Tripoli"
 		],
+		"capitalInfo": {
+			"latlng": [
+				32.88,
+				13.17
+			]
+		},
 		"altSpellings": [
 			"LY",
 			"State of Libya",
@@ -24847,6 +26134,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+01:00"
@@ -24889,6 +26180,12 @@
 		"capital": [
 			"Castries"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14,
+				-61
+			]
+		},
 		"altSpellings": [
 			"LC"
 		],
@@ -25030,6 +26327,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -25072,6 +26373,12 @@
 		"capital": [
 			"Vaduz"
 		],
+		"capitalInfo": {
+			"latlng": [
+				47.13,
+				9.52
+			]
+		},
 		"altSpellings": [
 			"LI",
 			"Principality of Liechtenstein",
@@ -25216,6 +26523,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -25264,6 +26575,12 @@
 		"capital": [
 			"Sri Jayawardenepura Kotte"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.89,
+				79.9
+			]
+		},
 		"altSpellings": [
 			"LK",
 			"ila\u1e45kai",
@@ -25410,6 +26727,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:30"
@@ -25460,6 +26781,12 @@
 		"capital": [
 			"Maseru"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-29.32,
+				27.48
+			]
+		},
 		"altSpellings": [
 			"LS",
 			"Kingdom of Lesotho",
@@ -25606,6 +26933,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "###",
+			"regex": "^(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -25648,6 +26979,12 @@
 		"capital": [
 			"Vilnius"
 		],
+		"capitalInfo": {
+			"latlng": [
+				54.68,
+				25.32
+			]
+		},
 		"altSpellings": [
 			"LT",
 			"Republic of Lithuania",
@@ -25796,6 +27133,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "LT-#####",
+			"regex": "^(?:LT)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -25846,6 +27187,12 @@
 		"capital": [
 			"Luxembourg"
 		],
+		"capitalInfo": {
+			"latlng": [
+				49.6,
+				6.12
+			]
+		},
 		"altSpellings": [
 			"LU",
 			"Grand Duchy of Luxembourg",
@@ -25997,6 +27344,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -26039,6 +27390,12 @@
 		"capital": [
 			"Riga"
 		],
+		"capitalInfo": {
+			"latlng": [
+				56.95,
+				24.1
+			]
+		},
 		"altSpellings": [
 			"LV",
 			"Republic of Latvia",
@@ -26187,6 +27544,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "LV-####",
+			"regex": "^(?:LV)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -26231,6 +27592,9 @@
 			]
 		},
 		"capital": [],
+		"capitalInfo": {
+			"latlng": []
+		},
 		"altSpellings": [
 			"MO",
 			"\u6fb3\u95e8",
@@ -26374,6 +27738,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -26417,6 +27785,12 @@
 		"capital": [
 			"Marigot"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.07,
+				-63.08
+			]
+		},
 		"altSpellings": [
 			"MF",
 			"Collectivity of Saint Martin",
@@ -26561,6 +27935,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "### ###",
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -26608,6 +27986,12 @@
 		"capital": [
 			"Rabat"
 		],
+		"capitalInfo": {
+			"latlng": [
+				34.02,
+				-6.82
+			]
+		},
 		"altSpellings": [
 			"MA",
 			"Kingdom of Morocco",
@@ -26756,6 +28140,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -26798,6 +28186,12 @@
 		"capital": [
 			"Monaco"
 		],
+		"capitalInfo": {
+			"latlng": [
+				43.73,
+				7.42
+			]
+		},
 		"altSpellings": [
 			"MC",
 			"Principality of Monaco",
@@ -26941,6 +28335,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -26983,6 +28381,12 @@
 		"capital": [
 			"Chi\u0219in\u0103u"
 		],
+		"capitalInfo": {
+			"latlng": [
+				47.01,
+				28.9
+			]
+		},
 		"altSpellings": [
 			"MD",
 			"Moldova, Republic of",
@@ -27130,6 +28534,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "MD-####",
+			"regex": "^(?:MD)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -27176,6 +28584,12 @@
 		"capital": [
 			"Antananarivo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-18.92,
+				47.52
+			]
+		},
 		"altSpellings": [
 			"MG",
 			"Republic of Madagascar",
@@ -27321,6 +28735,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###",
+			"regex": "^(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -27363,6 +28781,12 @@
 		"capital": [
 			"Mal\u00e9"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.17,
+				73.51
+			]
+		},
 		"altSpellings": [
 			"MV",
 			"Maldive Islands",
@@ -27507,6 +28931,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+05:00"
@@ -27549,6 +28977,12 @@
 		"capital": [
 			"Mexico City"
 		],
+		"capitalInfo": {
+			"latlng": [
+				19.43,
+				-99.13
+			]
+		},
 		"altSpellings": [
 			"MX",
 			"Mexicanos",
@@ -27697,6 +29131,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00",
@@ -27745,6 +29183,12 @@
 		"capital": [
 			"Majuro"
 		],
+		"capitalInfo": {
+			"latlng": [
+				7.1,
+				171.38
+			]
+		},
 		"altSpellings": [
 			"MH",
 			"Republic of the Marshall Islands",
@@ -27887,6 +29331,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
@@ -27929,6 +29377,12 @@
 		"capital": [
 			"Skopje"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42,
+				21.43
+			]
+		},
 		"altSpellings": [
 			"MK",
 			"The former Yugoslav Republic of Macedonia",
@@ -28080,6 +29534,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -28122,6 +29580,12 @@
 		"capital": [
 			"Bamako"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.65,
+				-8
+			]
+		},
 		"altSpellings": [
 			"ML",
 			"Republic of Mali",
@@ -28273,6 +29737,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -28319,6 +29787,12 @@
 		"capital": [
 			"Valletta"
 		],
+		"capitalInfo": {
+			"latlng": [
+				35.88,
+				14.5
+			]
+		},
 		"altSpellings": [
 			"MT",
 			"Republic of Malta",
@@ -28463,6 +29937,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@@@ ###|@@@ ##",
+			"regex": "^([A-Z]{3}\\d{2}\\d?)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -28505,6 +29983,12 @@
 		"capital": [
 			"Naypyidaw"
 		],
+		"capitalInfo": {
+			"latlng": [
+				19.76,
+				96.07
+			]
+		},
 		"altSpellings": [
 			"MM",
 			"Burma",
@@ -28655,6 +30139,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+06:30"
@@ -28697,6 +30185,12 @@
 		"capital": [
 			"Podgorica"
 		],
+		"capitalInfo": {
+			"latlng": [
+				42.43,
+				19.27
+			]
+		},
 		"altSpellings": [
 			"ME",
 			"Crna Gora"
@@ -28845,6 +30339,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -28887,6 +30385,12 @@
 		"capital": [
 			"Ulan Bator"
 		],
+		"capitalInfo": {
+			"latlng": [
+				47.92,
+				106.91
+			]
+		},
 		"altSpellings": [
 			"MN"
 		],
@@ -29031,6 +30535,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00",
@@ -29082,6 +30590,12 @@
 		"capital": [
 			"Saipan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				15.2,
+				145.75
+			]
+		},
 		"altSpellings": [
 			"MP",
 			"Commonwealth of the Northern Mariana Islands",
@@ -29225,6 +30739,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
@@ -29267,6 +30785,12 @@
 		"capital": [
 			"Maputo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-25.95,
+				32.58
+			]
+		},
 		"altSpellings": [
 			"MZ",
 			"Republic of Mozambique",
@@ -29417,6 +30941,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -29459,6 +30987,12 @@
 		"capital": [
 			"Nouakchott"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.07,
+				-15.97
+			]
+		},
 		"altSpellings": [
 			"MR",
 			"Islamic Republic of Mauritania",
@@ -29607,6 +31141,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -29649,6 +31187,12 @@
 		"capital": [
 			"Plymouth"
 		],
+		"capitalInfo": {
+			"latlng": [
+				16.7,
+				-62.22
+			]
+		},
 		"altSpellings": [
 			"MS"
 		],
@@ -29788,6 +31332,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -29830,6 +31378,12 @@
 		"capital": [
 			"Fort-de-France"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.6,
+				-61.08
+			]
+		},
 		"altSpellings": [
 			"MQ"
 		],
@@ -29969,6 +31523,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -30019,6 +31577,12 @@
 		"capital": [
 			"Port Louis"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-20.15,
+				57.48
+			]
+		},
 		"altSpellings": [
 			"MU",
 			"Republic of Mauritius",
@@ -30164,6 +31728,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
@@ -30210,6 +31778,12 @@
 		"capital": [
 			"Lilongwe"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-13.97,
+				33.78
+			]
+		},
 		"altSpellings": [
 			"MW",
 			"Republic of Malawi"
@@ -30357,6 +31931,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -30403,6 +31981,12 @@
 		"capital": [
 			"Kuala Lumpur"
 		],
+		"capitalInfo": {
+			"latlng": [
+				3.17,
+				101.7
+			]
+		},
 		"altSpellings": [
 			"MY"
 		],
@@ -30549,6 +32133,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+08:00"
@@ -30591,6 +32179,12 @@
 		"capital": [
 			"Mamoudzou"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-12.78,
+				45.22
+			]
+		},
 		"altSpellings": [
 			"YT",
 			"Department of Mayotte",
@@ -30732,6 +32326,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -30810,6 +32408,12 @@
 		"capital": [
 			"Windhoek"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-22.57,
+				17.08
+			]
+		},
 		"altSpellings": [
 			"NA",
 			"Namibi\u00eb",
@@ -30966,6 +32570,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -31008,6 +32616,12 @@
 		"capital": [
 			"Noum\u00e9a"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-22.27,
+				166.45
+			]
+		},
 		"altSpellings": [
 			"NC"
 		],
@@ -31147,6 +32761,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
@@ -31189,6 +32807,12 @@
 		"capital": [
 			"Niamey"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.52,
+				2.12
+			]
+		},
 		"altSpellings": [
 			"NE",
 			"Nijar"
@@ -31339,6 +32963,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -31385,6 +33013,12 @@
 		"capital": [
 			"Kingston"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-29.05,
+				167.97
+			]
+		},
 		"altSpellings": [
 			"NF",
 			"Territory of Norfolk Island",
@@ -31527,6 +33161,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:30"
@@ -31569,6 +33207,12 @@
 		"capital": [
 			"Abuja"
 		],
+		"capitalInfo": {
+			"latlng": [
+				9.08,
+				7.53
+			]
+		},
 		"altSpellings": [
 			"NG",
 			"Nijeriya",
@@ -31718,6 +33362,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -31760,6 +33408,12 @@
 		"capital": [
 			"Managua"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.13,
+				-86.25
+			]
+		},
 		"altSpellings": [
 			"NI",
 			"Republic of Nicaragua",
@@ -31906,6 +33560,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###-###-#",
+			"regex": "^(\\d{7})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -31952,6 +33610,12 @@
 		"capital": [
 			"Alofi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-19.02,
+				-169.92
+			]
+		},
 		"altSpellings": [
 			"NU"
 		],
@@ -32092,6 +33756,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00"
@@ -32134,6 +33802,12 @@
 		"capital": [
 			"Amsterdam"
 		],
+		"capitalInfo": {
+			"latlng": [
+				52.35,
+				4.92
+			]
+		},
 		"altSpellings": [
 			"NL",
 			"Holland",
@@ -32281,6 +33955,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#### @@",
+			"regex": "^(\\d{4}[A-Z]{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00",
@@ -32332,6 +34010,12 @@
 		"capital": [
 			"Oslo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				59.92,
+				10.75
+			]
+		},
 		"altSpellings": [
 			"NO",
 			"Norge",
@@ -32484,6 +34168,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -32526,6 +34214,12 @@
 		"capital": [
 			"Kathmandu"
 		],
+		"capitalInfo": {
+			"latlng": [
+				27.72,
+				85.32
+			]
+		},
 		"altSpellings": [
 			"NP",
 			"Federal Democratic Republic of Nepal",
@@ -32672,6 +34366,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+05:45"
@@ -32718,6 +34416,12 @@
 		"capital": [
 			"Yaren"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-0.55,
+				166.92
+			]
+		},
 		"altSpellings": [
 			"NR",
 			"Naoero",
@@ -32864,6 +34568,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
@@ -32914,6 +34622,12 @@
 		"capital": [
 			"Wellington"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-41.3,
+				174.78
+			]
+		},
 		"altSpellings": [
 			"NZ",
 			"Aotearoa"
@@ -33056,6 +34770,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00",
@@ -33102,6 +34820,12 @@
 		"capital": [
 			"Muscat"
 		],
+		"capitalInfo": {
+			"latlng": [
+				23.62,
+				58.58
+			]
+		},
 		"altSpellings": [
 			"OM",
 			"Sultanate of Oman",
@@ -33247,6 +34971,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###",
+			"regex": "^(\\d{3})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+04:00"
@@ -33293,6 +35021,12 @@
 		"capital": [
 			"Islamabad"
 		],
+		"capitalInfo": {
+			"latlng": [
+				33.68,
+				73.05
+			]
+		},
 		"altSpellings": [
 			"PK",
 			"P\u0101kist\u0101n",
@@ -33443,6 +35177,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -33489,6 +35227,12 @@
 		"capital": [
 			"Panama City"
 		],
+		"capitalInfo": {
+			"latlng": [
+				8.97,
+				-79.53
+			]
+		},
 		"altSpellings": [
 			"PA",
 			"Republic of Panama",
@@ -33635,6 +35379,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -33677,6 +35425,12 @@
 		"capital": [
 			"Adamstown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-25.07,
+				-130.08
+			]
+		},
 		"altSpellings": [
 			"PN",
 			"Pitcairn",
@@ -33818,6 +35572,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-08:00"
@@ -33868,6 +35626,12 @@
 		"capital": [
 			"Lima"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-12.05,
+				-77.05
+			]
+		},
 		"altSpellings": [
 			"PE",
 			"Republic of Peru",
@@ -34019,6 +35783,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-05:00"
@@ -34065,6 +35833,12 @@
 		"capital": [
 			"Manila"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.6,
+				120.97
+			]
+		},
 		"altSpellings": [
 			"PH",
 			"Republic of the Philippines",
@@ -34209,6 +35983,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -34255,6 +36033,12 @@
 		"capital": [
 			"Ngerulmud"
 		],
+		"capitalInfo": {
+			"latlng": [
+				7.5,
+				134.62
+			]
+		},
 		"altSpellings": [
 			"PW",
 			"Republic of Palau",
@@ -34397,6 +36181,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "96940",
+			"regex": "^(96940)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
@@ -34447,6 +36235,12 @@
 		"capital": [
 			"Port Moresby"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-9.45,
+				147.18
+			]
+		},
 		"altSpellings": [
 			"PG",
 			"Independent State of Papua New Guinea",
@@ -34594,6 +36388,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "###",
+			"regex": "^(\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00"
@@ -34636,6 +36434,12 @@
 		"capital": [
 			"Warsaw"
 		],
+		"capitalInfo": {
+			"latlng": [
+				52.25,
+				21
+			]
+		},
 		"altSpellings": [
 			"PL",
 			"Republic of Poland",
@@ -34787,6 +36591,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "##-###",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -34834,6 +36642,12 @@
 		"capital": [
 			"San Juan"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.47,
+				-66.12
+			]
+		},
 		"altSpellings": [
 			"PR",
 			"Commonwealth of Puerto Rico",
@@ -34976,6 +36790,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####-####",
+			"regex": "^(\\d{9})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -35018,6 +36836,12 @@
 		"capital": [
 			"Pyongyang"
 		],
+		"capitalInfo": {
+			"latlng": [
+				39.02,
+				125.75
+			]
+		},
 		"altSpellings": [
 			"KP",
 			"Democratic People's Republic of Korea",
@@ -35168,6 +36992,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###-###",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
@@ -35210,6 +37038,12 @@
 		"capital": [
 			"Lisbon"
 		],
+		"capitalInfo": {
+			"latlng": [
+				38.72,
+				-9.13
+			]
+		},
 		"altSpellings": [
 			"PT",
 			"Portuguesa",
@@ -35356,6 +37190,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####-###",
+			"regex": "^(\\d{7})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-01:00",
@@ -35403,6 +37241,12 @@
 		"capital": [
 			"Asunci\u00f3n"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-25.28,
+				-57.57
+			]
+		},
 		"altSpellings": [
 			"PY",
 			"Republic of Paraguay",
@@ -35552,6 +37396,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -35603,6 +37451,12 @@
 		"capital": [
 			"Ramallah"
 		],
+		"capitalInfo": {
+			"latlng": [
+				31.9,
+				35.2
+			]
+		},
 		"altSpellings": [
 			"PS",
 			"Palestine, State of",
@@ -35751,6 +37605,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+02:00"
@@ -35793,6 +37651,12 @@
 		"capital": [
 			"Papeet\u0113"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-17.53,
+				-149.56
+			]
+		},
 		"altSpellings": [
 			"PF",
 			"Polyn\u00e9sie fran\u00e7aise",
@@ -35935,6 +37799,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^((97|98)7\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-10:00",
@@ -35980,6 +37848,12 @@
 		"capital": [
 			"Doha"
 		],
+		"capitalInfo": {
+			"latlng": [
+				25.28,
+				51.53
+			]
+		},
 		"altSpellings": [
 			"QA",
 			"State of Qatar",
@@ -36123,6 +37997,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -36165,6 +38043,12 @@
 		"capital": [
 			"Saint-Denis"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-20.88,
+				55.45
+			]
+		},
 		"altSpellings": [
 			"RE",
 			"Reunion"
@@ -36305,6 +38189,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^((97|98)(4|7|8)\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
@@ -36347,6 +38235,12 @@
 		"capital": [
 			"Bucharest"
 		],
+		"capitalInfo": {
+			"latlng": [
+				44.43,
+				26.1
+			]
+		},
 		"altSpellings": [
 			"RO",
 			"Rumania",
@@ -36497,6 +38391,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -36545,6 +38443,12 @@
 		"capital": [
 			"Moscow"
 		],
+		"capitalInfo": {
+			"latlng": [
+				55.75,
+				37.6
+			]
+		},
 		"altSpellings": [
 			"RU",
 			"Russian Federation",
@@ -36703,6 +38607,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00",
@@ -36761,6 +38669,12 @@
 		"capital": [
 			"Kigali"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-1.95,
+				30.05
+			]
+		},
 		"altSpellings": [
 			"RW",
 			"Republic of Rwanda",
@@ -36912,6 +38826,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -36955,6 +38873,12 @@
 		"capital": [
 			"Riyadh"
 		],
+		"capitalInfo": {
+			"latlng": [
+				24.65,
+				46.7
+			]
+		},
 		"altSpellings": [
 			"Saudi",
 			"SA",
@@ -37105,6 +39029,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -37151,6 +39079,12 @@
 		"capital": [
 			"Khartoum"
 		],
+		"capitalInfo": {
+			"latlng": [
+				15.6,
+				32.53
+			]
+		},
 		"altSpellings": [
 			"SD",
 			"Republic of the Sudan",
@@ -37303,6 +39237,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -37345,6 +39283,12 @@
 		"capital": [
 			"Dakar"
 		],
+		"capitalInfo": {
+			"latlng": [
+				14.73,
+				-17.63
+			]
+		},
 		"altSpellings": [
 			"SN",
 			"Republic of Senegal",
@@ -37494,6 +39438,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -37550,6 +39498,12 @@
 		"capital": [
 			"Singapore"
 		],
+		"capitalInfo": {
+			"latlng": [
+				1.28,
+				103.85
+			]
+		},
 		"altSpellings": [
 			"SG",
 			"Singapura",
@@ -37691,6 +39645,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -37733,6 +39691,12 @@
 		"capital": [
 			"King Edward Point"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-54.28,
+				-36.5
+			]
+		},
 		"altSpellings": [
 			"GS",
 			"South Georgia and the South Sandwich Islands"
@@ -37873,6 +39837,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-02:00"
@@ -37915,6 +39883,12 @@
 		"capital": [
 			"Longyearbyen"
 		],
+		"capitalInfo": {
+			"latlng": [
+				78.22,
+				15.63
+			]
+		},
 		"altSpellings": [
 			"SJ",
 			"Svalbard and Jan Mayen Islands"
@@ -38055,6 +40029,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -38097,6 +40075,12 @@
 		"capital": [
 			"Honiara"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-9.43,
+				159.95
+			]
+		},
 		"altSpellings": [
 			"SB"
 		],
@@ -38238,6 +40222,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
@@ -38280,6 +40268,12 @@
 		"capital": [
 			"Freetown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				8.48,
+				-13.23
+			]
+		},
 		"altSpellings": [
 			"SL",
 			"Republic of Sierra Leone"
@@ -38425,6 +40419,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -38467,6 +40465,12 @@
 		"capital": [
 			"San Salvador"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.7,
+				-89.2
+			]
+		},
 		"altSpellings": [
 			"SV",
 			"Republic of El Salvador",
@@ -38613,6 +40617,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "CP ####",
+			"regex": "^(?:CP)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-06:00"
@@ -38655,6 +40663,12 @@
 		"capital": [
 			"City of San Marino"
 		],
+		"capitalInfo": {
+			"latlng": [
+				43.94,
+				12.45
+			]
+		},
 		"altSpellings": [
 			"SM",
 			"Republic of San Marino",
@@ -38798,6 +40812,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "4789#",
+			"regex": "^(4789\\d)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -38844,6 +40862,12 @@
 		"capital": [
 			"Mogadishu"
 		],
+		"capitalInfo": {
+			"latlng": [
+				2.07,
+				45.33
+			]
+		},
 		"altSpellings": [
 			"SO",
 			"a\u1e63-\u1e62\u016bm\u0101l",
@@ -38994,6 +41018,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "@@  #####",
+			"regex": "^([A-Z]{2}\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -39036,6 +41064,12 @@
 		"capital": [
 			"Saint-Pierre"
 		],
+		"capitalInfo": {
+			"latlng": [
+				46.77,
+				-56.18
+			]
+		},
 		"altSpellings": [
 			"PM",
 			"Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
@@ -39176,6 +41210,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(97500)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
@@ -39219,6 +41257,12 @@
 		"capital": [
 			"Belgrade"
 		],
+		"capitalInfo": {
+			"latlng": [
+				44.83,
+				20.5
+			]
+		},
 		"altSpellings": [
 			"RS",
 			"Srbija",
@@ -39373,6 +41417,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -39415,6 +41463,12 @@
 		"capital": [
 			"Juba"
 		],
+		"capitalInfo": {
+			"latlng": [
+				4.85,
+				31.62
+			]
+		},
 		"altSpellings": [
 			"SS"
 		],
@@ -39563,6 +41617,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -39605,6 +41663,12 @@
 		"capital": [
 			"S\u00e3o Tom\u00e9"
 		],
+		"capitalInfo": {
+			"latlng": [
+				0.34,
+				6.73
+			]
+		},
 		"altSpellings": [
 			"ST",
 			"Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -39749,6 +41813,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -39791,6 +41859,12 @@
 		"capital": [
 			"Paramaribo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				5.83,
+				-55.17
+			]
+		},
 		"altSpellings": [
 			"SR",
 			"Sarnam",
@@ -39940,6 +42014,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-03:00"
@@ -39982,6 +42060,12 @@
 		"capital": [
 			"Bratislava"
 		],
+		"capitalInfo": {
+			"latlng": [
+				48.15,
+				17.12
+			]
+		},
 		"altSpellings": [
 			"SK",
 			"Slovak Republic",
@@ -40131,6 +42215,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "###  ##",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -40173,6 +42261,12 @@
 		"capital": [
 			"Ljubljana"
 		],
+		"capitalInfo": {
+			"latlng": [
+				46.05,
+				14.52
+			]
+		},
 		"altSpellings": [
 			"SI",
 			"Republic of Slovenia",
@@ -40321,6 +42415,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "SI- ####",
+			"regex": "^(?:SI)*(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -40363,6 +42461,12 @@
 		"capital": [
 			"Stockholm"
 		],
+		"capitalInfo": {
+			"latlng": [
+				59.33,
+				18.05
+			]
+		},
 		"altSpellings": [
 			"SE",
 			"Kingdom of Sweden",
@@ -40509,6 +42613,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "SE-### ##",
+			"regex": "^(?:SE)*(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -40559,6 +42667,12 @@
 		"capital": [
 			"Mbabane"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-26.32,
+				31.13
+			]
+		},
 		"altSpellings": [
 			"SZ",
 			"Swaziland",
@@ -40710,6 +42824,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "@###",
+			"regex": "^([A-Z]\\d{3})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -40760,6 +42878,12 @@
 		"capital": [
 			"Philipsburg"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.02,
+				-63.03
+			]
+		},
 		"altSpellings": [
 			"SX",
 			"Sint Maarten (Dutch part)"
@@ -40904,6 +43028,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -40954,6 +43082,12 @@
 		"capital": [
 			"Victoria"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-4.62,
+				55.45
+			]
+		},
 		"altSpellings": [
 			"SC",
 			"Republic of Seychelles",
@@ -41100,6 +43234,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+04:00"
@@ -41143,6 +43281,12 @@
 		"capital": [
 			"Damascus"
 		],
+		"capitalInfo": {
+			"latlng": [
+				33.5,
+				36.3
+			]
+		},
 		"altSpellings": [
 			"SY",
 			"Syrian Arab Republic",
@@ -41292,6 +43436,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -41334,6 +43482,12 @@
 		"capital": [
 			"Cockburn Town"
 		],
+		"capitalInfo": {
+			"latlng": [
+				21.46,
+				-71.14
+			]
+		},
 		"altSpellings": [
 			"TC"
 		],
@@ -41473,6 +43627,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "TKCA 1ZZ",
+			"regex": "^(TKCA 1ZZ)$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -41519,6 +43677,12 @@
 		"capital": [
 			"N'Djamena"
 		],
+		"capitalInfo": {
+			"latlng": [
+				12.1,
+				15.03
+			]
+		},
 		"altSpellings": [
 			"TD",
 			"Tchad",
@@ -41672,6 +43836,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -41714,6 +43882,12 @@
 		"capital": [
 			"Lom\u00e9"
 		],
+		"capitalInfo": {
+			"latlng": [
+				6.14,
+				1.21
+			]
+		},
 		"altSpellings": [
 			"TG",
 			"Togolese",
@@ -41862,6 +44036,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC"
@@ -41905,6 +44083,12 @@
 		"capital": [
 			"Bangkok"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.75,
+				100.52
+			]
+		},
 		"altSpellings": [
 			"TH",
 			"Prathet",
@@ -42056,6 +44240,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
@@ -42102,6 +44290,12 @@
 		"capital": [
 			"Dushanbe"
 		],
+		"capitalInfo": {
+			"latlng": [
+				38.55,
+				68.77
+			]
+		},
 		"altSpellings": [
 			"TJ",
 			"To\u00e7ikiston",
@@ -42253,6 +44447,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -42303,6 +44501,12 @@
 		"capital": [
 			"Fakaofo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-9.38,
+				-171.22
+			]
+		},
 		"altSpellings": [
 			"TK"
 		],
@@ -42444,6 +44648,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
@@ -42490,6 +44698,12 @@
 		"capital": [
 			"Ashgabat"
 		],
+		"capitalInfo": {
+			"latlng": [
+				37.95,
+				58.38
+			]
+		},
 		"altSpellings": [
 			"TM"
 		],
@@ -42637,6 +44851,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -42683,6 +44901,12 @@
 		"capital": [
 			"Dili"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-8.58,
+				125.6
+			]
+		},
 		"altSpellings": [
 			"TL",
 			"East Timor",
@@ -42833,6 +45057,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+09:00"
@@ -42879,6 +45107,12 @@
 		"capital": [
 			"Nuku'alofa"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-21.13,
+				-175.2
+			]
+		},
 		"altSpellings": [
 			"TO"
 		],
@@ -43021,6 +45255,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
@@ -43063,6 +45301,12 @@
 		"capital": [
 			"Port of Spain"
 		],
+		"capitalInfo": {
+			"latlng": [
+				10.65,
+				-61.52
+			]
+		},
 		"altSpellings": [
 			"TT",
 			"Republic of Trinidad and Tobago"
@@ -43205,6 +45449,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -43247,6 +45495,12 @@
 		"capital": [
 			"Tunis"
 		],
+		"capitalInfo": {
+			"latlng": [
+				36.8,
+				10.18
+			]
+		},
 		"altSpellings": [
 			"TN",
 			"Republic of Tunisia",
@@ -43393,6 +45647,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -43435,6 +45693,12 @@
 		"capital": [
 			"Ankara"
 		],
+		"capitalInfo": {
+			"latlng": [
+				39.93,
+				32.87
+			]
+		},
 		"altSpellings": [
 			"TR",
 			"Turkiye",
@@ -43588,6 +45852,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -43638,6 +45906,12 @@
 		"capital": [
 			"Funafuti"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-8.52,
+				179.22
+			]
+		},
 		"altSpellings": [
 			"TV"
 		],
@@ -43780,6 +46054,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
@@ -43824,6 +46102,12 @@
 		"capital": [
 			"Taipei"
 		],
+		"capitalInfo": {
+			"latlng": [
+				25.03,
+				121.52
+			]
+		},
 		"altSpellings": [
 			"TW",
 			"T\u00e1iw\u0101n",
@@ -43964,6 +46248,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+08:00"
@@ -44010,6 +46298,12 @@
 		"capital": [
 			"Dodoma"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-6.16,
+				35.75
+			]
+		},
 		"altSpellings": [
 			"TZ",
 			"Tanzania, United Republic of",
@@ -44164,6 +46458,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -44210,6 +46508,12 @@
 		"capital": [
 			"Kampala"
 		],
+		"capitalInfo": {
+			"latlng": [
+				0.32,
+				32.55
+			]
+		},
 		"altSpellings": [
 			"UG",
 			"Republic of Uganda",
@@ -44360,6 +46664,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+03:00"
@@ -44403,6 +46711,12 @@
 		"capital": [
 			"Kyiv"
 		],
+		"capitalInfo": {
+			"latlng": [
+				50.43,
+				30.52
+			]
+		},
 		"altSpellings": [
 			"UA",
 			"Ukrayina"
@@ -44553,6 +46867,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -44593,6 +46911,9 @@
 			]
 		},
 		"capital": [],
+		"capitalInfo": {
+			"latlng": []
+		},
 		"altSpellings": [
 			"UM"
 		],
@@ -44732,6 +47053,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-11:00",
@@ -44776,6 +47101,12 @@
 		"capital": [
 			"Montevideo"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-34.85,
+				-56.17
+			]
+		},
 		"altSpellings": [
 			"UY",
 			"Oriental Republic of Uruguay",
@@ -44921,6 +47252,10 @@
 				"ROU"
 			],
 			"side": "right"
+		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
 		},
 		"startOfWeek": "monday",
 		"timezones": [
@@ -45280,6 +47615,12 @@
 		"capital": [
 			"Washington, D.C."
 		],
+		"capitalInfo": {
+			"latlng": [
+				38.89,
+				-77.05
+			]
+		},
 		"altSpellings": [
 			"US",
 			"USA",
@@ -45426,6 +47767,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####-####",
+			"regex": "^\\d{5}(-\\d{4})?$"
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC-12:00",
@@ -45482,6 +47827,12 @@
 		"capital": [
 			"Tashkent"
 		],
+		"capitalInfo": {
+			"latlng": [
+				41.32,
+				69.25
+			]
+		},
 		"altSpellings": [
 			"UZ",
 			"Republic of Uzbekistan",
@@ -45633,6 +47984,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+05:00"
@@ -45680,6 +48035,12 @@
 		"capital": [
 			"Vatican City"
 		],
+		"capitalInfo": {
+			"latlng": [
+				41.9,
+				12.45
+			]
+		},
 		"altSpellings": [
 			"VA",
 			"Holy See (Vatican City State)",
@@ -45825,6 +48186,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+01:00"
@@ -45867,6 +48232,12 @@
 		"capital": [
 			"Kingstown"
 		],
+		"capitalInfo": {
+			"latlng": [
+				13.13,
+				-61.22
+			]
+		},
 		"altSpellings": [
 			"VC"
 		],
@@ -46006,6 +48377,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -46048,6 +48423,12 @@
 		"capital": [
 			"Caracas"
 		],
+		"capitalInfo": {
+			"latlng": [
+				10.48,
+				-66.87
+			]
+		},
 		"altSpellings": [
 			"VE",
 			"Bolivarian Republic of Venezuela",
@@ -46196,6 +48577,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -46238,6 +48623,12 @@
 		"capital": [
 			"Road Town"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.42,
+				-64.62
+			]
+		},
 		"altSpellings": [
 			"VG",
 			"Virgin Islands, British"
@@ -46378,6 +48769,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -46420,6 +48815,12 @@
 		"capital": [
 			"Charlotte Amalie"
 		],
+		"capitalInfo": {
+			"latlng": [
+				18.35,
+				-64.93
+			]
+		},
 		"altSpellings": [
 			"VI",
 			"Virgin Islands, U.S."
@@ -46560,6 +48961,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC-04:00"
@@ -46602,6 +49007,12 @@
 		"capital": [
 			"Hanoi"
 		],
+		"capitalInfo": {
+			"latlng": [
+				21.03,
+				105.85
+			]
+		},
 		"altSpellings": [
 			"VN",
 			"Socialist Republic of Vietnam",
@@ -46750,6 +49161,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "######",
+			"regex": "^(\\d{6})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+07:00"
@@ -46800,6 +49215,12 @@
 		"capital": [
 			"Port Vila"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-17.73,
+				168.32
+			]
+		},
 		"altSpellings": [
 			"VU",
 			"Republic of Vanuatu",
@@ -46946,6 +49367,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+11:00"
@@ -46988,6 +49413,12 @@
 		"capital": [
 			"Mata-Utu"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-13.95,
+				-171.93
+			]
+		},
 		"altSpellings": [
 			"WF",
 			"Territory of the Wallis and Futuna Islands",
@@ -47129,6 +49560,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(986\\d{2})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+12:00"
@@ -47175,6 +49610,12 @@
 		"capital": [
 			"Apia"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-13.82,
+				-171.77
+			]
+		},
 		"altSpellings": [
 			"WS",
 			"Independent State of Samoa",
@@ -47319,6 +49760,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+13:00"
@@ -47361,6 +49806,12 @@
 		"capital": [
 			"Sana'a"
 		],
+		"capitalInfo": {
+			"latlng": [
+				15.37,
+				44.19
+			]
+		},
 		"altSpellings": [
 			"YE",
 			"Yemeni Republic",
@@ -47507,6 +49958,10 @@
 			],
 			"side": "right"
 		},
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
 		"startOfWeek": "sunday",
 		"timezones": [
 			"UTC+03:00"
@@ -47591,6 +50046,12 @@
 			"Bloemfontein",
 			"Cape Town"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-25.7,
+				28.22
+			]
+		},
 		"altSpellings": [
 			"ZA",
 			"RSA",
@@ -47752,6 +50213,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -47794,6 +50259,12 @@
 		"capital": [
 			"Lusaka"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-15.42,
+				28.28
+			]
+		},
 		"altSpellings": [
 			"ZM",
 			"Republic of Zambia"
@@ -47945,6 +50416,10 @@
 			],
 			"side": "left"
 		},
+		"postalCode": {
+			"format": "#####",
+			"regex": "^(\\d{5})$"
+		},
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+02:00"
@@ -48043,6 +50518,12 @@
 		"capital": [
 			"Harare"
 		],
+		"capitalInfo": {
+			"latlng": [
+				-17.82,
+				31.03
+			]
+		},
 		"altSpellings": [
 			"ZW",
 			"Republic of Zimbabwe"
@@ -48203,6 +50684,10 @@
 				"ZW"
 			],
 			"side": "left"
+		},
+		"postalCode": {
+			"format": null,
+			"regex": null
 		},
 		"startOfWeek": "monday",
 		"timezones": [
