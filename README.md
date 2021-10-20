@@ -31,6 +31,10 @@ You can check the [FIELDS.md](FIELDS.md) file to get a description for each fiel
 ### V3
 - Added population
 ### V3.1
+#### 19/10
+- Added capital information (lat and long)
+- Added postal code (format and regex)
+#### Previously
 - Added population
 - Added named object for `flags`
 

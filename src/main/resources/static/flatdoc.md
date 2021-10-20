@@ -5,8 +5,26 @@ Get information about countries via a RESTful API
 
 *Current version: 3.1*
 
+Donate!
+---------------
+We're getting about 1.6 millions hits each day and that means also bandwidth (25 GB per day!) so
+costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's
+bills, you're welcome to [donate] or you can also
+[buy me a coffee](https://www.buymeacoffee.com/amatos).
+
+Changelog
+-----
+- 19/10
+    - Added capital information (lat and long)
+    - Added postal code (format and regex)
+
+* Previously
+    - Added population
+    - Added named object for `flags`
+
 New in Version 3
--
+-----------------
+
 Version 3 and 3.1 uses [this] project to get the country's structure and adds a couple of new features:
 
 - Search by translations
@@ -18,11 +36,13 @@ Version 3 and 3.1 uses [this] project to get the country's structure and adds a 
 - Added country's driving side
 - Added country Distinguishing (oval) sign
 
-In addition to those features, I added the flags (svg and png) to each country. 
+In addition to those features, I added the flags (svg and png) to each country. Only latest version
+will get new features (nodes) while *trying* to keep the same structure as previous versions.
 
 V3 vs V3.1
--
-The only difference between v3 and v3.1 is
+----------
+
+V3.1 has a few more fields and also the flag node is different:
 
 V3:
 
@@ -40,17 +60,6 @@ V3.1:
   "png": "https://restcountries.com/data/png/per.png"
 }
 ```
-
-Important Information About Version 2
---
-The structure has been reverted to its original form from the [Original Project] to maintain compatibility.
-
-Donate!
----------------
-We're getting about 1.6 millions hits each day and that means also bandwidth (25 GB per day!) so
-costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's
-bills, you're welcome to [donate] or you can also
-[buy me a coffee](https://www.buymeacoffee.com/amatos).
 
 Users
 ---------------
