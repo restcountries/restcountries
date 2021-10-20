@@ -35784,8 +35784,8 @@
 			"side": "right"
 		},
 		"postalCode": {
-			"format": null,
-			"regex": null
+			"format": "#####",
+			"regex": "^(\\d{5})$"
 		},
 		"startOfWeek": "monday",
 		"timezones": [

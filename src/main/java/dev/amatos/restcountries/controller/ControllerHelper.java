@@ -37,6 +37,8 @@ public class ControllerHelper {
       "timezones",
       "continents",
       "coatOfArms",
-      "startOfWeek"
+      "startOfWeek",
+      "capitalInfo",
+      "postalCode"
   };
 }
