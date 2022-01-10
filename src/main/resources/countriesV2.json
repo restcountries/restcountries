@@ -20037,9 +20037,9 @@
 		"capital": "Dili",
 		"currencies": [
 			{
-				"code": "THB",
-				"name": "Thai baht",
-				"symbol": "\u0e3f"
+				"code": "USD",
+				"name": "United States Dollar",
+				"symbol": "$"
 			}
 		],
 		"demonym": "East Timorese",
