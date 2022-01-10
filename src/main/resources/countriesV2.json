@@ -17915,11 +17915,6 @@
 		"capital": "Singapore",
 		"currencies": [
 			{
-				"code": "BND",
-				"name": "Brunei dollar",
-				"symbol": "$"
-			},
-			{
 				"code": "SGD",
 				"name": "Singapore dollar",
 				"symbol": "$"
