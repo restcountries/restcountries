@@ -13036,7 +13036,7 @@
 		"subregion": "Micronesia",
 		"timezones": [
 			"UTC+10:00",
-			"UTC+11"
+			"UTC+11:00"
 		],
 		"topLevelDomain": [
 			".fm"
@@ -21072,7 +21072,7 @@
 		],
 		"subregion": "Western Asia",
 		"timezones": [
-			"UTC+04"
+			"UTC+04:00"
 		],
 		"topLevelDomain": [
 			".ae"

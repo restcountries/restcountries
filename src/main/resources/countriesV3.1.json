@@ -1580,7 +1580,7 @@
 		},
 		"startOfWeek": "sunday",
 		"timezones": [
-			"UTC+04"
+			"UTC+04:00"
 		]
 	},
 	{
@@ -15922,7 +15922,7 @@
 		"startOfWeek": "monday",
 		"timezones": [
 			"UTC+10:00",
-			"UTC+11"
+			"UTC+11:00"
 		]
 	},
 	{
