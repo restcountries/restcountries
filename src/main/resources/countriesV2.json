@@ -20545,10 +20545,11 @@
 			{
 				"code": "TRY",
 				"name": "Turkish lira",
-				"symbol": "\u058f"
+				"symbol": "\u20ba"
 			}
 		],
 		"demonym": "Turkish",
+		"independent": true,
 		"flag": "https://flagcdn.com/tr.svg",
 		"flags": {
 			"svg": "https://flagcdn.com/tr.svg",
