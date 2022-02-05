@@ -5,8 +5,8 @@ package dev.amatos.restcountries.service.v2;
 
 import dev.amatos.restcountries.domain.v2.Country;
 import dev.amatos.restcountries.domain.v2.Currency;
-import dev.amatos.restcountries.domain.v2.Language;
 import dev.amatos.restcountries.domain.v2.RegionalBloc;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -130,8 +130,8 @@ public class CountryServiceV2 extends CountryServiceBaseV2 {
 
   private boolean getRegionalBlockMatch(String acronym, List<String> otherAcronym,
       String regionalBlock) {
-    return acronym != null && otherAcronym != null && ((acronym.equalsIgnoreCase(regionalBlock)
-        || otherAcronym.contains(regionalBlock)));
+    return acronym != null && otherAcronym != null && (acronym.equalsIgnoreCase(regionalBlock)
+        || otherAcronym.contains(regionalBlock));
   }
 
   @SuppressWarnings("unchecked")

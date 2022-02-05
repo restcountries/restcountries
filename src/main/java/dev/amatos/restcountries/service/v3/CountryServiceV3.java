@@ -77,6 +77,7 @@ public class CountryServiceV3 extends CountryServiceBaseV3 {
     return result;
   }
 
+  @Override
   protected String normalize(String string) {
     return Normalizer.normalize(string, Normalizer.Form.NFD)
         .replaceAll("\\p{InCombiningDiacriticalMarks}+", "");

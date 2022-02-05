@@ -4,9 +4,8 @@
 package dev.amatos.restcountries.domain.v2;
 
 import dev.amatos.restcountries.domain.BaseCountry;
-import java.util.ArrayList;
+
 import java.util.List;
-import java.util.Map;
 
 public class Country extends BaseCountry {
 

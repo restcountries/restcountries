@@ -72,8 +72,6 @@ public class CountryServiceBaseV3 {
           name.toLowerCase().contains(country.getName().getOfficial().toLowerCase())) {
         result.add(country);
       }
-    }
-    for (var country : countries) {
       for (String alternative : country.getAltSpellings()) {
         if (alternative.toLowerCase().contains(name.toLowerCase())) {
           result.add(country);

@@ -156,7 +156,7 @@ public class CountryServiceBaseV2 {
             }
         } catch (Exception e) {
             e.printStackTrace();
-            logger.error("Could not load JSON " + filename);
+            logger.error("Could not load JSON {}", filename);
         }
         return countries;
     }

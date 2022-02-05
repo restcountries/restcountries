@@ -104,8 +104,7 @@ public class CountryControllerV31 extends ControllerHelper {
       @QueryParam("fullText") Optional<Boolean> fullText,
       @QueryParam("fields") Optional<String> fields) {
     try {
-      var countries = CountryServiceV31.getInstance()
-          .getByName(name, fullText.orElse(false));
+      var countries = CountryServiceV31.getInstance().getByName(name, fullText.orElse(false));
       if (!countries.isEmpty()) {
         return checkFieldsAndParseCountries(fields, countries);
       }
