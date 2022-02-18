@@ -14,6 +14,8 @@ import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
 import io.micronaut.http.annotation.PathVariable;
 import io.micronaut.http.annotation.QueryValue;
+import io.swagger.v3.oas.annotations.media.Schema;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -26,6 +28,7 @@ import javax.ws.rs.core.Response;
 public class CountryControllerV31 extends ControllerHelper {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
+  @Schema(name="RestCountries")
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
     var countries = CountryServiceV31.getInstance().getAll();
     return checkFieldsAndParseCountries(fields, countries);
@@ -41,6 +44,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("alpha/{alphacode}")
+  @Schema(name="RestCountries")
   public Object getByAlpha(@PathVariable("alphacode") String alpha,
       @QueryValue("fields") Optional<String> fields) {
     if (alpha.contains("codes")) {
@@ -65,6 +69,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("alpha/")
+  @Schema(name="RestCountries")
   public Object getByAlphaList(@QueryParam("codes") String codes,
       @QueryParam("fields") Optional<String> fields) {
     if (isEmpty(codes) || codes.length() < 2 || (codes.length() > 3 && !codes.contains(","))) {
@@ -83,6 +88,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("currency/{currency}")
+  @Schema(name="RestCountries")
   public Object getByCurrency(@PathVariable("currency") String currency,
       @QueryParam("fields") Optional<String> fields) {
     if (isEmpty(currency)) {
@@ -100,6 +106,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("name/{name}")
+  @Schema(name="RestCountries")
   public Object getByName(@PathVariable("name") String name,
       @QueryParam("fullText") Optional<Boolean> fullText,
       @QueryParam("fields") Optional<String> fields) {
@@ -115,6 +122,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("capital/{capital}")
+  @Schema(name="RestCountries")
   public Object getByCapital(@PathVariable("capital") String capital,
       @QueryParam("fields") Optional<String> fields) {
     try {
@@ -130,6 +138,7 @@ public class CountryControllerV31 extends ControllerHelper {
 
 
   @Get("region/{region}")
+  @Schema(name="RestCountries")
   public Object getByContinent(@PathVariable("region") String region,
       @QueryParam("fields") Optional<String> fields) {
     try {
@@ -144,6 +153,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("subregion/{subregion}")
+  @Schema(name="RestCountries")
   public Object getBySubRegion(@PathVariable("subregion") String subregion,
       @QueryParam("fields") Optional<String> fields) {
     try {
@@ -158,6 +168,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("lang/{lang}")
+  @Schema(name="RestCountries")
   public Object getByLanguage(@PathVariable("lang") String language,
       @QueryParam("fields") Optional<String> fields) {
     try {
@@ -173,6 +184,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("demonym/{demonym}")
+  @Schema(name="RestCountries")
   public Object getByDemonym(@PathVariable("demonym") String demonym,
       @QueryParam("fields") Optional<String> fields) {
     try {
@@ -187,6 +199,7 @@ public class CountryControllerV31 extends ControllerHelper {
   }
 
   @Get("translation/{translation}")
+  @Schema(name="RestCountries")
   public Object getByTranslation(@PathVariable("translation") String translation,
       @QueryParam("fields") Optional<String> fields) {
     try {
