@@ -7430,7 +7430,7 @@
 				"7"
 			]
 		},
-		"capital": ["Oslo"],
+		"capital": [],
 		"capitalInfo": {
 			"latlng": []
 		},
@@ -19730,7 +19730,7 @@
 			"root": "",
 			"suffixes": []
 		},
-		"capital": ["Bern"],
+		"capital": [],
 		"capitalInfo": {
 			"latlng": []
 		},
@@ -27591,7 +27591,7 @@
 				"53"
 			]
 		},
-		"capital": ["Macau"],
+		"capital": [],
 		"capitalInfo": {
 			"latlng": []
 		},
