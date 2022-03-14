@@ -5,7 +5,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
-import dev.amatos.restcountries.domain.ResponseEntity;
 import dev.amatos.restcountries.domain.v3.v31.Country;
 import dev.amatos.restcountries.service.v3.v31.CountryServiceV31;
 import io.micronaut.http.HttpResponse;
@@ -31,16 +30,7 @@ public class CountryControllerV31 extends ControllerHelper {
   @Schema(name="RestCountries")
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
     var countries = CountryServiceV31.getInstance().getAll();
-    return checkFieldsAndParseCountries(fields, countries);
-  }
-
-  private Object checkFieldsAndParseCountries(Optional<String> fields,
-      Set<Country> countries) {
-    if (fields.isPresent()) {
-      return parsedCountries(countries, fields.get());
-    } else {
-      return parsedCountries(countries, null);
-    }
+    return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
   }
 
   @Get("alpha/{alphacode}")
@@ -51,21 +41,13 @@ public class CountryControllerV31 extends ControllerHelper {
       alpha = alpha.replace("codes=", "");
     }
     if (isEmpty(alpha) || alpha.length() < 2 || alpha.length() > 3) {
-      return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
+      return ControllerHelper.badRequest();
     }
     var country = CountryServiceV31.getInstance().getByAlpha(alpha);
-    if (country != null) {
-      return checkFieldsAndParseCountry(country, fields);
+    if (country != null && !country.isEmpty()) {
+      return HttpResponse.ok(checkFieldsAndParseCountry(country, fields));
     }
-    return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
-  }
-
-  private Object checkFieldsAndParseCountry(Set<Country> countries, Optional<String> fields) {
-    if (fields.isPresent()) {
-      return parsedCountry(countries, fields.get());
-    } else {
-      return parsedCountry(countries, null);
-    }
+    return ControllerHelper.notFound();
   }
 
   @Get("alpha/")
@@ -73,16 +55,16 @@ public class CountryControllerV31 extends ControllerHelper {
   public Object getByAlphaList(@QueryParam("codes") String codes,
       @QueryParam("fields") Optional<String> fields) {
     if (isEmpty(codes) || codes.length() < 2 || (codes.length() > 3 && !codes.contains(","))) {
-      return HttpResponse.badRequest(getResponse(Response.Status.BAD_REQUEST));
+      return ControllerHelper.badRequest();
     }
     try {
       var countries = CountryServiceV31.getInstance().getByCodeList(codes);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
-      return HttpResponse.serverError(getResponse(Response.Status.INTERNAL_SERVER_ERROR));
+      return ControllerHelper.internalError();
     }
 
   }
@@ -92,16 +74,16 @@ public class CountryControllerV31 extends ControllerHelper {
   public Object getByCurrency(@PathVariable("currency") String currency,
       @QueryParam("fields") Optional<String> fields) {
     if (isEmpty(currency)) {
-      return getResponse(Response.Status.BAD_REQUEST);
+      return ControllerHelper.badRequest();
     }
     try {
       var countries = CountryServiceV31.getInstance().getByCurrency(currency);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
-      return HttpResponse.serverError(getResponse(Response.Status.INTERNAL_SERVER_ERROR));
+      return ControllerHelper.internalError();
     }
   }
 
@@ -113,9 +95,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByName(name, fullText.orElse(false));
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -128,9 +110,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByCapital(capital);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -144,9 +126,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByRegion(region);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -159,9 +141,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getBySubregion(subregion);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -174,9 +156,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByLanguage(language);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -190,9 +172,9 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByDemonym(demonym);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
@@ -205,11 +187,28 @@ public class CountryControllerV31 extends ControllerHelper {
     try {
       var countries = CountryServiceV31.getInstance().getByTranslation(translation);
       if (!countries.isEmpty()) {
-        return checkFieldsAndParseCountries(fields, countries);
+        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
       }
-      return HttpResponse.notFound(getResponse(Response.Status.NOT_FOUND));
+      return ControllerHelper.notFound();
     } catch (Exception e) {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
+    }
+  }
+
+  private Object checkFieldsAndParseCountries(Optional<String> fields,
+      Set<Country> countries) {
+    if (fields.isPresent()) {
+      return parsedCountries(countries, fields.get());
+    } else {
+      return parsedCountries(countries, null);
+    }
+  }
+
+  private Object checkFieldsAndParseCountry(Set<Country> countries, Optional<String> fields) {
+    if (fields.isPresent()) {
+      return parsedCountry(countries, fields.get());
+    } else {
+      return parsedCountry(countries, null);
     }
   }
 
@@ -240,37 +239,6 @@ public class CountryControllerV31 extends ControllerHelper {
     List<String> excludedFields = new ArrayList<>(Arrays.asList(V3_COUNTRY_FIELDS));
     excludedFields.removeAll(fields);
     return excludedFields;
-  }
-
-  private Object getResponse(Response.Status status) {
-    var gson = new Gson();
-    return Response
-        .status(status)
-        .entity(gson.toJson(new ResponseEntity(status.getStatusCode(),
-            status.getReasonPhrase())))
-        .build()
-        .getEntity();
-  }
-
-  private Object parsedCountry(Set<Country> countries, String fields) {
-    if (fields == null || fields.isEmpty()) {
-      return countries;
-    } else {
-      StringBuilder result = new StringBuilder();
-      countries.forEach(country -> result.append(
-          getCountryJson(country, Arrays.asList(fields.split(ICountryRestSymbols.COLON)))));
-      return result;
-    }
-  }
-
-  private String getCountryJson(Country country, List<String> fields) {
-    var gson = new Gson();
-    var parser = new JsonParser();
-    var jsonObject = parser.parse(gson.toJson(country)).getAsJsonObject();
-
-    List<String> excludedFields = getExcludedFields(fields);
-    excludedFields.forEach(jsonObject::remove);
-    return jsonObject.toString();
   }
 
   private boolean isEmpty(String value) {
