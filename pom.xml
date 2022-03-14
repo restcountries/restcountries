@@ -18,6 +18,7 @@
     <!-- If you are building with JDK 9 or higher, you can uncomment the lines below to set the release version -->
     <release.version>14</release.version>
     <micronaut.version>2.0.1</micronaut.version>
+    <micronautopenapi.version>2.0.0</micronautopenapi.version>
     <exec.mainClass>dev.amatos.restcountries.Application</exec.mainClass>
     <java.version>14</java.version>
   </properties>
@@ -105,6 +106,10 @@
       <artifactId>resteasy-client</artifactId>
       <version>4.5.7.Final</version>
     </dependency>
+    <dependency>
+      <groupId>io.swagger.core.v3</groupId>
+      <artifactId>swagger-annotations</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
@@ -138,6 +143,11 @@
               <groupId>io.micronaut</groupId>
               <artifactId>micronaut-validation</artifactId>
               <version>${micronaut.version}</version>
+            </path>
+            <path>
+              <groupId>io.micronaut.openapi</groupId>
+              <artifactId>micronaut-openapi</artifactId>
+              <version>${micronautopenapi.version}</version>
             </path>
           </annotationProcessorPaths>
           <compilerArgs>

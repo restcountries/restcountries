@@ -5,6 +5,11 @@ micronaut:
     enabled: true
     paths: classpath:static
     mapping: "/**"
+  router:
+    static-resources:
+      swagger:
+        paths: classpath:META-INF/swagger
+        mapping: /openapi/**
   server:
     cors:
       enabled: true

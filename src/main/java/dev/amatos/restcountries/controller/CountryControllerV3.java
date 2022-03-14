@@ -14,6 +14,8 @@ import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
 import io.micronaut.http.annotation.PathVariable;
 import io.micronaut.http.annotation.QueryValue;
+import io.swagger.v3.oas.annotations.Hidden;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -22,7 +24,8 @@ import java.util.Set;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Response;
 
-@Controller("v3/")
+@Hidden
+@Controller("/v3/")
 public class CountryControllerV3 extends ControllerHelper {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
