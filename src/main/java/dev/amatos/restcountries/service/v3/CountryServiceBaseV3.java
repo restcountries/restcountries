@@ -68,8 +68,9 @@ public class CountryServiceBaseV3 {
     // Using 2 different 'for' loops to give priority to 'name' matches over alternative spellings
     Set<BaseCountry> result = new HashSet<>();
     for (var country : countries) {
-      if (name.toLowerCase().contains(country.getName().getCommon().toLowerCase()) ||
-          name.toLowerCase().contains(country.getName().getOfficial().toLowerCase())) {
+      if(country.getName().getCommon().toLowerCase().contains(name.toLowerCase()) ||
+          country.getName().getOfficial().toLowerCase().contains(name.toLowerCase())
+      ) {
         result.add(country);
       }
       for (String alternative : country.getAltSpellings()) {
