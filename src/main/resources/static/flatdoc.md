@@ -48,16 +48,16 @@ V3:
 
 ```json
 "flags": [
-  "https://restcountries.com/data/per.svg",
-  "https://restcountries.com/data/png/per.png"
+  "https://flagcdn.com/per.svg",
+  "https://flagcdn.com/w320/per.png"
 ]
 ``` 
 V3.1:
 
 ```json
 "flags": {
-  "svg": "https://restcountries.com/data/per.svg",
-  "png": "https://restcountries.com/data/png/per.png"
+  "svg": "https://flagcdn.com/per.svg",
+  "png": "https://flagcdn.com/w320/per.png"
 }
 ```
 
@@ -537,13 +537,13 @@ https://restcountries.com/v2/callingcode/51
 Continent
 ---------------
 
-Search by continent: Africa, Americas, Asia, Europe, Oceania
+Search by continent (region): Africa, Americas, Asia, Europe, Oceania
 
 ``` javascript
-https://restcountries.com/v2/continent/{region}
+https://restcountries.com/v2/region/{region}
 ```
 ``` html
-https://restcountries.com/v2/continent/europe
+https://restcountries.com/v3.1/region/europe
 ```
 
 Regional Bloc
