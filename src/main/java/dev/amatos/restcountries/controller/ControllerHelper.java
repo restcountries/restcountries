@@ -6,12 +6,12 @@ import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.domain.ResponseEntity;
 import dev.amatos.restcountries.domain.base.BaseCountry;
 import io.micronaut.http.HttpResponse;
+import jakarta.ws.rs.core.Response;
+import jakarta.ws.rs.core.Response.Status;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
-import javax.ws.rs.core.Response;
-import javax.ws.rs.core.Response.Status;
 
 public class ControllerHelper {
 
@@ -92,30 +92,30 @@ public class ControllerHelper {
   }
 
   protected static HttpResponse<Object> notFound() {
-    var gson = new Gson();
-    var notFound = Response
-        .status(Status.NOT_FOUND)
-        .entity(gson.toJson(new ResponseEntity(Response.Status.NOT_FOUND.getStatusCode(),
-            Response.Status.NOT_FOUND.getReasonPhrase()))).build().getEntity();
-    return HttpResponse.notFound(notFound);
+    return HttpResponse.notFound().body(
+        new ResponseEntity(
+            Response.Status.NOT_FOUND.getStatusCode(),
+            Response.Status.NOT_FOUND.getReasonPhrase()
+        )
+    );
   }
 
   protected static HttpResponse<Object> internalError() {
-    var gson = new Gson();
-    var notFound = Response
-        .status(Status.INTERNAL_SERVER_ERROR)
-        .entity(gson.toJson(new ResponseEntity(Response.Status.INTERNAL_SERVER_ERROR.getStatusCode(),
-            Response.Status.INTERNAL_SERVER_ERROR.getReasonPhrase()))).build().getEntity();
-    return HttpResponse.serverError(notFound);
+    return HttpResponse.serverError().body(
+        new ResponseEntity(
+            Response.Status.INTERNAL_SERVER_ERROR.getStatusCode(),
+            Response.Status.INTERNAL_SERVER_ERROR.getReasonPhrase()
+        )
+    );
   }
 
   protected static HttpResponse<Object> badRequest() {
-    var gson = new Gson();
-    var notFound = Response
-        .status(Status.BAD_REQUEST)
-        .entity(gson.toJson(new ResponseEntity(Response.Status.BAD_REQUEST.getStatusCode(),
-            Response.Status.BAD_REQUEST.getReasonPhrase()))).build().getEntity();
-    return HttpResponse.badRequest(notFound);
+    return HttpResponse.badRequest().body(
+        new ResponseEntity(
+            Response.Status.BAD_REQUEST.getStatusCode(),
+            Response.Status.BAD_REQUEST.getReasonPhrase()
+        )
+    );
   }
 
   protected static Object parsedCountry(Set<? extends BaseCountry> countries, String fields) {
