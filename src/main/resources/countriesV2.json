@@ -81,7 +81,7 @@
 			".af"
 		],
 		"translations": {
-			"br": "Afeganist\u00e3o",
+			"br": "Afghanistan",
 			"cs": "Afg\u00e1nist\u00e1n",
 			"de": "Afghanistan",
 			"es": "Afganist\u00e1n",
@@ -165,7 +165,7 @@
 			".ax"
 		],
 		"translations": {
-			"br": "Ilhas de Aland",
+			"br": "\u00c5land",
 			"cs": "\u00c5landy",
 			"de": "\u00c5land",
 			"es": "Alandia",
@@ -254,7 +254,7 @@
 			".al"
 		],
 		"translations": {
-			"br": "Alb\u00e2nia",
+			"br": "Albania",
 			"cs": "Alb\u00e1nie",
 			"de": "Albanien",
 			"es": "Albania",
@@ -361,7 +361,7 @@
 			".dz"
 		],
 		"translations": {
-			"br": "Arg\u00e9lia",
+			"br": "Aljeria",
 			"cs": "Al\u017e\u00edrsko",
 			"de": "Algerien",
 			"es": "Argelia",
@@ -446,7 +446,7 @@
 			".as"
 		],
 		"translations": {
-			"br": "Samoa Americana",
+			"br": "Samoa Amerikan",
 			"cs": "Americk\u00e1 Samoa",
 			"de": "Amerikanisch-Samoa",
 			"es": "Samoa Americana",
@@ -698,7 +698,7 @@
 			".ai"
 		],
 		"translations": {
-			"br": "Anguila",
+			"br": "Anguilla",
 			"cs": "Anguilla",
 			"de": "Anguilla",
 			"es": "Anguilla",
@@ -779,7 +779,7 @@
 			".aq"
 		],
 		"translations": {
-			"br": "Ant\u00e1rtida",
+			"br": "Antarktika",
 			"cs": "Antarktida",
 			"de": "Antarktika",
 			"es": "Ant\u00e1rtida",
@@ -865,7 +865,7 @@
 			".ag"
 		],
 		"translations": {
-			"br": "Ant\u00edgua e Barbuda",
+			"br": "Antigua ha Barbuda",
 			"cs": "Antigua a Barbuda",
 			"de": "Antigua und Barbuda",
 			"es": "Antigua y Barbuda",
@@ -971,7 +971,7 @@
 			".ar"
 		],
 		"translations": {
-			"br": "Argentina",
+			"br": "Arc'hantina",
 			"cs": "Argentina",
 			"de": "Argentinien",
 			"es": "Argentina",
@@ -1063,7 +1063,7 @@
 			".am"
 		],
 		"translations": {
-			"br": "Arm\u00eania",
+			"br": "Armenia",
 			"cs": "Arm\u00e9nie",
 			"de": "Armenien",
 			"es": "Armenia",
@@ -1228,7 +1228,7 @@
 			".au"
 		],
 		"translations": {
-			"br": "Austr\u00e1lia",
+			"br": "Aostralia",
 			"cs": "Austr\u00e1lie",
 			"de": "Australien",
 			"es": "Australia",
@@ -1321,7 +1321,7 @@
 			".at"
 		],
 		"translations": {
-			"br": "\u00c1ustria",
+			"br": "Aostria",
 			"cs": "Rakousko",
 			"de": "\u00d6sterreich",
 			"es": "Austria",
@@ -1403,7 +1403,7 @@
 			".az"
 		],
 		"translations": {
-			"br": "Azerbaij\u00e3o",
+			"br": "Azerbaidjan",
 			"cs": "\u00c1zerb\u00e1jd\u017e\u00e1n",
 			"de": "Aserbaidschan",
 			"es": "Azerbaiy\u00e1n",
@@ -1857,7 +1857,7 @@
 			".by"
 		],
 		"translations": {
-			"br": "Bielorr\u00fassia",
+			"br": "Belarus",
 			"cs": "B\u011blorusko",
 			"de": "Wei\u00dfrussland",
 			"es": "Bielorrusia",
@@ -1963,7 +1963,7 @@
 			".be"
 		],
 		"translations": {
-			"br": "B\u00e9lgica",
+			"br": "Belgia",
 			"cs": "Belgie",
 			"de": "Belgien",
 			"es": "B\u00e9lgica",
@@ -2242,7 +2242,7 @@
 			".bm"
 		],
 		"translations": {
-			"br": "Bermudas",
+			"br": "Bermuda",
 			"cs": "Bermudy",
 			"de": "Bermuda",
 			"es": "Bermudas",
@@ -2332,7 +2332,7 @@
 			".bt"
 		],
 		"translations": {
-			"br": "But\u00e3o",
+			"br": "Bhoutan",
 			"cs": "Bh\u00fat\u00e1n",
 			"de": "Bhutan",
 			"es": "But\u00e1n",
@@ -2449,7 +2449,7 @@
 			".bo"
 		],
 		"translations": {
-			"br": "Bol\u00edvia",
+			"br": "Bolivia",
 			"cs": "Bol\u00edvie",
 			"de": "Bolivien",
 			"es": "Bolivia",
@@ -2523,7 +2523,7 @@
 			".nl"
 		],
 		"translations": {
-			"br": "Bonaire",
+			"br": "Bonaire, Sint Eustatius ha Saba",
 			"cs": "Karibsk\u00e9 Nizozemsko",
 			"de": "Bonaire, Sint Eustatius und Saba",
 			"es": "Bonaire, Sint Eustatius and Saba",
@@ -2617,7 +2617,7 @@
 			".ba"
 		],
 		"translations": {
-			"br": "B\u00f3snia e Herzegovina",
+			"br": "Bosnia-ha-Herzegovina",
 			"cs": "Bosna a Hercegovina",
 			"de": "Bosnien und Herzegowina",
 			"es": "Bosnia y Herzegovina",
@@ -2714,7 +2714,7 @@
 			".bw"
 		],
 		"translations": {
-			"br": "Botsuana",
+			"br": "Botswana",
 			"cs": "Botswana",
 			"de": "Botswana",
 			"es": "Botswana",
@@ -2800,7 +2800,7 @@
 			".bv"
 		],
 		"translations": {
-			"br": "Ilha Bouvet",
+			"br": "Enez Bouvet",
 			"cs": "Bouvet\u016fv ostrov",
 			"de": "Bouvetinsel",
 			"es": "Isla Bouvet",
@@ -2906,7 +2906,7 @@
 			".br"
 		],
 		"translations": {
-			"br": "Brasil",
+			"br": "Brazil",
 			"cs": "Braz\u00edlie",
 			"de": "Brasilien",
 			"es": "Brasil",
@@ -2990,7 +2990,7 @@
 			".io"
 		],
 		"translations": {
-			"br": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00ed\u00cddico",
+			"br": "Tiriad breizhveurat Meurvor Indez",
 			"cs": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed",
 			"de": "Britisches Territorium im Indischen Ozean",
 			"es": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
@@ -3060,7 +3060,7 @@
 			".us"
 		],
 		"translations": {
-			"br": "Ilhas Menores Distantes dos Estados Unidos",
+			"br": "Inizi Minor A-bell Stado\u00f9-Unanet",
 			"cs": "Men\u0161\u00ed odlehl\u00e9 ostrovy Spojen\u00fdch st\u00e1t\u016f americk\u00fdch",
 			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
 			"es": "Islas Ultramarinas Menores de Estados Unidos",
@@ -3132,7 +3132,7 @@
 			".vg"
 		],
 		"translations": {
-			"br": "Ilhas Virgens Brit\u00e2nicas",
+			"br": "Inizi Gwerc'h Breizhveurat",
 			"cs": "Britsk\u00e9 Panensk\u00e9 ostrovy",
 			"de": "Britische Jungferninseln",
 			"es": "Islas V\u00edrgenes del Reino Unido",
@@ -3207,7 +3207,7 @@
 			".vi"
 		],
 		"translations": {
-			"br": "Ilhas Virgens Americanas",
+			"br": "Inizi Gwerc'h ar Stado\u00f9-Unanet",
 			"cs": "Americk\u00e9 Panensk\u00e9 ostrovy",
 			"de": "Amerikanische Jungferninseln",
 			"es": "Islas V\u00edrgenes de los Estados Unidos",
@@ -3378,7 +3378,7 @@
 			".bg"
 		],
 		"translations": {
-			"br": "Bulg\u00e1ria",
+			"br": "Bulgaria",
 			"cs": "Bulharsko",
 			"de": "Bulgarien",
 			"es": "Bulgaria",
@@ -3659,7 +3659,7 @@
 			".kh"
 		],
 		"translations": {
-			"br": "Camboja",
+			"br": "Kambodja",
 			"cs": "Kambod\u017ea",
 			"de": "Kambodscha",
 			"es": "Camboya",
@@ -3758,7 +3758,7 @@
 			".cm"
 		],
 		"translations": {
-			"br": "Camar\u00f5es",
+			"br": "Kameroun",
 			"cs": "Kamerun",
 			"de": "Kamerun",
 			"es": "Camer\u00fan",
@@ -3852,7 +3852,7 @@
 			".ca"
 		],
 		"translations": {
-			"br": "Canad\u00e1",
+			"br": "Kanada",
 			"cs": "Kanada",
 			"de": "Kanada",
 			"es": "Canad\u00e1",
@@ -3938,7 +3938,7 @@
 			".cv"
 		],
 		"translations": {
-			"br": "Cabo Verde",
+			"br": "Kab Glas",
 			"cs": "Kapverdy",
 			"de": "Kap Verde",
 			"es": "Cabo Verde",
@@ -4010,7 +4010,7 @@
 			".ky"
 		],
 		"translations": {
-			"br": "Ilhas Cayman",
+			"br": "Inizi Cayman",
 			"cs": "Kajmansk\u00e9 ostrovy",
 			"de": "Kaimaninseln",
 			"es": "Islas Caim\u00e1n",
@@ -4109,7 +4109,7 @@
 			".cf"
 		],
 		"translations": {
-			"br": "Rep\u00fablica Centro-Africana",
+			"br": "Republik Kreizafrikan",
 			"cs": "St\u0159edoafrick\u00e1 republika",
 			"de": "Zentralafrikanische Republik",
 			"es": "Rep\u00fablica Centroafricana",
@@ -4209,7 +4209,7 @@
 			".td"
 		],
 		"translations": {
-			"br": "Chade",
+			"br": "Tchad",
 			"cs": "\u010cad",
 			"de": "Tschad",
 			"es": "Chad",
@@ -4406,7 +4406,7 @@
 			".cn"
 		],
 		"translations": {
-			"br": "China",
+			"br": "Sina",
 			"cs": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
 			"de": "China",
 			"es": "China",
@@ -4479,7 +4479,7 @@
 			".cx"
 		],
 		"translations": {
-			"br": "Ilha Christmas",
+			"br": "Enez Christmas",
 			"cs": "V\u00e1no\u010dn\u00ed ostrov",
 			"de": "Weihnachtsinsel",
 			"es": "Isla de Navidad",
@@ -4553,7 +4553,7 @@
 			".cc"
 		],
 		"translations": {
-			"br": "Ilhas Cocos",
+			"br": "Inizi Cocos (Keeling)",
 			"cs": "Kokosov\u00e9 ostrovy",
 			"de": "Kokosinseln",
 			"es": "Islas Cocos o Islas Keeling",
@@ -4656,7 +4656,7 @@
 			".co"
 		],
 		"translations": {
-			"br": "Col\u00f4mbia",
+			"br": "Kolombia",
 			"cs": "Kolumbie",
 			"de": "Kolumbien",
 			"es": "Colombia",
@@ -4759,7 +4759,7 @@
 			".km"
 		],
 		"translations": {
-			"br": "Comores",
+			"br": "Komorez",
 			"cs": "Komory",
 			"de": "Union der Komoren",
 			"es": "Comoras",
@@ -4856,7 +4856,7 @@
 			".cg"
 		],
 		"translations": {
-			"br": "Congo",
+			"br": "Kongo-Brazzaville",
 			"cs": "Demokratick\u00e1 republika Kongo",
 			"de": "Kongo",
 			"es": "Congo",
@@ -4978,7 +4978,7 @@
 			".cd"
 		],
 		"translations": {
-			"br": "RD Congo",
+			"br": "Kongo-Kinshasa",
 			"cs": "Demokratick\u00e1 republika Kongo",
 			"de": "Kongo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
@@ -5062,7 +5062,7 @@
 			".ck"
 		],
 		"translations": {
-			"br": "Ilhas Cook",
+			"br": "Inizi Cook",
 			"cs": "Cookovy ostrovy",
 			"de": "Cookinseln",
 			"es": "Islas Cook",
@@ -5236,7 +5236,7 @@
 			".hr"
 		],
 		"translations": {
-			"br": "Cro\u00e1cia",
+			"br": "Kroatia",
 			"cs": "Chorvatsko",
 			"de": "Kroatien",
 			"es": "Croacia",
@@ -5315,7 +5315,7 @@
 			".cu"
 		],
 		"translations": {
-			"br": "Cuba",
+			"br": "Kuba",
 			"cs": "Kuba",
 			"de": "Kuba",
 			"es": "Cuba",
@@ -5500,7 +5500,7 @@
 			".cy"
 		],
 		"translations": {
-			"br": "Chipre",
+			"br": "Kiprenez",
 			"cs": "Kypr",
 			"de": "Zypern",
 			"es": "Chipre",
@@ -5585,7 +5585,7 @@
 			".cz"
 		],
 		"translations": {
-			"br": "Rep\u00fablica Tcheca",
+			"br": "Tchekia",
 			"cs": "\u010cesk\u00e1 republika",
 			"de": "Tschechische Republik",
 			"es": "Rep\u00fablica Checa",
@@ -5671,7 +5671,7 @@
 			".dk"
 		],
 		"translations": {
-			"br": "Dinamarca",
+			"br": "Danmark",
 			"cs": "D\u00e1nsko",
 			"de": "D\u00e4nemark",
 			"es": "Dinamarca",
@@ -5780,7 +5780,7 @@
 			".dj"
 		],
 		"translations": {
-			"br": "Djibuti",
+			"br": "Djibouti",
 			"cs": "D\u017eibutsko",
 			"de": "Dschibuti",
 			"es": "Yibuti",
@@ -5855,7 +5855,7 @@
 			".dm"
 		],
 		"translations": {
-			"br": "Dominica",
+			"br": "Dominika",
 			"cs": "Dominika",
 			"de": "Dominica",
 			"es": "Dominica",
@@ -5949,7 +5949,7 @@
 			".do"
 		],
 		"translations": {
-			"br": "Rep\u00fablica Dominicana",
+			"br": "Republik Dominikan",
 			"cs": "Dominik\u00e1nsk\u00e1 republika",
 			"de": "Dominikanische Republik",
 			"es": "Rep\u00fablica Dominicana",
@@ -6043,7 +6043,7 @@
 			".ec"
 		],
 		"translations": {
-			"br": "Equador",
+			"br": "Ecuador",
 			"cs": "Ekv\u00e1dor",
 			"de": "Ecuador",
 			"es": "Ecuador",
@@ -6141,7 +6141,7 @@
 			".eg"
 		],
 		"translations": {
-			"br": "Egito",
+			"br": "Egipt",
 			"cs": "Egypt",
 			"de": "\u00c4gypten",
 			"es": "Egipto",
@@ -6338,7 +6338,7 @@
 			".gq"
 		],
 		"translations": {
-			"br": "Guin\u00e9 Equatorial",
+			"br": "Ginea ar C'heheder",
 			"cs": "Rovn\u00edkov\u00e1 Guinea",
 			"de": "\u00c4quatorial-Guinea",
 			"es": "Guinea Ecuatorial",
@@ -6480,7 +6480,7 @@
 			".er"
 		],
 		"translations": {
-			"br": "Eritreia",
+			"br": "Eritrea",
 			"cs": "Eritrea",
 			"de": "Eritrea",
 			"es": "Eritrea",
@@ -6563,7 +6563,7 @@
 			".ee"
 		],
 		"translations": {
-			"br": "Est\u00f4nia",
+			"br": "Estonia",
 			"cs": "Estonsko",
 			"de": "Estland",
 			"es": "Estonia",
@@ -6657,7 +6657,7 @@
 			".et"
 		],
 		"translations": {
-			"br": "Eti\u00f3pia",
+			"br": "Etiopia",
 			"cs": "Etiopie",
 			"de": "\u00c4thiopien",
 			"es": "Etiop\u00eda",
@@ -6746,7 +6746,7 @@
 			".fk"
 		],
 		"translations": {
-			"br": "Ilhas Malvinas",
+			"br": "Inizi Malo\u00f9",
 			"cs": "Falklandy",
 			"de": "Falklandinseln",
 			"es": "Islas Malvinas",
@@ -6825,7 +6825,7 @@
 			".fo"
 		],
 		"translations": {
-			"br": "Ilhas Faro\u00e9",
+			"br": "Inizi Faero",
 			"cs": "Faersk\u00e9 ostrovy",
 			"de": "F\u00e4r\u00f6er-Inseln",
 			"es": "Islas Faroe",
@@ -6919,7 +6919,7 @@
 			".fj"
 		],
 		"translations": {
-			"br": "Fiji",
+			"br": "Fidji",
 			"cs": "Fid\u017ei",
 			"de": "Fidschi",
 			"es": "Fiyi",
@@ -7010,7 +7010,7 @@
 			".fi"
 		],
 		"translations": {
-			"br": "Finl\u00e2ndia",
+			"br": "Finland",
 			"cs": "Finsko",
 			"de": "Finnland",
 			"es": "Finlandia",
@@ -7111,7 +7111,7 @@
 			".fr"
 		],
 		"translations": {
-			"br": "Fran\u00e7a",
+			"br": "Fra\u00f1s",
 			"cs": "Francie",
 			"de": "Frankreich",
 			"es": "Francia",
@@ -7207,7 +7207,7 @@
 			".gf"
 		],
 		"translations": {
-			"br": "Guiana Francesa",
+			"br": "Gwiana C'hall",
 			"cs": "Francouzsk\u00e1 Guyana",
 			"de": "Franz\u00f6sisch Guyana",
 			"es": "Guayana Francesa",
@@ -7284,7 +7284,7 @@
 			".pf"
 		],
 		"translations": {
-			"br": "Polin\u00e9sia Francesa",
+			"br": "Polinezia C'hall",
 			"cs": "Francouzsk\u00e1 Polyn\u00e9sie",
 			"de": "Franz\u00f6sisch-Polynesien",
 			"es": "Polinesia Francesa",
@@ -7368,7 +7368,7 @@
 			".tf"
 		],
 		"translations": {
-			"br": "Terras Austrais e Ant\u00e1rticas Francesas",
+			"br": "Douaro\u00f9 Aostral hag Antarktikel Fra\u00f1s",
 			"cs": "Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed",
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
 			"es": "Tierras Australes y Ant\u00e1rticas Francesas",
@@ -7458,7 +7458,7 @@
 			".ga"
 		],
 		"translations": {
-			"br": "Gab\u00e3o",
+			"br": "Gabon",
 			"cs": "Gabon",
 			"de": "Gabun",
 			"es": "Gab\u00f3n",
@@ -7545,7 +7545,7 @@
 			".gm"
 		],
 		"translations": {
-			"br": "G\u00e2mbia",
+			"br": "Gambia",
 			"cs": "Gambie",
 			"de": "Gambia",
 			"es": "Gambia",
@@ -7623,7 +7623,7 @@
 			".ge"
 		],
 		"translations": {
-			"br": "Ge\u00f3rgia",
+			"br": "Jorjia",
 			"cs": "Gruzie",
 			"de": "Georgien",
 			"es": "Georgia",
@@ -7712,7 +7712,7 @@
 			".de"
 		],
 		"translations": {
-			"br": "Alemanha",
+			"br": "Alamagn",
 			"cs": "N\u011bmecko",
 			"de": "Deutschland",
 			"es": "Alemania",
@@ -7800,7 +7800,7 @@
 			".gh"
 		],
 		"translations": {
-			"br": "Gana",
+			"br": "Ghana",
 			"cs": "Ghana",
 			"de": "Ghana",
 			"es": "Ghana",
@@ -7879,7 +7879,7 @@
 			".gi"
 		],
 		"translations": {
-			"br": "Gibraltar",
+			"br": "Jibraltar",
 			"cs": "Gibraltar",
 			"de": "Gibraltar",
 			"es": "Gibraltar",
@@ -7964,7 +7964,7 @@
 			".gr"
 		],
 		"translations": {
-			"br": "Gr\u00e9cia",
+			"br": "Gres",
 			"cs": "\u0158ecko",
 			"de": "Griechenland",
 			"es": "Grecia",
@@ -8040,7 +8040,7 @@
 			".gl"
 		],
 		"translations": {
-			"br": "Groel\u00e2ndia",
+			"br": "Greunland",
 			"cs": "Gr\u00f3nsko",
 			"de": "Gr\u00f6nland",
 			"es": "Groenlandia",
@@ -8122,7 +8122,7 @@
 			".gd"
 		],
 		"translations": {
-			"br": "Granada",
+			"br": "Grenada",
 			"cs": "Grenada",
 			"de": "Grenada",
 			"es": "Grenada",
@@ -8194,7 +8194,7 @@
 			".gp"
 		],
 		"translations": {
-			"br": "Guadalupe",
+			"br": "Gwadeloup",
 			"cs": "Guadeloupe",
 			"de": "Guadeloupe",
 			"es": "Guadalupe",
@@ -8452,7 +8452,7 @@
 			".gg"
 		],
 		"translations": {
-			"br": "Guernsey",
+			"br": "Gwernenez",
 			"cs": "Guernsey",
 			"de": "Guernsey",
 			"es": "Guernsey",
@@ -8551,7 +8551,7 @@
 			".gn"
 		],
 		"translations": {
-			"br": "Guin\u00e9",
+			"br": "Ginea",
 			"cs": "Guinea",
 			"de": "Guinea",
 			"es": "Guinea",
@@ -8640,7 +8640,7 @@
 			".gw"
 		],
 		"translations": {
-			"br": "Guin\u00e9-Bissau",
+			"br": "Ginea-Bissau",
 			"cs": "Guinea-Bissau",
 			"de": "Guinea-Bissau",
 			"es": "Guinea-Bis\u00e1u",
@@ -8742,7 +8742,7 @@
 			".gy"
 		],
 		"translations": {
-			"br": "Guiana",
+			"br": "Guyana",
 			"cs": "Guyana",
 			"de": "Guyana",
 			"es": "Guyana",
@@ -8908,7 +8908,7 @@
 			".aq"
 		],
 		"translations": {
-			"br": "Ilha Heard e Ilhas McDonald",
+			"br": "Inizi Heard ha McDonald",
 			"cs": "Heard\u016fv ostrov a McDonaldovy ostrovy",
 			"de": "Heard und die McDonaldinseln",
 			"es": "Islas Heard y McDonald",
@@ -9001,7 +9001,7 @@
 			".va"
 		],
 		"translations": {
-			"br": "Vaticano",
+			"br": "Vatikan",
 			"cs": "Svat\u00fd stolec",
 			"de": "Heiliger Stuhl",
 			"es": "Santa Sede",
@@ -9175,7 +9175,7 @@
 			".hu"
 		],
 		"translations": {
-			"br": "Hungria",
+			"br": "Hungaria",
 			"cs": "Ma\u010farsko",
 			"de": "Ungarn",
 			"es": "Hungr\u00eda",
@@ -9340,7 +9340,7 @@
 			".is"
 		],
 		"translations": {
-			"br": "Isl\u00e2ndia",
+			"br": "Island",
 			"cs": "Island",
 			"de": "Island",
 			"es": "Islandia",
@@ -9435,7 +9435,7 @@
 			".in"
 		],
 		"translations": {
-			"br": "\u00cdndia",
+			"br": "India",
 			"cs": "Indie",
 			"de": "Indien",
 			"es": "India",
@@ -9520,7 +9520,7 @@
 			".id"
 		],
 		"translations": {
-			"br": "Indon\u00e9sia",
+			"br": "Indonezia",
 			"cs": "Indon\u00e9sie",
 			"de": "Indonesien",
 			"es": "Indonesia",
@@ -9613,7 +9613,7 @@
 			".ci"
 		],
 		"translations": {
-			"br": "Costa do Marfim",
+			"br": "Aod an Olifant",
 			"cs": "Pob\u0159e\u017e\u00ed slonoviny",
 			"de": "Elfenbeink\u00fcste",
 			"es": "Costa de Marfil",
@@ -9695,7 +9695,7 @@
 			".ir"
 		],
 		"translations": {
-			"br": "Ir\u00e3",
+			"br": "Iran",
 			"cs": "\u00cdr\u00e1n",
 			"de": "Iran",
 			"es": "Iran",
@@ -9792,7 +9792,7 @@
 			".iq"
 		],
 		"translations": {
-			"br": "Iraque",
+			"br": "Irak",
 			"cs": "Ir\u00e1k",
 			"de": "Irak",
 			"es": "Irak",
@@ -9880,7 +9880,7 @@
 			".ie"
 		],
 		"translations": {
-			"br": "Irlanda",
+			"br": "Iwerzhon",
 			"cs": "Irsko",
 			"de": "Irland",
 			"es": "Irlanda",
@@ -9971,7 +9971,7 @@
 			".im"
 		],
 		"translations": {
-			"br": "Ilha de Man",
+			"br": "Enez Vanav",
 			"cs": "Ostrov Man",
 			"de": "Insel Man",
 			"es": "Isla de Man",
@@ -10142,7 +10142,7 @@
 			".it"
 		],
 		"translations": {
-			"br": "It\u00e1lia",
+			"br": "Italia",
 			"cs": "It\u00e1lie",
 			"de": "Italien",
 			"es": "Italia",
@@ -10224,7 +10224,7 @@
 			".jm"
 		],
 		"translations": {
-			"br": "Jamaica",
+			"br": "Jamaika",
 			"cs": "Jamajka",
 			"de": "Jamaika",
 			"es": "Jamaica",
@@ -10298,7 +10298,7 @@
 			".jp"
 		],
 		"translations": {
-			"br": "Jap\u00e3o",
+			"br": "Japan",
 			"cs": "Japonsko",
 			"de": "Japan",
 			"es": "Jap\u00f3n",
@@ -10384,7 +10384,7 @@
 			".je"
 		],
 		"translations": {
-			"br": "Jersey",
+			"br": "Jerzenez",
 			"cs": "Jersey",
 			"de": "Jersey",
 			"es": "Jersey",
@@ -10473,7 +10473,7 @@
 			".jo"
 		],
 		"translations": {
-			"br": "Jord\u00e2nia",
+			"br": "Jordania",
 			"cs": "Jord\u00e1nsko",
 			"de": "Jordanien",
 			"es": "Jordania",
@@ -10575,7 +10575,7 @@
 			".\u049b\u0430\u0437"
 		],
 		"translations": {
-			"br": "Cazaquist\u00e3o",
+			"br": "Kazakstan",
 			"cs": "Kazachst\u00e1n",
 			"de": "Kasachstan",
 			"es": "Kazajist\u00e1n",
@@ -10673,7 +10673,7 @@
 			".ke"
 		],
 		"translations": {
-			"br": "Qu\u00eania",
+			"br": "Kenya",
 			"cs": "Ke\u0148a",
 			"de": "Kenia",
 			"es": "Kenia",
@@ -10841,7 +10841,7 @@
 			".kw"
 		],
 		"translations": {
-			"br": "Kuwait",
+			"br": "Koweit",
 			"cs": "Kuvajt",
 			"de": "Kuwait",
 			"es": "Kuwait",
@@ -10936,7 +10936,7 @@
 			".kg"
 		],
 		"translations": {
-			"br": "Quirguist\u00e3o",
+			"br": "Kirgizstan",
 			"cs": "Kyrgyzst\u00e1n",
 			"de": "Kirgisistan",
 			"es": "Kirguizist\u00e1n",
@@ -11107,7 +11107,7 @@
 			".lv"
 		],
 		"translations": {
-			"br": "Let\u00f4nia",
+			"br": "Latvia",
 			"cs": "Loty\u0161sko",
 			"de": "Lettland",
 			"es": "Letonia",
@@ -11200,7 +11200,7 @@
 			".lb"
 		],
 		"translations": {
-			"br": "L\u00edbano",
+			"br": "Liban",
 			"cs": "Libanon",
 			"de": "Libanon",
 			"es": "L\u00edbano",
@@ -11299,7 +11299,7 @@
 			".ls"
 		],
 		"translations": {
-			"br": "Lesoto",
+			"br": "Lesotho",
 			"cs": "Lesotho",
 			"de": "Lesotho",
 			"es": "Lesotho",
@@ -11388,7 +11388,7 @@
 			".lr"
 		],
 		"translations": {
-			"br": "Lib\u00e9ria",
+			"br": "Liberia",
 			"cs": "Lib\u00e9rie",
 			"de": "Liberia",
 			"es": "Liberia",
@@ -11490,7 +11490,7 @@
 			".ly"
 		],
 		"translations": {
-			"br": "L\u00edbia",
+			"br": "Libia",
 			"cs": "Libye",
 			"de": "Libyen",
 			"es": "Libia",
@@ -11656,7 +11656,7 @@
 			".lt"
 		],
 		"translations": {
-			"br": "Litu\u00e2nia",
+			"br": "Lituania",
 			"cs": "Litva",
 			"de": "Litauen",
 			"es": "Lituania",
@@ -11753,7 +11753,7 @@
 			".lu"
 		],
 		"translations": {
-			"br": "Luxemburgo",
+			"br": "Luksembourg",
 			"cs": "Lucembursko",
 			"de": "Luxemburg",
 			"es": "Luxemburgo",
@@ -11837,7 +11837,7 @@
 			".mo"
 		],
 		"translations": {
-			"br": "Macau",
+			"br": "Makao",
 			"cs": "Macao",
 			"de": "Macao",
 			"es": "Macao",
@@ -11922,7 +11922,7 @@
 			".mk"
 		],
 		"translations": {
-			"br": "Maced\u00f4nia",
+			"br": "Makedonia an Norzh",
 			"cs": "Makedonie",
 			"de": "Mazedonien",
 			"es": "Macedonia",
@@ -12015,7 +12015,7 @@
 			".mg"
 		],
 		"translations": {
-			"br": "Madagascar",
+			"br": "Madagaskar",
 			"cs": "Madagaskar",
 			"de": "Madagaskar",
 			"es": "Madagascar",
@@ -12191,7 +12191,7 @@
 			".my"
 		],
 		"translations": {
-			"br": "Mal\u00e1sia",
+			"br": "Malaysia",
 			"cs": "Malajsie",
 			"de": "Malaysia",
 			"es": "Malasia",
@@ -12271,7 +12271,7 @@
 			".mv"
 		],
 		"translations": {
-			"br": "Maldivas",
+			"br": "Maldivez",
 			"cs": "Maledivy",
 			"de": "Malediven",
 			"es": "Maldivas",
@@ -12530,7 +12530,7 @@
 			".mh"
 		],
 		"translations": {
-			"br": "Ilhas Marshall",
+			"br": "Inizi Marshall",
 			"cs": "Marshallovy ostrovy",
 			"de": "Marshallinseln",
 			"es": "Islas Marshall",
@@ -12601,7 +12601,7 @@
 			".mq"
 		],
 		"translations": {
-			"br": "Martinica",
+			"br": "Martinik",
 			"cs": "Martinik",
 			"de": "Martinique",
 			"es": "Martinica",
@@ -12701,7 +12701,7 @@
 			".mr"
 		],
 		"translations": {
-			"br": "Maurit\u00e2nia",
+			"br": "Maouritania",
 			"cs": "Maurit\u00e1nie",
 			"de": "Mauretanien",
 			"es": "Mauritania",
@@ -12787,7 +12787,7 @@
 			".mu"
 		],
 		"translations": {
-			"br": "Maur\u00edcio",
+			"br": "Moris",
 			"cs": "Mauricius",
 			"de": "Mauritius",
 			"es": "Mauricio",
@@ -12969,7 +12969,7 @@
 			".mx"
 		],
 		"translations": {
-			"br": "M\u00e9xico",
+			"br": "Mec'hiko",
 			"cs": "Mexiko",
 			"de": "Mexiko",
 			"es": "M\u00e9xico",
@@ -13043,7 +13043,7 @@
 			".fm"
 		],
 		"translations": {
-			"br": "Micron\u00e9sia",
+			"br": "Mikronezia",
 			"cs": "Mikron\u00e9sie",
 			"de": "Mikronesien",
 			"es": "Micronesia",
@@ -13125,7 +13125,7 @@
 			".md"
 		],
 		"translations": {
-			"br": "Mold\u00e1via",
+			"br": "Moldova",
 			"cs": "Moldavsko",
 			"de": "Moldawie",
 			"es": "Moldavia",
@@ -13201,7 +13201,7 @@
 			".mc"
 		],
 		"translations": {
-			"br": "M\u00f4naco",
+			"br": "Monako",
 			"cs": "Monako",
 			"de": "Monaco",
 			"es": "M\u00f3naco",
@@ -13277,7 +13277,7 @@
 			".mn"
 		],
 		"translations": {
-			"br": "Mong\u00f3lia",
+			"br": "Mongolia",
 			"cs": "Mongolsko",
 			"de": "Mongolei",
 			"es": "Mongolia",
@@ -13560,7 +13560,7 @@
 			".ma"
 		],
 		"translations": {
-			"br": "Marrocos",
+			"br": "Maroko",
 			"cs": "Maroko",
 			"de": "Marokko",
 			"es": "Marruecos",
@@ -13653,7 +13653,7 @@
 			".mz"
 		],
 		"translations": {
-			"br": "Mo\u00e7ambique",
+			"br": "Mozambik",
 			"cs": "Mosambik",
 			"de": "Mosambik",
 			"es": "Mozambique",
@@ -13841,7 +13841,7 @@
 			".na"
 		],
 		"translations": {
-			"br": "Nam\u00edbia",
+			"br": "Namibia",
 			"cs": "Namibie",
 			"de": "Namibia",
 			"es": "Namibia",
@@ -14088,7 +14088,7 @@
 			".nl"
 		],
 		"translations": {
-			"br": "Holanda",
+			"br": "Izelvroio\u00f9",
 			"cs": "Nizozemsko",
 			"de": "Niederlande",
 			"es": "Pa\u00edses Bajos",
@@ -14160,7 +14160,7 @@
 			".nc"
 		],
 		"translations": {
-			"br": "Nova Caled\u00f4nia",
+			"br": "Kaledonia-Nevez",
 			"cs": "Nov\u00e1 Kaledonie",
 			"de": "Neukaledonien",
 			"es": "Nueva Caledonia",
@@ -14243,7 +14243,7 @@
 			".nz"
 		],
 		"translations": {
-			"br": "Nova Zel\u00e2ndia",
+			"br": "Zeland-Nevez",
 			"cs": "Nov\u00fd Z\u00e9land",
 			"de": "Neuseeland",
 			"es": "Nueva Zelanda",
@@ -14331,7 +14331,7 @@
 			".ni"
 		],
 		"translations": {
-			"br": "Nicar\u00e1gua",
+			"br": "Nicaragua",
 			"cs": "Nikaragua",
 			"de": "Nicaragua",
 			"es": "Nicaragua",
@@ -14426,7 +14426,7 @@
 			".ne"
 		],
 		"translations": {
-			"br": "N\u00edger",
+			"br": "Niger",
 			"cs": "Niger",
 			"de": "Niger",
 			"es": "N\u00edger",
@@ -14518,7 +14518,7 @@
 			".ng"
 		],
 		"translations": {
-			"br": "Nig\u00e9ria",
+			"br": "Nigeria",
 			"cs": "Nig\u00e9rie",
 			"de": "Nigeria",
 			"es": "Nigeria",
@@ -14669,7 +14669,7 @@
 			".nf"
 		],
 		"translations": {
-			"br": "Ilha Norfolk",
+			"br": "Enez Norfolk",
 			"cs": "Norfolk",
 			"de": "Norfolkinsel",
 			"es": "Isla de Norfolk",
@@ -14748,7 +14748,7 @@
 			".kp"
 		],
 		"translations": {
-			"br": "Coreia do Norte",
+			"br": "Korea an Norzh",
 			"cs": "Severn\u00ed Korea",
 			"de": "Nordkorea",
 			"es": "Corea del Norte",
@@ -14828,7 +14828,7 @@
 			".mp"
 		],
 		"translations": {
-			"br": "Ilhas Marianas",
+			"br": "Inizi Mariana an Norzh",
 			"cs": "Severn\u00ed Mariany",
 			"de": "N\u00f6rdliche Marianen",
 			"es": "Islas Marianas del Norte",
@@ -14926,7 +14926,7 @@
 			".no"
 		],
 		"translations": {
-			"br": "Noruega",
+			"br": "Norvegia",
 			"cs": "Norsko",
 			"de": "Norwegen",
 			"es": "Noruega",
@@ -15014,7 +15014,7 @@
 			".om"
 		],
 		"translations": {
-			"br": "Om\u00e3",
+			"br": "Oman",
 			"cs": "Om\u00e1n",
 			"de": "Oman",
 			"es": "Om\u00e1n",
@@ -15105,7 +15105,7 @@
 			".pk"
 		],
 		"translations": {
-			"br": "Paquist\u00e3o",
+			"br": "Pakistan",
 			"cs": "P\u00e1kist\u00e1n",
 			"de": "Pakistan",
 			"es": "Pakist\u00e1n",
@@ -15373,7 +15373,7 @@
 			".pa"
 		],
 		"translations": {
-			"br": "Panam\u00e1",
+			"br": "Panama",
 			"cs": "Panama",
 			"de": "Panama",
 			"es": "Panam\u00e1",
@@ -15449,7 +15449,7 @@
 			".pg"
 		],
 		"translations": {
-			"br": "Papua Nova Guin\u00e9",
+			"br": "Papoua-Ginea Nevez",
 			"cs": "Papua-Nov\u00e1 Guinea",
 			"de": "Papua-Neuguinea",
 			"es": "Pap\u00faa Nueva Guinea",
@@ -15550,7 +15550,7 @@
 			".py"
 		],
 		"translations": {
-			"br": "Paraguai",
+			"br": "Paraguay",
 			"cs": "Paraguay",
 			"de": "Paraguay",
 			"es": "Paraguay",
@@ -15653,7 +15653,7 @@
 			".pe"
 		],
 		"translations": {
-			"br": "Peru",
+			"br": "Perou",
 			"cs": "Peru",
 			"de": "Peru",
 			"es": "Per\u00fa",
@@ -15732,7 +15732,7 @@
 			".ph"
 		],
 		"translations": {
-			"br": "Filipinas",
+			"br": "Filipinez",
 			"cs": "Filip\u00edny",
 			"de": "Philippinen",
 			"es": "Filipinas",
@@ -15810,7 +15810,7 @@
 			".pn"
 		],
 		"translations": {
-			"br": "Ilhas Pitcairn",
+			"br": "Inizi Pitcairn",
 			"cs": "Pitcairnovy ostrovy",
 			"de": "Pitcairn",
 			"es": "Islas Pitcairn",
@@ -15897,7 +15897,7 @@
 			".pl"
 		],
 		"translations": {
-			"br": "Pol\u00f4nia",
+			"br": "Polonia",
 			"cs": "Polsko",
 			"de": "Polen",
 			"es": "Polonia",
@@ -16060,7 +16060,7 @@
 			".pr"
 		],
 		"translations": {
-			"br": "Porto Rico",
+			"br": "Puerto Rico",
 			"cs": "Portoriko",
 			"de": "Puerto Rico",
 			"es": "Puerto Rico",
@@ -16146,7 +16146,7 @@
 			".qa"
 		],
 		"translations": {
-			"br": "Catar",
+			"br": "Katar",
 			"cs": "Katar",
 			"de": "Katar",
 			"es": "Catar",
@@ -16318,7 +16318,7 @@
 			".re"
 		],
 		"translations": {
-			"br": "Reuni\u00e3o",
+			"br": "Re\u00fcnion",
 			"cs": "R\u00e9union",
 			"de": "R\u00e9union",
 			"es": "Reuni\u00f3n",
@@ -16404,7 +16404,7 @@
 			".ro"
 		],
 		"translations": {
-			"br": "Rom\u00eania",
+			"br": "Roumania",
 			"cs": "Rumunsko",
 			"de": "Rum\u00e4nien",
 			"es": "Rumania",
@@ -16511,7 +16511,7 @@
 			".ru"
 		],
 		"translations": {
-			"br": "R\u00fassia",
+			"br": "Rusia",
 			"cs": "Rusko",
 			"de": "Russland",
 			"es": "Rusia",
@@ -16615,7 +16615,7 @@
 			".rw"
 		],
 		"translations": {
-			"br": "Ruanda",
+			"br": "Rwanda",
 			"cs": "Rwanda",
 			"de": "Ruanda",
 			"es": "Ruanda",
@@ -16690,7 +16690,7 @@
 			".bl"
 		],
 		"translations": {
-			"br": "S\u00e3o Bartolomeu",
+			"br": "Saint-Barth\u00e9lemy",
 			"cs": "Svat\u00fd Bartolom\u011bj",
 			"de": "Saint-Barth\u00e9lemy",
 			"es": "San Bartolom\u00e9",
@@ -16773,7 +16773,7 @@
 			".sh"
 		],
 		"translations": {
-			"br": "Santa Helena",
+			"br": "Saint Helena, Ascension ha Tristan da Cunha",
 			"cs": "Svat\u00e1 Helena,  Ascension a Tristan da Cunha",
 			"de": "Sankt Helena",
 			"es": "Santa Helena",
@@ -16855,7 +16855,7 @@
 			".kn"
 		],
 		"translations": {
-			"br": "S\u00e3o Crist\u00f3v\u00e3o e Neves",
+			"br": "Saint Kitts ha Nevis",
 			"cs": "Svat\u00fd Kry\u0161tof a Nevis",
 			"de": "St. Kitts und Nevis",
 			"es": "San Crist\u00f3bal y Nieves",
@@ -16937,7 +16937,7 @@
 			".lc"
 		],
 		"translations": {
-			"br": "Santa L\u00facia",
+			"br": "Santez-Lusia",
 			"cs": "Svat\u00e1 Lucie",
 			"de": "Saint Lucia",
 			"es": "Santa Luc\u00eda",
@@ -17028,7 +17028,7 @@
 			".gp"
 		],
 		"translations": {
-			"br": "Saint Martin",
+			"br": "Saint-Martin",
 			"cs": "Svat\u00fd Martin",
 			"de": "Saint Martin",
 			"es": "Saint Martin",
@@ -17101,7 +17101,7 @@
 			".pm"
 		],
 		"translations": {
-			"br": "Saint-Pierre e Miquelon",
+			"br": "Sant-P\u00ear-ha-Mikelon",
 			"cs": "Saint-Pierre a Miquelon",
 			"de": "Saint-Pierre und Miquelon",
 			"es": "San Pedro y Miquel\u00f3n",
@@ -17183,7 +17183,7 @@
 			".vc"
 		],
 		"translations": {
-			"br": "S\u00e3o Vicente e Granadinas",
+			"br": "Sant-Visant hag ar Grenadinez",
 			"cs": "Svat\u00fd Vincenc a Grenadiny",
 			"de": "Saint Vincent und die Grenadinen",
 			"es": "San Vicente y Granadinas",
@@ -17425,7 +17425,7 @@
 			".st"
 		],
 		"translations": {
-			"br": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+			"br": "S\u00e3o Tom\u00e9 ha Pr\u00edncipe",
 			"cs": "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov",
 			"de": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
 			"es": "Santo Tom\u00e9 y Pr\u00edncipe",
@@ -17517,7 +17517,7 @@
 			".sa"
 		],
 		"translations": {
-			"br": "Ar\u00e1bia Saudita",
+			"br": "Arabia Saoudat",
 			"cs": "Sa\u00fadsk\u00e1 Ar\u00e1bie",
 			"de": "Saudi-Arabien",
 			"es": "Arabia Saud\u00ed",
@@ -17699,7 +17699,7 @@
 			".rs"
 		],
 		"translations": {
-			"br": "S\u00e9rvia",
+			"br": "Serbia",
 			"cs": "Srbsko",
 			"de": "Serbien",
 			"es": "Serbia",
@@ -17792,7 +17792,7 @@
 			".sc"
 		],
 		"translations": {
-			"br": "Seicheles",
+			"br": "Sechelez",
 			"cs": "Seychely",
 			"de": "Seychellen",
 			"es": "Seychelles",
@@ -17880,7 +17880,7 @@
 			".sl"
 		],
 		"translations": {
-			"br": "Serra Leoa",
+			"br": "Sierra Leone",
 			"cs": "Sierra Leone",
 			"de": "Sierra Leone",
 			"es": "Sierra Leone",
@@ -17978,7 +17978,7 @@
 			".sg"
 		],
 		"translations": {
-			"br": "Singapura",
+			"br": "Singapour",
 			"cs": "Singapur",
 			"de": "Singapur",
 			"es": "Singapur",
@@ -18143,7 +18143,7 @@
 			".sk"
 		],
 		"translations": {
-			"br": "Eslov\u00e1quia",
+			"br": "Slovakia",
 			"cs": "Slovensko",
 			"de": "Slowakei",
 			"es": "Rep\u00fablica Eslovaca",
@@ -18227,7 +18227,7 @@
 			".si"
 		],
 		"translations": {
-			"br": "Eslov\u00eania",
+			"br": "Slovenia",
 			"cs": "Slovinsko",
 			"de": "Slowenien",
 			"es": "Eslovenia",
@@ -18299,7 +18299,7 @@
 			".sb"
 		],
 		"translations": {
-			"br": "Ilhas Salom\u00e3o",
+			"br": "Inizi Salomon",
 			"cs": "\u0160alamounovy ostrovy",
 			"de": "Salomonen",
 			"es": "Islas Salom\u00f3n",
@@ -18406,7 +18406,7 @@
 			".so"
 		],
 		"translations": {
-			"br": "Som\u00e1lia",
+			"br": "Somalia",
 			"cs": "Som\u00e1lsko",
 			"de": "Somalia",
 			"es": "Somalia",
@@ -18554,7 +18554,7 @@
 			".za"
 		],
 		"translations": {
-			"br": "Rep\u00fablica Sul-Africana",
+			"br": "Suafrika",
 			"cs": "Jihoafrick\u00e1 republika",
 			"de": "Republik S\u00fcdafrika",
 			"es": "Rep\u00fablica de Sud\u00e1frica",
@@ -18642,7 +18642,7 @@
 			".gs"
 		],
 		"translations": {
-			"br": "Ilhas Ge\u00f3rgias do Sul e Sandwich do Sul",
+			"br": "Georgia ar Su hag Inizi Sandwich ar Su",
 			"cs": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy",
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
 			"es": "Islas Georgias del Sur y Sandwich del Sur",
@@ -18717,7 +18717,7 @@
 			".kr"
 		],
 		"translations": {
-			"br": "Coreia do Sul",
+			"br": "Korea ar Su",
 			"cs": "Ji\u017en\u00ed Korea",
 			"de": "S\u00fcdkorea",
 			"es": "Corea del Sur",
@@ -18803,7 +18803,7 @@
 			".es"
 		],
 		"translations": {
-			"br": "Espanha",
+			"br": "Spagn",
 			"cs": "\u0160pan\u011blsko",
 			"de": "Spanien",
 			"es": "Espa\u00f1a",
@@ -18999,7 +18999,7 @@
 			".sd"
 		],
 		"translations": {
-			"br": "Sud\u00e3o",
+			"br": "Soudan",
 			"cs": "S\u00fad\u00e1n",
 			"de": "Sudan",
 			"es": "Sud\u00e1n",
@@ -19094,7 +19094,7 @@
 			".ss"
 		],
 		"translations": {
-			"br": "Sud\u00e3o do Sul",
+			"br": "Soudan ar Su",
 			"cs": "Ji\u017en\u00ed S\u00fad\u00e1n",
 			"de": "S\u00fcdsudan",
 			"es": "Sud\u00e1n del Sur",
@@ -19200,7 +19200,7 @@
 			".sr"
 		],
 		"translations": {
-			"br": "Suriname",
+			"br": "Surinam",
 			"cs": "Surinam",
 			"de": "Suriname",
 			"es": "Surinam",
@@ -19272,7 +19272,7 @@
 			".sj"
 		],
 		"translations": {
-			"br": "Svalbard",
+			"br": "Svalbard ha Jan Mayen",
 			"cs": "\u0160picberky a Jan Mayen",
 			"de": "Svalbard und Jan Mayen",
 			"es": "Islas Svalbard y Jan Mayen",
@@ -19370,7 +19370,7 @@
 			".sz"
 		],
 		"translations": {
-			"br": "Suazil\u00e2ndia",
+			"br": "Eswatini",
 			"cs": "Svazijsko",
 			"de": "Swasiland",
 			"es": "Suazilandia",
@@ -19452,7 +19452,7 @@
 			".se"
 		],
 		"translations": {
-			"br": "Su\u00e9cia",
+			"br": "Sveden",
 			"cs": "\u0160v\u00e9dsko",
 			"de": "Schweden",
 			"es": "Suecia",
@@ -19558,7 +19558,7 @@
 			".ch"
 		],
 		"translations": {
-			"br": "Su\u00ed\u00e7a",
+			"br": "Suis",
 			"cs": "\u0160v\u00fdcarsko",
 			"de": "Schweiz",
 			"es": "Suiza",
@@ -19648,7 +19648,7 @@
 			".sy"
 		],
 		"translations": {
-			"br": "S\u00edria",
+			"br": "Siria",
 			"cs": "S\u00fdrie",
 			"de": "Syrien",
 			"es": "Siria",
@@ -19811,7 +19811,7 @@
 			".tj"
 		],
 		"translations": {
-			"br": "Tajiquist\u00e3o",
+			"br": "Tadjikistan",
 			"cs": "T\u00e1d\u017eikist\u00e1n",
 			"de": "Tadschikistan",
 			"es": "Tayikist\u00e1n",
@@ -19912,7 +19912,7 @@
 			".tz"
 		],
 		"translations": {
-			"br": "Tanz\u00e2nia",
+			"br": "Tanzania",
 			"cs": "Tanzanie",
 			"de": "Tansania",
 			"es": "Tanzania",
@@ -19999,7 +19999,7 @@
 			".th"
 		],
 		"translations": {
-			"br": "Tail\u00e2ndia",
+			"br": "Thailand",
 			"cs": "Thajsko",
 			"de": "Thailand",
 			"es": "Tailandia",
@@ -20077,7 +20077,7 @@
 			".tl"
 		],
 		"translations": {
-			"br": "Timor Leste",
+			"br": "Timor ar Reter",
 			"cs": "V\u00fdchodn\u00ed Timor",
 			"de": "Timor-Leste",
 			"es": "Timor Oriental",
@@ -20401,7 +20401,7 @@
 			".tt"
 		],
 		"translations": {
-			"br": "Trinidad e Tobago",
+			"br": "Trinidad ha Tobago",
 			"cs": "Trinidad a Tobago",
 			"de": "Trinidad und Tobago",
 			"es": "Trinidad y Tobago",
@@ -20499,7 +20499,7 @@
 			".tn"
 		],
 		"translations": {
-			"br": "Tun\u00edsia",
+			"br": "Tunizia",
 			"cs": "Tunisko",
 			"de": "Tunesien",
 			"es": "T\u00fanez",
@@ -20583,7 +20583,7 @@
 			".tr"
 		],
 		"translations": {
-			"br": "Turquia",
+			"br": "Turkia",
 			"cs": "Turecko",
 			"de": "T\u00fcrkei",
 			"es": "Turqu\u00eda",
@@ -20666,7 +20666,7 @@
 			".tm"
 		],
 		"translations": {
-			"br": "Turcomenist\u00e3o",
+			"br": "Turkmenistan",
 			"cs": "Turkmenist\u00e1n",
 			"de": "Turkmenistan",
 			"es": "Turkmenist\u00e1n",
@@ -20738,7 +20738,7 @@
 			".tc"
 		],
 		"translations": {
-			"br": "Ilhas Turcas e Caicos",
+			"br": "Inizi Turks ha Caicos",
 			"cs": "Turks a Caicos",
 			"de": "Turks- und Caicosinseln",
 			"es": "Islas Turks y Caicos",
@@ -20913,7 +20913,7 @@
 			".ug"
 		],
 		"translations": {
-			"br": "Uganda",
+			"br": "Ouganda",
 			"cs": "Uganda",
 			"de": "Uganda",
 			"es": "Uganda",
@@ -20994,7 +20994,7 @@
 			".ua"
 		],
 		"translations": {
-			"br": "Ucr\u00e2nia",
+			"br": "Ukraina",
 			"cs": "Ukrajina",
 			"de": "Ukraine",
 			"es": "Ucrania",
@@ -21080,7 +21080,7 @@
 			".ae"
 		],
 		"translations": {
-			"br": "Emirados \u00e1rabes Unidos",
+			"br": "Emirelezhio\u00f9 Arab Unanet",
 			"cs": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty",
 			"de": "Vereinigte Arabische Emirate",
 			"es": "Emiratos \u00c1rabes Unidos",
@@ -21163,7 +21163,7 @@
 			".uk"
 		],
 		"translations": {
-			"br": "Reino Unido",
+			"br": "Rouantelezh-Unanet",
 			"cs": "Spojen\u00e9 kr\u00e1lovstv\u00ed",
 			"de": "Vereinigtes K\u00f6nigreich",
 			"es": "Reino Unido",
@@ -21259,7 +21259,7 @@
 			".us"
 		],
 		"translations": {
-			"br": "Estados Unidos",
+			"br": "Stado\u00f9-Unanet",
 			"cs": "Spojen\u00e9 st\u00e1ty americk\u00e9",
 			"de": "Vereinigte Staaten von Amerika",
 			"es": "Estados Unidos",
@@ -21352,7 +21352,7 @@
 			".uy"
 		],
 		"translations": {
-			"br": "Uruguai",
+			"br": "Uruguay",
 			"cs": "Uruguay",
 			"de": "Uruguay",
 			"es": "Uruguay",
@@ -21438,7 +21438,7 @@
 			".uz"
 		],
 		"translations": {
-			"br": "Uzbequist\u00e3o",
+			"br": "Ouzbekistan",
 			"cs": "Uzbekist\u00e1n",
 			"de": "Usbekistan",
 			"es": "Uzbekist\u00e1n",
@@ -21702,7 +21702,7 @@
 			".vn"
 		],
 		"translations": {
-			"br": "Vietn\u00e3",
+			"br": "Vi\u00eat Nam",
 			"cs": "Vietnam",
 			"de": "Vietnam",
 			"es": "Vietnam",
@@ -21776,7 +21776,7 @@
 			".wf"
 		],
 		"translations": {
-			"br": "Wallis e Futuna",
+			"br": "Wallis ha Futuna",
 			"cs": "Wallis a Futuna",
 			"de": "Wallis und Futuna",
 			"es": "Wallis y Futuna",
@@ -21870,7 +21870,7 @@
 			".eh"
 		],
 		"translations": {
-			"br": "Saara Ocidental",
+			"br": "Sahara ar C'horn\u00f4g",
 			"cs": "Z\u00e1padn\u00ed Sahara",
 			"de": "Westsahara",
 			"es": "Sahara Occidental",
@@ -21957,7 +21957,7 @@
 			".ye"
 		],
 		"translations": {
-			"br": "I\u00eamen",
+			"br": "Yemen",
 			"cs": "Jemen",
 			"de": "Jemen",
 			"es": "Yemen",
@@ -22051,7 +22051,7 @@
 			".zm"
 		],
 		"translations": {
-			"br": "Z\u00e2mbia",
+			"br": "Zambia",
 			"cs": "Zambie",
 			"de": "Sambia",
 			"es": "Zambia",

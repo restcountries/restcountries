@@ -192,7 +192,7 @@ class RestCountriesV2Test {
     Assertions.assertEquals("Colombie", translations.getFr());
     Assertions.assertEquals("コロンビア", translations.getJa());
     Assertions.assertEquals("Colombia", translations.getIt());
-    Assertions.assertEquals("Colômbia", translations.getBr());
+    Assertions.assertEquals("Kolombia", translations.getBr());
     Assertions.assertEquals("Colômbia", translations.getPt());
   }
 }
