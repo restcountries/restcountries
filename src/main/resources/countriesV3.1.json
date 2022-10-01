@@ -16743,8 +16743,8 @@
 		},
 		"population": 2225728,
 		"maps": {
-			"googleMaps": "https://www.openstreetmap.org/relation/192793",
-			"openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+			"googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/192793"
 		},
 		"gini": {
 			"2017": 38
