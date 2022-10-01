@@ -22768,7 +22768,7 @@
 			"format": "##########",
 			"regex": "^(\\d{10})$"
 		},
-		"startOfWeek": "turday",
+		"startOfWeek": "saturday",
 		"timezones": [
 			"UTC+03:30"
 		]
