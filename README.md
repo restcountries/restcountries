@@ -14,29 +14,12 @@ Any help is welcome! Just edit the file relevant file and create a new Merge Req
 [donate].
 
 # Donations
-We're getting about 1.6 millions hits **each day** and that means also bandwidth (24 GB **per day!**) so
+I'm getting about 1.6 millions hits **each day** and that means also bandwidth (24 GB **per day!**) so
 costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's 
-bills, you're welcome to [donate] or you can also 
-[buy me a coffee](https://www.buymeacoffee.com/amatos). 
+bills.
 
 # Fields
 You can check the [FIELDS.md](FIELDS.md) file to get a description for each field (thanks to @ePascalC!).
-
-# Changelog
-### General
-- Netherlands' population fixed
-- Added `fifa` codes
-- Added country's driving side
-- Added country Distinguishing (oval) sign
-### V3
-- Added population
-### V3.1
-#### 19/10
-- Added capital information (lat and long)
-- Added postal code (format and regex)
-#### Previously
-- Added population
-- Added named object for `flags`
 
 # API Endpoints
 

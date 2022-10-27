@@ -5,24 +5,20 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
-import dev.amatos.restcountries.domain.ResponseEntity;
-import dev.amatos.restcountries.service.v2.CountryServiceV2;
 import dev.amatos.restcountries.domain.v2.Country;
+import dev.amatos.restcountries.service.v2.CountryServiceV2;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.MediaType;
-import io.micronaut.http.MutableHttpResponse;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
 import io.micronaut.http.annotation.PathVariable;
 import io.micronaut.http.annotation.QueryValue;
 import io.swagger.v3.oas.annotations.Hidden;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import javax.ws.rs.QueryParam;
-import javax.ws.rs.core.Response;
 
 @Hidden
 @Controller("/v2/")
@@ -45,7 +41,7 @@ public class CountryControllerV2 {
     }
     Country country = CountryServiceV2.getInstance().getByAlpha(alpha);
     if (country != null) {
-      return HttpResponse.ok(checkFieldsAndParseCountry(country, fields));
+      return ControllerHelper.ok(checkFieldsAndParseCountry(country, fields));
     }
     return ControllerHelper.notFound();
   }
@@ -59,7 +55,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByCodeList(codes);
       if (null != countries && !countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -77,7 +73,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByCurrency(currency);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -93,7 +89,7 @@ public class CountryControllerV2 {
       List<Country> countries = CountryServiceV2.getInstance()
           .getByName(name, fullText.orElse(false));
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -108,7 +104,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByCallingCode(callingCode);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -122,7 +118,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByCapital(capital);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -136,7 +132,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByRegion(region);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -150,7 +146,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getBySubregion(subregion);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -164,7 +160,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByLanguage(language);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -179,7 +175,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByDemonym(demonym);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -193,7 +189,7 @@ public class CountryControllerV2 {
     try {
       List<Country> countries = CountryServiceV2.getInstance().getByRegionalBloc(regionalBlock);
       if (!countries.isEmpty()) {
-        return HttpResponse.ok(checkFieldsAndParseCountries(fields, countries));
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
       }
       return ControllerHelper.notFound();
     } catch (Exception e) {
@@ -248,7 +244,7 @@ public class CountryControllerV2 {
     excludedFields.removeAll(fields);
     return excludedFields;
   }
-  
+
   private Object parsedCountry(Country country, String fields) {
     if (fields == null || fields.isEmpty()) {
       return country;
