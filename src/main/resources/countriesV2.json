@@ -5192,9 +5192,9 @@
 		"capital": "Zagreb",
 		"currencies": [
 			{
-				"code": "HRK",
-				"name": "Croatian kuna",
-				"symbol": "kn"
+				"code": "EUR",
+				"name": "Euro",
+				"symbol": "\u20ac"
 			}
 		],
 		"demonym": "Croatian",
