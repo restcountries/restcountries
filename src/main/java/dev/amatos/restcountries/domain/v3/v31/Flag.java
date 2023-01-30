@@ -3,6 +3,7 @@ package dev.amatos.restcountries.domain.v3.v31;
 public class Flag {
   private String png;
   private String svg;
+  private String alt;
 
   public String getPng() {
     return png;
@@ -18,5 +19,13 @@ public class Flag {
 
   public void setSvg(String svg) {
     this.svg = svg;
+  }
+
+  public String getAlt() {
+    return alt;
+  }
+
+  public void setAlt(String alt) {
+    this.alt = alt;
   }
 }

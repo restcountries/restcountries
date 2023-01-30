@@ -1,11 +1,14 @@
 package dev.amatos.restcountries.domain.base;
 
+import java.util.List;
 import java.util.Map;
 
 public class Name {
   private String common;
   private String official;
   private Map<String, NativeName> nativeName;
+
+  private List<String> altSpellings;
 
   public String getCommon() {
     return common;
@@ -30,5 +33,13 @@ public class Name {
   public void setNativeName(
       Map<String, NativeName> nativeName) {
     this.nativeName = nativeName;
+  }
+
+  public List<String> getAltSpellings() {
+    return altSpellings;
+  }
+
+  public void setAltSpellings(List<String> altSpellings) {
+    this.altSpellings = altSpellings;
   }
 }

@@ -19,9 +19,8 @@ class RestCountriesV31Test {
   void getByAlpha() {
     var countries = CountryServiceV31.getInstance().getByAlpha("CO");
     Assertions.assertFalse(countries.isEmpty());
-    countries.forEach(country -> {
-      Assertions.assertEquals("CO", country.getCca2());
-    });
+    Assertions.assertEquals("Colombia",
+        countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
   }
 
   @Test
@@ -34,9 +33,8 @@ class RestCountriesV31Test {
   void getCountryByName() {
     var countries = CountryServiceV31.getInstance().getByName("Peru", false);
     Assertions.assertFalse(countries.isEmpty());
-    countries.forEach(country -> {
-      Assertions.assertEquals("Peru", country.getName().getCommon());
-    });
+    Assertions.assertEquals("Peru",
+        countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
   }
 
   @Test
@@ -45,12 +43,12 @@ class RestCountriesV31Test {
     Assertions.assertNotNull(countries);
     Assertions.assertFalse(countries.isEmpty());
     Assertions.assertEquals(3, countries.size());
-
-    for (var country : countries) {
-      Assertions.assertTrue(
-          country.getCca2().equals("PE") || country.getCca2().equals("NL") || country.getCca2()
-              .equals("DE"));
-    }
+    var result = countries.stream().allMatch(country ->
+        country.getName().getCommon().contains("Peru") ||
+            country.getName().getCommon().contains("Netherlands") ||
+            country.getName().getCommon().contains("German")
+    );
+    Assertions.assertTrue(result);
   }
 
   @Test
@@ -65,21 +63,20 @@ class RestCountriesV31Test {
   @Test
   void getByCapital() {
     var countries = CountryServiceV31.getInstance().getByCapital("Helsinki");
+    var result = countries.stream()
+        .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Finland"));
+    Assertions.assertTrue(result);
     Assertions.assertEquals(1, countries.size());
-    Assertions.assertEquals("Finland", countries.stream().findFirst().get().getName().getCommon());
+    Assertions.assertEquals("Finland",
+        countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
   }
 
   @Test
   void getByRegion() {
     var countries = CountryServiceV31.getInstance().getByRegion("Asia");
     Assertions.assertFalse(countries.isEmpty());
-    var result = false;
-    for (var country : countries) {
-      if (country.getName().getCommon().equalsIgnoreCase("Bangladesh")) {
-        result = true;
-        break;
-      }
-    }
+    var result = countries.stream()
+        .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Bangladesh"));
     Assertions.assertTrue(result);
   }
 
@@ -87,13 +84,8 @@ class RestCountriesV31Test {
   void getBySubregion() {
     var countries = CountryServiceV31.getInstance().getBySubregion("Middle Africa");
     Assertions.assertFalse(countries.isEmpty());
-    var result = false;
-    for (var country : countries) {
-      if (country.getName().getCommon().equalsIgnoreCase("Gabon")) {
-        result = true;
-        break;
-      }
-    }
+    var result = countries.stream()
+        .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Gabon"));
     Assertions.assertTrue(result);
   }
 
@@ -101,13 +93,8 @@ class RestCountriesV31Test {
   void getByLanguage() {
     var countries = CountryServiceV31.getInstance().getByLanguage("german");
     Assertions.assertFalse(countries.isEmpty());
-    var result = false;
-    for (var country : countries) {
-      if (country.getName().getCommon().equalsIgnoreCase("Liechtenstein")) {
-        result = true;
-        break;
-      }
-    }
+    var result = countries.stream()
+        .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Liechtenstein"));
     Assertions.assertTrue(result);
   }
 
@@ -116,12 +103,8 @@ class RestCountriesV31Test {
     var countries = CountryServiceV31.getInstance().getByDemonym("chilean");
     Assertions.assertFalse(countries.isEmpty());
     var result = false;
-    for (var country : countries) {
-      if (country.getName().getCommon().equalsIgnoreCase("Chile")) {
-        result = true;
-        break;
-      }
-    }
+    result = countries.stream()
+        .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Chile"));
     Assertions.assertTrue(result);
   }
 
@@ -138,12 +121,9 @@ class RestCountriesV31Test {
     var countries = CountryServiceV31.getInstance().getAll();
     var result = true;
     try {
-      for (var country : countries) {
-        if (null == country.getFlags().getPng() || null == country.getFlags().getSvg()) {
-          result = false;
-          break;
-        }
-      }
+      result = countries.stream().noneMatch(
+          country -> null == country.getFlags().getPng() || null == country.getFlags().getSvg()
+              || null == country.getFlags().getAlt());
     } catch (
         Exception ex) {
       Assertions.fail();
@@ -156,12 +136,9 @@ class RestCountriesV31Test {
     var countries = CountryServiceV31.getInstance().getAll();
     var result = true;
     try {
-      for (var country : countries) {
-        if (null == country.getCoatOfArms().getPng() || null == country.getCoatOfArms().getSvg()) {
-          result = false;
-          break;
-        }
-      }
+      result = countries.stream().noneMatch(
+          country -> null == country.getCoatOfArms().getPng() || null == country.getCoatOfArms()
+              .getSvg());
     } catch (
         Exception ex) {
       Assertions.fail();

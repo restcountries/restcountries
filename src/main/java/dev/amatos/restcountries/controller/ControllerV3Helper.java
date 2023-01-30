@@ -1,15 +1,11 @@
 package dev.amatos.restcountries.controller;
 
-import static dev.amatos.restcountries.utils.Constants.CACHE_CONTROL_VALUE;
-import static io.micronaut.http.HttpHeaders.CACHE_CONTROL;
-
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import dev.amatos.restcountries.domain.ICountryRestSymbols;
 import dev.amatos.restcountries.domain.base.BaseCountry;
-import io.micronaut.http.HttpResponse;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -122,6 +118,7 @@ public class ControllerV3Helper {
       "coatOfArms",
       "startOfWeek",
       "capitalInfo",
-      "postalCode"
+      "postalCode",
+      "capital"
   };
 }
