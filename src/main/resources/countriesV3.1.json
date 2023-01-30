@@ -176,7 +176,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/aw.svg",
-      "png": "https://flagcdn.com/w320/aw.png"
+      "png": "https://flagcdn.com/w320/aw.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/aw.svg",
@@ -800,7 +801,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ai.svg",
-      "png": "https://flagcdn.com/w320/ai.png"
+      "png": "https://flagcdn.com/w320/ai.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg",
@@ -1002,7 +1004,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ax.svg",
-      "png": "https://flagcdn.com/w320/ax.png"
+      "png": "https://flagcdn.com/w320/ax.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ax.svg",
@@ -2257,7 +2260,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/as.svg",
-      "png": "https://flagcdn.com/w320/as.png"
+      "png": "https://flagcdn.com/w320/as.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -2437,7 +2441,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/aq.svg",
-      "png": "https://flagcdn.com/w320/aq.png"
+      "png": "https://flagcdn.com/w320/aq.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/aq.svg",
@@ -2644,7 +2649,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/tf.svg",
-      "png": "https://flagcdn.com/w320/tf.png"
+      "png": "https://flagcdn.com/w320/tf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg",
@@ -5582,7 +5588,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/bl.svg",
-      "png": "https://flagcdn.com/w320/bl.png"
+      "png": "https://flagcdn.com/w320/bl.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -5788,7 +5795,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/sh.svg",
-      "png": "https://flagcdn.com/w320/sh.png"
+      "png": "https://flagcdn.com/w320/sh.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -6422,7 +6430,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/bm.svg",
-      "png": "https://flagcdn.com/w320/bm.png"
+      "png": "https://flagcdn.com/w320/bm.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg",
@@ -6859,7 +6868,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/bq.svg",
-      "png": "https://flagcdn.com/w320/bq.png"
+      "png": "https://flagcdn.com/w320/bq.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg",
@@ -7888,7 +7898,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/bv.svg",
-      "png": "https://flagcdn.com/w320/bv.png"
+      "png": "https://flagcdn.com/w320/bv.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -8733,7 +8744,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/cc.svg",
-      "png": "https://flagcdn.com/w320/cc.png"
+      "png": "https://flagcdn.com/w320/cc.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -10489,7 +10501,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ck.svg",
-      "png": "https://flagcdn.com/w320/ck.png"
+      "png": "https://flagcdn.com/w320/ck.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ck.svg",
@@ -11738,7 +11751,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/cw.svg",
-      "png": "https://flagcdn.com/w320/cw.png"
+      "png": "https://flagcdn.com/w320/cw.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cw.svg",
@@ -11938,11 +11952,13 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/cx.svg",
-      "png": "https://flagcdn.com/w320/cx.png"
+      "png": "https://flagcdn.com/w320/cx.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cx.svg",
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cx.png"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cx.png",
+      "alt": ""
     },
     "population": 2072,
     "maps": {
@@ -12137,7 +12153,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ky.svg",
-      "png": "https://flagcdn.com/w320/ky.png"
+      "png": "https://flagcdn.com/w320/ky.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg",
@@ -14686,7 +14703,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/eh.svg",
-      "png": "https://flagcdn.com/w320/eh.png"
+      "png": "https://flagcdn.com/w320/eh.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -15949,7 +15967,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/fk.svg",
-      "png": "https://flagcdn.com/w320/fk.png"
+      "png": "https://flagcdn.com/w320/fk.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg",
@@ -16385,7 +16404,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/fo.svg",
-      "png": "https://flagcdn.com/w320/fo.png"
+      "png": "https://flagcdn.com/w320/fo.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fo.svg",
@@ -17435,7 +17455,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gg.svg",
-      "png": "https://flagcdn.com/w320/gg.png"
+      "png": "https://flagcdn.com/w320/gg.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gg.svg",
@@ -17842,7 +17863,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gi.svg",
-      "png": "https://flagcdn.com/w320/gi.png"
+      "png": "https://flagcdn.com/w320/gi.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg",
@@ -18253,7 +18275,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gp.svg",
-      "png": "https://flagcdn.com/w320/gp.png"
+      "png": "https://flagcdn.com/w320/gp.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg",
@@ -19301,7 +19324,8 @@
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg",
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
+      "alt": ""
     },
     "population": 112519,
     "maps": {
@@ -19497,7 +19521,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gl.svg",
-      "png": "https://flagcdn.com/w320/gl.png"
+      "png": "https://flagcdn.com/w320/gl.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg",
@@ -19911,7 +19936,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gf.svg",
-      "png": "https://flagcdn.com/w320/gf.png"
+      "png": "https://flagcdn.com/w320/gf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg",
@@ -20121,7 +20147,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gu.svg",
-      "png": "https://flagcdn.com/w320/gu.png"
+      "png": "https://flagcdn.com/w320/gu.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gu.svg",
@@ -20531,7 +20558,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/hk.svg",
-      "png": "https://flagcdn.com/w320/hk.png"
+      "png": "https://flagcdn.com/w320/hk.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg",
@@ -20720,7 +20748,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/hm.svg",
-      "png": "https://flagcdn.com/w320/hm.png"
+      "png": "https://flagcdn.com/w320/hm.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -21982,7 +22011,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/im.svg",
-      "png": "https://flagcdn.com/w320/im.png"
+      "png": "https://flagcdn.com/w320/im.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/im.svg",
@@ -22404,7 +22434,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/io.svg",
-      "png": "https://flagcdn.com/w320/io.png"
+      "png": "https://flagcdn.com/w320/io.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -24101,7 +24132,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/je.svg",
-      "png": "https://flagcdn.com/w320/je.png"
+      "png": "https://flagcdn.com/w320/je.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/je.svg",
@@ -26209,7 +26241,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/xk.svg",
-      "png": "https://flagcdn.com/w320/xk.png"
+      "png": "https://flagcdn.com/w320/xk.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/xk.svg",
@@ -28930,7 +28963,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/mo.svg",
-      "png": "https://flagcdn.com/w320/mo.png"
+      "png": "https://flagcdn.com/w320/mo.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg",
@@ -29135,7 +29169,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/mf.svg",
-      "png": "https://flagcdn.com/w320/mf.png"
+      "png": "https://flagcdn.com/w320/mf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -32064,7 +32099,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/mp.svg",
-      "png": "https://flagcdn.com/w320/mp.png"
+      "png": "https://flagcdn.com/w320/mp.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -32683,7 +32719,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ms.svg",
-      "png": "https://flagcdn.com/w320/ms.png"
+      "png": "https://flagcdn.com/w320/ms.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg",
@@ -32882,7 +32919,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/mq.svg",
-      "png": "https://flagcdn.com/w320/mq.png"
+      "png": "https://flagcdn.com/w320/mq.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg",
@@ -33720,7 +33758,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/yt.svg",
-      "png": "https://flagcdn.com/w320/yt.png"
+      "png": "https://flagcdn.com/w320/yt.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -34172,7 +34211,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/nc.svg",
-      "png": "https://flagcdn.com/w320/nc.png"
+      "png": "https://flagcdn.com/w320/nc.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nc.svg",
@@ -34589,7 +34629,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/nf.svg",
-      "png": "https://flagcdn.com/w320/nf.png"
+      "png": "https://flagcdn.com/w320/nf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -35210,7 +35251,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/nu.svg",
-      "png": "https://flagcdn.com/w320/nu.png"
+      "png": "https://flagcdn.com/w320/nu.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -37106,7 +37148,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/pn.svg",
-      "png": "https://flagcdn.com/w320/pn.png"
+      "png": "https://flagcdn.com/w320/pn.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -38377,7 +38420,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/pr.svg",
-      "png": "https://flagcdn.com/w320/pr.png"
+      "png": "https://flagcdn.com/w320/pr.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -39226,7 +39270,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/ps.svg",
-      "png": "https://flagcdn.com/w320/ps.png"
+      "png": "https://flagcdn.com/w320/ps.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg",
@@ -39430,7 +39475,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/pf.svg",
-      "png": "https://flagcdn.com/w320/pf.png"
+      "png": "https://flagcdn.com/w320/pf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pf.svg",
@@ -39837,7 +39883,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/re.svg",
-      "png": "https://flagcdn.com/w320/re.png"
+      "png": "https://flagcdn.com/w320/re.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -41556,7 +41603,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/gs.svg",
-      "png": "https://flagcdn.com/w320/gs.png"
+      "png": "https://flagcdn.com/w320/gs.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -41756,7 +41804,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/sj.svg",
-      "png": "https://flagcdn.com/w320/sj.png"
+      "png": "https://flagcdn.com/w320/sj.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -42990,7 +43039,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/pm.svg",
-      "png": "https://flagcdn.com/w320/pm.png"
+      "png": "https://flagcdn.com/w320/pm.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -44888,7 +44938,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/sx.svg",
-      "png": "https://flagcdn.com/w320/sx.png"
+      "png": "https://flagcdn.com/w320/sx.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -45513,7 +45564,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/tc.svg",
-      "png": "https://flagcdn.com/w320/tc.png"
+      "png": "https://flagcdn.com/w320/tc.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -46578,7 +46630,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/tk.svg",
-      "png": "https://flagcdn.com/w320/tk.png"
+      "png": "https://flagcdn.com/w320/tk.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -48249,7 +48302,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/tw.svg",
-      "png": "https://flagcdn.com/w320/tw.png"
+      "png": "https://flagcdn.com/w320/tw.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg",
@@ -49091,7 +49145,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/um.svg",
-      "png": "https://flagcdn.com/w320/um.png"
+      "png": "https://flagcdn.com/w320/um.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -50869,7 +50924,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/vg.svg",
-      "png": "https://flagcdn.com/w320/vg.png"
+      "png": "https://flagcdn.com/w320/vg.png",
+      "alt": ""
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg",
@@ -51069,7 +51125,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/vi.svg",
-      "png": "https://flagcdn.com/w320/vi.png"
+      "png": "https://flagcdn.com/w320/vi.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
@@ -51694,7 +51751,8 @@
     },
     "flags": {
       "svg": "https://flagcdn.com/wf.svg",
-      "png": "https://flagcdn.com/w320/wf.png"
+      "png": "https://flagcdn.com/w320/wf.png",
+      "alt": ""
     },
     "coatOfArms": {
       "png": "",
