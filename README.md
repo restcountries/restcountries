@@ -10,13 +10,11 @@ You can access API through https://restcountries.com/v3.1/all
 
 
 # Contributing
-Any help is welcome! Just edit the file relevant file and create a new Merge Request or you can also 
-[donate].
+Any help is always welcome! Just edit the relevant file and create a new Merge Request or you can also 
+donate using [Patreon](https://www.patreon.com/amatos) or [PayPal](https://www.paypal.me/amatosg/15).
 
 # Donations
-I'm getting about 1.6 millions hits **each day** and that means also bandwidth (24 GB **per day!**) so
-costs have obviously increased. **Please**, consider making a [donation] to help me pay the server's 
-bills.
+This are getting out of control. As I stated [here](https://gitlab.com/amatos/rest-countries/-/issues/187), the server is not going to hold much longer. I'm getting about 4 million hits **each day** and that means CPU ussage (99%) and also bandwidth consumption (120 GB **per day!**) so costs have obviously increased. **Please**, consider making a donation on [Patreon](https://www.patreon.com/amatos) or [PayPal](https://www.paypal.me/amatosg/15). This will help me pay the server's bills 
 
 # Fields
 You can check the [FIELDS.md](FIELDS.md) file to get a description for each field (thanks to @ePascalC!).
