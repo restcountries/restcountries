@@ -183,4 +183,22 @@ public class CountryControllerV31 extends ControllerV3Helper {
       return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
     }
   }
+
+  @Get("independent")
+  @Schema(name = "RestCountries")
+  public Object getIndependentCountries(@QueryParam("status") Optional<Boolean> status, @QueryParam("fields") Optional<String> fields) {
+    try {
+      var result = true;
+      if(status.isPresent()) {
+        result = Boolean.TRUE.equals(status.get());
+      }
+      var countries = CountryServiceV31.getInstance().getIndependent(result);
+      if (!countries.isEmpty()) {
+        return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
+      }
+      return ControllerHelper.notFound();
+    } catch (Exception e) {
+      return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
+    }
+  }
 }

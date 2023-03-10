@@ -7,7 +7,9 @@ import dev.amatos.restcountries.domain.v3.v31.Country;
 import dev.amatos.restcountries.service.v3.CountryServiceBaseV3;
 import java.text.Normalizer;
 import java.util.HashSet;
+import java.util.Optional;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 public class CountryServiceV31 extends CountryServiceBaseV3 {
 
@@ -76,6 +78,13 @@ public class CountryServiceV31 extends CountryServiceBaseV3 {
       }));
     }
     return result;
+  }
+
+  public Set<Country> getIndependent(boolean status) {
+    return countries.stream().filter(country -> {
+      var independent = Boolean.TRUE.equals(country.getIndependent());
+      return independent == status;
+    }).collect(Collectors.toSet());
   }
 
   @Override
