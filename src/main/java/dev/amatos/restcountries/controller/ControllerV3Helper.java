@@ -119,6 +119,7 @@ public class ControllerV3Helper {
       "startOfWeek",
       "capitalInfo",
       "postalCode",
-      "capital"
+      "capital",
+      "altSpellings"
   };
 }
