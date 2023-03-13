@@ -33,7 +33,7 @@ You can check the [FIELDS.md](FIELDS.md) file to get a description for each fiel
 # Endpoints
 Below are described the REST endpoints available that you can use to search for countries
 
-## Latest added enpoint
+## Latest added Enpoint
 
 ### Independent
 Now you can get all independent (or not independent) countries by calling this endpoint:
@@ -141,7 +141,7 @@ https://restcountries.com/v3.1/lang/spanish
 ## Capital city
 Search by capital city
 
-``` javascript
+``` html
 https://restcountries.com/v3.1/capital/{capital}
 ```
 ``` html
@@ -189,7 +189,7 @@ https://restcountries.com/v3.1/translation/Saksamaa
 
 You can filter the output of your request to include only the specified fields.
 
-``` javascript
+``` html
 https://restcountries.com/v3.1/{service}?fields={field},{field},{field}
 ```
 ``` html
