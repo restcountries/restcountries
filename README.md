@@ -4,7 +4,7 @@ a subscription base API, this project is still Open Source and Free to use.
 
 ## Important Information
 * The structure of V2 has been reverted to its original form from the [Original Project] to maintain compatibility.
-* Only the latest version will receive updates and improvements.
+* ***Only the latest version will receive updates and improvements.***
 
 # REST Countries
 You can access API through https://restcountries.com/v3.1/all

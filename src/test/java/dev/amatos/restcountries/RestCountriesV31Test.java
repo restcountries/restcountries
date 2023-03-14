@@ -1,24 +1,39 @@
 package dev.amatos.restcountries;
 
 
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import dev.amatos.restcountries.domain.v3.v31.Country;
 import dev.amatos.restcountries.service.v3.v31.CountryServiceV31;
+import io.micronaut.http.client.RxHttpClient;
+import io.micronaut.http.client.annotation.Client;
 import io.micronaut.test.annotation.MicronautTest;
+import java.security.spec.ECField;
+import java.util.ArrayList;
+import java.util.stream.Collectors;
+import javax.inject.Inject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 @MicronautTest
 class RestCountriesV31Test {
 
+  @Inject
+  @Client("/")
+  RxHttpClient rxHttpClient;
+
   @Test
   void getAll() {
     var countries = CountryServiceV31.getInstance().getAll();
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
   }
 
   @Test
   void getByAlpha() {
     var countries = CountryServiceV31.getInstance().getByAlpha("CO");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     Assertions.assertEquals("Colombia",
         countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
   }
@@ -32,7 +47,7 @@ class RestCountriesV31Test {
   @Test
   void getCountryByName() {
     var countries = CountryServiceV31.getInstance().getByName("Peru", false);
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     Assertions.assertEquals("Peru",
         countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
   }
@@ -41,21 +56,21 @@ class RestCountriesV31Test {
   void getByCodeList() {
     var countries = CountryServiceV31.getInstance().getByCodeList("PE,NL,DE");
     Assertions.assertNotNull(countries);
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     Assertions.assertEquals(3, countries.size());
     var result = countries.stream().allMatch(country ->
         country.getName().getCommon().contains("Peru") ||
             country.getName().getCommon().contains("Netherlands") ||
             country.getName().getCommon().contains("German")
     );
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
   void getByCurrency() {
     var countries = CountryServiceV31.getInstance().getByCurrency("EUR");
     Assertions.assertNotNull(countries);
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     countries.forEach(country -> country.getCurrencies()
         .forEach((key, value) -> Assertions.assertEquals("EUR", key)));
   }
@@ -65,7 +80,7 @@ class RestCountriesV31Test {
     var countries = CountryServiceV31.getInstance().getByCapital("Helsinki");
     var result = countries.stream()
         .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Finland"));
-    Assertions.assertTrue(result);
+    assertTrue(result);
     Assertions.assertEquals(1, countries.size());
     Assertions.assertEquals("Finland",
         countries.stream().findFirst().map(country -> country.getName().getCommon()).orElseThrow());
@@ -74,44 +89,44 @@ class RestCountriesV31Test {
   @Test
   void getByRegion() {
     var countries = CountryServiceV31.getInstance().getByRegion("Asia");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     var result = countries.stream()
         .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Bangladesh"));
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
   void getBySubregion() {
     var countries = CountryServiceV31.getInstance().getBySubregion("Middle Africa");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     var result = countries.stream()
         .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Gabon"));
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
   void getByLanguage() {
     var countries = CountryServiceV31.getInstance().getByLanguage("german");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     var result = countries.stream()
         .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Liechtenstein"));
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
   void getByDemonym() {
     var countries = CountryServiceV31.getInstance().getByDemonym("chilean");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     var result = false;
     result = countries.stream()
         .anyMatch(country -> country.getName().getCommon().equalsIgnoreCase("Chile"));
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
   void getByTranslation() {
     var countries = CountryServiceV31.getInstance().getByTranslation("Běloruská");
-    Assertions.assertFalse(countries.isEmpty());
+    assertFalse(countries.isEmpty());
     Assertions.assertEquals(1, countries.size());
     Assertions.assertEquals("Belarus", countries.stream().findFirst().get().getName().getCommon());
   }
@@ -128,7 +143,7 @@ class RestCountriesV31Test {
         Exception ex) {
       Assertions.fail();
     }
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 
   @Test
@@ -143,6 +158,6 @@ class RestCountriesV31Test {
         Exception ex) {
       Assertions.fail();
     }
-    Assertions.assertTrue(result);
+    assertTrue(result);
   }
 }
