@@ -14,7 +14,8 @@ import io.swagger.v3.oas.annotations.info.License;
                 version = "3.1",
                 description = "Get information about countries via a RESTful API",
                 license = @License(name = "Mozilla Public License MPL 2.0", url = "https://www.mozilla.org/en-US/MPL/2.0/"),
-                contact = @Contact(url = "https://restcountries.com", name = "Alejandro Matos")
+                contact = @Contact(url = "https://restcountries.com", name = "Alejandro Matos"),
+                servers = {url: "https://restcountries.com"}
         )
 )
 public class Application {
