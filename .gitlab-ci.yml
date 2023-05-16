@@ -36,7 +36,7 @@ docker-push:
         - docker info
         - cp target/*.jar .
     script:
-        - docker login -u "gitlab-ci-token" -p "$CI_BUILD_TOKEN" $REGISTRY_URL
+        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
         - docker build -t $IMAGE_TAG .
         - docker push $IMAGE_TAG
 
