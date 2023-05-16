@@ -8722,7 +8722,7 @@
     },
     "postalCode": {
       "format": "@#@ #@#",
-      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$ "
+      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
     },
     "startOfWeek": "sunday",
     "timezones": [
