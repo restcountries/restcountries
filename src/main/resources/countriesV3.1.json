@@ -5249,7 +5249,7 @@
     },
     "latlng": [
       25.0343,
-      77.3963
+      -77.3963
     ],
     "landlocked": false,
     "borders": [],
@@ -12367,7 +12367,7 @@
     },
     "latlng": [
       19.3133,
-      81.2546
+      -81.2546
     ],
     "landlocked": false,
     "borders": [],
@@ -48351,7 +48351,7 @@
     },
     "latlng": [
       10.6918,
-      61.2225
+      -61.2225
     ],
     "landlocked": false,
     "borders": [],
