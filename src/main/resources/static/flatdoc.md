@@ -5,10 +5,6 @@ Get information about countries via a RESTful API
 
 *Current version: 3.1*
 
-# Shutting Down
-Sadly, I'll be shutting down the website due to lack of funding. If you want to host it, you're more
-than welcome to do so, but for the time being, the website will be down by the end of May.
-
 # About this Project
 
 This project is inspired on restcountries.eu by Fayder Florez. Although the original project has now
