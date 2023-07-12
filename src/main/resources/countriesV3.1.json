@@ -40943,7 +40943,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "continents": [
-      "Europe"
+      "Europe",
+      "Asia"
     ],
     "languages": {
       "rus": "Russian"
@@ -48662,6 +48663,7 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "continents": [
+      "Europe",
       "Asia"
     ],
     "languages": {
