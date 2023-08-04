@@ -48,7 +48,7 @@ or [PayPal](https://www.paypal.me/amatosg/15). This will help me pay the server'
 
 # Fields
 
-You can check the [FIELDS.md](FIELDS.md) file to get a description for each field (thanks to
+You can check the [FIELDS.md](https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md) file to get a description for each field (thanks to
 @ePascalC!).
 
 # API Endpoints
