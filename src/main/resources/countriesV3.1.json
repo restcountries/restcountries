@@ -36156,7 +36156,6 @@
     },
     "startOfWeek": "monday",
     "timezones": [
-      "UTC-04:00",
       "UTC+01:00"
     ]
   },
