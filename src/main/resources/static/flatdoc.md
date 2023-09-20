@@ -174,7 +174,7 @@ https://restcountries.com/v3.1/demonym/peruvian
 Search by language code or name
 
 ``` html
-https://restcountries.com/v3.1/lang/{currency}
+https://restcountries.com/v3.1/lang/{language}
 ```
 
 ``` html
