@@ -15061,7 +15061,10 @@
       "Europe"
     ],
     "languages": {
-      "spa": "Spanish"
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
     },
     "translations": {
       "ara": {
