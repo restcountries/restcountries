@@ -42002,13 +42002,13 @@
       "common": "Singapore",
       "official": "Republic of Singapore",
       "nativeName": {
-        "zho": {
-          "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
-          "common": "\u65b0\u52a0\u5761"
-        },
         "eng": {
           "official": "Republic of Singapore",
           "common": "Singapore"
+        },
+        "zho": {
+          "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
+          "common": "\u65b0\u52a0\u5761"
         },
         "msa": {
           "official": "Republik Singapura",
@@ -42066,8 +42066,8 @@
       "Asia"
     ],
     "languages": {
-      "zho": "Chinese",
       "eng": "English",
+      "zho": "Chinese",
       "msa": "Malay",
       "tam": "Tamil"
     },
