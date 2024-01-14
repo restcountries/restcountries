@@ -3371,10 +3371,6 @@
         "aze": {
           "official": "Az\u0259rbaycan Respublikas\u0131",
           "common": "Az\u0259rbaycan"
-        },
-        "rus": {
-          "official": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-          "common": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
         }
       }
     },
@@ -3418,11 +3414,11 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "continents": [
+      "Europe",
       "Asia"
     ],
     "languages": {
-      "aze": "Azerbaijani",
-      "rus": "Russian"
+      "aze": "Azerbaijani"
     },
     "translations": {
       "ara": {
@@ -10922,7 +10918,7 @@
     },
     "population": 50882884,
     "maps": {
-      "googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
+      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
     },
     "gini": {
@@ -15065,7 +15061,10 @@
       "Europe"
     ],
     "languages": {
-      "spa": "Spanish"
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
     },
     "translations": {
       "ara": {
@@ -36160,7 +36159,6 @@
     },
     "startOfWeek": "monday",
     "timezones": [
-      "UTC-04:00",
       "UTC+01:00"
     ]
   },
@@ -42004,13 +42002,13 @@
       "common": "Singapore",
       "official": "Republic of Singapore",
       "nativeName": {
-        "zho": {
-          "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
-          "common": "\u65b0\u52a0\u5761"
-        },
         "eng": {
           "official": "Republic of Singapore",
           "common": "Singapore"
+        },
+        "zho": {
+          "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
+          "common": "\u65b0\u52a0\u5761"
         },
         "msa": {
           "official": "Republik Singapura",
@@ -42068,8 +42066,8 @@
       "Asia"
     ],
     "languages": {
-      "zho": "Chinese",
       "eng": "English",
+      "zho": "Chinese",
       "msa": "Malay",
       "tam": "Tamil"
     },
