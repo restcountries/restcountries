@@ -11319,7 +11319,7 @@
     },
     "latlng": [
       16.5388,
-      23.0418
+      -23.0418
     ],
     "landlocked": false,
     "borders": [],
@@ -51104,7 +51104,7 @@
     "fifa": "",
     "independent": true,
     "status": "officially-assigned",
-    "unMember": true,
+    "unMember": false,
     "currencies": {
       "EUR": {
         "name": "Euro",
