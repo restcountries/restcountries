@@ -5324,7 +5324,7 @@
     "currencies": {
       "BAM": {
         "name": "Bosnia and Herzegovina convertible mark",
-        "symbol": ""
+        "symbol": "\u004b\u004d"
       }
     },
     "idd": {
@@ -41591,7 +41591,7 @@
     "currencies": {
       "SDG": {
         "name": "Sudanese pound",
-        "symbol": ""
+        "symbol": "\u062c\u002e\u0633"
       }
     },
     "idd": {
