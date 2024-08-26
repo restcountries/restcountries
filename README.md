@@ -33,7 +33,7 @@ You can check the [FIELDS.md](FIELDS.md) file to get a description for each fiel
 # Endpoints
 Below are described the REST endpoints available that you can use to search for countries
 
-## Latest added Enpoint
+## Latest added Endpoint
 
 ### Independent
 Now you can get all independent (or not independent) countries by calling this endpoint:
