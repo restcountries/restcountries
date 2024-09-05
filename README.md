@@ -203,6 +203,7 @@ https://restcountries.com/v3.1/all?fields=name,capital,currencies
 * [REST Countries Ruby]
 * [REST Countries Go]
 * [REST Countries Python]
+* [REST Countries Java]
 * [world-currencies]
 
 [world-currencies]: https://github.com/wiredmax/world-currencies
@@ -215,3 +216,4 @@ https://restcountries.com/v3.1/all?fields=name,capital,currencies
 [Original Project]: https://github.com/apilayer/restcountries/
 [donation]: https://www.paypal.me/amatosg/15
 [donate]: https://www.paypal.me/amatosg/15
+[REST Countries Java]: https://github.com/awais2075/restcountries
