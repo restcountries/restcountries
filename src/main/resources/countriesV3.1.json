@@ -99,6 +99,10 @@
         "official": "Aruba",
         "common": "Aruba"
       },
+      "ind": {
+        "official": "Aruba",
+        "common": "Aruba"
+      },
       "ita": {
         "official": "Aruba",
         "common": "Aruba"
@@ -311,6 +315,10 @@
       "hun": {
         "official": "Afganiszt\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Afganiszt\u00e1n"
+      },
+      "ind": {
+        "official": "Keamiran Islam Afganistan",
+        "common": "Afganistan"
       },
       "ita": {
         "official": "Repubblica islamica dell'Afghanistan",
@@ -525,6 +533,10 @@
         "official": "Angola",
         "common": "Angola"
       },
+      "ind": {
+        "official": "Republik Angola",
+        "common": "Angola"
+      },
       "ita": {
         "official": "Repubblica dell'Angola",
         "common": "Angola"
@@ -736,6 +748,10 @@
         "official": "Anguilla",
         "common": "Anguilla"
       },
+      "ind": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
       "ita": {
         "official": "Anguilla",
         "common": "Anguilla"
@@ -943,6 +959,10 @@
         "official": "\u00c5land-szigetek",
         "common": "\u00c5land-szigetek"
       },
+      "ind": {
+        "official": "Kepulauan \u00c5land",
+        "common": "Aland"
+      },
       "ita": {
         "official": "Isole \u00c5land",
         "common": "Isole Aland"
@@ -1149,6 +1169,10 @@
       "hun": {
         "official": "Alb\u00e1n K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Alb\u00e1nia"
+      },
+      "ind": {
+        "official": "Republik Albania",
+        "common": "Albania"
       },
       "ita": {
         "official": "Repubblica d'Albania",
@@ -1363,6 +1387,10 @@
         "official": "Andorra",
         "common": "Andorra"
       },
+      "ind": {
+        "official": "Kepangeranan Andorra",
+        "common": "Andorra"
+      },
       "ita": {
         "official": "Principato di Andorra",
         "common": "Andorra"
@@ -1572,6 +1600,10 @@
       "hun": {
         "official": "Egyes\u00fclt Arab Em\u00edrs\u00e9gek",
         "common": "Egyes\u00fclt Arab Em\u00edrs\u00e9gek"
+      },
+      "ind": {
+        "official": "Uni Emirat Arab",
+        "common": "Uni Emirat Arab"
       },
       "ita": {
         "official": "Emirati Arabi Uniti",
@@ -1789,6 +1821,10 @@
         "official": "Argentin K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Argent\u00edna"
       },
+      "ind": {
+        "official": "Republik Argentina",
+        "common": "Argentina"
+      },
       "ita": {
         "official": "Repubblica Argentina",
         "common": "Argentina"
@@ -2003,6 +2039,10 @@
       "hun": {
         "official": "\u00d6rm\u00e9nyorsz\u00e1g",
         "common": "\u00d6rm\u00e9nyorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Armenia",
+        "common": "Armenia"
       },
       "ita": {
         "official": "Repubblica di Armenia",
@@ -2223,6 +2263,10 @@
         "official": "Szamoa",
         "common": "Szamoa"
       },
+      "ind": {
+        "official": "Samoa Amerika",
+        "common": "Samoa Amerika"
+      },
       "ita": {
         "official": "Samoa americane",
         "common": "Samoa Americane"
@@ -2407,6 +2451,10 @@
       "hun": {
         "official": "Antarktisz",
         "common": "Antarktisz"
+      },
+      "ind": {
+        "official": "Antarktik",
+        "common": "Antartika"
       },
       "ita": {
         "official": "Antartide",
@@ -2620,6 +2668,10 @@
         "official": "Francia d\u00e9li \u00e9s antarktiszi ter\u00fcletek",
         "common": "Francia d\u00e9li \u00e9s antarktiszi ter\u00fcletek"
       },
+      "ind": {
+        "official": "Daratan Selatan dan Antarktika Prancis",
+        "common": "Daratan Selatan dan Antarktika Prancis"
+      },
       "ita": {
         "official": "Territorio della australi e antartiche francesi Terre",
         "common": "Territori Francesi del Sud"
@@ -2824,6 +2876,10 @@
         "official": "Antigua \u00e9s Barbuda",
         "common": "Antigua \u00e9s Barbuda"
       },
+      "ind": {
+        "official": "Antigua dan Barbuda",
+        "common": "Antigua dan Barbuda"
+      },
       "ita": {
         "official": "Antigua e Barbuda",
         "common": "Antigua e Barbuda"
@@ -3027,6 +3083,10 @@
       "hun": {
         "official": "Ausztr\u00e1l \u00c1llamsz\u00f6vets\u00e9g",
         "common": "Ausztr\u00e1lia"
+      },
+      "ind": {
+        "official": "Persemakmuran Australia",
+        "common": "Australia"
       },
       "ita": {
         "official": "Commonwealth dell'Australia",
@@ -3242,6 +3302,10 @@
       "hun": {
         "official": "Ausztria",
         "common": "Ausztria"
+      },
+      "ind": {
+        "official": "Republik Austria",
+        "common": "Austria"
       },
       "ita": {
         "official": "Repubblica d'Austria",
@@ -3461,6 +3525,10 @@
         "official": "Azerbajdzs\u00e1n",
         "common": "Azerbajdzs\u00e1n"
       },
+      "ind": {
+        "official": "Republik Azerbaijan",
+        "common": "Azerbaijan"
+      },
       "ita": {
         "official": "Repubblica dell'Azerbaigian",
         "common": "Azerbaijan"
@@ -3679,6 +3747,10 @@
       },
       "hun": {
         "official": "Burundi",
+        "common": "Burundi"
+      },
+      "ind": {
+        "official": "Republik Burundi",
         "common": "Burundi"
       },
       "ita": {
@@ -3909,6 +3981,10 @@
         "official": "Belga Kir\u00e1lys\u00e1g",
         "common": "Belgium"
       },
+      "ind": {
+        "official": "Kerajaan Belgia",
+        "common": "Belgia"
+      },
       "ita": {
         "official": "Regno del Belgio",
         "common": "Belgio"
@@ -4122,6 +4198,10 @@
         "official": "Benini K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Benin"
       },
+      "ind": {
+        "official": "Republik Benin",
+        "common": "Benin"
+      },
       "ita": {
         "official": "Repubblica del Benin",
         "common": "Benin"
@@ -4332,6 +4412,10 @@
       "hun": {
         "official": "Burkina Faso",
         "common": "Burkina"
+      },
+      "ind": {
+        "official": "Burkina Faso",
+        "common": "Burkina Faso"
       },
       "ita": {
         "official": "Burkina Faso",
@@ -4548,6 +4632,10 @@
         "official": "Banglades",
         "common": "Banglades"
       },
+      "ind": {
+        "official": "Republik Rakyat Bangladesh",
+        "common": "Bangladesh"
+      },
       "ita": {
         "official": "Repubblica popolare del Bangladesh",
         "common": "Bangladesh"
@@ -4758,6 +4846,10 @@
       "hun": {
         "official": "Bolg\u00e1r K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Bulg\u00e1ria"
+      },
+      "ind": {
+        "official": "Republik Bulgaria",
+        "common": "Bulgaria"
       },
       "ita": {
         "official": "Repubblica di Bulgaria",
@@ -4973,6 +5065,10 @@
         "official": "Bahreini Kir\u00e1lys\u00e1g",
         "common": "Bahrein"
       },
+      "ind": {
+        "official": "Kerajaan Bahrain",
+        "common": "Bahrain"
+      },
       "ita": {
         "official": "Regno del Bahrain",
         "common": "Bahrein"
@@ -5181,6 +5277,10 @@
       "hun": {
         "official": "Bahamai K\u00f6z\u00f6ss\u00e9g",
         "common": "Bahama-szigetek"
+      },
+      "ind": {
+        "official": "Persemakmuran Bahama",
+        "common": "Bahamas"
       },
       "ita": {
         "official": "Commonwealth delle Bahamas",
@@ -5398,6 +5498,10 @@
         "official": "Bosznia-Hercegovina",
         "common": "Bosznia-Hercegovina"
       },
+      "ind": {
+        "official": "Bosnia dan Herzegovina",
+        "common": "Bosnia dan Herzegovina"
+      },
       "ita": {
         "official": "Bosnia-Erzegovina",
         "common": "Bosnia ed Erzegovina"
@@ -5611,6 +5715,10 @@
         "official": "Saint-Barth\u00e9lemy",
         "common": "Saint-Barth\u00e9lemy"
       },
+      "ind": {
+        "official": "Wilayah Jajahan Saint-Barth\u00e9lemy",
+        "common": "Saint-Barth\u00e9lemy"
+      },
       "ita": {
         "official": "Collettivit\u00e0 di Saint Barth\u00e9lemy",
         "common": "Antille Francesi"
@@ -5821,6 +5929,10 @@
       "hun": {
         "official": "Szent Ilona",
         "common": "Szent Ilona-sziget"
+      },
+      "ind": {
+        "official": "Saint Helena, Ascension dan Tristan da Cunha",
+        "common": "Saint Helena, Ascension dan Tristan da Cunha"
       },
       "ita": {
         "official": "Sant'Elena, Ascensione e Tristan da Cunha",
@@ -6034,6 +6146,10 @@
       "hun": {
         "official": "Feh\u00e9rorosz K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Feh\u00e9roroszorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Belarus",
+        "common": "Belarus"
       },
       "ita": {
         "official": "Repubblica di Belarus",
@@ -6257,6 +6373,10 @@
         "official": "Belize",
         "common": "Belize"
       },
+      "ind": {
+        "official": "Belize",
+        "common": "Belize"
+      },
       "ita": {
         "official": "Belize",
         "common": "Belize"
@@ -6466,6 +6586,10 @@
         "common": "Bermudi"
       },
       "hun": {
+        "official": "Bermuda",
+        "common": "Bermuda"
+      },
+      "ind": {
         "official": "Bermuda",
         "common": "Bermuda"
       },
@@ -6696,6 +6820,10 @@
         "official": "Bol\u00edviai T\u00f6bbnemzetis\u00e9g\u0171 \u00c1llam",
         "common": "Bol\u00edvia"
       },
+      "ind": {
+        "official": "Negara Plurinasional Bolivia",
+        "common": "Bolivia"
+      },
       "ita": {
         "official": "Stato Plurinazionale della Bolivia",
         "common": "Bolivia"
@@ -6915,6 +7043,10 @@
         "official": "Bonaire",
         "common": "Bonaire"
       },
+      "ind": {
+        "official": "Kepulauan Belanda Karibia",
+        "common": "Belanda Karibia"
+      },
       "ita": {
         "official": "Bonaire, Sint Eustatius e Saba",
         "common": "Paesi Bassi caraibici"
@@ -7121,6 +7253,10 @@
       "hun": {
         "official": "Brazil Sz\u00f6vets\u00e9gi K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Braz\u00edlia"
+      },
+      "ind": {
+        "official": "Republik Federatif Brasil",
+        "common": "Brasil"
       },
       "ita": {
         "official": "Repubblica federativa del Brasile",
@@ -7342,6 +7478,10 @@
         "official": "Barbados",
         "common": "Barbados"
       },
+      "ind": {
+        "official": "Barbados",
+        "common": "Barbados"
+      },
       "ita": {
         "official": "Barbados",
         "common": "Barbados"
@@ -7551,6 +7691,10 @@
       },
       "hun": {
         "official": "Brunei Szultan\u00e1tus",
+        "common": "Brunei"
+      },
+      "ind": {
+        "official": "Brunei Darussalam",
         "common": "Brunei"
       },
       "ita": {
@@ -7764,6 +7908,10 @@
         "official": "Bhut\u00e1ni Kir\u00e1lys\u00e1g",
         "common": "Bhut\u00e1n"
       },
+      "ind": {
+        "official": "Kerajaan Bhutan",
+        "common": "Bhutan"
+      },
       "ita": {
         "official": "Regno del Bhutan",
         "common": "Bhutan"
@@ -7964,6 +8112,10 @@
       "hun": {
         "official": "Bouvet-sziget",
         "common": "Bouvet-sziget"
+      },
+      "ind": {
+        "official": "Pulau Bouvet",
+        "common": "Pulau Bouvet"
       },
       "ita": {
         "official": "Isola Bouvet",
@@ -8174,6 +8326,10 @@
       },
       "hun": {
         "official": "Botswanai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Botswana"
+      },
+      "ind": {
+        "official": "Republik Botswana",
         "common": "Botswana"
       },
       "ita": {
@@ -8394,6 +8550,10 @@
         "official": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Afrika Tengah",
+        "common": "Afrika Tengah"
+      },
       "ita": {
         "official": "Repubblica Centrafricana",
         "common": "Repubblica Centrafricana"
@@ -8612,6 +8772,10 @@
         "official": "Kanada",
         "common": "Kanada"
       },
+      "ind": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
       "ita": {
         "official": "Canada",
         "common": "Canada"
@@ -8826,6 +8990,10 @@
       "hun": {
         "official": "K\u00f3kusz-szigetek",
         "common": "K\u00f3kusz-szigetek"
+      },
+      "ind": {
+        "official": "Wilayah Kepulauan Cocos (Keeling)",
+        "common": "Kepulauan Cocos (Keeling)"
       },
       "ita": {
         "official": "Territorio della (Keeling) Isole Cocos",
@@ -9051,6 +9219,10 @@
         "official": "Sv\u00e1jc",
         "common": "Sv\u00e1jc"
       },
+      "ind": {
+        "official": "Konfederasi Swiss",
+        "common": "Swiss"
+      },
       "ita": {
         "official": "Confederazione svizzera",
         "common": "Svizzera"
@@ -9264,6 +9436,10 @@
       "hun": {
         "official": "Chilei K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Chile"
+      },
+      "ind": {
+        "official": "Republik Chili",
+        "common": "Chili"
       },
       "ita": {
         "official": "Repubblica del Cile",
@@ -9485,6 +9661,10 @@
       "hun": {
         "official": "K\u00ednai N\u00e9pk\u00f6zt\u00e1rsas\u00e1g",
         "common": "K\u00edna"
+      },
+      "ind": {
+        "official": "Republik Rakyat Tiongkok",
+        "common": "Tiongkok"
       },
       "ita": {
         "official": "Repubblica popolare cinese",
@@ -9709,6 +9889,10 @@
         "official": "Elef\u00e1ntcsontparti K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Elef\u00e1ntcsontpart"
       },
+      "ind": {
+        "official": "Republik Pantai Gading",
+        "common": "Pantai Gading"
+      },
       "ita": {
         "official": "Repubblica della Costa d'Avorio",
         "common": "Costa d'Avorio"
@@ -9926,6 +10110,10 @@
       },
       "hun": {
         "official": "Kameruni K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Kamerun"
+      },
+      "ind": {
+        "official": "Republik Kamerun",
         "common": "Kamerun"
       },
       "ita": {
@@ -10165,6 +10353,10 @@
         "official": "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Demokratik Kongo",
+        "common": "Republik Demokratik Kongo"
+      },
       "ita": {
         "official": "Repubblica Democratica del Congo",
         "common": "Congo (Rep. Dem.)"
@@ -10394,6 +10586,10 @@
         "official": "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Kongo",
+        "common": "Kongo"
+      },
       "ita": {
         "official": "Repubblica del Congo",
         "common": "Congo"
@@ -10616,6 +10812,10 @@
         "official": "Cook-szigetek",
         "common": "Cook-szigetek"
       },
+      "ind": {
+        "official": "Kepulauan Cook",
+        "common": "Kepulauan Cook"
+      },
       "ita": {
         "official": "Isole Cook",
         "common": "Isole Cook"
@@ -10821,6 +11021,10 @@
       "hun": {
         "official": "Kolumbiai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kolumbia"
+      },
+      "ind": {
+        "official": "Republik Kolombia",
+        "common": "Kolombia"
       },
       "ita": {
         "official": "Repubblica di Colombia",
@@ -11048,6 +11252,10 @@
         "official": "Comore-szigeteki Uni\u00f3",
         "common": "Comore-szigetek"
       },
+      "ind": {
+        "official": "Uni Komoro",
+        "common": "Komoro"
+      },
       "ita": {
         "official": "Unione delle Comore",
         "common": "Comore"
@@ -11256,6 +11464,10 @@
         "official": "Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Tanjung Verde",
+        "common": "Tanjung Verde"
+      },
       "ita": {
         "official": "Repubblica di Capo Verde",
         "common": "Capo Verde"
@@ -11463,6 +11675,10 @@
       "hun": {
         "official": "Costa Rica-i K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Costa Rica"
+      },
+      "ind": {
+        "official": "Republik Kosta Rika",
+        "common": "Kosta Rika"
       },
       "ita": {
         "official": "Repubblica di Costa Rica",
@@ -11677,6 +11893,10 @@
       },
       "hun": {
         "official": "Kubai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Kuba"
+      },
+      "ind": {
+        "official": "Republik Kuba",
         "common": "Kuba"
       },
       "ita": {
@@ -11894,6 +12114,10 @@
         "official": "Cura\u00e7ao",
         "common": "Cura\u00e7ao"
       },
+      "ind": {
+        "official": "Negara Cura\u00e7ao",
+        "common": "Cura\u00e7ao"
+      },
       "ita": {
         "official": "Paese di Cura\u00e7ao",
         "common": "Cura\u00e7ao"
@@ -12094,6 +12318,10 @@
       "hun": {
         "official": "Kar\u00e1csony-sziget",
         "common": "Kar\u00e1csony-sziget"
+      },
+      "ind": {
+        "official": "Wilayah Pulau Natal",
+        "common": "Pulau Natal"
       },
       "ita": {
         "official": "Territorio di Christmas Island",
@@ -12299,6 +12527,10 @@
       "hun": {
         "official": "Kajm\u00e1n-szigetek",
         "common": "Kajm\u00e1n-szigetek"
+      },
+      "ind": {
+        "official": "Kepulauan Cayman",
+        "common": "Kepulauan Cayman"
       },
       "ita": {
         "official": "Isole Cayman",
@@ -12514,6 +12746,10 @@
         "official": "Ciprusi K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Ciprus"
       },
+      "ind": {
+        "official": "Republik Siprus",
+        "common": "Siprus"
+      },
       "ita": {
         "official": "Repubblica di Cipro",
         "common": "Cipro"
@@ -12727,6 +12963,10 @@
         "official": "Cseh K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Csehorsz\u00e1g"
       },
+      "ind": {
+        "official": "Republik Ceko",
+        "common": "Ceko"
+      },
       "ita": {
         "official": "Repubblica Ceca",
         "common": "Cechia"
@@ -12939,6 +13179,10 @@
       "hun": {
         "official": "N\u00e9met Sz\u00f6vets\u00e9gi K\u00f6zt\u00e1rsas\u00e1g",
         "common": "N\u00e9metorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Federal Jerman",
+        "common": "Jerman"
       },
       "ita": {
         "official": "Repubblica federale di Germania",
@@ -13167,6 +13411,10 @@
         "official": "Dzsibuti K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Dzsibuti"
       },
+      "ind": {
+        "official": "Republik Jibuti",
+        "common": "Jibuti"
+      },
       "ita": {
         "official": "Repubblica di Gibuti",
         "common": "Gibuti"
@@ -13380,6 +13628,10 @@
         "official": "Dominikai K\u00f6z\u00f6ss\u00e9g",
         "common": "Dominikai K\u00f6z\u00f6ss\u00e9g"
       },
+      "ind": {
+        "official": "Persemakmuran Dominika",
+        "common": "Dominika"
+      },
       "ita": {
         "official": "Commonwealth di Dominica",
         "common": "Dominica"
@@ -13586,6 +13838,10 @@
       "hun": {
         "official": "D\u00e1n Kir\u00e1lys\u00e1g",
         "common": "D\u00e1nia"
+      },
+      "ind": {
+        "official": "Kerajaan Denmark",
+        "common": "Denmark"
       },
       "ita": {
         "official": "Regno di Danimarca",
@@ -13801,6 +14057,10 @@
         "official": "Dominikai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Dominika",
+        "common": "Republik Dominika"
+      },
       "ita": {
         "official": "Repubblica Dominicana",
         "common": "Repubblica Dominicana"
@@ -14011,6 +14271,10 @@
       "hun": {
         "official": "Alg\u00e9riai N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Alg\u00e9ria"
+      },
+      "ind": {
+        "official": "Republik Demokratik Rakyat Aljazair",
+        "common": "Aljazair"
       },
       "ita": {
         "official": "Repubblica popolare democratica di Algeria",
@@ -14228,6 +14492,10 @@
         "official": "Ecuadori K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Ecuador"
       },
+      "ind": {
+        "official": "Republik Ekuador",
+        "common": "Ekuador"
+      },
       "ita": {
         "official": "Repubblica dell'Ecuador",
         "common": "Ecuador"
@@ -14439,6 +14707,10 @@
       "hun": {
         "official": "Egyiptomi Arab K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Egyiptom"
+      },
+      "ind": {
+        "official": "Republik Arab Mesir",
+        "common": "Mesir"
       },
       "ita": {
         "official": "Repubblica araba d'Egitto",
@@ -14664,6 +14936,10 @@
       },
       "hun": {
         "official": "Eritrea",
+        "common": "Eritrea"
+      },
+      "ind": {
+        "official": "Negara Eritrea",
         "common": "Eritrea"
       },
       "ita": {
@@ -14894,6 +15170,10 @@
         "official": "Nyugat-Szahara",
         "common": "Nyugat-Szahara"
       },
+      "ind": {
+        "official": "Republik Demokratik Arab Sahrawi",
+        "common": "Sahara Barat"
+      },
       "ita": {
         "official": "Repubblica Araba Saharawi Democratica",
         "common": "Sahara Occidentale"
@@ -15106,6 +15386,10 @@
       "hun": {
         "official": "Spanyol Kir\u00e1lys\u00e1g",
         "common": "Spanyolorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Kerajaan Spanyol",
+        "common": "Spanyol"
       },
       "ita": {
         "official": "Regno di Spagna",
@@ -15323,6 +15607,10 @@
         "official": "\u00c9szt K\u00f6zt\u00e1rsas\u00e1g",
         "common": "\u00c9sztorsz\u00e1g"
       },
+      "ind": {
+        "official": "Republik Estonia",
+        "common": "Estonia"
+      },
       "ita": {
         "official": "Repubblica di Estonia",
         "common": "Estonia"
@@ -15534,6 +15822,10 @@
       "hun": {
         "official": "Eti\u00f3p Sz\u00f6vets\u00e9gi Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Eti\u00f3pia"
+      },
+      "ind": {
+        "official": "Republik Demokratik Federal Etiopia",
+        "common": "Etiopia"
       },
       "ita": {
         "official": "Repubblica federale democratica di Etiopia",
@@ -15756,6 +16048,10 @@
       "hun": {
         "official": "Finn K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Finnorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Finlandia",
+        "common": "Finlandia"
       },
       "ita": {
         "official": "Repubblica di Finlandia",
@@ -15981,6 +16277,10 @@
         "official": "Fidzsi-szigeteki K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Fidzsi-szigetek"
       },
+      "ind": {
+        "official": "Republik Fiji",
+        "common": "Fiji"
+      },
       "ita": {
         "official": "Repubblica di Figi",
         "common": "Figi"
@@ -16189,6 +16489,10 @@
         "official": "Falkland-szigetek",
         "common": "Falkland-szigetek"
       },
+      "ind": {
+        "official": "Kepulauan Falkland",
+        "common": "Kepulauan Falkland atau Kepulauan Malvinas"
+      },
       "ita": {
         "official": "Isole Falkland",
         "common": "Isole Falkland o Isole Malvine"
@@ -16394,6 +16698,10 @@
       "hun": {
         "official": "Francia K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Franciaorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Prancis",
+        "common": "Prancis"
       },
       "ita": {
         "official": "Repubblica francese",
@@ -16634,6 +16942,10 @@
         "official": "Fer\u00f6er",
         "common": "Fer\u00f6er"
       },
+      "ind": {
+        "official": "Kepulauan Faroe",
+        "common": "Kepulauan Faroe"
+      },
       "ita": {
         "official": "Isole Faroe",
         "common": "Isole Far Oer"
@@ -16839,6 +17151,10 @@
       "hun": {
         "official": "Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok",
         "common": "Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok"
+      },
+      "ind": {
+        "official": "Federasi Mikronesia",
+        "common": "Mikronesia"
       },
       "ita": {
         "official": "Stati federati di Micronesia",
@@ -17047,6 +17363,10 @@
       },
       "hun": {
         "official": "Gaboni K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Gabon"
+      },
+      "ind": {
+        "official": "Republik Gabon",
         "common": "Gabon"
       },
       "ita": {
@@ -17260,6 +17580,10 @@
       "hun": {
         "official": "Nagy-Britannia \u00e9s \u00c9szak-\u00cdrorsz\u00e1g Egyes\u00fclt Kir\u00e1lys\u00e1ga",
         "common": "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+      },
+      "ind": {
+        "official": "Perserikatan Kerajaan Britania Raya dan Irlandia Utara",
+        "common": "Britania Raya"
       },
       "ita": {
         "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
@@ -17477,6 +17801,10 @@
       "hun": {
         "official": "Gr\u00fazia",
         "common": "Gr\u00fazia"
+      },
+      "ind": {
+        "official": "Georgia",
+        "common": "Georgia"
       },
       "ita": {
         "official": "Georgia",
@@ -17705,6 +18033,10 @@
         "official": "Guernsey",
         "common": "Guernsey"
       },
+      "ind": {
+        "official": "Bailiwick Guernsey",
+        "common": "Guernsey"
+      },
       "ita": {
         "official": "Baliato di Guernsey",
         "common": "Guernsey"
@@ -17908,6 +18240,10 @@
       "hun": {
         "official": "Gh\u00e1nai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Gh\u00e1na"
+      },
+      "ind": {
+        "official": "Republik Ghana",
+        "common": "Ghana"
       },
       "ita": {
         "official": "Repubblica del Ghana",
@@ -18119,6 +18455,10 @@
         "official": "Gibralt\u00e1r",
         "common": "Gibralt\u00e1r"
       },
+      "ind": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
       "ita": {
         "official": "Gibilterra",
         "common": "Gibilterra"
@@ -18325,6 +18665,10 @@
       },
       "hun": {
         "official": "Guineai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Guinea"
+      },
+      "ind": {
+        "official": "Republik Guinea",
         "common": "Guinea"
       },
       "ita": {
@@ -18541,6 +18885,10 @@
         "official": "Guadeloupe",
         "common": "Guadeloupe"
       },
+      "ind": {
+        "official": "Guadeloupe",
+        "common": "Guadeloupe"
+      },
       "ita": {
         "official": "Guadeloupe",
         "common": "Guadeloupa"
@@ -18744,6 +19092,10 @@
       },
       "hun": {
         "official": "Gambiai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Gambia"
+      },
+      "ind": {
+        "official": "Republik Gambia",
         "common": "Gambia"
       },
       "ita": {
@@ -18960,6 +19312,10 @@
       "hun": {
         "official": "Bissau-Guineai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Bissau-Guinea"
+      },
+      "ind": {
+        "official": "Republik Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "ita": {
         "official": "Repubblica di Guinea-Bissau",
@@ -19184,6 +19540,10 @@
         "official": "Egyenl\u00edt\u0151i-Guinea-i K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Egyenl\u00edt\u0151i-Guinea"
       },
+      "ind": {
+        "official": "Republik Guinea Khatulistiwa",
+        "common": "Guinea Khatulistiwa"
+      },
       "ita": {
         "official": "Repubblica della Guinea Equatoriale",
         "common": "Guinea Equatoriale"
@@ -19393,6 +19753,10 @@
       "hun": {
         "official": "G\u00f6r\u00f6g K\u00f6zt\u00e1rsas\u00e1g",
         "common": "G\u00f6r\u00f6gorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Yunani",
+        "common": "Yunani"
       },
       "ita": {
         "official": "Repubblica ellenica",
@@ -19605,6 +19969,10 @@
         "official": "Grenada",
         "common": "Grenada"
       },
+      "ind": {
+        "official": "Grenada",
+        "common": "Grenada"
+      },
       "ita": {
         "official": "Grenada",
         "common": "Grenada"
@@ -19811,6 +20179,10 @@
         "official": "Gr\u00f6nland",
         "common": "Gr\u00f6nland"
       },
+      "ind": {
+        "official": "Grinlandia",
+        "common": "Grinlandia"
+      },
       "ita": {
         "official": "Groenlandia",
         "common": "Groenlandia"
@@ -20016,6 +20388,10 @@
       },
       "hun": {
         "official": "Guatemalai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Guatemala"
+      },
+      "ind": {
+        "official": "Republik Guatemala",
         "common": "Guatemala"
       },
       "ita": {
@@ -20230,6 +20606,10 @@
       "hun": {
         "official": "Francia Guyana",
         "common": "Francia Guyana"
+      },
+      "ind": {
+        "official": "Guyana Prancis",
+        "common": "Guyana Prancis"
       },
       "ita": {
         "official": "Guiana",
@@ -20449,6 +20829,10 @@
         "official": "Guam",
         "common": "Guam"
       },
+      "ind": {
+        "official": "Guam",
+        "common": "Guam"
+      },
       "ita": {
         "official": "Guam",
         "common": "Guam"
@@ -20652,6 +21036,10 @@
       },
       "hun": {
         "official": "Guyanai Sz\u00f6vetkezeti K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Guyana"
+      },
+      "ind": {
+        "official": "Republik Kooperatif Guyana",
         "common": "Guyana"
       },
       "ita": {
@@ -20870,6 +21258,10 @@
         "official": "Hongkong",
         "common": "Hongkong"
       },
+      "ind": {
+        "official": "Daerah Administratif Khusus Republik Rakyat Tiongkok Hong Kong",
+        "common": "Hong Kong"
+      },
       "ita": {
         "official": "Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese",
         "common": "Hong Kong"
@@ -21061,6 +21453,10 @@
       "hun": {
         "official": "Heard-sziget \u00e9s McDonald-szigetek",
         "common": "Heard-sziget \u00e9s McDonald-szigetek"
+      },
+      "ind": {
+        "official": "Pulau Heard dan Kepulauan McDonald",
+        "common": "Pulau Heard dan Kepulauan McDonald"
       },
       "ita": {
         "official": "Isole Heard e McDonald",
@@ -21266,6 +21662,10 @@
       },
       "hun": {
         "official": "Hondurasi K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Honduras"
+      },
+      "ind": {
+        "official": "Republik Honduras",
         "common": "Honduras"
       },
       "ita": {
@@ -21480,6 +21880,10 @@
       "hun": {
         "official": "Horv\u00e1t K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Horv\u00e1torsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Kroasia",
+        "common": "Kroasia"
       },
       "ita": {
         "official": "Repubblica di Croazia",
@@ -21701,6 +22105,10 @@
         "official": "Haiti K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Haiti"
       },
+      "ind": {
+        "official": "Republik Haiti",
+        "common": "Haiti"
+      },
       "ita": {
         "official": "Repubblica di Haiti",
         "common": "Haiti"
@@ -21908,6 +22316,10 @@
       "hun": {
         "official": "Magyarorsz\u00e1g",
         "common": "Magyarorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Hungaria",
+        "common": "Hungaria"
       },
       "ita": {
         "official": "Ungheria",
@@ -22124,6 +22536,10 @@
       "hun": {
         "official": "Indon\u00e9z K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Indon\u00e9zia"
+      },
+      "ind": {
+        "official": "Republik Indonesia",
+        "common": "Indonesia"
       },
       "ita": {
         "official": "Repubblica di Indonesia",
@@ -22349,6 +22765,10 @@
         "official": "Man",
         "common": "Man"
       },
+      "ind": {
+        "official": "Pulau Man",
+        "common": "Pulau Man"
+      },
       "ita": {
         "official": "Isola di Man",
         "common": "Isola di Man"
@@ -22567,6 +22987,10 @@
         "official": "Indiai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "India"
       },
+      "ind": {
+        "official": "Republik India",
+        "common": "India"
+      },
       "ita": {
         "official": "Repubblica dell'India",
         "common": "India"
@@ -22780,6 +23204,10 @@
         "official": "Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet",
         "common": "Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet"
       },
+      "ind": {
+        "official": "Wilayah Samudra Hindia Britania Raya",
+        "common": "Wilayah Samudra Hindia Britania Raya"
+      },
       "ita": {
         "official": "Territorio britannico dell'Oceano Indiano",
         "common": "Territorio britannico dell'oceano indiano"
@@ -22992,6 +23420,10 @@
         "official": "\u00cdr K\u00f6zt\u00e1rsas\u00e1g",
         "common": "\u00cdrorsz\u00e1g"
       },
+      "ind": {
+        "official": "Republik Irlandia",
+        "common": "Irlandia"
+      },
       "ita": {
         "official": "Repubblica d'Irlanda",
         "common": "Irlanda"
@@ -23203,6 +23635,10 @@
       "hun": {
         "official": "Ir\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Ir\u00e1n"
+      },
+      "ind": {
+        "official": "Republik Islam Iran",
+        "common": "Iran"
       },
       "ita": {
         "official": "Repubblica islamica dell'Iran",
@@ -23426,6 +23862,10 @@
         "official": "Iraki K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Irak"
       },
+      "ind": {
+        "official": "Republik Irak",
+        "common": "Irak"
+      },
       "ita": {
         "official": "Repubblica dell'Iraq",
         "common": "Iraq"
@@ -23641,6 +24081,10 @@
       "hun": {
         "official": "Izland",
         "common": "Izland"
+      },
+      "ind": {
+        "official": "Islandia",
+        "common": "Islandia"
       },
       "ita": {
         "official": "Islanda",
@@ -24069,6 +24513,10 @@
         "official": "Olasz K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Olaszorsz\u00e1g"
       },
+      "ind": {
+        "official": "Republik Italia",
+        "common": "Italia"
+      },
       "ita": {
         "official": "Repubblica italiana",
         "common": "Italia"
@@ -24286,6 +24734,10 @@
       "hun": {
         "official": "Jamaica",
         "common": "Jamaica"
+      },
+      "ind": {
+        "official": "Jamaika",
+        "common": "Jamaika"
       },
       "ita": {
         "official": "Giamaica",
@@ -24510,6 +24962,10 @@
         "official": "Jersey",
         "common": "Jersey"
       },
+      "ind": {
+        "official": "Bailiwick Jersey",
+        "common": "Jersey"
+      },
       "ita": {
         "official": "Baliato di Jersey",
         "common": "Isola di Jersey"
@@ -24716,6 +25172,10 @@
       "hun": {
         "official": "Jord\u00e1nia",
         "common": "Jord\u00e1nia"
+      },
+      "ind": {
+        "official": "Kerajaan Hasyimiyah Yordania",
+        "common": "Yordania"
       },
       "ita": {
         "official": "Regno hascemita di Giordania",
@@ -24931,6 +25391,10 @@
       "hun": {
         "official": "Jap\u00e1n",
         "common": "Jap\u00e1n"
+      },
+      "ind": {
+        "official": "Jepang",
+        "common": "Jepang"
       },
       "ita": {
         "official": "Giappone",
@@ -25152,6 +25616,10 @@
         "official": "Kazah K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kazahszt\u00e1n"
       },
+      "ind": {
+        "official": "Republik Kazakhstan",
+        "common": "Kazakhstan"
+      },
       "ita": {
         "official": "Repubblica del Kazakhstan",
         "common": "Kazakistan"
@@ -25370,6 +25838,10 @@
       },
       "hun": {
         "official": "Kenyai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Kenya"
+      },
+      "ind": {
+        "official": "Republik Kenya",
         "common": "Kenya"
       },
       "ita": {
@@ -25593,6 +26065,10 @@
         "official": "Kirgiz K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kirgiziszt\u00e1n"
       },
+      "ind": {
+        "official": "Republik Kirgiz",
+        "common": "Kirgizstan"
+      },
       "ita": {
         "official": "Kirghizistan",
         "common": "Kirghizistan"
@@ -25808,6 +26284,10 @@
       "hun": {
         "official": "Kambodzsai Kir\u00e1lys\u00e1g",
         "common": "Kambodzsa"
+      },
+      "ind": {
+        "official": "Kerajaan Kamboja",
+        "common": "Kamboja"
       },
       "ita": {
         "official": "Regno di Cambogia",
@@ -26028,6 +26508,10 @@
         "official": "Kiribati K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kiribati"
       },
+      "ind": {
+        "official": "Republik Kiribati",
+        "common": "Kiribati"
+      },
       "ita": {
         "official": "Repubblica indipendente e sovrano di Kiribati",
         "common": "Kiribati"
@@ -26237,6 +26721,10 @@
         "official": "Saint Christopher \u00e9s Nevis \u00c1llamsz\u00f6vets\u00e9g",
         "common": "Saint Kitts \u00e9s Nevis"
       },
+      "ind": {
+        "official": "Federasi Saint Christopher dan Nevis",
+        "common": "Saint Kitts dan Nevis"
+      },
       "ita": {
         "official": "Federazione di Saint Christopher e Nevis",
         "common": "Saint Kitts e Nevis"
@@ -26445,6 +26933,10 @@
       "hun": {
         "official": "Koreai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "D\u00e9l-Korea"
+      },
+      "ind": {
+        "official": "Republik Korea",
+        "common": "Korea Selatan"
       },
       "ita": {
         "official": "Repubblica di Corea",
@@ -26658,6 +27150,10 @@
         "official": "Koszov\u00f3",
         "common": "Koszov\u00f3"
       },
+      "ind": {
+        "official": "Republik Kosovo",
+        "common": "Kosovo"
+      },
       "ita": {
         "official": "Repubblica del Kosovo",
         "common": "Kosovo"
@@ -26866,6 +27362,10 @@
       "hun": {
         "official": "Kuvaiti \u00c1llam",
         "common": "Kuvait"
+      },
+      "ind": {
+        "official": "Negara Kuwait",
+        "common": "Kuwait"
       },
       "ita": {
         "official": "Stato del Kuwait",
@@ -27076,6 +27576,10 @@
       "hun": {
         "official": "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Laosz"
+      },
+      "ind": {
+        "official": "Republik Demokratik Rakyat Lao",
+        "common": "Laos"
       },
       "ita": {
         "official": "Repubblica democratica popolare del Laos",
@@ -27296,6 +27800,10 @@
         "official": "Libanoni K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Libanon"
       },
+      "ind": {
+        "official": "Republik Lebanon",
+        "common": "Lebanon"
+      },
       "ita": {
         "official": "Repubblica libanese",
         "common": "Libano"
@@ -27505,6 +28013,10 @@
       "hun": {
         "official": "Lib\u00e9riai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Lib\u00e9ria"
+      },
+      "ind": {
+        "official": "Republik Liberia",
+        "common": "Liberia"
       },
       "ita": {
         "official": "Repubblica di Liberia",
@@ -27718,6 +28230,10 @@
         "official": "L\u00edbia \u00c1llam",
         "common": "L\u00edbia"
       },
+      "ind": {
+        "official": "Negara Libya",
+        "common": "Libya"
+      },
       "ita": {
         "official": "Stato della Libia",
         "common": "Libia"
@@ -27929,6 +28445,10 @@
         "official": "Saint Lucia",
         "common": "Saint Lucia"
       },
+      "ind": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
       "ita": {
         "official": "Santa Lucia",
         "common": "Santa Lucia"
@@ -28135,6 +28655,10 @@
       },
       "hun": {
         "official": "Liechtensteini Hercegs\u00e9g",
+        "common": "Liechtenstein"
+      },
+      "ind": {
+        "official": "Kepangeranan Liechtenstein",
         "common": "Liechtenstein"
       },
       "ita": {
@@ -28352,6 +28876,10 @@
       "hun": {
         "official": "Sr\u00ed Lanka-i Demokratikus Szocialista K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Sr\u00ed Lanka"
+      },
+      "ind": {
+        "official": "Republik Sosialis Demokratik Sri Lanka",
+        "common": "Sri Lanka"
       },
       "ita": {
         "official": "Repubblica democratica socialista dello Sri Lanka",
@@ -28572,6 +29100,10 @@
         "official": "Lesoth\u00f3i Kir\u00e1lys\u00e1g",
         "common": "Lesotho"
       },
+      "ind": {
+        "official": "Kerajaan Lesotho",
+        "common": "Lesotho"
+      },
       "ita": {
         "official": "Regno del Lesotho",
         "common": "Lesotho"
@@ -28781,6 +29313,10 @@
       "hun": {
         "official": "Litv\u00e1n K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Litv\u00e1nia"
+      },
+      "ind": {
+        "official": "Republik Lithuania",
+        "common": "Lithuania"
       },
       "ita": {
         "official": "Repubblica di Lituania",
@@ -29007,6 +29543,10 @@
         "official": "Luxemburgi Nagyhercegs\u00e9g",
         "common": "Luxemburg"
       },
+      "ind": {
+        "official": "Keharyapatihan Luksemburg",
+        "common": "Luksemburg"
+      },
       "ita": {
         "official": "Granducato di Lussemburgo",
         "common": "Lussemburgo"
@@ -29218,6 +29758,10 @@
       "hun": {
         "official": "Lett K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Lettorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Latvia",
+        "common": "Latvia"
       },
       "ita": {
         "official": "Repubblica di Lettonia",
@@ -29435,6 +29979,10 @@
         "official": "Maka\u00f3",
         "common": "Maka\u00f3"
       },
+      "ind": {
+        "official": "Daerah Administratif Khusus Makau Republik Rakyat Tiongkok",
+        "common": "Makau"
+      },
       "ita": {
         "official": "Macao Regione amministrativa speciale della Repubblica Popolare Cinese",
         "common": "Macao"
@@ -29640,6 +30188,10 @@
       "hun": {
         "official": "Saint-Martin K\u00f6z\u00f6ss\u00e9g",
         "common": "Saint-Martin"
+      },
+      "ind": {
+        "official": "Saint Martin",
+        "common": "Saint Martin"
       },
       "ita": {
         "official": "saint Martin",
@@ -29855,6 +30407,10 @@
         "official": "Marokk\u00f3i Kir\u00e1lys\u00e1g",
         "common": "Marokk\u00f3"
       },
+      "ind": {
+        "official": "Kerajaan Maroko",
+        "common": "Maroko"
+      },
       "ita": {
         "official": "Regno del Marocco",
         "common": "Marocco"
@@ -30067,6 +30623,10 @@
         "official": "Monac\u00f3i Hercegs\u00e9g",
         "common": "Monaco"
       },
+      "ind": {
+        "official": "Kepangeranan Monako",
+        "common": "Monako"
+      },
       "ita": {
         "official": "Principato di Monaco",
         "common": "Principato di Monaco"
@@ -30274,6 +30834,10 @@
       },
       "hun": {
         "official": "Moldovai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Moldova"
+      },
+      "ind": {
+        "official": "Republik Moldova",
         "common": "Moldova"
       },
       "ita": {
@@ -30493,6 +31057,10 @@
         "official": "Madagaszk\u00e1ri K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Madagaszk\u00e1r"
       },
+      "ind": {
+        "official": "Republik Madagaskar",
+        "common": "Madagaskar"
+      },
       "ita": {
         "official": "Repubblica del Madagascar",
         "common": "Madagascar"
@@ -30702,6 +31270,10 @@
         "official": "Mald\u00edv-szigetek",
         "common": "Mald\u00edv-szigetek"
       },
+      "ind": {
+        "official": "Republik Maladewa",
+        "common": "Maladewa"
+      },
       "ita": {
         "official": "Repubblica delle Maldive",
         "common": "Maldive"
@@ -30910,6 +31482,10 @@
       "hun": {
         "official": "Mexik\u00f3i Egyes\u00fclt \u00c1llamok",
         "common": "Mexik\u00f3"
+      },
+      "ind": {
+        "official": "Negara Meksiko Serikat",
+        "common": "Meksiko"
       },
       "ita": {
         "official": "Stati Uniti del Messico",
@@ -31130,6 +31706,10 @@
         "official": "Marshall-szigetek",
         "common": "Marshall-szigetek"
       },
+      "ind": {
+        "official": "Republik Kepulauan Marshall",
+        "common": "Kepulauan Marshall"
+      },
       "ita": {
         "official": "Repubblica delle Isole Marshall",
         "common": "Isole Marshall"
@@ -31337,6 +31917,10 @@
       "hun": {
         "official": "\u00c9szak-maced\u00f3n K\u00f6zt\u00e1rsas\u00e1g",
         "common": "\u00c9szak-Maced\u00f3nia"
+      },
+      "ind": {
+        "official": "Republik Makedonia Utara",
+        "common": "Makedonia Utara"
       },
       "ita": {
         "official": "Repubblica di Macedonia del Nord",
@@ -31550,6 +32134,10 @@
       },
       "hun": {
         "official": "Mali K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Mali"
+      },
+      "ind": {
+        "official": "Republik Mali",
         "common": "Mali"
       },
       "ita": {
@@ -31773,6 +32361,10 @@
         "official": "M\u00e1ltai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "M\u00e1lta"
       },
+      "ind": {
+        "official": "Republik Malta",
+        "common": "Malta"
+      },
       "ita": {
         "official": "Repubblica di Malta",
         "common": "Malta"
@@ -31981,6 +32573,10 @@
       "hun": {
         "official": "Mianmari \u00c1llamsz\u00f6vets\u00e9g K\u00f6zt\u00e1rsas\u00e1ga",
         "common": "Mianmar"
+      },
+      "ind": {
+        "official": "Republik Persatuan Myanmar",
+        "common": "Myanmar"
       },
       "ita": {
         "official": "Repubblica dell'Unione di Myanmar",
@@ -32195,6 +32791,10 @@
         "official": "Montenegr\u00f3",
         "common": "Montenegr\u00f3"
       },
+      "ind": {
+        "official": "Montenegro",
+        "common": "Montenegro"
+      },
       "ita": {
         "official": "Montenegro",
         "common": "Montenegro"
@@ -32406,6 +33006,10 @@
       "hun": {
         "official": "Mong\u00f3lia",
         "common": "Mong\u00f3lia"
+      },
+      "ind": {
+        "official": "Mongolia",
+        "common": "Mongolia"
       },
       "ita": {
         "official": "Mongolia",
@@ -32629,6 +33233,10 @@
         "official": "\u00c9szaki-Mariana-szigetek",
         "common": "\u00c9szaki-Mariana-szigetek"
       },
+      "ind": {
+        "official": "Persemakmuran Kepulauan Mariana Utara",
+        "common": "Kepulauan Mariana Utara"
+      },
       "ita": {
         "official": "Commonwealth delle Isole Marianne Settentrionali",
         "common": "Isole Marianne Settentrionali"
@@ -32833,6 +33441,10 @@
       },
       "hun": {
         "official": "Mozambiki K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Mozambik"
+      },
+      "ind": {
+        "official": "Republik Mozambik",
         "common": "Mozambik"
       },
       "ita": {
@@ -33050,6 +33662,10 @@
         "official": "Maurit\u00e1niai Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Maurit\u00e1nia"
       },
+      "ind": {
+        "official": "Republik Islam Mauritania",
+        "common": "Mauritania"
+      },
       "ita": {
         "official": "Repubblica islamica di Mauritania",
         "common": "Mauritania"
@@ -33261,6 +33877,10 @@
         "official": "Montserrat",
         "common": "Montserrat"
       },
+      "ind": {
+        "official": "Montserrat",
+        "common": "Montserrat"
+      },
       "ita": {
         "official": "Montserrat",
         "common": "Montserrat"
@@ -33464,6 +34084,10 @@
       "hun": {
         "official": "Martinique",
         "common": "Martinique"
+      },
+      "ind": {
+        "official": "Martinik",
+        "common": "Martinik"
       },
       "ita": {
         "official": "Martinique",
@@ -33681,6 +34305,10 @@
         "official": "Mauritiusi K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Mauritius"
       },
+      "ind": {
+        "official": "Republik Mauritius",
+        "common": "Mauritius"
+      },
       "ita": {
         "official": "Repubblica di Mauritius",
         "common": "Mauritius"
@@ -33891,6 +34519,10 @@
       },
       "hun": {
         "official": "Malawi K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Malawi"
+      },
+      "ind": {
+        "official": "Republik Malawi",
         "common": "Malawi"
       },
       "ita": {
@@ -34108,6 +34740,10 @@
         "official": "Malajzia",
         "common": "Malajzia"
       },
+      "ind": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
       "ita": {
         "official": "Malaysia",
         "common": "Malesia"
@@ -34318,6 +34954,10 @@
       },
       "hun": {
         "official": "Mayotte",
+        "common": "Mayotte"
+      },
+      "ind": {
+        "official": "Region Mayotte",
         "common": "Mayotte"
       },
       "ita": {
@@ -34570,6 +35210,10 @@
         "official": "Nam\u00edbiai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Nam\u00edbia"
       },
+      "ind": {
+        "official": "Republik Namibia",
+        "common": "Namibia"
+      },
       "ita": {
         "official": "Repubblica di Namibia",
         "common": "Namibia"
@@ -34781,6 +35425,10 @@
         "official": "\u00daj-Kaled\u00f3nia",
         "common": "\u00daj-Kaled\u00f3nia"
       },
+      "ind": {
+        "official": "Kaledonia Baru",
+        "common": "Kaledonia Baru"
+      },
       "ita": {
         "official": "Nuova Caledonia",
         "common": "Nuova Caledonia"
@@ -34984,6 +35632,10 @@
       },
       "hun": {
         "official": "Nigeri K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Niger"
+      },
+      "ind": {
+        "official": "Republik Niger",
         "common": "Niger"
       },
       "ita": {
@@ -35207,6 +35859,10 @@
         "official": "Norfolk-sziget",
         "common": "Norfolk-sziget"
       },
+      "ind": {
+        "official": "Wilayah Pulau Norfolk",
+        "common": "Pulau Norfolk"
+      },
       "ita": {
         "official": "Territorio di Norfolk Island",
         "common": "Isola Norfolk"
@@ -35413,6 +36069,10 @@
       "hun": {
         "official": "Nig\u00e9ria",
         "common": "Nig\u00e9ria"
+      },
+      "ind": {
+        "official": "Republik Federal Nigeria",
+        "common": "Nigeria"
       },
       "ita": {
         "official": "Repubblica federale di Nigeria",
@@ -35626,6 +36286,10 @@
       "hun": {
         "official": "Nicaraguai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Nicaragua"
+      },
+      "ind": {
+        "official": "Republik Nikaragua",
+        "common": "Nikaragua"
       },
       "ita": {
         "official": "Repubblica del Nicaragua",
@@ -35841,6 +36505,10 @@
         "official": "Niue",
         "common": "Niue"
       },
+      "ind": {
+        "official": "Niue",
+        "common": "Niue"
+      },
       "ita": {
         "official": "Niue",
         "common": "Niue"
@@ -36047,6 +36715,10 @@
       "hun": {
         "official": "Holland Kir\u00e1lys\u00e1g",
         "common": "Hollandia"
+      },
+      "ind": {
+        "official": "Kerajaan Belanda",
+        "common": "Belanda"
       },
       "ita": {
         "official": "Paesi Bassi",
@@ -36272,6 +36944,10 @@
         "official": "Norv\u00e9g Kir\u00e1lys\u00e1g",
         "common": "Norv\u00e9gia"
       },
+      "ind": {
+        "official": "Kerajaan Norwegia",
+        "common": "Norwegia"
+      },
       "ita": {
         "official": "Regno di Norvegia",
         "common": "Norvegia"
@@ -36483,6 +37159,10 @@
       "hun": {
         "official": "Nep\u00e1li Sz\u00f6vets\u00e9gi Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Nep\u00e1l"
+      },
+      "ind": {
+        "official": "Republik Demokratik Federal Nepal",
+        "common": "Nepal"
       },
       "ita": {
         "official": "Repubblica federale democratica del Nepal",
@@ -36702,6 +37382,10 @@
         "official": "Naurui K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Nauru"
       },
+      "ind": {
+        "official": "Republik Nauru",
+        "common": "Nauru"
+      },
       "ita": {
         "official": "Repubblica di Nauru",
         "common": "Nauru"
@@ -36919,6 +37603,10 @@
         "official": "\u00daj-Z\u00e9land",
         "common": "\u00daj-Z\u00e9land"
       },
+      "ind": {
+        "official": "Selandia Baru",
+        "common": "Selandia Baru"
+      },
       "ita": {
         "official": "Nuova Zelanda",
         "common": "Nuova Zelanda"
@@ -37128,6 +37816,10 @@
       "hun": {
         "official": "Om\u00e1ni Szultan\u00e1tus",
         "common": "Om\u00e1n"
+      },
+      "ind": {
+        "official": "Kesultanan Oman",
+        "common": "Oman"
       },
       "ita": {
         "official": "Sultanato dell'Oman",
@@ -37344,6 +38036,10 @@
       "hun": {
         "official": "Pakiszt\u00e1n",
         "common": "Pakiszt\u00e1n"
+      },
+      "ind": {
+        "official": "Republik Islam Pakistan",
+        "common": "Pakistan"
       },
       "ita": {
         "official": "Repubblica islamica del Pakistan",
@@ -37562,6 +38258,10 @@
         "official": "Panamai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Panama"
       },
+      "ind": {
+        "official": "Republik Panama",
+        "common": "Panama"
+      },
       "ita": {
         "official": "Repubblica di Panama",
         "common": "Panama"
@@ -37772,6 +38472,10 @@
       "hun": {
         "official": "Pitcairn-szigetek",
         "common": "Pitcairn-szigetek"
+      },
+      "ind": {
+        "official": "Kelompok Kepulauan Pitcairn",
+        "common": "Kepulauan Pitcairn"
       },
       "ita": {
         "official": "Pitcairn gruppo di isole",
@@ -37987,6 +38691,10 @@
       },
       "hun": {
         "official": "Perui K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Peru"
+      },
+      "ind": {
+        "official": "Republik Peru",
         "common": "Peru"
       },
       "ita": {
@@ -38208,6 +38916,10 @@
         "official": "F\u00fcl\u00f6p-szigeteki K\u00f6zt\u00e1rsas\u00e1g",
         "common": "F\u00fcl\u00f6p-szigetek"
       },
+      "ind": {
+        "official": "Republik Filipina",
+        "common": "Filipina"
+      },
       "ita": {
         "official": "Repubblica delle Filippine",
         "common": "Filippine"
@@ -38419,6 +39131,10 @@
       },
       "hun": {
         "official": "Palaui K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Palau"
+      },
+      "ind": {
+        "official": "Republik Palau",
         "common": "Palau"
       },
       "ita": {
@@ -38637,6 +39353,10 @@
         "official": "P\u00e1pua \u00daj-Guinea F\u00fcggetlen \u00c1llam",
         "common": "P\u00e1pua \u00daj-Guinea"
       },
+      "ind": {
+        "official": "Negara Merdeka Papua Nugini",
+        "common": "Papua Nugini"
+      },
       "ita": {
         "official": "Stato indipendente di Papua Nuova Guinea",
         "common": "Papua Nuova Guinea"
@@ -38846,6 +39566,10 @@
       "hun": {
         "official": "Lengyel K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Lengyelorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Polandia",
+        "common": "Polandia"
       },
       "ita": {
         "official": "Repubblica di Polonia",
@@ -39069,6 +39793,10 @@
         "official": "Puerto Rico",
         "common": "Puerto Rico"
       },
+      "ind": {
+        "official": "Persemakmuran Puerto Riko",
+        "common": "Puerto Riko"
+      },
       "ita": {
         "official": "Commonwealth di Porto Rico",
         "common": "Porto Rico"
@@ -39280,6 +40008,10 @@
         "official": "Koreai N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "\u00c9szak-Korea"
       },
+      "ind": {
+        "official": "Republik Rakyat Demokratik Korea",
+        "common": "Korea Utara"
+      },
       "ita": {
         "official": "Repubblica democratica popolare di Corea",
         "common": "Corea del Nord"
@@ -39490,6 +40222,10 @@
       "hun": {
         "official": "Portug\u00e1l K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Portug\u00e1lia"
+      },
+      "ind": {
+        "official": "Republik Portugal",
+        "common": "Portugal"
       },
       "ita": {
         "official": "Repubblica portoghese",
@@ -39706,6 +40442,10 @@
       },
       "hun": {
         "official": "Paraguayi K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Paraguay"
+      },
+      "ind": {
+        "official": "Republik Paraguay",
         "common": "Paraguay"
       },
       "ita": {
@@ -39931,6 +40671,10 @@
         "official": "Palesztin Auton\u00f3mia",
         "common": "Palesztina"
       },
+      "ind": {
+        "official": "Negara Palestina",
+        "common": "Palestina"
+      },
       "ita": {
         "official": "Stato di Palestina",
         "common": "Palestina"
@@ -40144,6 +40888,10 @@
         "official": "Francia Polin\u00e9zia",
         "common": "Francia Polin\u00e9zia"
       },
+      "ind": {
+        "official": "Polinesia Prancis",
+        "common": "Polinesia Prancis"
+      },
       "ita": {
         "official": "Polinesia Francese",
         "common": "Polinesia Francese"
@@ -40353,6 +41101,10 @@
         "official": "Katari \u00c1llam",
         "common": "Katar"
       },
+      "ind": {
+        "official": "Negara Qatar",
+        "common": "Qatar"
+      },
       "ita": {
         "official": "Stato del Qatar",
         "common": "Qatar"
@@ -40557,6 +41309,10 @@
         "common": "R\u00e9union"
       },
       "hun": {
+        "official": "R\u00e9union",
+        "common": "R\u00e9union"
+      },
+      "ind": {
         "official": "R\u00e9union",
         "common": "R\u00e9union"
       },
@@ -40766,6 +41522,10 @@
       "hun": {
         "official": "Rom\u00e1nia",
         "common": "Rom\u00e1nia"
+      },
+      "ind": {
+        "official": "Rumania",
+        "common": "Rumania"
       },
       "ita": {
         "official": "Romania",
@@ -40987,6 +41747,10 @@
       "hun": {
         "official": "Oroszorsz\u00e1gi F\u00f6der\u00e1ci\u00f3",
         "common": "Oroszorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Federasi Rusia",
+        "common": "Rusia"
       },
       "ita": {
         "official": "Federazione russa",
@@ -41230,6 +41994,10 @@
         "official": "Ruandai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Ruanda"
       },
+      "ind": {
+        "official": "Republik Rwanda",
+        "common": "Rwanda"
+      },
       "ita": {
         "official": "Repubblica del Ruanda",
         "common": "Ruanda"
@@ -41444,6 +42212,10 @@
       "hun": {
         "official": "Sza\u00fad-Ar\u00e1bia",
         "common": "Sza\u00fad-Ar\u00e1bia"
+      },
+      "ind": {
+        "official": "Kerajaan Arab Saudi",
+        "common": "Arab Saudi"
       },
       "ita": {
         "official": "Arabia Saudita",
@@ -41664,6 +42436,10 @@
         "official": "Szud\u00e1ni K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szud\u00e1n"
       },
+      "ind": {
+        "official": "Republik Sudan",
+        "common": "Sudan"
+      },
       "ita": {
         "official": "Repubblica del Sudan",
         "common": "Sudan"
@@ -41879,6 +42655,10 @@
       "hun": {
         "official": "Szeneg\u00e1li K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szeneg\u00e1l"
+      },
+      "ind": {
+        "official": "Republik Senegal",
+        "common": "Senegal"
       },
       "ita": {
         "official": "Repubblica del Senegal",
@@ -42112,6 +42892,10 @@
         "official": "Szingap\u00fari K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szingap\u00far"
       },
+      "ind": {
+        "official": "Republik Singapura",
+        "common": "Singapura"
+      },
       "ita": {
         "official": "Repubblica di Singapore",
         "common": "Singapore"
@@ -42312,6 +43096,10 @@
       "hun": {
         "official": "D\u00e9li-Georgia \u00e9s D\u00e9li-Sandwich-szigetek",
         "common": "D\u00e9li-Georgia \u00e9s D\u00e9li-Sandwich-szigetek"
+      },
+      "ind": {
+        "official": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+        "common": "Georgia Selatan dan Kepulauan Sandwich Selatan"
       },
       "ita": {
         "official": "Georgia del Sud e isole Sandwich del Sud",
@@ -42518,6 +43306,10 @@
         "official": "Svalbard \u00e9s Jan Mayen",
         "common": "Svalbard \u00e9s Jan Mayen"
       },
+      "ind": {
+        "official": "Svalbard dan Jan Mayen",
+        "common": "Svalbard dan Jan Mayen"
+      },
       "ita": {
         "official": "Svalbard og Jan Mayen",
         "common": "Svalbard e Jan Mayen"
@@ -42721,6 +43513,10 @@
       "hun": {
         "official": "Salamon-szigetek",
         "common": "Salamon-szigetek"
+      },
+      "ind": {
+        "official": "Kepulauan Solomon",
+        "common": "Kepulauan Solomon"
       },
       "ita": {
         "official": "Isole Salomone",
@@ -42927,6 +43723,10 @@
       },
       "hun": {
         "official": "Sierra Leone K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Sierra Leone"
+      },
+      "ind": {
+        "official": "Republik Sierra Leone",
         "common": "Sierra Leone"
       },
       "ita": {
@@ -43140,6 +43940,10 @@
         "official": "Salvadori K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Salvador"
       },
+      "ind": {
+        "official": "Republik El Salvador",
+        "common": "El Salvador"
+      },
       "ita": {
         "official": "Repubblica di El Salvador",
         "common": "El Salvador"
@@ -43349,6 +44153,10 @@
       },
       "hun": {
         "official": "San Marino K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "San Marino"
+      },
+      "ind": {
+        "official": "Republik San Marino",
         "common": "San Marino"
       },
       "ita": {
@@ -43566,6 +44374,10 @@
         "official": "Szom\u00e1li Sz\u00f6vets\u00e9gi K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szom\u00e1lia"
       },
+      "ind": {
+        "official": "Republik Federal Somalia",
+        "common": "Somalia"
+      },
       "ita": {
         "official": "Repubblica federale di Somalia",
         "common": "Somalia"
@@ -43777,6 +44589,10 @@
         "official": "Saint-Pierre \u00e9s Miquelon",
         "common": "Saint-Pierre \u00e9s Miquelon"
       },
+      "ind": {
+        "official": "Wilayah Jajahan Saint Pierre dan Miquelon",
+        "common": "Saint Pierre dan Miquelon"
+      },
       "ita": {
         "official": "Saint Pierre e Miquelon",
         "common": "Saint-Pierre e Miquelon"
@@ -43985,6 +44801,10 @@
       "hun": {
         "official": "Szerb K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szerbia"
+      },
+      "ind": {
+        "official": "Republik Serbia",
+        "common": "Serbia"
       },
       "ita": {
         "official": "Repubblica di Serbia",
@@ -44200,6 +45020,10 @@
       "hun": {
         "official": "D\u00e9l-szud\u00e1ni K\u00f6zt\u00e1rsas\u00e1g",
         "common": "D\u00e9l-Szud\u00e1n"
+      },
+      "ind": {
+        "official": "Republik Sudan Selatan",
+        "common": "Sudan Selatan"
       },
       "ita": {
         "official": "Repubblica del Sudan del Sud",
@@ -44417,6 +45241,10 @@
         "official": "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
       },
+      "ind": {
+        "official": "Republik Demokratik Sao Tome dan Principe",
+        "common": "Sao Tome dan Principe"
+      },
       "ita": {
         "official": "Repubblica democratica di S\u00e3o Tom\u00e9 e Pr\u00edncipe",
         "common": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
@@ -44625,6 +45453,10 @@
       },
       "hun": {
         "official": "Suriname K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Suriname"
+      },
+      "ind": {
+        "official": "Republik Suriname",
         "common": "Suriname"
       },
       "ita": {
@@ -44838,6 +45670,10 @@
       "hun": {
         "official": "Szlov\u00e1k K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szlov\u00e1kia"
+      },
+      "ind": {
+        "official": "Republik Slowakia",
+        "common": "Slowakia"
       },
       "ita": {
         "official": "Repubblica slovacca",
@@ -45053,6 +45889,10 @@
         "official": "Szlov\u00e9n K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Szlov\u00e9nia"
       },
+      "ind": {
+        "official": "Republik Slovenia",
+        "common": "Slovenia"
+      },
       "ita": {
         "official": "Repubblica di Slovenia",
         "common": "Slovenia"
@@ -45265,6 +46105,10 @@
       "hun": {
         "official": "Sv\u00e9d Kir\u00e1lys\u00e1g",
         "common": "Sv\u00e9dorsz\u00e1g"
+      },
+      "ind": {
+        "official": "Kerajaan Swedia",
+        "common": "Swedia"
       },
       "ita": {
         "official": "Regno di Svezia",
@@ -45490,6 +46334,10 @@
         "official": "Szv\u00e1zif\u00f6ldi Kir\u00e1lys\u00e1g",
         "common": "Szv\u00e1zif\u00f6ld"
       },
+      "ind": {
+        "official": "Kerajaan Eswatini",
+        "common": "Eswatini"
+      },
       "ita": {
         "official": "Regno di eSwatini",
         "common": "Swaziland"
@@ -45707,6 +46555,10 @@
         "common": "Sveti Martin"
       },
       "hun": {
+        "official": "Sint Maarten",
+        "common": "Sint Maarten"
+      },
+      "ind": {
         "official": "Sint Maarten",
         "common": "Sint Maarten"
       },
@@ -45929,6 +46781,10 @@
         "official": "Seychelle K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Seychelle-szigetek"
       },
+      "ind": {
+        "official": "Republik Seychelles",
+        "common": "Seychelles"
+      },
       "ita": {
         "official": "Repubblica delle Seychelles",
         "common": "Seychelles"
@@ -46137,6 +46993,10 @@
       "hun": {
         "official": "Sz\u00edriai Arab K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Sz\u00edria"
+      },
+      "ind": {
+        "official": "Republik Arab Suriah",
+        "common": "Suriah"
       },
       "ita": {
         "official": "Repubblica araba siriana",
@@ -46350,6 +47210,10 @@
         "official": "Turks- \u00e9s Caicos-szigetek",
         "common": "Turks- \u00e9s Caicos-szigetek"
       },
+      "ind": {
+        "official": "Kepulauan Turks dan Caicos",
+        "common": "Kepulauan Turks dan Caicos"
+      },
       "ita": {
         "official": "Turks e Caicos",
         "common": "Isole Turks e Caicos"
@@ -46561,6 +47425,10 @@
       "hun": {
         "official": "Cs\u00e1d K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Cs\u00e1d"
+      },
+      "ind": {
+        "official": "Republik Chad",
+        "common": "Chad"
       },
       "ita": {
         "official": "Repubblica del Ciad",
@@ -46779,6 +47647,10 @@
         "official": "Tog\u00f3i K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Togo"
       },
+      "ind": {
+        "official": "Republik Togo",
+        "common": "Togo"
+      },
       "ita": {
         "official": "Repubblica del Togo",
         "common": "Togo"
@@ -46994,6 +47866,10 @@
       "hun": {
         "official": "Thaif\u00f6ldi Kir\u00e1lys\u00e1g",
         "common": "Thaif\u00f6ld"
+      },
+      "ind": {
+        "official": "Kerajaan Thailand",
+        "common": "Thailand"
       },
       "ita": {
         "official": "Regno di Thailandia",
@@ -47214,6 +48090,10 @@
       "hun": {
         "official": "T\u00e1dzsik K\u00f6zt\u00e1rsas\u00e1g",
         "common": "T\u00e1dzsikiszt\u00e1n"
+      },
+      "ind": {
+        "official": "Republik Tajikistan",
+        "common": "Tajikistan"
       },
       "ita": {
         "official": "Repubblica del Tajikistan",
@@ -47436,6 +48316,10 @@
         "official": "Tokelau-szigetek",
         "common": "Tokelau-szigetek"
       },
+      "ind": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      },
       "ita": {
         "official": "Tokelau",
         "common": "Isole Tokelau"
@@ -47644,6 +48528,10 @@
       "hun": {
         "official": "T\u00fcrkm\u00e9n K\u00f6zt\u00e1rsas\u00e1g",
         "common": "T\u00fcrkmeniszt\u00e1n"
+      },
+      "ind": {
+        "official": "Turkmenistan",
+        "common": "Turkmenistan"
       },
       "ita": {
         "official": "Turkmenistan",
@@ -47867,6 +48755,10 @@
         "official": "Kelet-timori Demokratikus K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Kelet-Timor"
       },
+      "ind": {
+        "official": "Republik Demokratik Timor-Leste",
+        "common": "Timor-Leste"
+      },
       "ita": {
         "official": "Repubblica Democratica di Timor Est",
         "common": "Timor Est"
@@ -48080,6 +48972,10 @@
         "official": "Tongai Kir\u00e1lys\u00e1g",
         "common": "Tonga"
       },
+      "ind": {
+        "official": "Kerajaan Tonga",
+        "common": "Tonga"
+      },
       "ita": {
         "official": "Regno di Tonga",
         "common": "Tonga"
@@ -48286,6 +49182,10 @@
       "hun": {
         "official": "Trinidad \u00e9s Tobago K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Trinidad \u00e9s Tobago"
+      },
+      "ind": {
+        "official": "Republik Trinidad dan Tobago",
+        "common": "Trinidad dan Tobago"
       },
       "ita": {
         "official": "Repubblica di Trinidad e Tobago",
@@ -48494,6 +49394,10 @@
       "hun": {
         "official": "Tun\u00e9ziai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Tun\u00e9zia"
+      },
+      "ind": {
+        "official": "Republik Tunisia",
+        "common": "Tunisia"
       },
       "ita": {
         "official": "Repubblica tunisina",
@@ -48707,6 +49611,10 @@
       "hun": {
         "official": "T\u00f6r\u00f6k K\u00f6zt\u00e1rsas\u00e1g",
         "common": "T\u00f6r\u00f6korsz\u00e1g"
+      },
+      "ind": {
+        "official": "Republik Turki",
+        "common": "Turki"
       },
       "ita": {
         "official": "Repubblica di Turchia",
@@ -48932,6 +49840,10 @@
         "official": "Tuvalu",
         "common": "Tuvalu"
       },
+      "ind": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
       "ita": {
         "official": "Tuvalu",
         "common": "Tuvalu"
@@ -49145,6 +50057,10 @@
         "official": "K\u00ednai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Tajvan"
       },
+      "ind": {
+        "official": "Republik Tiongkok",
+        "common": "Taiwan"
+      },
       "ita": {
         "official": "Repubblica cinese (Taiwan)",
         "common": "Taiwan"
@@ -49352,6 +50268,10 @@
       "hun": {
         "official": "T\u00e1dzsik K\u00f6zt\u00e1rsas\u00e1g",
         "common": "T\u00e1dzsikiszt\u00e1n"
+      },
+      "ind": {
+        "official": "Republik Persatuan Tanzania",
+        "common": "Tanzania"
       },
       "ita": {
         "official": "Repubblica Unita di Tanzania",
@@ -49575,6 +50495,10 @@
         "official": "Ugandai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Uganda"
       },
+      "ind": {
+        "official": "Republik Uganda",
+        "common": "Uganda"
+      },
       "ita": {
         "official": "Repubblica di Uganda",
         "common": "Uganda"
@@ -49789,6 +50713,10 @@
         "official": "Ukrajna",
         "common": "Ukrajna"
       },
+      "ind": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
       "ita": {
         "official": "Ucraina",
         "common": "Ucraina"
@@ -50000,6 +50928,10 @@
         "official": "Az Amerikai Egyes\u00fclt \u00c1llamok lakatlan k\u00fclbirtokai",
         "common": "Az Amerikai Egyes\u00fclt \u00c1llamok lakatlan k\u00fclbirtokai"
       },
+      "ind": {
+        "official": "Kepulauan Terluar Kecil Amerika Serikat",
+        "common": "Kepulauan Terluar Kecil Amerika Serikat"
+      },
       "ita": {
         "official": "Stati Uniti Isole Minori",
         "common": "Isole minori esterne degli Stati Uniti d'America"
@@ -50206,6 +51138,10 @@
       },
       "hun": {
         "official": "Uruguayi Keleti K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Uruguay"
+      },
+      "ind": {
+        "official": "Republik Oriental Uruguay",
         "common": "Uruguay"
       },
       "ita": {
@@ -50735,6 +51671,10 @@
         "official": "Amerikai Egyes\u00fclt \u00c1llamok",
         "common": "Amerikai Egyes\u00fclt \u00c1llamok"
       },
+      "ind": {
+        "official": "Amerika Serikat",
+        "common": "Amerika"
+      },
       "ita": {
         "official": "Stati Uniti d'America",
         "common": "Stati Uniti d'America"
@@ -50962,6 +51902,10 @@
         "official": "\u00dczb\u00e9g K\u00f6zt\u00e1rsas\u00e1g",
         "common": "\u00dczbegiszt\u00e1n"
       },
+      "ind": {
+        "official": "Republik Uzbekistan",
+        "common": "Uzbekistan"
+      },
       "ita": {
         "official": "Repubblica di Uzbekistan",
         "common": "Uzbekistan"
@@ -51183,6 +52127,10 @@
         "official": "Vatik\u00e1n \u00c1llam",
         "common": "Vatik\u00e1n"
       },
+      "ind": {
+        "official": "Negara Kota Vatikan",
+        "common": "Vatikan"
+      },
       "ita": {
         "official": "Citt\u00e0 del Vaticano",
         "common": "Citt\u00e0 del Vaticano"
@@ -51389,6 +52337,10 @@
         "official": "Saint Vincent \u00e9s a Grenadine-szigetek",
         "common": "Saint Vincent \u00e9s a Grenadine-szigetek"
       },
+      "ind": {
+        "official": "Saint Vincent dan Grenadines",
+        "common": "Saint Vincent dan Grenadines"
+      },
       "ita": {
         "official": "Saint Vincent e Grenadine",
         "common": "Saint Vincent e Grenadine"
@@ -51594,6 +52546,10 @@
       },
       "hun": {
         "official": "Venezuelai Boliv\u00e1ri K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Venezuela"
+      },
+      "ind": {
+        "official": "Republik Bolivar Venezuela",
         "common": "Venezuela"
       },
       "ita": {
@@ -51807,6 +52763,10 @@
         "official": "Brit Virgin-szigetek",
         "common": "Brit Virgin-szigetek"
       },
+      "ind": {
+        "official": "Kepulauan Virgin Britania Raya",
+        "common": "Kepulauan Virgin Britania Raya"
+      },
       "ita": {
         "official": "Isole Vergini",
         "common": "Isole Vergini Britanniche"
@@ -52011,6 +52971,10 @@
       "hun": {
         "official": "Amerikai Virgin-szigetek",
         "common": "Amerikai Virgin-szigetek"
+      },
+      "ind": {
+        "official": "Kepulauan Virgin Amerika Serikat",
+        "common": "Kepulauan Virgin Amerika Serikat"
       },
       "ita": {
         "official": "Isole Vergini degli Stati Uniti",
@@ -52218,6 +53182,10 @@
       "hun": {
         "official": "Vietn\u00e1mi Szocialista K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Vietn\u00e1m"
+      },
+      "ind": {
+        "official": "Republik Sosialis Vietnam",
+        "common": "Vietnam"
       },
       "ita": {
         "official": "Repubblica socialista del Vietnam",
@@ -52442,6 +53410,10 @@
         "official": "Vanuatui K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Vanuatu"
       },
+      "ind": {
+        "official": "Republik Vanuatu",
+        "common": "Vanuatu"
+      },
       "ita": {
         "official": "Repubblica di Vanuatu",
         "common": "Vanuatu"
@@ -52649,6 +53621,10 @@
       "hun": {
         "official": "Wallis \u00e9s Futuna",
         "common": "Wallis \u00e9s Futuna"
+      },
+      "ind": {
+        "official": "Wilayah Kepulauan Wallis dan Futuna",
+        "common": "Wallis dan Futuna"
       },
       "ita": {
         "official": "Territorio delle Isole Wallis e Futuna",
@@ -52861,6 +53837,10 @@
         "official": "Szamoai F\u00fcggetlen \u00c1llam",
         "common": "Szamoa"
       },
+      "ind": {
+        "official": "Negara Merdeka Samoa",
+        "common": "Samoa"
+      },
       "ita": {
         "official": "Stato indipendente di Samoa",
         "common": "Samoa"
@@ -53068,6 +54048,10 @@
       "hun": {
         "official": "Jemeni K\u00f6zt\u00e1rsas\u00e1g",
         "common": "Jemen"
+      },
+      "ind": {
+        "official": "Republik Yaman",
+        "common": "Yaman"
       },
       "ita": {
         "official": "Repubblica dello Yemen",
@@ -53333,6 +54317,10 @@
         "official": "D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1g",
         "common": "D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1g"
       },
+      "ind": {
+        "official": "Republik Afrika Selatan",
+        "common": "Afrika Selatan"
+      },
       "ita": {
         "official": "Repubblica del Sud Africa",
         "common": "Sud Africa"
@@ -53545,6 +54533,10 @@
       },
       "hun": {
         "official": "Zambiai K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Zambia"
+      },
+      "ind": {
+        "official": "Republik Zambia",
         "common": "Zambia"
       },
       "ita": {
@@ -53831,6 +54823,10 @@
       },
       "hun": {
         "official": "Zimbabwei K\u00f6zt\u00e1rsas\u00e1g",
+        "common": "Zimbabwe"
+      },
+      "ind": {
+        "official": "Republik Zimbabwe",
         "common": "Zimbabwe"
       },
       "ita": {
