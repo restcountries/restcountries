@@ -42240,8 +42240,8 @@
     "status": "officially-assigned",
     "unMember": false,
     "currencies": {
-      "SHP": {
-        "name": "Saint Helena pound",
+      "GBP": {
+        "name": "British pound",
         "symbol": "\u00a3"
       }
     },
