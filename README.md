@@ -210,6 +210,7 @@ https://restcountries.com/v3.1/all?fields=name,capital,currencies
 [REST Countries Ruby]: https://github.com/davidesantangelo/restcountry
 [REST Countries Go]: https://github.com/alediaferia/gocountries
 [REST Countries Python]: https://github.com/SteinRobert/python-restcountries
+[REST Countries PHP]: https://github.com/hamedhaghi/countries-client
 [Countries of the world]: http://countries.petethompson.net
 [REST Countries]: https://github.com/apilayer/restcountries
 [Original Project]: https://github.com/apilayer/restcountries/
