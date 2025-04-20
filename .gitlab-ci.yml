@@ -1,0 +1,58 @@
+variables:
+  MAVEN_OPTS: "-Dhttps.protocols=TLSv1.2 -Dmaven.repo.local=$CI_PROJECT_DIR/.m2/repository -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN -Dorg.slf4j.simpleLogger.showDateTime=true -Djava.awt.headless=true"
+  MAVEN_CLI_OPTS: "--batch-mode --errors --fail-at-end --show-version -DinstallAtEnd=true -DdeployAtEnd=true"
+
+image: eclipse-temurin:17.0.10_7-jdk-alpine
+
+stages:
+    - package
+    - release
+    - run
+
+maven-package:
+    stage: package
+    script:
+        - ./mvnw clean install -Dmaven.repo.local=$MAVEN_USER_HOME
+    artifacts:
+        paths:
+            - target/*.jar
+        expire_in: 1 day
+
+docker-push:
+    only:
+        - master
+    image: docker:latest
+    services:
+        - docker:dind
+    variables:
+        REGISTRY_URL: registry.gitlab.com
+        DOCKER_HOST: tcp://docker:2375
+        DOCKER_DRIVER: overlay2
+        IMAGE_TAG: $CI_REGISTRY_IMAGE:master
+    stage: release
+    dependencies:
+        - maven-package
+    before_script:
+        - docker info
+        - cp target/*.jar .
+    script:
+        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+        - docker build -t $IMAGE_TAG .
+        - docker push $IMAGE_TAG
+
+docker-run:
+    only:
+        - master
+    stage: run
+    before_script:
+        - apk add openssh-client
+        - mkdir -p ~/.ssh
+        - echo "$PRIVATE_VEY" | tr -d '\r' > ~/.ssh/id_rsa
+        - chmod 700 ~/.ssh/id_rsa
+        - eval "$(ssh-agent -s)"
+        - ssh-add ~/.ssh/id_rsa
+        - ssh-keyscan -H $DEPLOYMENT_SERVER_IP >> ~/.ssh/known_hosts
+    dependencies:
+        - docker-push     
+    script:
+        - ssh root@$DEPLOYMENT_SERVER_IP "./restart"
