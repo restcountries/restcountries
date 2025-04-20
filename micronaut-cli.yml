@@ -1,6 +1,6 @@
 applicationType: default
-defaultPackage: dev.amatos.restcountries
+defaultPackage: com.restcountries
 testFramework: junit
 sourceLanguage: java
 buildTool: maven
-features: [app-name, docker, file-watch, http-client, java, java-application, junit, logback, maven, netty-server, readme, shade, yaml]
+features: [app-name, http-client, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, properties, readme, serialization-jackson, shade, static-resources, validation]
