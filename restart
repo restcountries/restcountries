@@ -1,0 +1,5 @@
+#!/bin/bash
+mvn clean install
+docker build -t registry.gitlab.com/amatos/rest-countries:master .
+docker push registry.gitlab.com/amatos/rest-countries:master
+ssh root@restcountries.com "./restart"
