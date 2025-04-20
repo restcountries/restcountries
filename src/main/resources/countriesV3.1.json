@@ -42856,8 +42856,8 @@
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "SLL": {
-        "name": "Sierra Leonean leone",
+      "SLE": {
+        "name": "Leone",
         "symbol": "Le"
       }
     },
