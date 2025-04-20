@@ -51,6 +51,7 @@ docker-run:
         - chmod 700 ~/.ssh/id_rsa
         - eval "$(ssh-agent -s)"
         - ssh-add ~/.ssh/id_rsa
+        - ssh-keygen -R $DEPLOYMENT_SERVER_IP
         - ssh-keyscan -H $DEPLOYMENT_SERVER_IP >> ~/.ssh/known_hosts
     dependencies:
         - docker-push     
