@@ -4,6 +4,6 @@ COPY . .
 RUN mvn --batch-mode package
 
 FROM openjdk:17-alpine
-COPY --from=build target/com.restcountries-*.jar com.restcountries.jar
+COPY --from=build target/restcountries-*.jar restcountries.jar
 EXPOSE 8080
-CMD ["java", "-Dcom.sun.management.jmxremote", "-Xmx128m", "-jar", "com.restcountries.jar"]
+CMD ["java", "-Dcom.sun.management.jmxremote", "-Xmx128m", "-jar", "restcountries.jar"]
