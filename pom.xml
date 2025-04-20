@@ -1,45 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>dev.amatos.restcountries</groupId>
-  <artifactId>dev.amatos.restcountries</artifactId>
-  <version>1</version>
+  <groupId>com.restcountries</groupId>
+  <artifactId>restcountries</artifactId>
+  <version>2025.04.20</version>
+  <packaging>${packaging}</packaging>
 
   <parent>
-    <groupId>io.micronaut</groupId>
+    <groupId>io.micronaut.platform</groupId>
     <artifactId>micronaut-parent</artifactId>
-    <version>2.0.1</version>
+    <version>4.7.6</version>
   </parent>
-
   <properties>
+    <packaging>jar</packaging>
     <jdk.version>17</jdk.version>
-    <!-- If you are building with JDK 9 or higher, you can uncomment the lines below to set the release version -->
     <release.version>17</release.version>
-    <micronaut.version>2.0.1</micronaut.version>
-    <micronautopenapi.version>2.0.0</micronautopenapi.version>
-    <exec.mainClass>dev.amatos.restcountries.Application</exec.mainClass>
-    <java.version>17</java.version>
+    <micronaut.version>4.7.6</micronaut.version>
+    <micronaut.runtime>netty</micronaut.runtime>
+    <micronaut.aot.enabled>false</micronaut.aot.enabled>
+    <micronaut.aot.packageName>com.restcountries.aot.generated</micronaut.aot.packageName>
+    <exec.mainClass>com.restcountries.Application</exec.mainClass>
   </properties>
 
   <repositories>
     <repository>
-      <id>jcenter.bintray.com</id>
-      <url>https://jcenter.bintray.com</url>
+      <id>central</id>
+      <url>https://repo.maven.apache.org/maven2</url>
     </repository>
   </repositories>
-
 
   <dependencies>
     <dependency>
       <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-inject</artifactId>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-validation</artifactId>
+      <artifactId>micronaut-http-client</artifactId>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -48,19 +42,29 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-http-client</artifactId>
+      <groupId>io.micronaut.serde</groupId>
+      <artifactId>micronaut-serde-jackson</artifactId>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-runtime</artifactId>
+      <groupId>io.micronaut.validation</groupId>
+      <artifactId>micronaut-validation</artifactId>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>jakarta.validation</groupId>
+      <artifactId>jakarta.validation-api</artifactId>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
       <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.micronaut.test</groupId>
+      <artifactId>micronaut-test-junit5</artifactId>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
@@ -73,23 +77,13 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>io.micronaut.test</groupId>
-      <artifactId>micronaut-test-junit5</artifactId>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-management</artifactId>
-    </dependency>
-    <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
-      <version>2.9.0</version>
+      <version>2.10.1</version>
     </dependency>
     <dependency>
-      <groupId>org.apache.logging.log4j</groupId>
-      <artifactId>log4j-core</artifactId>
-      <version>2.17.2</version>
+      <groupId>io.swagger.core.v3</groupId>
+      <artifactId>swagger-annotations</artifactId>
     </dependency>
     <dependency>
       <groupId>org.jboss.spec.javax.ws.rs</groupId>
@@ -97,87 +91,77 @@
       <version>1.0.1.Final</version>
     </dependency>
     <dependency>
-      <groupId>org.glassfish.jersey.core</groupId>
-      <artifactId>jersey-common</artifactId>
-      <version>3.0.4</version>
+      <groupId>jakarta.ws.rs</groupId>
+      <artifactId>jakarta.ws.rs-api</artifactId>
+      <version>4.0.0</version>
     </dependency>
     <dependency>
-      <groupId>org.jboss.resteasy</groupId>
-      <artifactId>resteasy-client</artifactId>
-      <version>6.0.1.Final</version>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.17.2</version>
     </dependency>
     <dependency>
-      <groupId>io.swagger.core.v3</groupId>
-      <artifactId>swagger-annotations</artifactId>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
-
   <build>
     <plugins>
       <plugin>
-        <groupId>io.micronaut.build</groupId>
+        <groupId>io.micronaut.maven</groupId>
         <artifactId>micronaut-maven-plugin</artifactId>
+        <configuration>
+          <configFile>aot-${packaging}.properties</configFile>
+        </configuration>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-shade-plugin</artifactId>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-failsafe-plugin</artifactId>
+        <artifactId>maven-enforcer-plugin</artifactId>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.8.1</version>
         <configuration>
-          <annotationProcessorPaths>
+          <!-- Uncomment to enable incremental compilation -->
+          <!-- <useIncrementalCompilation>false</useIncrementalCompilation> -->
+
+          <annotationProcessorPaths combine.children="append">
             <path>
               <groupId>io.micronaut</groupId>
-              <artifactId>micronaut-inject-java</artifactId>
-              <version>${micronaut.version}</version>
+              <artifactId>micronaut-http-validation</artifactId>
+              <version>${micronaut.core.version}</version>
             </path>
             <path>
-              <groupId>io.micronaut</groupId>
-              <artifactId>micronaut-validation</artifactId>
-              <version>${micronaut.version}</version>
+              <groupId>io.micronaut.serde</groupId>
+              <artifactId>micronaut-serde-processor</artifactId>
+              <version>${micronaut.serialization.version}</version>
+              <exclusions>
+                <exclusion>
+                  <groupId>io.micronaut</groupId>
+                  <artifactId>micronaut-inject</artifactId>
+                </exclusion>
+              </exclusions>
             </path>
             <path>
-              <groupId>io.micronaut.openapi</groupId>
-              <artifactId>micronaut-openapi</artifactId>
-              <version>${micronautopenapi.version}</version>
+              <groupId>io.micronaut.validation</groupId>
+              <artifactId>micronaut-validation-processor</artifactId>
+              <version>${micronaut.validation.version}</version>
+              <exclusions>
+                <exclusion>
+                  <groupId>io.micronaut</groupId>
+                  <artifactId>micronaut-inject</artifactId>
+                </exclusion>
+              </exclusions>
             </path>
           </annotationProcessorPaths>
           <compilerArgs>
-            <arg>-Amicronaut.processing.group=dev.amatos.restcountries</arg>
-            <arg>-Amicronaut.processing.module=dev.amatos.restcountries</arg>
+            <arg>-Amicronaut.processing.group=com.restcountries</arg>
+            <arg>-Amicronaut.processing.module=restcountries</arg>
           </compilerArgs>
         </configuration>
-        <executions>
-          <execution>
-            <id>test-compile</id>
-            <goals>
-              <goal>testCompile</goal>
-            </goals>
-            <configuration>
-              <annotationProcessorPaths>
-                <path>
-                  <groupId>io.micronaut</groupId>
-                  <artifactId>micronaut-inject-java</artifactId>
-                  <version>${micronaut.version}</version>
-                </path>
-                <path>
-                  <groupId>io.micronaut</groupId>
-                  <artifactId>micronaut-validation</artifactId>
-                  <version>${micronaut.version}</version>
-                </path>
-              </annotationProcessorPaths>
-            </configuration>
-          </execution>
-        </executions>
       </plugin>
     </plugins>
   </build>
-
 
 </project>
