@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.restcountries</groupId>
   <artifactId>restcountries</artifactId>
-  <version>0.1</version>
+  <version>2025.04.20</version>
   <packaging>${packaging}</packaging>
 
   <parent>
