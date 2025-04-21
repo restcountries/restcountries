@@ -7375,7 +7375,7 @@
       "format": "#####-###",
       "regex": "^(\\d{8})$"
     },
-    "startOfWeek": "monday",
+    "startOfWeek": "sunday",
     "timezones": [
       "UTC-05:00",
       "UTC-04:00",
@@ -47040,10 +47040,10 @@
         "official": "Rep\u00fablica \u00c1rabe Siria",
         "common": "Siria"
       },
-			"srp": {
-				"official": "\u0421\u0438\u0440\u0438\u0458\u0441\u043A\u0430 \u0410\u0440\u0430\u043F\u0441\u043A\u0430 \u0420\u0435\u043F\u0443\u0431\u043B\u0438\u043A\u0430",
-				"common": "\u0421\u0438\u0440\u0438\u0458\u0430"
-			},
+      "srp": {
+          "official": "\u0421\u0438\u0440\u0438\u0458\u0441\u043A\u0430 \u0410\u0440\u0430\u043F\u0441\u043A\u0430 \u0420\u0435\u043F\u0443\u0431\u043B\u0438\u043A\u0430",
+          "common": "\u0421\u0438\u0440\u0438\u0458\u0430"
+      },
       "swe": {
         "official": "Syriska arabiska republiken",
         "common": "Syrien"
