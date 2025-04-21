@@ -3,6 +3,9 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 package com.restcountries.domain;
 
+import io.micronaut.serde.annotation.Serdeable;
+
+@Serdeable.Serializable
 public class ResponseEntity {
 	
 	private final int status;
