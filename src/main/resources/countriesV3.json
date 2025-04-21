@@ -23613,7 +23613,7 @@
 		"cca3": "UNK",
 		"cioc": "KOS",
 		"fifa": "KVX",
-		"independent": null,
+		"independent": true,
 		"status": "user-assigned",
 		"unMember": false,
 		"currencies": {
