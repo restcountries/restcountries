@@ -2393,7 +2393,7 @@
     "independent": false,
     "status": "officially-assigned",
     "unMember": false,
-    "currencies": [],
+    "currencies": {},
     "idd": {
       "root": "",
       "suffixes": []
@@ -8048,7 +8048,7 @@
     "independent": false,
     "status": "officially-assigned",
     "unMember": false,
-    "currencies": [],
+    "currencies": {},
     "idd": {
       "root": "+4",
       "suffixes": [
@@ -12409,8 +12409,7 @@
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cx.svg",
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cx.png",
-      "alt": ""
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cx.png"
     },
     "population": 2072,
     "maps": {
@@ -20059,8 +20058,7 @@
     },
     "coatOfArms": {
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg",
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
-      "alt": ""
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png"
     },
     "population": 112519,
     "maps": {
@@ -21392,7 +21390,7 @@
     "independent": false,
     "status": "officially-assigned",
     "unMember": false,
-    "currencies": [],
+    "currencies": {},
     "idd": {
       "root": "",
       "suffixes": []

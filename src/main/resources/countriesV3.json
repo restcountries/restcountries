@@ -2085,7 +2085,7 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [],
+		"currencies": {},
 		"idd": {
 			"root": "",
 			"suffixes": []
@@ -7019,7 +7019,7 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [],
+		"currencies": {},
 		"idd": {
 			"root": "+4",
 			"suffixes": [
@@ -18653,7 +18653,7 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"unMember": false,
-		"currencies": [],
+		"currencies": {},
 		"idd": {
 			"root": "",
 			"suffixes": []
