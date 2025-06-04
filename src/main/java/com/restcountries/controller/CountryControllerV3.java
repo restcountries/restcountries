@@ -18,13 +18,6 @@ public class CountryControllerV3 extends ControllerV3Helper {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public HttpResponse<Object> getAllCountries(@QueryValue("fields") Optional<String> fields) {
-    if (fields.isEmpty()) {
-      return ControllerHelper.badAllRequest();
-    }
-    var totalFields = fields.get().split(",").length;
-    if (totalFields > 10) {
-      return ControllerHelper.badAllRequest();
-    }
     var countries = CountryServiceV3.getInstance().getAll();
     return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
   }

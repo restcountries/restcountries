@@ -27,13 +27,6 @@ public class CountryControllerV2 {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-    if (fields.isEmpty()) {
-      return ControllerHelper.badAllRequest();
-    }
-    var totalFields = fields.get().split(",").length;
-    if (totalFields > 10) {
-      return ControllerHelper.badAllRequest();
-    }
     List<Country> countries = CountryServiceV2.getInstance().getAll();
     return checkFieldsAndParseCountries(fields, countries);
   }

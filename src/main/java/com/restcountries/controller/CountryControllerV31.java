@@ -19,13 +19,6 @@ public class CountryControllerV31 extends ControllerV3Helper {
     @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
     @Schema(name = "RestCountries")
     public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-        if (fields.isEmpty()) {
-            return ControllerHelper.badAllRequest();
-        }
-        var totalFields = fields.get().split(",").length;
-        if (totalFields > 10) {
-            return ControllerHelper.badAllRequest();
-        }
         var countries = CountryServiceV31.getInstance().getAll();
         return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
     }
