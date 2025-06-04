@@ -42,10 +42,10 @@ bandwidth consumption (120 GB **per day!**) so costs have obviously increased. *
 making a donation on [Patreon](https://www.patreon.com/amatos)
 or [PayPal](https://www.paypal.me/amatosg/15). This will help me pay the server's bills
 
-# Fields
+# Fields (mandatory)
 
 You can check the [FIELDS.md](https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md) file to get a description for each field (thanks to
-@ePascalC!).
+@ePascalC!). You **must** specify the fields you need (up to 10 fields) when calling the `all` endpoints.
 
 # API Endpoints
 
@@ -79,7 +79,9 @@ https://restcountries.com/v3.1/independent?status=true&fields=languages,capital
 ```
 
 ## All
-
+You **must** specify the fields you need (up to 10 fields) when calling the `all` endpoints,
+otherwise you'll get a `bad request` response. Please see [this issue](https://gitlab.com/restcountries/restcountries/-/issues/265)
+for more information. This applies to all versions.
 ``` html
 https://restcountries.com/v3.1/all
 ```

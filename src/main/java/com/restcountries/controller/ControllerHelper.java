@@ -71,4 +71,13 @@ public class ControllerHelper {
         )
     );
   }
+
+  protected static HttpResponse<Object> badAllRequest() {
+    return HttpResponse.badRequest().body(
+            new ResponseEntity(
+                    Response.Status.BAD_REQUEST.getStatusCode(),
+                    "'fields' query not specified"
+            )
+    );
+  }
 }

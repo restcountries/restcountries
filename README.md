@@ -47,7 +47,9 @@ https://restcountries.com/v3.1/independent?status=true&fields=languages,capital
 ```
 
 ## All
-
+You **must** specify the fields you need (up to 10 fields) when calling the `all` endpoints, 
+otherwise you'll get a `bad request` response. Please see [this issue](https://gitlab.com/restcountries/restcountries/-/issues/265)
+for more information. This applies to all versions.
 ``` html
 https://restcountries.com/v3.1/all
 ```
