@@ -4,6 +4,11 @@ import com.restcountries.domain.ResponseEntity;
 import io.micronaut.http.HttpResponse;
 import jakarta.ws.rs.core.Response;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Optional;
+import java.util.stream.Collectors;
+
 import static com.restcountries.utils.Constants.CACHE_CONTROL_VALUE;
 import static io.micronaut.http.HttpHeaders.CACHE_CONTROL;
 
@@ -79,5 +84,22 @@ public class ControllerHelper {
                     "'fields' query not specified"
             )
     );
+  }
+
+  protected static boolean hasValidFields(Optional<String> fields) {
+    if (fields.isEmpty()) {
+      return true;
+    }
+    var totalFields = Arrays
+            .stream(fields.get().split(","))
+            .toList()
+            .stream()
+            .map(String::trim)
+            .collect(Collectors.toCollection(ArrayList::new));
+    boolean isEmptyOrHasBlank = totalFields.isEmpty() || totalFields.stream().anyMatch(String::isEmpty);
+    if (isEmptyOrHasBlank || totalFields.size() > 10) {
+      return true;
+    }
+    return false;
   }
 }
