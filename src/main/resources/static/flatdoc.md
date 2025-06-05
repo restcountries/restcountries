@@ -260,6 +260,18 @@ https://restcountries.com/v3.1/{service}?fields={field},{field},{field}
 https://restcountries.com/v3.1/all?fields=name,capital,currencies
 ```
 
+## REST Countries Typed API Package
+Yusif Aliyev from Azerbaijan created [an npm package](https://www.npmjs.com/package/@yusifaliyevpro/countries)
+which provides TypeScript support for the REST Countries API. Everyone can use
+the package for their own purpose.
+This package offers full type and autocomplete support for anyone using
+JavaScript or TypeScript. Users no longer need to spend time reading
+documentation or manually writing API URLs and types. You can easily use
+all the package's functionalities by calling its functions.
+He is also open to contributing further improvements.
+
+You can find the code [here](https://github.com/yusifaliyevpro/countries)
+
 ## Similar projects
 
 * [REST Countries] (original project)
