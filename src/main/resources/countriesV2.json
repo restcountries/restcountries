@@ -36,6 +36,12 @@
 		"gini": null,
 		"languages": [
 			{
+    			"iso639_1": "fa",
+    			"iso639_2": "fas",
+    			"name": "Dari Persian",
+    			"nativeName": "\u062f\u0631\u06cc"
+  			},
+			{
 				"iso639_1": "ps",
 				"iso639_2": "pus",
 				"name": "Pashto",
