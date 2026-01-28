@@ -159,7 +159,7 @@ https://restcountries.com/v3.1/currency/{currency}
 https://restcountries.com/v3.1/currency/cop
 ```
 
-### Demonym
+## Demonym
 
 Now you can search by how a citizen is called.
 
