@@ -885,7 +885,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -1314,7 +1314,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -2596,7 +2596,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -3230,7 +3230,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -3900,7 +3900,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -5641,7 +5641,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -12668,7 +12668,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -13106,7 +13106,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -15310,7 +15310,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -15532,7 +15532,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -15972,7 +15972,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -16625,7 +16625,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -18812,7 +18812,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -19679,7 +19679,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -20532,7 +20532,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -21805,7 +21805,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -23343,7 +23343,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -24438,7 +24438,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -27077,7 +27077,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -29239,7 +29239,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -29464,7 +29464,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -29684,7 +29684,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -30113,7 +30113,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -30548,7 +30548,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -32285,7 +32285,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -32717,7 +32717,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -34012,7 +34012,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -34881,7 +34881,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -36640,7 +36640,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -40147,7 +40147,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -41238,7 +41238,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -44080,7 +44080,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -44515,7 +44515,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -45596,7 +45596,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -45814,7 +45814,7 @@
     "unMember": true,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
@@ -52049,7 +52049,7 @@
     "unMember": false,
     "currencies": {
       "EUR": {
-        "name": "Euro",
+        "name": "euro",
         "symbol": "\u20ac"
       }
     },
