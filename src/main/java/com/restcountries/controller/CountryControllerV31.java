@@ -11,12 +11,9 @@ import io.swagger.v3.oas.annotations.media.Schema;
 
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Response;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
-import static com.restcountries.controller.ControllerHelper.hasValidFields;
+import static com.restcountries.controller.ControllerHelper.hasInvalidFields;
 
 @Controller("/v3.1/")
 public class CountryControllerV31 extends ControllerV3Helper {
@@ -24,7 +21,7 @@ public class CountryControllerV31 extends ControllerV3Helper {
     @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
     @Schema(name = "RestCountries")
     public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-        if (hasValidFields(fields)) {
+        if (hasInvalidFields(fields)) {
             return ControllerHelper.badAllRequest();
         }
         var countries = CountryServiceV31.getInstance().getAll();

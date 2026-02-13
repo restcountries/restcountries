@@ -20,9 +20,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
-import static com.restcountries.controller.ControllerHelper.hasValidFields;
+import static com.restcountries.controller.ControllerHelper.hasInvalidFields;
 
 @Hidden
 @Controller("/v2/")
@@ -30,7 +29,7 @@ public class CountryControllerV2 {
 
   @Get(uri = "all", produces = MediaType.APPLICATION_JSON)
   public Object getAllCountries(@QueryValue("fields") Optional<String> fields) {
-    if (hasValidFields(fields)) {
+    if (hasInvalidFields(fields)) {
       return ControllerHelper.badAllRequest();
     }
     List<Country> countries = CountryServiceV2.getInstance().getAll();

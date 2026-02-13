@@ -81,12 +81,12 @@ public class ControllerHelper {
     return HttpResponse.badRequest().body(
             new ResponseEntity(
                     Response.Status.BAD_REQUEST.getStatusCode(),
-                    "'fields' query not specified"
+                    "'fields' query not specified or you're requesting more than 10 fields"
             )
     );
   }
 
-  protected static boolean hasValidFields(Optional<String> fields) {
+  protected static boolean hasInvalidFields(Optional<String> fields) {
     if (fields.isEmpty()) {
       return true;
     }
