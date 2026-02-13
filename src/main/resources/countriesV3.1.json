@@ -40553,8 +40553,8 @@
       "side": "right"
     },
     "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
+      "format": "######",
+      "regex": "^(\\d{6})$"
     },
     "startOfWeek": "monday",
     "timezones": [
