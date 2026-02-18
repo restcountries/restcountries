@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>REST Countries - Get information about countries via a RESTful API</title>
-    <meta name="description" content="Get information about countries via a RESTful API. Access information about 250+ countries including flags, languages, currencies, and more.">
+    <meta name="description"
+          content="Get information about countries via a RESTful API. Access information about 250+ countries including flags, languages, currencies, and more.">
     <meta name="keywords" content="rest,api,countries,world,json">
     <meta name="author" content="Fayder Florez">
-    <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" href="img/favicon.ico"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap"
+          rel="stylesheet">
     <style>
         :root {
             --bg: #fafaf8;
@@ -359,9 +361,12 @@
 <div class="announcement-banner">
     <div class="container">
         <div class="announcement-content">
-            <span class="announcement-badge">V4 Preview</span>
+            <span class="announcement-badge">v4 Preview</span>
             <div class="announcement-text">
-                <strong>RestCountries V4 has been released.</strong> This version is currently in preview and should not be used in production yet. Please report any issues or feature requests through the <a href="https://gitlab.com/restcountries/restcountries/-/issues" style="color: var(--accent); text-decoration: underline;">GitLab issues board</a>.
+                <strong>RestCountries v4 has been released.</strong> This version is currently in preview and should not
+                be used in production yet. Please report any issues or feature requests through the <a
+                    href="https://gitlab.com/restcountries/restcountries/-/issues"
+                    style="color: var(--accent); text-decoration: underline;">GitLab issues board</a>.
             </div>
         </div>
     </div>
@@ -372,7 +377,7 @@
     <div class="container">
         <h1 class="logo">REST Countries</h1>
         <p class="tagline">Get information about countries via a RESTful API</p>
-        <p style="color: var(--subtle); font-size: 0.9rem;">Current version: 3.1 &mdash; V4 in preview</p>
+        <p style="color: var(--subtle); font-size: 0.9rem;">Current version: v3.1 &mdash; v4 in preview</p>
 
         <div class="stats">
             <div class="stat">
@@ -397,25 +402,28 @@
         <h2 class="section-title">Quick Start</h2>
 
         <div class="info-box">
-            <strong>Fields filter:</strong> You <strong>must</strong> specify the fields you need (up to 10 fields) when calling the <code>all</code> endpoint, otherwise you'll get a <code>bad request</code> response. See <a href="https://gitlab.com/restcountries/restcountries/-/issues/265">this issue</a> for more information.
+            <strong>Fields filter:</strong> You <strong>must</strong> specify the fields you need (up to 10 fields) when
+            calling the <code>all</code> endpoint, otherwise you'll get a <code>bad request</code> response. See <a
+                href="https://gitlab.com/restcountries/restcountries/-/issues/265">this issue</a> for more information.
         </div>
 
         <div class="code-block">
             <code><span class="code-comment"># Get all countries (filtered by fields)</span>
-https://restcountries.com/v3.1/all?fields=name,capital,currencies
+                https://restcountries.com/v3.1/all?fields=name,capital,currencies
 
-<span class="code-comment"># Get country by name</span>
-https://restcountries.com/v3.1/name/peru
+                <span class="code-comment"># Get country by name</span>
+                https://restcountries.com/v3.1/name/peru
 
-<span class="code-comment"># Get country by code</span>
-https://restcountries.com/v3.1/alpha/co
+                <span class="code-comment"># Get country by code</span>
+                https://restcountries.com/v3.1/alpha/co
 
-<span class="code-comment"># Filter response fields</span>
-https://restcountries.com/v3.1/{service}?fields={field},{field},{field}</code>
+                <span class="code-comment"># Filter response fields</span>
+                https://restcountries.com/v3.1/{service}?fields={field},{field},{field}</code>
         </div>
 
         <p style="margin-top: 1rem; font-size: 0.9rem; color: var(--subtle);">
-            Check the <a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md" style="color: var(--accent);">FIELDS.md</a> file for a description of each field.
+            Check the <a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md"
+                         style="color: var(--accent);">FIELDS.md</a> file for a description of each field.
         </p>
     </div>
 </section>
@@ -532,13 +540,15 @@ https://restcountries.com/v3.1/{service}?fields={field},{field},{field}</code>
         <h2 class="section-title">Contributing &amp; Donations</h2>
 
         <p style="font-size: 0.95rem; margin-bottom: 1.5rem;">
-            Any help is always welcome! Just edit the relevant file and create a new Merge Request or you can also donate using
+            Any help is always welcome! Just edit the relevant file and create a new Merge Request or you can also
+            donate using
             <a href="https://www.patreon.com/amatos" style="color: var(--accent); text-decoration: none;">Patreon</a> or
             <a href="https://www.paypal.me/amatosg/15" style="color: var(--accent); text-decoration: none;">PayPal</a>.
         </p>
 
         <div class="info-box">
-            Requests are growing fast &mdash; about 4 million hits <strong>each day</strong> and 120 GB of bandwidth <strong>per day</strong>. Please consider making a
+            Requests are growing fast &mdash; about 4 million hits <strong>each day</strong> and 120 GB of bandwidth
+            <strong>per day</strong>. Please consider making a
             <a href="https://www.patreon.com/amatos">donation</a> to help cover server costs.
         </div>
 
@@ -563,8 +573,11 @@ https://restcountries.com/v3.1/{service}?fields={field},{field},{field}</code>
             <div class="footer-section">
                 <div class="footer-title">Product</div>
                 <ul class="footer-links">
-                    <li><a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md">Fields Documentation</a></li>
-                    <li><a href="https://gitlab.com/restcountries/restcountries/-/blob/master/README.md">Documentation</a></li>
+                    <li><a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md">Fields
+                        Documentation</a></li>
+                    <li>
+                        <a href="https://gitlab.com/restcountries/restcountries/-/blob/master/README.md">Documentation</a>
+                    </li>
                     <li><a href="https://gitlab.com/restcountries/restcountries/-/issues">Support</a></li>
                 </ul>
             </div>
