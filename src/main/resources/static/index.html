@@ -1,63 +1,602 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-
-    <title>REST Countries</title>
-
-    <!-- Flatdoc -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/legacy.js'></script>
-    <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/flatdoc.js'></script>
-
-    <!-- Flatdoc theme -->
-    <link  href='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/style.css' rel='stylesheet'>
-    <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
-
-    <!-- Meta -->
-    <meta content="REST Countries" property="og:title">
-    <meta content="Get information about countries via a RESTful API" name="description">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REST Countries - Get information about countries via a RESTful API</title>
+    <meta name="description" content="Get information about countries via a RESTful API. Access information about 250+ countries including flags, languages, currencies, and more.">
     <meta name="keywords" content="rest,api,countries,world,json">
     <meta name="author" content="Fayder Florez">
-
-    <!-- Custom -->
     <link rel="shortcut icon" href="img/favicon.ico" />
-    <script src="https://checkout.stripe.com/checkout.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #fafaf8;
+            --text: #1a1a1a;
+            --accent: #2563eb;
+            --accent-dark: #1e40af;
+            --warning: #d97706;
+            --border: #e0e0e0;
+            --subtle: #666;
+            --card-bg: #fff;
+        }
 
-    <!-- Initializer -->
-    <script>
-        Flatdoc.run({
-            fetcher: Flatdoc.file('flatdoc.md')
-        });
-    </script>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    <style type="text/css" media="screen">
         body {
-            font-family: Verdana, sans-serif;
+            font-family: 'IBM Plex Mono', monospace;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            font-size: 15px;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--accent);
+            z-index: 100;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Announcement Banner */
+        .announcement-banner {
+            background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+            border-bottom: 2px solid var(--warning);
+            padding: 1.5rem 0;
+            animation: slideDown 0.6s ease-out;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .announcement-content {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .announcement-badge {
+            background: var(--warning);
+            color: white;
+            padding: 0.35rem 0.8rem;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        .announcement-text {
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .announcement-text strong {
+            font-weight: 600;
+        }
+
+        /* Header */
+        .header {
+            padding: 4rem 0 3rem;
+            animation: fadeIn 0.8s ease-out 0.2s backwards;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 3rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .tagline {
+            font-size: 1.25rem;
+            color: var(--subtle);
+            margin-bottom: 2rem;
+        }
+
+        .stats {
+            display: flex;
+            gap: 3rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .stat {
+            flex: 1;
+            min-width: 150px;
+        }
+
+        .stat-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent);
+            display: block;
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: var(--subtle);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Sections */
+        .section {
+            padding: 4rem 0;
+            animation: fadeIn 1s ease-out 0.4s backwards;
+        }
+
+        .section-title {
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--subtle);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+
+        .code-block {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+            margin-bottom: 1rem;
+            position: relative;
+        }
+
+        .code-block code {
+            color: var(--text);
+            display: block;
+            white-space: pre;
+        }
+
+        .code-comment {
+            color: var(--subtle);
+        }
+
+        /* Documentation Cards */
+        .doc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .doc-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .doc-card:hover {
+            border-color: var(--accent);
+        }
+
+        .doc-title {
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            font-size: 1rem;
+        }
+
+        .doc-description {
+            font-size: 0.9rem;
+            color: var(--subtle);
+            line-height: 1.6;
+        }
+
+        .endpoint {
+            background: #f3f4f6;
+            padding: 0.4rem 0.6rem;
+            font-size: 0.85rem;
+            display: inline-block;
+            margin-top: 0.75rem;
+            color: var(--accent-dark);
+        }
+
+        .endpoint-example {
+            font-size: 0.8rem;
+            color: var(--subtle);
+            margin-top: 0.5rem;
+        }
+
+        /* Info box */
+        .info-box {
+            background: #eff6ff;
+            border-left: 3px solid var(--accent);
+            padding: 1rem;
+            margin-bottom: 2rem;
+            font-size: 0.9rem;
+        }
+
+        .info-box a {
+            color: var(--accent);
+            text-decoration: underline;
+        }
+
+        /* Similar projects */
+        .similar-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .similar-grid a {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            padding: 0.5rem 0;
+            transition: color 0.2s ease;
+        }
+
+        .similar-grid a:hover {
+            color: var(--accent-dark);
+        }
+
+        /* Footer */
+        .footer {
+            padding: 3rem 0;
+            border-top: 1px solid var(--border);
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        .footer-section {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .footer-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-links a {
+            color: var(--subtle);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--accent);
+        }
+
+        .footer-bottom {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            text-align: center;
+            color: var(--subtle);
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            .logo {
+                font-size: 2.25rem;
+            }
+
+            .stats {
+                gap: 2rem;
+            }
+
+            .stat {
+                min-width: 120px;
+            }
+
+            .announcement-content {
+                flex-direction: column;
+                align-items: flex-start;
+            }
         }
     </style>
 </head>
-<body role='flatdoc'>
-
-<div class='header'>
-    <div class='left'>
-        <h1>REST Countries</h1>
-        <ul>
-            <li><a href='https://gitlab.com/amatos/rest-countries'>View on GitLab</a></li>
-            <li><a href='https://gitlab.com/amatos/rest-countries/-/issues'>Issues</a></li>
-        </ul>
+<body>
+<!-- Announcement Banner -->
+<div class="announcement-banner">
+    <div class="container">
+        <div class="announcement-content">
+            <span class="announcement-badge">V4 Preview</span>
+            <div class="announcement-text">
+                <strong>RestCountries V4 has been released.</strong> This version is currently in preview and should not be used in production yet. Please report any issues or feature requests through the <a href="https://gitlab.com/restcountries/restcountries/-/issues" style="color: var(--accent); text-decoration: underline;">GitLab issues board</a>.
+            </div>
+        </div>
     </div>
 </div>
 
-<div class='content-root'>
-    <div class='menubar'>
-        <div class='menu section' role='flatdoc-menu'></div>
-    </div>
-    <div role='flatdoc-content' class='content'></div>
-</div>
+<!-- Header -->
+<header class="header">
+    <div class="container">
+        <h1 class="logo">REST Countries</h1>
+        <p class="tagline">Get information about countries via a RESTful API</p>
+        <p style="color: var(--subtle); font-size: 0.9rem;">Current version: 3.1 &mdash; V4 in preview</p>
 
-<script src="js/restc.min.js" type="text/javascript" charset="utf-8" async defer></script>
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-number">4M+</span>
+                <span class="stat-label">Daily Requests</span>
+            </div>
+            <div class="stat">
+                <span class="stat-number">250+</span>
+                <span class="stat-label">Countries</span>
+            </div>
+            <div class="stat">
+                <span class="stat-number">Open Source</span>
+                <span class="stat-label">Free to Use</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Quick Start -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Quick Start</h2>
+
+        <div class="info-box">
+            <strong>Fields filter:</strong> You <strong>must</strong> specify the fields you need (up to 10 fields) when calling the <code>all</code> endpoint, otherwise you'll get a <code>bad request</code> response. See <a href="https://gitlab.com/restcountries/restcountries/-/issues/265">this issue</a> for more information.
+        </div>
+
+        <div class="code-block">
+            <code><span class="code-comment"># Get all countries (filtered by fields)</span>
+https://restcountries.com/v3.1/all?fields=name,capital,currencies
+
+<span class="code-comment"># Get country by name</span>
+https://restcountries.com/v3.1/name/peru
+
+<span class="code-comment"># Get country by code</span>
+https://restcountries.com/v3.1/alpha/co
+
+<span class="code-comment"># Filter response fields</span>
+https://restcountries.com/v3.1/{service}?fields={field},{field},{field}</code>
+        </div>
+
+        <p style="margin-top: 1rem; font-size: 0.9rem; color: var(--subtle);">
+            Check the <a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md" style="color: var(--accent);">FIELDS.md</a> file for a description of each field.
+        </p>
+    </div>
+</section>
+
+<!-- API Endpoints -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">API Endpoints</h2>
+
+        <div class="doc-grid">
+            <div class="doc-card">
+                <div class="doc-title">All Countries</div>
+                <div class="doc-description">Retrieve information about all countries. Must specify fields.</div>
+                <code class="endpoint">/v3.1/all?fields=name,flags</code>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Name</div>
+                <div class="doc-description">Search by country name (common or official value)</div>
+                <code class="endpoint">/v3.1/name/{name}</code>
+                <div class="endpoint-example">e.g. /v3.1/name/eesti</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">Full Name</div>
+                <div class="doc-description">Search by country's full name (common or official)</div>
+                <code class="endpoint">/v3.1/name/{name}?fullText=true</code>
+                <div class="endpoint-example">e.g. /v3.1/name/aruba?fullText=true</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Code</div>
+                <div class="doc-description">Search by cca2, ccn3, cca3 or cioc country code</div>
+                <code class="endpoint">/v3.1/alpha/{code}</code>
+                <div class="endpoint-example">e.g. /v3.1/alpha/co, /v3.1/alpha/col, /v3.1/alpha/170</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">List of Codes</div>
+                <div class="doc-description">Search by multiple country codes at once</div>
+                <code class="endpoint">/v3.1/alpha?codes={code},{code}</code>
+                <div class="endpoint-example">e.g. /v3.1/alpha?codes=170,no,est,pe</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Currency</div>
+                <div class="doc-description">Search by currency code or name</div>
+                <code class="endpoint">/v3.1/currency/{currency}</code>
+                <div class="endpoint-example">e.g. /v3.1/currency/cop</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Language</div>
+                <div class="doc-description">Search by language code or name</div>
+                <code class="endpoint">/v3.1/lang/{language}</code>
+                <div class="endpoint-example">e.g. /v3.1/lang/spanish</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Capital City</div>
+                <div class="doc-description">Search by capital city</div>
+                <code class="endpoint">/v3.1/capital/{capital}</code>
+                <div class="endpoint-example">e.g. /v3.1/capital/tallinn</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Region</div>
+                <div class="doc-description">Filter countries by region</div>
+                <code class="endpoint">/v3.1/region/{region}</code>
+                <div class="endpoint-example">e.g. /v3.1/region/europe</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Subregion</div>
+                <div class="doc-description">Filter countries by subregion</div>
+                <code class="endpoint">/v3.1/subregion/{subregion}</code>
+                <div class="endpoint-example">e.g. /v3.1/subregion/Northern Europe</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Demonym</div>
+                <div class="doc-description">Search by how a citizen is called</div>
+                <code class="endpoint">/v3.1/demonym/{demonym}</code>
+                <div class="endpoint-example">e.g. /v3.1/demonym/peruvian</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">By Translation</div>
+                <div class="doc-description">Search by any translation name</div>
+                <code class="endpoint">/v3.1/translation/{translation}</code>
+                <div class="endpoint-example">e.g. /v3.1/translation/alemania</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">Independent</div>
+                <div class="doc-description">Get all independent (or non-independent) countries</div>
+                <code class="endpoint">/v3.1/independent?status=true</code>
+                <div class="endpoint-example">Combine with fields: ?status=true&amp;fields=languages,capital</div>
+            </div>
+
+            <div class="doc-card">
+                <div class="doc-title">Filter Response</div>
+                <div class="doc-description">Filter the output to include only specified fields</div>
+                <code class="endpoint">/v3.1/{service}?fields={field},{field}</code>
+                <div class="endpoint-example">e.g. /v3.1/all?fields=name,capital,currencies</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contributing -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Contributing &amp; Donations</h2>
+
+        <p style="font-size: 0.95rem; margin-bottom: 1.5rem;">
+            Any help is always welcome! Just edit the relevant file and create a new Merge Request or you can also donate using
+            <a href="https://www.patreon.com/amatos" style="color: var(--accent); text-decoration: none;">Patreon</a> or
+            <a href="https://www.paypal.me/amatosg/15" style="color: var(--accent); text-decoration: none;">PayPal</a>.
+        </p>
+
+        <div class="info-box">
+            Requests are growing fast &mdash; about 4 million hits <strong>each day</strong> and 120 GB of bandwidth <strong>per day</strong>. Please consider making a
+            <a href="https://www.patreon.com/amatos">donation</a> to help cover server costs.
+        </div>
+
+        <h2 class="section-title" style="margin-top: 3rem;">Similar Projects</h2>
+
+        <div class="similar-grid">
+            <a href="https://github.com/apilayer/restcountries">REST Countries (original)</a>
+            <a href="http://countries.petethompson.net">Countries of the World</a>
+            <a href="https://github.com/aredo/restcountries">REST Countries Node.js</a>
+            <a href="https://github.com/davidesantangelo/restcountry">REST Countries Ruby</a>
+            <a href="https://github.com/alediaferia/gocountries">REST Countries Go</a>
+            <a href="https://github.com/SteinRobert/python-restcountries">REST Countries Python</a>
+            <a href="https://github.com/wiredmax/world-currencies">world-currencies</a>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <div class="footer-title">Product</div>
+                <ul class="footer-links">
+                    <li><a href="https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md">Fields Documentation</a></li>
+                    <li><a href="https://gitlab.com/restcountries/restcountries/-/blob/master/README.md">Documentation</a></li>
+                    <li><a href="https://gitlab.com/restcountries/restcountries/-/issues">Support</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-section">
+                <div class="footer-title">Resources</div>
+                <ul class="footer-links">
+                    <li><a href="https://gitlab.com/restcountries/restcountries">GitLab Repository</a></li>
+                    <li><a href="https://gitlab.com/restcountries/restcountries/-/issues">Report Issues</a></li>
+                    <li><a href="https://www.npmjs.com/package/@yusifaliyevpro/countries">TypeScript Package</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-section">
+                <div class="footer-title">Support the Project</div>
+                <ul class="footer-links">
+                    <li><a href="https://www.patreon.com/amatos">Donate via Patreon</a></li>
+                    <li><a href="https://www.paypal.me/amatosg/15">Donate via PayPal</a></li>
+                    <li><a href="https://gitlab.com/restcountries/restcountries/contribute">Contribute</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>REST Countries is an open-source project inspired by restcountries.eu by Fayder Florez.</p>
+            <p style="margin-top: 1rem; font-size: 0.85rem;">
+                <a href="/terms.html" style="color: var(--subtle); text-decoration: none;">Terms and Conditions</a>
+                &nbsp;&middot;&nbsp;
+                <a href="/privacy.html" style="color: var(--subtle); text-decoration: none;">Privacy Policy</a>
+            </p>
+        </div>
+    </div>
+</footer>
 </body>
 </html>
