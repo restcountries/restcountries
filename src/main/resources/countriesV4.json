@@ -232,7 +232,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/aw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/aw.png"
     },
-    "population": 107566,
+    "population": 106739,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
@@ -262,7 +262,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 596.59
+      "value": 592.99
     },
     "gdp": {
       "total": 3126019385,
@@ -524,7 +524,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/af.png"
     },
-    "population": 43844000,
+    "population": 41454761,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
@@ -801,7 +801,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png"
     },
-    "population": 36170961,
+    "population": 36749906,
     "maps": {
       "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
@@ -1082,7 +1082,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ai.png"
     },
-    "population": 16010,
+    "population": 19079,
     "maps": {
       "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
@@ -1114,7 +1114,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 161.96
+      "value": 209.66
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -1378,7 +1378,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 19.4
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -1613,7 +1616,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/al.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/al.png"
     },
-    "population": 2363314,
+    "population": 2811655,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
@@ -1893,7 +1896,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png"
     },
-    "population": 88406,
+    "population": 87486,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
@@ -2163,7 +2166,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png"
     },
-    "population": 11294243,
+    "population": 9890400,
     "maps": {
       "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
@@ -2461,7 +2464,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png"
     },
-    "population": 46735004,
+    "population": 47327407,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
@@ -2749,7 +2752,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/am.png"
     },
-    "population": 3076200,
+    "population": 2930450,
     "maps": {
       "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
@@ -2792,7 +2795,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 98.52
+      "value": 98.53
     },
     "gdp": {
       "total": 24085749592,
@@ -3067,7 +3070,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 133.74
+      "value": 249.8
     },
     "gdp": {
       "total": 709000000,
@@ -3307,7 +3310,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 0.0
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -3535,7 +3541,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tf.png"
     },
-    "population": 400,
+    "population": 196,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
@@ -3576,7 +3582,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 0.02
+      "value": 0.03
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -3804,7 +3810,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png"
     },
-    "population": 103603,
+    "population": 101489,
     "maps": {
       "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
@@ -3846,7 +3852,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 230.5
+      "value": 229.61
     },
     "gdp": {
       "total": 1757603704,
@@ -4078,7 +4084,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/au.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/au.png"
     },
-    "population": 27536874,
+    "population": 27614411,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
@@ -4365,7 +4371,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/at.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/at.png"
     },
-    "population": 9200931,
+    "population": 8979894,
     "maps": {
       "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
@@ -4408,7 +4414,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 107.06
+      "value": 107.07
     },
     "gdp": {
       "total": 511685203845,
@@ -4649,7 +4655,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/az.png"
     },
-    "population": 10241722,
+    "population": 10180770,
     "maps": {
       "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
@@ -4936,7 +4942,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png"
     },
-    "population": 12332788,
+    "population": 13689450,
     "maps": {
       "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
@@ -5295,7 +5301,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 385.35
+      "value": 387.37
     },
     "gdp": {
       "total": 644782756682,
@@ -5534,7 +5540,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png"
     },
-    "population": 13224860,
+    "population": 14111034,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
@@ -5583,7 +5589,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 122.96
+      "value": 125.3
     },
     "gdp": {
       "total": 19676049075,
@@ -5822,7 +5828,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bf.png"
     },
-    "population": 24070553,
+    "population": 23025776,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192783"
@@ -5871,7 +5877,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 83.97
+      "value": 84.35
     },
     "gdp": {
       "total": 20324617844,
@@ -6108,7 +6114,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bd.png"
     },
-    "population": 169828911,
+    "population": 171466990,
     "maps": {
       "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
@@ -6434,7 +6440,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 58.0
+      "value": 58.06
     },
     "gdp": {
       "total": 102407653020,
@@ -6668,7 +6674,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bh.png"
     },
-    "population": 1594654,
+    "population": 1569666,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
@@ -6710,7 +6716,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 1995.76
+      "value": 2051.85
     },
     "gdp": {
       "total": 44390820479,
@@ -6948,7 +6954,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png"
     },
-    "population": 398165,
+    "population": 399440,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
@@ -6990,7 +6996,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 28.78
+      "value": 28.65
     },
     "gdp": {
       "total": 14338500000,
@@ -7250,7 +7256,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ba.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ba.png"
     },
-    "population": 3422000,
+    "population": 3816459,
     "maps": {
       "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
@@ -7293,7 +7299,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 74.54
+      "value": 74.53
     },
     "gdp": {
       "total": 27514782476,
@@ -7555,7 +7561,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 502.95
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -7790,7 +7799,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 5651,
+    "population": 5633,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
@@ -8380,7 +8389,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png"
     },
-    "population": 417634,
+    "population": 411106,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
@@ -8669,7 +8678,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bm.png"
     },
-    "population": 64055,
+    "population": 65024,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
@@ -8701,7 +8710,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 1111.51
+      "value": 1204.15
     },
     "gdp": {
       "total": 7550500000,
@@ -8980,7 +8989,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png"
     },
-    "population": 11365333,
+    "population": 12244159,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
@@ -9305,7 +9314,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 97.5
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -9829,7 +9841,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bb.png"
     },
-    "population": 267800,
+    "population": 303431,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
@@ -9871,7 +9883,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 691.19
+      "value": 705.65
     },
     "gdp": {
       "total": 5637914515,
@@ -10113,7 +10125,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png"
     },
-    "population": 455500,
+    "population": 458949,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
@@ -10392,7 +10404,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bt.png"
     },
-    "population": 784043,
+    "population": 787424,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184629"
@@ -10685,7 +10697,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 0.0
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -10930,7 +10945,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png"
     },
-    "population": 2359609,
+    "population": 2480244,
     "maps": {
       "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
@@ -11231,7 +11246,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cf.png"
     },
-    "population": 6470307,
+    "population": 5152421,
     "maps": {
       "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
@@ -11522,7 +11537,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png"
     },
-    "population": 41651653,
+    "population": 36991981,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
@@ -11834,7 +11849,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 42.36
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -12105,7 +12123,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ch.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ch.png"
     },
-    "population": 9082848,
+    "population": 9104063,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
@@ -12148,7 +12166,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 220.49
+      "value": 220.52
     },
     "gdp": {
       "total": 807706035352,
@@ -12386,7 +12404,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png"
     },
-    "population": 20206953,
+    "population": 19458000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
@@ -12696,7 +12714,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png"
     },
-    "population": 1408280000,
+    "population": 1442965000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
@@ -12733,7 +12751,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 150.36
+      "value": 148.65
     },
     "gdp": {
       "total": 17963170521080,
@@ -12975,7 +12993,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png"
     },
-    "population": 31719275,
+    "population": 31165654,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
@@ -13276,7 +13294,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cm.png"
     },
-    "population": 29442327,
+    "population": 28372687,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
@@ -13615,7 +13633,7 @@
       "svg": "",
       "png": ""
     },
-    "population": 112832000,
+    "population": 105789731,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
@@ -14225,7 +14243,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ck.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ck.png"
     },
-    "population": 15040,
+    "population": 14222,
     "maps": {
       "googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
@@ -14254,7 +14272,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 59.26
+      "value": 60.26
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -14490,7 +14508,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/co.png"
     },
-    "population": 53057212,
+    "population": 52321152,
     "maps": {
       "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
@@ -14803,7 +14821,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/km.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/km.png"
     },
-    "population": 919901,
+    "population": 902348,
     "maps": {
       "googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
@@ -14861,7 +14879,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 443.63
+      "value": 484.61
     },
     "gdp": {
       "total": 1242519407,
@@ -15095,7 +15113,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cv.png"
     },
-    "population": 491233,
+    "population": 555988,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
@@ -15381,7 +15399,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png"
     },
-    "population": 5309625,
+    "population": 5265575,
     "maps": {
       "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
@@ -15423,7 +15441,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 102.88
+      "value": 103.04
     },
     "gdp": {
       "total": 68380838316,
@@ -15662,7 +15680,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png"
     },
-    "population": 9748007,
+    "population": 10985974,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
@@ -15939,7 +15957,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cw.png"
     },
-    "population": 156115,
+    "population": 152849,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
@@ -16231,7 +16249,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 12.53
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -16458,7 +16479,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ky.png"
     },
-    "population": 84738,
+    "population": 88833,
     "maps": {
       "googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
@@ -16490,7 +16511,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 32.7
+      "value": 336.49
     },
     "gdp": {
       "total": 6028373541,
@@ -16738,7 +16759,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cy.png"
     },
-    "population": 1442614,
+    "population": 1344976,
     "maps": {
       "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
@@ -16781,7 +16802,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 145.52
+      "value": 145.39
     },
     "gdp": {
       "total": 28439052741,
@@ -17031,7 +17052,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png"
     },
-    "population": 10882341,
+    "population": 10909500,
     "maps": {
       "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
@@ -17074,7 +17095,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 138.32
+      "value": 138.33
     },
     "gdp": {
       "total": 250681000000,
@@ -17318,7 +17339,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/de.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/de.png"
     },
-    "population": 83491249,
+    "population": 83577140,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
@@ -17361,7 +17382,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 233.72
+      "value": 234.03
     },
     "gdp": {
       "total": 4121200000000,
@@ -17614,7 +17635,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dj.png"
     },
-    "population": 1066809,
+    "population": 1152944,
     "maps": {
       "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
@@ -17904,7 +17925,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png"
     },
-    "population": 67408,
+    "population": 74656,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
@@ -17933,7 +17954,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 99.4
+      "value": 99.41
     },
     "gdp": {
       "total": 612048148,
@@ -18170,7 +18191,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dk.png"
     },
-    "population": 6011488,
+    "population": 5822863,
     "maps": {
       "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
@@ -18217,7 +18238,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 135.65
+      "value": 135.12
     },
     "gdp": {
       "total": 395403906582,
@@ -18453,7 +18474,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/do.png"
     },
-    "population": 10771504,
+    "population": 10760028,
     "maps": {
       "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
@@ -18747,7 +18768,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png"
     },
-    "population": 47400000,
+    "population": 46164219,
     "maps": {
       "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
@@ -19042,7 +19063,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png"
     },
-    "population": 18103660,
+    "population": 16938986,
     "maps": {
       "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
@@ -19091,7 +19112,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 65.86
+      "value": 61.19
     },
     "gdp": {
       "total": 115049476000,
@@ -19330,7 +19351,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png"
     },
-    "population": 107271260,
+    "population": 114535772,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
@@ -19388,7 +19409,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 113.36
+      "value": 114.26
     },
     "gdp": {
       "total": 476747720365,
@@ -19651,7 +19672,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/er.png"
     },
-    "population": 3607000,
+    "population": 3497000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
@@ -19997,7 +20018,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 2.26
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -20250,7 +20274,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/es.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/es.png"
     },
-    "population": 49315949,
+    "population": 48592909,
     "maps": {
       "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
@@ -20294,7 +20318,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 96.04
+      "value": 96.03
     },
     "gdp": {
       "total": 1397509272054,
@@ -20575,7 +20599,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 30.22
+      "value": 30.29
     },
     "gdp": {
       "total": 38100812959,
@@ -20817,7 +20841,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/et.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/et.png"
     },
-    "population": 111652998,
+    "population": 128691692,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192800"
@@ -21117,7 +21141,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fi.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fi.png"
     },
-    "population": 5650325,
+    "population": 5608218,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
       "openStreetMaps": "openstreetmap.org/relation/54224"
@@ -21418,7 +21442,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png"
     },
-    "population": 900869,
+    "population": 926276,
     "maps": {
       "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
@@ -21686,7 +21710,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fk.png"
     },
-    "population": 3662,
+    "population": 4550,
     "maps": {
       "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
@@ -21726,7 +21750,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 0.24
+      "value": 0.37
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -21965,7 +21989,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fr.png"
     },
-    "population": 66351959,
+    "population": 68605616,
     "maps": {
       "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
@@ -22021,7 +22045,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 106.56
+      "value": 126.13
     },
     "gdp": {
       "total": 2782905325625,
@@ -22298,7 +22322,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 39.4
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -22527,7 +22554,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fm.png"
     },
-    "population": 105564,
+    "population": 105544,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
@@ -22803,7 +22830,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ga.png"
     },
-    "population": 2469296,
+    "population": 2025137,
     "maps": {
       "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
@@ -23088,7 +23115,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png"
     },
-    "population": 69281437,
+    "population": 67326569,
     "maps": {
       "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
@@ -23133,7 +23160,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 277.64
+      "value": 275.5
     },
     "gdp": {
       "total": 3070667732359,
@@ -23371,7 +23398,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ge.png"
     },
-    "population": 4000921,
+    "population": 3717100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
@@ -23669,7 +23696,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gg.png"
     },
-    "population": 64781,
+    "population": 67787,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/270009"
@@ -23930,7 +23957,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png"
     },
-    "population": 33742380,
+    "population": 32833031,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
@@ -23979,7 +24006,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 137.64
+      "value": 137.65
     },
     "gdp": {
       "total": 72838798788,
@@ -24213,7 +24240,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gi.png"
     },
-    "population": 38000,
+    "population": 34003,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
@@ -24248,7 +24275,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 4969.02
+      "value": 5667.17
     },
     "gdp": null,
     "nationalHoliday": "Gibraltar National Day",
@@ -24485,7 +24512,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gn.png"
     },
-    "population": 14363931,
+    "population": 12717176,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192778"
@@ -24767,7 +24794,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gp.png"
     },
-    "population": 378561,
+    "population": 384160,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
@@ -25027,7 +25054,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gm.png"
     },
-    "population": 2422712,
+    "population": 2639916,
     "maps": {
       "googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192774"
@@ -25076,7 +25103,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 233.62
+      "value": 246.98
     },
     "gdp": {
       "total": 2396111020,
@@ -25324,7 +25351,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gw.png"
     },
-    "population": 1781308,
+    "population": 1861283,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
@@ -25631,7 +25658,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png"
     },
-    "population": 1668768,
+    "population": 1847549,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
@@ -25912,7 +25939,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png"
     },
-    "population": 10400720,
+    "population": 10482487,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
@@ -25955,7 +25982,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 79.44
+      "value": 79.42
     },
     "gdp": {
       "total": 219065872466,
@@ -26187,7 +26214,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png"
     },
-    "population": 109021,
+    "population": 114299,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
@@ -26226,7 +26253,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 327.97
+      "value": 332.26
     },
     "gdp": {
       "total": 1256413185,
@@ -26459,7 +26486,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gl.png"
     },
-    "population": 56542,
+    "population": 56609,
     "maps": {
       "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
@@ -26494,7 +26521,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 0.02
+      "value": 0.03
     },
     "gdp": {
       "total": 3235816195,
@@ -26731,7 +26758,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png"
     },
-    "population": 18079810,
+    "population": 17263239,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
@@ -27056,7 +27083,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 3.5
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -27335,7 +27365,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 291.01
+      "value": 280.21
     },
     "gdp": {
       "total": 6123000000,
@@ -27572,7 +27602,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png"
     },
-    "population": 772975,
+    "population": 878674,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
@@ -27870,7 +27900,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hk.png"
     },
-    "population": 7527500,
+    "population": 7413070,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
@@ -27899,7 +27929,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 4970.19
+      "value": 6714.74
     },
     "gdp": {
       "total": 359838598806,
@@ -28147,7 +28177,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 0.0
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -28380,7 +28413,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png"
     },
-    "population": 9892632,
+    "population": 8303771,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
@@ -28666,7 +28699,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hr.png"
     },
-    "population": 3866233,
+    "population": 3871833,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
@@ -28957,7 +28990,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ht.png"
     },
-    "population": 11867032,
+    "population": 10981229,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
@@ -29241,7 +29274,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hu.png"
     },
-    "population": 9539502,
+    "population": 9603634,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
@@ -29284,7 +29317,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 103.25
+      "value": 103.23
     },
     "gdp": {
       "total": 181848022230,
@@ -29522,7 +29555,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/id.png"
     },
-    "population": 284438782,
+    "population": 275439000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
@@ -29851,7 +29884,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 147.78
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -30111,7 +30147,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/in.png"
     },
-    "population": 1417492000,
+    "population": 1477519529,
     "maps": {
       "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
@@ -30386,7 +30422,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 0,
+    "population": 3000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
@@ -30427,7 +30463,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 66.67
+      "value": 50.0
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -30671,7 +30707,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ie.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ie.png"
     },
-    "population": 5458600,
+    "population": 5149139,
     "maps": {
       "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
@@ -30714,7 +30750,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 73.77
+      "value": 73.27
     },
     "gdp": {
       "total": 529244870223,
@@ -30953,7 +30989,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png"
     },
-    "population": 85961000,
+    "population": 92417700,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/304938"
@@ -31253,7 +31289,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/iq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/iq.png"
     },
-    "population": 46118793,
+    "population": 38274618,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
       "openStreetMaps": "https://www.openstreetmap.org/relation/304934"
@@ -31300,7 +31336,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 87.57
+      "value": 87.32
     },
     "gdp": {
       "total": 264182173793,
@@ -31535,7 +31571,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/is.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/is.png"
     },
-    "population": 391810,
+    "population": 364260,
     "maps": {
       "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/299133"
@@ -31824,7 +31860,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/il.png"
     },
-    "population": 10134800,
+    "population": 9840000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
@@ -31861,7 +31897,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 473.76
+      "value": 448.56
     },
     "gdp": {
       "total": 520700000000,
@@ -32108,7 +32144,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/it.png"
     },
-    "population": 58927633,
+    "population": 58850717,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
@@ -32151,7 +32187,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 194.83
+      "value": 195.3
     },
     "gdp": {
       "total": 2010431598465,
@@ -32395,7 +32431,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png"
     },
-    "population": 2825544,
+    "population": 2697983,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
@@ -32439,7 +32475,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 245.45
+      "value": 245.47
     },
     "gdp": {
       "total": 17097760745,
@@ -32728,7 +32764,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 890.23
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -32964,7 +33003,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jo.png"
     },
-    "population": 11734000,
+    "population": 10428241,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184818"
@@ -33243,7 +33282,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jp.png"
     },
-    "population": 123210000,
+    "population": 123802000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
@@ -33280,7 +33319,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 327.54
+      "value": 327.58
     },
     "gdp": {
       "total": 4231141201863,
@@ -33538,7 +33577,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png"
     },
-    "population": 20426568,
+    "population": 20139914,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
@@ -33834,7 +33873,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ke.png"
     },
-    "population": 53330978,
+    "population": 48468138,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
@@ -33880,7 +33919,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 83.38
+      "value": 83.51
     },
     "gdp": {
       "total": 113420008179,
@@ -34417,7 +34456,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png"
     },
-    "population": 17577760,
+    "population": 17423880,
     "maps": {
       "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
@@ -34705,7 +34744,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ki.png"
     },
-    "population": 120740,
+    "population": 134518,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571178"
@@ -34974,7 +35013,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png"
     },
-    "population": 51320,
+    "population": 46922,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
@@ -35016,7 +35055,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 174.2
+      "value": 179.78
     },
     "gdp": {
       "total": 961563259,
@@ -35255,7 +35294,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png"
     },
-    "population": 51159889,
+    "population": 51466201,
     "maps": {
       "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
@@ -35292,7 +35331,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 513.15
+      "value": 513.58
     },
     "gdp": {
       "total": 1665245538595,
@@ -35534,7 +35573,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/xk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/xk.png"
     },
-    "population": 1585566,
+    "population": 1586659,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2088990"
@@ -35577,7 +35616,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 145.44
+      "value": 145.46
     },
     "gdp": {
       "total": 9429156202,
@@ -35814,7 +35853,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kw.png"
     },
-    "population": 4881254,
+    "population": 4464000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305099"
@@ -36097,7 +36136,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/la.png"
     },
-    "population": 7647000,
+    "population": 6858160,
     "maps": {
       "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
@@ -36388,7 +36427,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png"
     },
-    "population": 5490000,
+    "population": 6100075,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
@@ -36672,7 +36711,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lr.png"
     },
-    "population": 5248621,
+    "population": 5214030,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
@@ -36959,7 +36998,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png"
     },
-    "population": 7459000,
+    "population": 6678567,
     "maps": {
       "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
       "openStreetMaps": "openstreetmap.org/relation/192758"
@@ -37244,7 +37283,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png"
     },
-    "population": 184100,
+    "population": 167591,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
@@ -37291,7 +37330,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 271.62
+      "value": 272.06
     },
     "gdp": {
       "total": 2065027556,
@@ -37528,7 +37567,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/li.png"
     },
-    "population": 40900,
+    "population": 37922,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
@@ -37813,7 +37852,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lk.png"
     },
-    "population": 21763170,
+    "population": 21444000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
@@ -38105,7 +38144,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ls.png"
     },
-    "population": 2116427,
+    "population": 2007201,
     "maps": {
       "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
@@ -38393,7 +38432,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lt.png"
     },
-    "population": 2894886,
+    "population": 2860002,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
@@ -38698,7 +38737,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lu.png"
     },
-    "population": 681973,
+    "population": 681987,
     "maps": {
       "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
@@ -38741,7 +38780,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 263.69
+      "value": 263.72
     },
     "gdp": {
       "total": 82274812251,
@@ -38980,7 +39019,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lv.png"
     },
-    "population": 1829000,
+    "population": 1856932,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
@@ -39023,7 +39062,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 28.75
+      "value": 28.76
     },
     "gdp": {
       "total": 41153912663,
@@ -39263,7 +39302,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mo.png"
     },
-    "population": 685900,
+    "population": 682100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
@@ -39292,7 +39331,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 5915.87
+      "value": 22736.67
     },
     "gdp": {
       "total": 21979475561,
@@ -39557,7 +39596,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 594.26
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -40128,7 +40170,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 18472.6
+      "value": 19021.29
     },
     "gdp": {
       "total": 8596156574,
@@ -40366,7 +40408,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/md.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/md.png"
     },
-    "population": 2749076,
+    "population": 2409207,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
@@ -40409,7 +40451,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 71.19
+      "value": 71.18
     },
     "gdp": {
       "total": 14420947884,
@@ -40655,7 +40697,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mg.png"
     },
-    "population": 31727042,
+    "population": 31964956,
     "maps": {
       "googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
       "openStreetMaps": "https://www.openstreetmap.org/relation/447325"
@@ -40704,7 +40746,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 54.43
+      "value": 54.45
     },
     "gdp": {
       "total": 14954967604,
@@ -40939,7 +40981,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png"
     },
-    "population": 515132,
+    "population": 436330,
     "maps": {
       "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
@@ -40979,7 +41021,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 1464.19
+      "value": 1454.43
     },
     "gdp": {
       "total": 6189865408,
@@ -41218,7 +41260,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png"
     },
-    "population": 130575786,
+    "population": 124777324,
     "maps": {
       "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
@@ -41273,7 +41315,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 63.26
+      "value": 63.52
     },
     "gdp": {
       "total": 1414187193992,
@@ -41518,7 +41560,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mh.png"
     },
-    "population": 42418,
+    "population": 53127,
     "maps": {
       "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
@@ -41547,7 +41589,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 292.82
+      "value": 293.52
     },
     "gdp": {
       "total": 279667900,
@@ -41789,7 +41831,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png"
     },
-    "population": 1822612,
+    "population": 1836713,
     "maps": {
       "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
       "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
@@ -42074,7 +42116,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png"
     },
-    "population": 22395489,
+    "population": 20250833,
     "maps": {
       "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
@@ -42365,7 +42407,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png"
     },
-    "population": 574250,
+    "population": 553214,
     "maps": {
       "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
       "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
@@ -42649,7 +42691,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png"
     },
-    "population": 51316756,
+    "population": 53370609,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
       "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
@@ -42931,7 +42973,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/me.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/me.png"
     },
-    "population": 623327,
+    "population": 617213,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
@@ -42974,7 +43016,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 44.46
+      "value": 44.69
     },
     "gdp": {
       "total": 6095978868,
@@ -43209,7 +43251,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png"
     },
-    "population": 3544835,
+    "population": 3409939,
     "maps": {
       "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
@@ -43532,7 +43574,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 27.51
+      "value": 102.0
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -43769,7 +43811,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png"
     },
-    "population": 34090466,
+    "population": 29668834,
     "maps": {
       "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
@@ -44054,7 +44096,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png"
     },
-    "population": 4927532,
+    "population": 4736139,
     "maps": {
       "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
@@ -44341,7 +44383,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ms.png"
     },
-    "population": 4386,
+    "population": 5440,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
@@ -44380,7 +44422,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 44.03
+      "value": 53.33
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -44608,7 +44650,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mq.png"
     },
-    "population": 349925,
+    "population": 360630,
     "maps": {
       "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
@@ -44637,7 +44679,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 319.81
+      "value": 319.71
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -44889,7 +44931,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mu.png"
     },
-    "population": 1243741,
+    "population": 1264613,
     "maps": {
       "googleMaps": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535828"
@@ -45186,7 +45228,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png"
     },
-    "population": 20734262,
+    "population": 17563749,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
@@ -45479,7 +45521,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/my.png"
     },
-    "population": 34231700,
+    "population": 32447385,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
@@ -45795,7 +45837,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 858.02
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -46122,7 +46167,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/na.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/na.png"
     },
-    "population": 3022401,
+    "population": 2533794,
     "maps": {
       "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
@@ -46400,7 +46445,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/nc.png"
     },
-    "population": 264596,
+    "population": 278500,
     "maps": {
       "googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/3407643"
@@ -46670,7 +46715,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png"
     },
-    "population": 26312034,
+    "population": 21477348,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
@@ -46988,7 +47033,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 60.78
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -47223,7 +47271,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png"
     },
-    "population": 223800000,
+    "population": 211400708,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
@@ -47509,7 +47557,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png"
     },
-    "population": 6803886,
+    "population": 5142098,
     "maps": {
       "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
@@ -47554,7 +47602,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 42.73
+      "value": 39.44
     },
     "gdp": {
       "total": 15671583878,
@@ -47797,7 +47845,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1681,
+    "population": 1821,
     "maps": {
       "googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
@@ -48060,7 +48108,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/nl.png"
     },
-    "population": 18100436,
+    "population": 17100715,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
@@ -48103,7 +48151,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 405.22
+      "value": 408.47
     },
     "gdp": {
       "total": 830572618850,
@@ -48366,7 +48414,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/no.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/no.png"
     },
-    "population": 5606944,
+    "population": 5594340,
     "maps": {
       "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
@@ -48409,7 +48457,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 14.52
+      "value": 14.48
     },
     "gdp": {
       "total": 579267365866,
@@ -48646,7 +48694,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/np.png"
     },
-    "population": 29911840,
+    "population": 29164578,
     "maps": {
       "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
@@ -48936,7 +48984,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/nr.png"
     },
-    "population": 11680,
+    "population": 13650,
     "maps": {
       "googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571804"
@@ -49225,7 +49273,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/nz.png"
     },
-    "population": 5324700,
+    "population": 5307800,
     "maps": {
       "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
@@ -49261,7 +49309,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 19.8
+      "value": 19.74
     },
     "gdp": {
       "total": 247234053739,
@@ -49499,7 +49547,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/om.png"
     },
-    "population": 5343630,
+    "population": 4829480,
     "maps": {
       "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
@@ -49792,7 +49840,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pk.png"
     },
-    "population": 241499431,
+    "population": 223773700,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
@@ -49835,7 +49883,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 253.74
+      "value": 281.09
     },
     "gdp": {
       "total": 376532751807,
@@ -50077,7 +50125,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png"
     },
-    "population": 4064780,
+    "population": 4570133,
     "maps": {
       "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
@@ -50122,7 +50170,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 61.61
+      "value": 60.6
     },
     "gdp": {
       "total": 76522511781,
@@ -50356,7 +50404,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 35,
+    "population": 50,
     "maps": {
       "googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
@@ -50385,7 +50433,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 0.72
+      "value": 1.06
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -50643,7 +50691,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png"
     },
-    "population": 34350244,
+    "population": 33726000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
@@ -50943,7 +50991,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png"
     },
-    "population": 114123600,
+    "population": 112729484,
     "maps": {
       "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
@@ -50986,7 +51034,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 328.23
+      "value": 329.28
     },
     "gdp": {
       "total": 404284327312,
@@ -51231,7 +51279,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png"
     },
-    "population": 16733,
+    "population": 21729,
     "maps": {
       "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
@@ -51260,7 +51308,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 46.67
+      "value": 47.34
     },
     "gdp": {
       "total": 217800000,
@@ -51518,7 +51566,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pg.png"
     },
-    "population": 11781559,
+    "population": 8935000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
       "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
@@ -51794,7 +51842,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pl.png"
     },
-    "population": 37392000,
+    "population": 37563071,
     "maps": {
       "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
@@ -52083,7 +52131,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 3203295,
+    "population": 3285874,
     "maps": {
       "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
@@ -52112,7 +52160,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 328.87
+      "value": 370.45
     },
     "gdp": {
       "total": 217800000,
@@ -52355,7 +52403,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png"
     },
-    "population": 25950000,
+    "population": 26418204,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
@@ -52620,7 +52668,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pt.png"
     },
-    "population": 10749635,
+    "population": 10347892,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
@@ -52664,7 +52712,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 112.2
+      "value": 112.37
     },
     "gdp": {
       "total": 251945377529,
@@ -52914,7 +52962,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/py.png"
     },
-    "population": 6109644,
+    "population": 6811297,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
@@ -53210,7 +53258,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ps.png"
     },
-    "population": 5483450,
+    "population": 5227193,
     "maps": {
       "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
@@ -53257,7 +53305,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 868.3
+      "value": 840.38
     },
     "gdp": {
       "total": 19111900000,
@@ -53521,7 +53569,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 67.07
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -53753,7 +53804,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png"
     },
-    "population": 3173024,
+    "population": 2639211,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
@@ -53795,7 +53846,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 230.76
+      "value": 227.79
     },
     "gdp": {
       "total": 237295575171,
@@ -54028,7 +54079,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 896175,
+    "population": 889679,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
@@ -54069,7 +54120,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 354.17
+      "value": 354.31
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -54306,7 +54357,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png"
     },
-    "population": 19036031,
+    "population": 19053815,
     "maps": {
       "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
@@ -54349,7 +54400,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 79.92
+      "value": 79.93
     },
     "gdp": {
       "total": 301261582924,
@@ -54605,7 +54656,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png"
     },
-    "population": 146028325,
+    "population": 146119928,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
       "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
@@ -54656,7 +54707,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 8.56
+      "value": 8.55
     },
     "gdp": {
       "total": 2240422438363,
@@ -54918,7 +54969,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/rw.png"
     },
-    "population": 14104969,
+    "population": 14569341,
     "maps": {
       "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
       "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
@@ -55211,7 +55262,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sa.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sa.png"
     },
-    "population": 35300280,
+    "population": 33000000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
@@ -55253,7 +55304,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 14.67
+      "value": 15.35
     },
     "gdp": {
       "total": 1108148978218,
@@ -55506,7 +55557,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png"
     },
-    "population": 51662000,
+    "population": 40533330,
     "maps": {
       "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
@@ -55804,7 +55855,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png"
     },
-    "population": 18593258,
+    "population": 16876720,
     "maps": {
       "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
@@ -56118,7 +56169,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sg.png"
     },
-    "population": 6110200,
+    "population": 5866139,
     "maps": {
       "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536780"
@@ -56156,7 +56207,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 8157.61
+      "value": 8262.17
     },
     "gdp": {
       "total": 466788539652,
@@ -56389,7 +56440,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 0,
+    "population": 35,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
@@ -56685,7 +56736,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 0.04
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -56912,7 +56966,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png"
     },
-    "population": 750325,
+    "population": 611343,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
@@ -56946,7 +57000,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 21.53
+      "value": 21.16
     },
     "gdp": {
       "total": 1595710784,
@@ -57182,7 +57236,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sl.png"
     },
-    "population": 9077691,
+    "population": 7557212,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192777"
@@ -57749,7 +57803,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png"
     },
-    "population": 34132,
+    "population": 33600,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
@@ -57781,7 +57835,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 549.02
+      "value": 550.82
     },
     "gdp": {
       "total": 1855382833,
@@ -58032,7 +58086,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/so.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/so.png"
     },
-    "population": 19655000,
+    "population": 11031386,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192799"
@@ -58350,7 +58404,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 24.05
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -58591,7 +58648,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/rs.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/rs.png"
     },
-    "population": 6567783,
+    "population": 6605168,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
@@ -58631,7 +58688,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 74.64
+      "value": 85.13
     },
     "gdp": {
       "total": 63501748652,
@@ -58870,7 +58927,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ss.png"
     },
-    "population": 15786898,
+    "population": 12575714,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
@@ -58919,7 +58976,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 19.52
+      "value": 20.29
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -59150,7 +59207,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/st.png"
     },
-    "population": 209607,
+    "population": 204327,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
@@ -59196,7 +59253,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 204.12
+      "value": 211.96
     },
     "gdp": {
       "total": 546680342,
@@ -59436,7 +59493,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png"
     },
-    "population": 616500,
+    "population": 563402,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
@@ -59493,7 +59550,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 3.45
+      "value": 3.44
     },
     "gdp": {
       "total": 3620655116,
@@ -59733,7 +59790,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sk.png"
     },
-    "population": 5413813,
+    "population": 5419451,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
@@ -60015,7 +60072,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/si.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/si.png"
     },
-    "population": 2130638,
+    "population": 2066880,
     "maps": {
       "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
       "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
@@ -60058,7 +60115,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 101.96
+      "value": 101.95
     },
     "gdp": {
       "total": 62117768015,
@@ -60295,7 +60352,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/se.png"
     },
-    "population": 10605098,
+    "population": 10609460,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
       "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
@@ -60338,7 +60395,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 23.71
+      "value": 23.56
     },
     "gdp": {
       "total": 585939170124,
@@ -60595,7 +60652,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1235549,
+    "population": 1230506,
     "maps": {
       "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
@@ -60901,7 +60958,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 41349,
+    "population": 43847,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
@@ -61187,7 +61244,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png"
     },
-    "population": 122729,
+    "population": 119773,
     "maps": {
       "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
@@ -61233,7 +61290,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 260.94
+      "value": 264.98
     },
     "gdp": {
       "total": 1588406479,
@@ -61474,7 +61531,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png"
     },
-    "population": 25620000,
+    "population": 23865423,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
@@ -61749,7 +61806,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 50828,
+    "population": 44542,
     "maps": {
       "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
@@ -61778,7 +61835,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 16.12
+      "value": 46.99
     },
     "gdp": {
       "total": 1044778790,
@@ -62031,7 +62088,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/td.png"
     },
-    "population": 19340757,
+    "population": 19319064,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
@@ -62317,7 +62374,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tg.png"
     },
-    "population": 8095498,
+    "population": 7797694,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
@@ -62606,7 +62663,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/th.png"
     },
-    "population": 65859640,
+    "population": 66188503,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
@@ -62901,7 +62958,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png"
     },
-    "population": 10499000,
+    "population": 9504000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
@@ -63192,7 +63249,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 2608,
+    "population": 1499,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
@@ -63221,7 +63278,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 149.9
+      "value": 124.92
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -63465,7 +63522,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png"
     },
-    "population": 7057841,
+    "population": 6117933,
     "maps": {
       "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
@@ -63502,7 +63559,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 12.45
+      "value": 12.53
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -63749,7 +63806,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1391221,
+    "population": 1243235,
     "maps": {
       "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
@@ -63786,7 +63843,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 83.33
+      "value": 83.58
     },
     "gdp": {
       "total": 3163324631,
@@ -64029,7 +64086,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/to.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/to.png"
     },
-    "population": 100179,
+    "population": 108020,
     "maps": {
       "googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186665"
@@ -64063,7 +64120,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 144.31
+      "value": 144.61
     },
     "gdp": {
       "total": 469228124,
@@ -64296,7 +64353,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tt.png"
     },
-    "population": 1367764,
+    "population": 1369125,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
@@ -64343,7 +64400,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 266.99
+      "value": 266.89
     },
     "gdp": {
       "total": 27899082337,
@@ -64580,7 +64637,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tn.png"
     },
-    "population": 11972169,
+    "population": 11565204,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
@@ -64883,7 +64940,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tr.png"
     },
-    "population": 85664944,
+    "population": 85372377,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
@@ -65202,7 +65259,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 423.35
+      "value": 409.35
     },
     "gdp": {
       "total": 60349391,
@@ -65468,7 +65525,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 644.24
+      "value": 644.17
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -65719,7 +65776,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tz.png"
     },
-    "population": 68153004,
+    "population": 57310019,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195270"
@@ -66016,7 +66073,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ug.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ug.png"
     },
-    "population": 45905417,
+    "population": 47123531,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192796"
@@ -66065,7 +66122,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 195.5
+      "value": 195.09
     },
     "gdp": {
       "total": 45559202049,
@@ -66307,7 +66364,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png"
     },
-    "population": 32862000,
+    "population": 41167335,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
@@ -66602,7 +66659,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 0.0
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -66834,7 +66894,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/uy.png"
     },
-    "population": 3499451,
+    "population": 3444263,
     "maps": {
       "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
@@ -66882,7 +66942,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 19.55
+      "value": 19.03
     },
     "gdp": {
       "total": 71177146197,
@@ -67491,7 +67551,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 34.61
+      "value": 35.71
     },
     "gdp": {
       "total": 28750956130000,
@@ -67743,7 +67803,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png"
     },
-    "population": 37859698,
+    "population": 34915100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
@@ -67780,7 +67840,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 77.77
+      "value": 78.04
     },
     "gdp": {
       "total": 69238900000,
@@ -68289,7 +68349,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png"
     },
-    "population": 110872,
+    "population": 109897,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
@@ -68570,7 +68630,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png"
     },
-    "population": 28517000,
+    "population": 31250306,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
@@ -68618,7 +68678,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 34.26
+      "value": 34.1
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -68847,7 +68907,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vg.png"
     },
-    "population": 39471,
+    "population": 39369,
     "maps": {
       "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
@@ -68876,7 +68936,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 210.32
+      "value": 260.72
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -69134,7 +69194,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 307.21
+      "value": 251.14
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -69369,7 +69429,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vn.png"
     },
-    "population": 101343800,
+    "population": 96208984,
     "maps": {
       "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
@@ -69412,7 +69472,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 290.06
+      "value": 290.48
     },
     "gdp": {
       "total": 408802379068,
@@ -69669,7 +69729,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png"
     },
-    "population": 321409,
+    "population": 300019,
     "maps": {
       "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
@@ -69964,7 +70024,10 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": null,
+    "density": {
+      "measurement": "per square kilometer",
+      "value": 81.83
+    },
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -70204,7 +70267,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ws.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ws.png"
     },
-    "population": 205557,
+    "population": 200010,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1872673"
@@ -70475,7 +70538,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png"
     },
-    "population": 32684503,
+    "population": 28250420,
     "maps": {
       "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
@@ -70522,7 +70585,7 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 62.02
+      "value": 53.51
     },
     "gdp": null,
     "nationalHoliday": "International Workers' Day",
@@ -70872,7 +70935,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/za.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/za.png"
     },
-    "population": 63100945,
+    "population": 62027503,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
@@ -71163,7 +71226,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/zm.png"
     },
-    "population": 19693423,
+    "population": 19610769,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195271"
@@ -71604,7 +71667,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/zw.png"
     },
-    "population": 17073087,
+    "population": 15178979,
     "maps": {
       "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
