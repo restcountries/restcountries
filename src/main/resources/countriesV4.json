@@ -255,21 +255,42 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "dutch",
+        "percentage": 78.8
+      },
+      {
+        "name": "colombian",
+        "percentage": 6.6
+      },
+      {
+        "name": "venezuelan",
+        "percentage": 5.5
+      },
+      {
+        "name": "dominican",
+        "percentage": 2.8
+      },
+      {
+        "name": "haitian",
+        "percentage": 1.3
+      },
+      {
+        "name": "other",
+        "percentage": 5.1
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "devolved",
       "type": "monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 592.99
-    },
+    "density": 560.4,
     "gdp": {
-      "total": 3126019385,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 3827000000,
+      "perCapita": 35717
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "2976-03-18",
     "anthem": "Aruba Dushi Tera"
   },
   {
@@ -555,9 +576,42 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "pashtun",
+        "percentage": 42
+      },
+      {
+        "name": "tajik",
+        "percentage": 27
+      },
+      {
+        "name": "hazara",
+        "percentage": 9
+      },
+      {
+        "name": "uzbek",
+        "percentage": 9
+      },
+      {
+        "name": "aimaq",
+        "percentage": 4
+      },
+      {
+        "name": "turkmen",
+        "percentage": 3
+      },
+      {
+        "name": "baloch",
+        "percentage": 2
+      },
+      {
+        "name": "other",
+        "percentage": 4
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "unitary totalitarian",
       "type": "theocracy"
     },
     "density": {
@@ -566,10 +620,9 @@
     },
     "gdp": {
       "total": 17233051620,
-      "perCapita": null,
-      "currency": "USD"
+      "perCapita": 411
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1919-08-19",
     "anthem": "This Is the Home of the Brave"
   },
   {
@@ -633,6 +686,42 @@
         "iso639_2": "por",
         "name": "Portuguese",
         "nativeName": "Portugu\u00eas"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "cjk",
+        "name": "Chokwe",
+        "nativeName": "Uc\u00f4kwe"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "kmb",
+        "name": "Kimbundu",
+        "nativeName": "Kimbundu"
+      },
+      {
+        "iso639_1": "kg",
+        "iso639_2": "kon",
+        "name": "Kongo",
+        "nativeName": "Kongo"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "kua",
+        "name": "Ovambo",
+        "nativeName": "Owambo"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "lch",
+        "name": "Luchazi",
+        "nativeName": "Luchazi"
+      },
+      {
+        "iso639_1": "",
+        "iso639_2": "lch",
+        "name": "Umbundu",
+        "nativeName": "\u00damb\u00fand\u00fa"
       }
     ],
     "translations": [
@@ -842,20 +931,61 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 79.1,
+        "population": 29069176
+      },
+      {
+        "name": "no-religion",
+        "percentage": 11.5,
+        "population": 4226239
+      },
+      {
+        "name": "other",
+        "percentage": 9.4,
+        "population": 3454491
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "ovimbundu",
+        "percentage": 37
+      },
+      {
+        "name": "ambundu",
+        "percentage": 25
+      },
+      {
+        "name": "bakongo",
+        "percentage": 13
+      },
+      {
+        "name": "other African",
+        "percentage": 21
+      },
+      {
+        "name": "mesti\u00e7o",
+        "percentage": 2
+      },
+      {
+        "name": "asian",
+        "percentage": 2
+      },
+      {
+        "name": "European",
+        "percentage": 1
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary presidential republic",
       "type": "republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 29.48
-    },
+    "density": 29.48,
     "gdp": {
-      "total": 84824654481,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 113340000000,
+      "perCapita": 2880
     },
     "nationalHoliday": null,
     "anthem": "Angola Avante"
@@ -1082,7 +1212,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ai.png"
     },
-    "population": 19079,
+    "population": 15753,
     "maps": {
       "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
@@ -1107,17 +1237,50 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 85.3
+      },
+      {
+        "name": "hispanic",
+        "percentage": 4.9
+      },
+      {
+        "name": "mixed",
+        "percentage": 3.8
+      },
+      {
+        "name": "white",
+        "percentage": 3.2
+      },
+      {
+        "name": "indian",
+        "percentage": 1.0
+      },
+      {
+        "name": "other",
+        "percentage": 1.9
+      },
+      {
+        "name": "unanswered",
+        "percentage": 0.3
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Government of the United Kingdom",
       "type": "constitutional monarchy"
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 209.66
+      "value": 91
     },
-    "gdp": null,
-    "nationalHoliday": null,
+    "gdp": {
+      "total": 311000000,
+      "perCapita": 29493,
+      "currency": "USD"
+    },
+    "nationalHoliday": "1980-12-16",
     "anthem": "God Save the King"
   },
   {
@@ -1366,7 +1529,8 @@
       "UTC+02:00"
     ],
     "callingCodes": [
-      "358"
+      "35818",
+      "358457"
     ],
     "regionalBlocs": [
       {
@@ -1377,14 +1541,21 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "name": "Devolved parliamentary autonomous region",
+      "type": "devolved"
+    },
     "density": {
       "measurement": "per square kilometer",
-      "value": 19.4
+      "value": 19.07
     },
-    "gdp": null,
-    "nationalHoliday": null,
-    "anthem": null
+    "gdp": {
+      "total": 1600000000,
+      "perCapita": 42408,
+      "currency": "USD"
+    },
+    "nationalHoliday": "1920-05-07",
+    "anthem": "Maamme "
   },
   {
     "name": {
@@ -1616,12 +1787,16 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/al.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/al.png"
     },
-    "population": 2811655,
+    "population": 2402113,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
     },
     "gini": [
+      {
+        "year": "2021",
+        "value": 29.4
+      },
       {
         "year": "2017",
         "value": 33.2
@@ -1651,22 +1826,56 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 50.67,
+        "population": 1217150
+      },
+      {
+        "name": "christianity",
+        "percentage": 16.02,
+        "population": 384818
+      },
+      {
+        "name": "irreligion",
+        "percentage": 17.37,
+        "population": 417246
+      },
+      {
+        "name": "undeclared",
+        "percentage": 15.92,
+        "population": 382416
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "albanians",
+        "percentage": 97.7
+      },
+      {
+        "name": "greeks",
+        "percentage": 1
+      },
+      {
+        "name": "other",
+        "percentage": 1.3
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary republic",
       "type": "parliamentary system"
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 97.8
+      "value": 86.3
     },
     "gdp": {
-      "total": 23547179830,
-      "perCapita": null,
+      "total": 32410000000,
+      "perCapita": 12150,
       "currency": "USD"
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "2912-11-28",
     "anthem": "Himni i Flamurit"
   },
   {
@@ -1896,12 +2105,17 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png"
     },
-    "population": 87486,
+    "population": 88941,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
     },
-    "gini": [],
+    "gini": [
+      {
+        "year": "2023",
+        "value": 40
+      }
+    ],
     "car": {
       "signs": [
         "AND"
@@ -1920,22 +2134,59 @@
       "376"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 90.8,
+        "population": 80758
+      },
+      {
+        "name": "no-religion",
+        "percentage": 6.9,
+        "population": 6136
+      },
+      {
+        "name": "other",
+        "percentage": 2.3,
+        "population": 2045
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "spaniard",
+        "percentage": 34.3
+      },
+      {
+        "name": "andorrans",
+        "percentage": 32.1
+      },
+      {
+        "name": "portuguese",
+        "percentage": 10
+      },
+      {
+        "name": "french",
+        "percentage": 5.6
+      },
+      {
+        "name": "other",
+        "percentage": 18
+      }
+    ],
     "government": {
       "name": null,
       "type": "parliamentary coprincipality"
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 186.94
+      "value": 187.1
     },
     "gdp": {
-      "total": 3352032737,
-      "perCapita": null,
+      "total": 3897000000,
+      "perCapita": 44900,
       "currency": "USD"
     },
-    "nationalHoliday": "Constitution Day",
+    "nationalHoliday": "1992-03-14",
     "anthem": "El gran Carlemany"
   },
   {
@@ -2166,7 +2417,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png"
     },
-    "population": 9890400,
+    "population": 11027129,
     "maps": {
       "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
@@ -2205,23 +2456,75 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "population": 8215211,
+        "percentage": 74.5
+      },
+      {
+        "name": "christianity",
+        "population": 1422500,
+        "percentage": 12.9
+      },
+      {
+        "name": "hinduism",
+        "population": 683682,
+        "percentage": 6.2
+      },
+      {
+        "name": "buddhusm",
+        "population": 352868,
+        "percentage": 3.2
+      },
+      {
+        "name": "agnosticism",
+        "population": 143353,
+        "percentage": 1.3
+      },
+      {
+        "name": "other",
+        "population": 209515,
+        "percentage": 1.9
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "south-asian",
+        "percentage": 59.4
+      },
+      {
+        "name": "emirati",
+        "percentage": 12
+      },
+      {
+        "name": "egyptian",
+        "percentage": 10.2
+      },
+      {
+        "name": "filipino",
+        "percentage": 6.1
+      },
+      {
+        "name": "other",
+        "percentage": 12.4
+      }
+    ],
     "government": {
       "name": null,
       "type": "constitutional monarchy"
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 118.31
+      "value": 132
     },
     "gdp": {
-      "total": 514130432653,
-      "perCapita": null,
+      "total": 548600000000,
+      "perCapita": 49550,
       "currency": "USD"
     },
-    "nationalHoliday": null,
-    "anthem": "Ishy Bilady"
+    "nationalHoliday": "1972-02-10",
+    "anthem": "Long Live My Country"
   },
   {
     "name": {
@@ -2441,7 +2744,7 @@
       "PRY",
       "URY"
     ],
-    "area": 2780400,
+    "area": 2780085,
     "flag": "\ud83c\udde6\ud83c\uddf7",
     "demonyms": [
       {
@@ -2464,7 +2767,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png"
     },
-    "population": 47327407,
+    "population": 46735004,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
@@ -2473,6 +2776,10 @@
       {
         "year": "2019",
         "value": 42.9
+      },
+      {
+        "year": "2022",
+        "value": 40.7
       }
     ],
     "car": {
@@ -2504,7 +2811,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 78.2,
+        "population": 36546773
+      },
+      {
+        "name": "no-religion",
+        "percentage": 20.5,
+        "population": 9580676
+      },
+      {
+        "name": "other",
+        "percentage": 1.3,
+        "population": 607555
+      }
+    ],
     "ethnicity": [],
     "government": {
       "name": null,
@@ -2512,14 +2835,14 @@
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 17.02
+      "value": 16.8
     },
     "gdp": {
-      "total": 646075277525,
-      "perCapita": null,
+      "total": 683533000000,
+      "perCapita": 14362,
       "currency": "USD"
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1816-07-09",
     "anthem": "Argentine National Anthem"
   },
   {
@@ -2752,7 +3075,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/am.png"
     },
-    "population": 2930450,
+    "population": 3081100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
@@ -2761,6 +3084,10 @@
       {
         "year": "2019",
         "value": 29.9
+      },
+      {
+        "year": "2022",
+        "value": 27.9
       }
     ],
     "car": {
@@ -2787,22 +3114,56 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "population": 2982505,
+        "percentage": 96.8
+      },
+      {
+        "name": "no-religion",
+        "population": 18487,
+        "percentage": 0.6
+      },
+      {
+        "name": "unspecified",
+        "population": 52379,
+        "percentage": 1.7
+      },
+      {
+        "name": "other",
+        "population": 27730,
+        "percentage": 0.9
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "armenian",
+        "percentage": 98.1
+      },
+      {
+        "name": "yazidis",
+        "percentage": 1.1
+      },
+      {
+        "name": "other",
+        "percentage": 0.8
+      }
+    ],
     "government": {
       "name": null,
-      "type": "republic"
+      "type": "parlamentary republic"
     },
     "density": {
       "measurement": "per square kilometer",
-      "value": 98.53
+      "value": 103.6
     },
     "gdp": {
-      "total": 24085749592,
-      "perCapita": null,
+      "total": 27850000000,
+      "perCapita": 8969,
       "currency": "USD"
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1918-05-28",
     "anthem": "Mer Hayrenik"
   },
   {
@@ -3041,7 +3402,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 49710,
+    "population": 43268,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2177187"
@@ -3065,19 +3426,54 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "population": 42987,
+        "percentage": 99.35
+      },
+      {
+        "name": "other",
+        "population": 281,
+        "percentage": 0.65
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "samoan",
+        "percentage": 83.2
+      },
+      {
+        "name": "asian",
+        "percentage": 5.8
+      },
+      {
+        "name": "pacific islander",
+        "percentage": 5.5
+      },
+      {
+        "name": "mixed",
+        "percentage": 4.4
+      },
+      {
+        "name": "other",
+        "percentage": 1.1
+      }
+    ],
+    "government": {
+      "name": "Devolved presidential constitutional dependency",
+      "type": "devolved"
+    },
     "density": {
       "measurement": "per square kilometer",
-      "value": 249.8
+      "value": 670.8
     },
     "gdp": {
       "total": 709000000,
-      "perCapita": null,
+      "perCapita": 15743,
       "currency": "USD"
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1776-07-04",
     "anthem": "The Star-Spangled Banner"
   },
   {
@@ -3276,7 +3672,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/aq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/aq.png"
     },
-    "population": 1300,
+    "population": 3300,
     "maps": {
       "googleMaps": "https://goo.gl/maps/kyBuJriu4itiXank7",
       "openStreetMaps": "https://www.openstreetmap.org/node/36966060"
@@ -3312,7 +3708,7 @@
     "government": null,
     "density": {
       "measurement": "per square kilometer",
-      "value": 0.0
+      "value": 0.00036
     },
     "gdp": null,
     "nationalHoliday": null,
@@ -3518,7 +3914,7 @@
     },
     "landlocked": false,
     "borders": [],
-    "area": 7747,
+    "area": 439666,
     "flag": "\ud83c\uddf9\ud83c\uddeb",
     "demonyms": [
       {
@@ -3541,7 +3937,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tf.png"
     },
-    "population": 196,
+    "population": 600,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
@@ -3579,11 +3975,11 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.03
+    "government": {
+      "name": "Unitary semi-presidential republic",
+      "type": "semi-presidential"
     },
+    "density": 0.03,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "La Marseillaise"
@@ -3787,7 +4183,7 @@
     },
     "landlocked": false,
     "borders": [],
-    "area": 442,
+    "area": 440,
     "flag": "\ud83c\udde6\ud83c\uddec",
     "demonyms": [
       {
@@ -3810,7 +4206,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png"
     },
-    "population": 101489,
+    "population": 106365,
     "maps": {
       "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
@@ -3844,23 +4240,75 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 92.7,
+        "population": 98600
+      },
+      {
+        "name": "rastafari",
+        "percentage": 3.6,
+        "population": 3829
+      },
+      {
+        "name": "no-religion",
+        "percentage": 1.9,
+        "population": 2021
+      },
+      {
+        "name": "bahai faith",
+        "percentage": 1.1,
+        "population": 1170
+      },
+      {
+        "name": "other",
+        "percentage": 0.7,
+        "population": 745
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 87.3
+      },
+      {
+        "name": "multiracial",
+        "percentage": 4.7
+      },
+      {
+        "name": "hispanic",
+        "percentage": 4.7
+      },
+      {
+        "name": "european",
+        "percentage": 1.7
+      },
+      {
+        "name": "east-indian",
+        "percentage": 1.1
+      },
+      {
+        "name": "syrian-lebanese",
+        "percentage": 0.7
+      },
+      {
+        "name": "other",
+        "percentage": 1.8
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 229.61
-    },
+    "density": 186,
     "gdp": {
       "total": 1757603704,
       "perCapita": null,
       "currency": "USD"
     },
-    "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "nationalHoliday": "1981-11-01",
+    "anthem": "Fair Antigua, We Salute Thee"
   },
   {
     "name": {
@@ -4061,7 +4509,7 @@
     },
     "landlocked": false,
     "borders": [],
-    "area": 7692024,
+    "area": 7688287,
     "flag": "\ud83c\udde6\ud83c\uddfa",
     "demonyms": [
       {
@@ -4084,7 +4532,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/au.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/au.png"
     },
-    "population": 27614411,
+    "population": 27840775,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
@@ -4093,6 +4541,10 @@
       {
         "year": "2014",
         "value": 34.4
+      },
+      {
+        "year": "2020",
+        "value": 32.4
       }
     ],
     "car": {
@@ -4120,22 +4572,54 @@
       "61"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 43.9,
+        "population": 12222100
+      },
+      {
+        "name": "no-religion",
+        "percentage": 43.9,
+        "population": 10830061
+      },
+      {
+        "name": "islam",
+        "percentage": 3.2,
+        "population": 890905
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.7,
+        "population": 751701
+      },
+      {
+        "name": "buddhism",
+        "percentage": 2.4,
+        "population": 668179
+      },
+      {
+        "name": "other",
+        "percentage": 1.7,
+        "population": 473293
+      },
+      {
+        "name": "unanswered",
+        "percentage": 7.2,
+        "population": 2004536
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Federal parliamentary constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.59
-    },
+    "density": 3.7,
     "gdp": {
-      "total": 1757022451653,
-      "perCapita": 54348,
-      "currency": "USD"
+      "total": 1837022451653,
+      "perCapita": 65946
     },
-    "nationalHoliday": "Australia Day",
+    "nationalHoliday": "1788-01-26",
     "anthem": "Advance Australia Fair"
   },
   {
@@ -4334,8 +4818,8 @@
       }
     ],
     "geolocation": {
-      "latitude": 47.33333333,
-      "longitude": 13.33333333
+      "latitude": 47.33,
+      "longitude": 13.33
     },
     "landlocked": true,
     "borders": [
@@ -4348,7 +4832,7 @@
       "SVN",
       "CHE"
     ],
-    "area": 83871,
+    "area": 83879,
     "flag": "\ud83c\udde6\ud83c\uddf9",
     "demonyms": [
       {
@@ -4371,7 +4855,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/at.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/at.png"
     },
-    "population": 8979894,
+    "population": 9110079,
     "maps": {
       "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
@@ -4380,6 +4864,10 @@
       {
         "year": "2018",
         "value": 30.8
+      },
+      {
+        "year": "2023",
+        "value": 28.1
       }
     ],
     "car": {
@@ -4406,23 +4894,39 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "population": 6213074,
+        "percentage": 68.2
+      },
+      {
+        "name": "other",
+        "population": 2532602,
+        "percentage": 27.8
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "austrians",
+        "percentage": 72.2
+      },
+      {
+        "name": "other",
+        "percentage": 27.8
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Federal semi-presidential republic",
       "type": "semi-presidential system"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 107.07
-    },
+    "density": 107.6,
     "gdp": {
-      "total": 511685203845,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 534385203845,
+      "perCapita": 58190
     },
-    "nationalHoliday": "National Holiday",
-    "anthem": "Land der Berge, Land am Strome"
+    "nationalHoliday": "1955-10-26",
+    "anthem": "Bundeshymne der Republik Österreich"
   },
   {
     "name": {
@@ -4664,6 +5168,10 @@
       {
         "year": "2005",
         "value": 26.6
+      },
+      {
+        "year": "2008",
+        "value": 33.7
       }
     ],
     "car": {
@@ -4684,23 +5192,61 @@
       "994"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "population": 84262,
+        "percentage": 97.3
+      },
+      {
+        "name": "christianity",
+        "population": 2252,
+        "percentage": 2.6
+      },
+      {
+        "name": "other",
+        "population": 87,
+        "percentage": 0.1
+      },
+      {
+        "name": "unaffiliated",
+        "population": 87,
+        "percentage": 0.1
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "azerbaijani",
+        "population": 94.8
+      },
+      {
+        "name": "russian",
+        "population": 0.7
+      },
+      {
+        "name": "lezgin",
+        "population": 1.7
+      },
+      {
+        "name": "talysh",
+        "population": 0.9
+      },
+      {
+        "name": "other",
+        "population": 1.9
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "republic"
+      "name": "Unitary semi-presidential republic under a hereditary dictatorship",
+      "type": "dinasty"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 117.56
-    },
+    "density": 117,
     "gdp": {
-      "total": 72356176470,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 79356176470,
+      "perCapita": 7604
     },
     "nationalHoliday": null,
-    "anthem": "Az\u0259rbaycan mar\u015f\u0131"
+    "anthem": "Az\u0259rbaycan Respublikas\u0131n\u0131n D\u00f6vl\u0259t himni"
   },
   {
     "name": {
@@ -4942,7 +5488,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png"
     },
-    "population": 13689450,
+    "population": 14151540,
     "maps": {
       "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
@@ -4951,6 +5497,10 @@
       {
         "year": "2013",
         "value": 38.6
+      },
+      {
+        "year": "2020",
+        "value": 37.5
       }
     ],
     "car": {
@@ -4983,22 +5533,48 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "population": 13217538,
+        "percentage": 93.4
+      },
+      {
+        "name": "traditional faiths",
+        "population": 608516,
+        "percentage": 4.3
+      },
+      {
+        "name": "Islam",
+        "population": 297182,
+        "percentage": 2.1
+      },
+      {
+        "name": "other",
+        "population": 28303,
+        "percentage": 0.2
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "barundi",
+        "percentage": 99
+      },
+      {
+        "name": "other",
+        "percentage": 1
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "name": "Unitary dominant-party presidential republic under an authoritarian dictatorship[",
+      "type": "authoritarianism"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 491.82
-    },
+    "density": 565,
     "gdp": {
-      "total": 2642161668,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 6750161668,
+      "perCapita": 489
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1962-07-01",
     "anthem": "Burundi Bwacu"
   },
   {
@@ -5225,7 +5801,7 @@
       }
     ],
     "geolocation": {
-      "latitude": 50.83333333,
+      "latitude": 50.83,
       "longitude": 4.0
     },
     "landlocked": false,
@@ -5235,7 +5811,7 @@
       "LUX",
       "NLD"
     ],
-    "area": 30528,
+    "area": 30689,
     "flag": "\ud83c\udde7\ud83c\uddea",
     "demonyms": [
       {
@@ -5267,6 +5843,10 @@
       {
         "year": "2018",
         "value": 27.2
+      },
+      {
+        "year": "2022",
+        "value": 24.9
       }
     ],
     "car": {
@@ -5293,22 +5873,48 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "no-religion",
+        "population": 6977075,
+        "percentage": 59
+      },
+      {
+        "name": "christianity",
+        "population": 4020687,
+        "percentage": 34
+      },
+      {
+        "name": "islam",
+        "population": 709533,
+        "percentage": 6
+      },
+      {
+        "name": "other",
+        "population": 118256,
+        "percentage": 1
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "belgian",
+        "percentage": 86.1
+      },
+      {
+        "name": "no-belgian",
+        "percentage": 13.8
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Federal parliamentary constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 387.37
-    },
+    "density": 385,
     "gdp": {
-      "total": 644782756682,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 689364756682,
+      "perCapita": 58248
     },
-    "nationalHoliday": "Belgian National Day",
+    "nationalHoliday": "1830-10-04",
     "anthem": "The Braban\u00e7onne"
   },
   {
@@ -5517,7 +6123,7 @@
       "NGA",
       "TGO"
     ],
-    "area": 112622,
+    "area": 114763,
     "flag": "\ud83c\udde7\ud83c\uddef",
     "demonyms": [
       {
@@ -5540,7 +6146,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png"
     },
-    "population": 14111034,
+    "population": 13754688,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
@@ -5549,6 +6155,10 @@
       {
         "year": "2015",
         "value": 47.8
+      },
+      {
+        "year": "2021",
+        "value": 34.4
       }
     ],
     "car": {
@@ -5581,22 +6191,81 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 52.2,
+        "population": 7179947
+      },
+      {
+        "name": "islam",
+        "percentage": 24.6,
+        "population": 3383653
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 17.9,
+        "population": 2462089
+      },
+      {
+        "name": "no-religion",
+        "percentage": 5.2,
+        "population": 715244
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 13755
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "fon",
+        "percentage": 38.4
+      },
+      {
+        "name": "adja and mina",
+        "percentage": 15.1
+      },
+      {
+        "name": "yoruba",
+        "percentage": 12
+      },
+      {
+        "name": "bariba",
+        "percentage": 9.6
+      },
+      {
+        "name": "fula",
+        "percentage": 8.6
+      },
+      {
+        "name": "ottamari",
+        "percentage": 6.1
+      },
+      {
+        "name": "yoa-lokpa",
+        "percentage": 4.3
+      },
+      {
+        "name": "dendi",
+        "percentage": 2.9
+      },
+      {
+        "name": "other",
+        "percentage": 2.8
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary presidential republic",
       "type": "republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 125.3
-    },
+    "density": 94.8,
     "gdp": {
-      "total": 19676049075,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 27450049075,
+      "perCapita": 1790
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1960-01-08",
     "anthem": "L'Aube Nouvelle"
   },
   {
@@ -5805,7 +6474,7 @@
       "NER",
       "TGO"
     ],
-    "area": 272967,
+    "area": 274223,
     "flag": "\ud83c\udde7\ud83c\uddeb",
     "demonyms": [
       {
@@ -5837,6 +6506,10 @@
       {
         "year": "2014",
         "value": 35.3
+      },
+      {
+        "year": "2021",
+        "value": 37.4
       }
     ],
     "car": {
@@ -5869,23 +6542,77 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "Islam",
+        "percentage": 63.8,
+        "population": 14690445
+      },
+      {
+        "name": "Christianity",
+        "percentage": 26.3,
+        "population": 6055779
+      },
+      {
+        "name": "Animism",
+        "percentage": 9,
+        "population": 2072320
+      },
+      {
+        "name": "irreligion",
+        "percentage": 0.7,
+        "population": 161180
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "mossi",
+        "percentage": 53.7
+      },
+      {
+        "name": "fula",
+        "percentage": 6.8
+      },
+      {
+        "name": "gurunsi",
+        "percentage": 5.9
+      },
+      {
+        "name": "bissa",
+        "percentage": 5.4
+      },
+      {
+        "name": "gurma",
+        "percentage": 5.2
+      },
+      {
+        "name": "bobo",
+        "percentage": 3.4
+      },
+      {
+        "name": "senufo",
+        "percentage": 2.2
+      },
+      {
+        "name": "lobi",
+        "percentage": 1.5
+      },
+      {
+        "name": "tuareg",
+        "percentage": 0.1
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "republic"
+      "name": "Unitary semi-presidential republic under a military junta",
+      "type": "military junta"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 84.35
-    },
+    "density": 86,
     "gdp": {
-      "total": 20324617844,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 27064617844,
+      "perCapita": 2980
     },
-    "nationalHoliday": null,
-    "anthem": "Une Seule Nuit"
+    "nationalHoliday": "1960-0608",
+    "anthem": "Ditany\u00e8"
   },
   {
     "name": {
@@ -6091,7 +6818,7 @@
       "MMR",
       "IND"
     ],
-    "area": 147570,
+    "area": 148460,
     "flag": "\ud83c\udde7\ud83c\udde9",
     "demonyms": [
       {
@@ -6114,7 +6841,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bd.png"
     },
-    "population": 171466990,
+    "population": 173562364,
     "maps": {
       "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
@@ -6123,6 +6850,10 @@
       {
         "year": "2016",
         "value": 32.4
+      },
+      {
+        "year": "2025",
+        "value": 33.4
       }
     ],
     "car": {
@@ -6149,22 +6880,53 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "Islam ",
+        "percentage": 91.04,
+        "population": 158011176
+      },
+      {
+        "name": "Hinduism",
+        "percentage": 7.94,
+        "population": 13780852
+      },
+      {
+        "name": "Buddhism",
+        "percentage": 0.6,
+        "population": 1041374
+      },
+      {
+        "name": "Christianity",
+        "percentage": 0.3,
+        "population": 520687
+      },
+      {
+        "name": "other",
+        "percentage": 0.12,
+        "population": 208275
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "Bengali",
+        "percentage": 99
+      },
+      {
+        "name": "other",
+        "percentage": 1
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary republic",
       "type": "Westminster system"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1161.94
-    },
+    "density": 1165,
     "gdp": {
-      "total": 437415331040,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 475015331040,
+      "perCapita": 2730
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1971-03-26",
     "anthem": "Amar Sonar Bangla"
   },
   {
@@ -6374,7 +7136,7 @@
       "SRB",
       "TUR"
     ],
-    "area": 110879,
+    "area": 110994,
     "flag": "\ud83c\udde7\ud83c\uddec",
     "demonyms": [
       {
@@ -6397,7 +7159,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png"
     },
-    "population": 6437360,
+    "population": 6447710,
     "maps": {
       "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
@@ -6432,22 +7194,61 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 64.7,
+        "population": 4171668
+      },
+      {
+        "name": "no-religion",
+        "percentage": 15.9,
+        "population": 1025186
+      },
+      {
+        "name": "Islam",
+        "percentage": 9.8,
+        "population": 631876
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 6448
+      },
+      {
+        "name": "unanswered",
+        "percentage": 9.5,
+        "population": 612532
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "Bulgarians",
+        "percentage": 85.7
+      },
+      {
+        "name": "Turks",
+        "percentage": 8.5
+      },
+      {
+        "name": "Roma",
+        "percentage": 4.5
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary republic",
       "type": "parliamentary republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 58.06
-    },
+    "density": 58.09,
     "gdp": {
       "total": 102407653020,
-      "perCapita": null,
-      "currency": "USD"
+      "perCapita": 0
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1878-03-03",
     "anthem": "Mila Rodino"
   },
   {
@@ -6651,7 +7452,7 @@
     },
     "landlocked": false,
     "borders": [],
-    "area": 765,
+    "area": 786.8,
     "flag": "\ud83c\udde7\ud83c\udded",
     "demonyms": [
       {
@@ -6674,7 +7475,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bh.png"
     },
-    "population": 1569666,
+    "population": 1463265,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
@@ -6708,23 +7509,51 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 74,
+        "population": 1082816
+      },
+      {
+        "name": "other",
+        "percentage": 26,
+        "population": 380449
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "Arabs",
+        "percentage": 53.2
+      },
+      {
+        "name": "South Asians",
+        "percentage": 43.4
+      },
+      {
+        "name": "Africans",
+        "percentage": 1.4
+      },
+      {
+        "name": "North Americans",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 0.1
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary semi-constitutional monarchy under an authoritarian government",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 2051.85
-    },
+    "density": 1864,
     "gdp": {
-      "total": 44390820479,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 49190820479,
+      "perCapita": 71460
     },
-    "nationalHoliday": null,
-    "anthem": "Bahrainona"
+    "nationalHoliday": "1971-12-16",
+    "anthem": "Ba\u1e25raynun\u0101"
   },
   {
     "name": {
@@ -6954,7 +7783,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png"
     },
-    "population": 399440,
+    "population": 412628,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
@@ -6988,22 +7817,60 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 93,
+        "population": 383744
+      },
+      {
+        "name": "no religion",
+        "percentage": 4.5,
+        "population": 18568
+      },
+      {
+        "name": "folk religions",
+        "percentage": 1.9,
+        "population": 7840
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 2476
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "Black",
+        "percentage": 90.6
+      },
+      {
+        "name": "White",
+        "percentage": 4.7
+      },
+      {
+        "name": "mixed",
+        "percentage": 2.1
+      },
+      {
+        "name": "other",
+        "percentage": 1.9
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.7
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 28.65
-    },
+    "density": 25.21,
     "gdp": {
-      "total": 14338500000,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 14390500000,
+      "perCapita": 35257
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1973-07-10",
     "anthem": "March On, Bahamaland"
   },
   {
@@ -7057,8 +7924,8 @@
     ],
     "capitalInfo": {
       "latlng": [
-        43.87,
-        18.42
+        43.52,
+        18.25
       ]
     },
     "altSpellings": [
@@ -7256,7 +8123,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ba.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ba.png"
     },
-    "population": 3816459,
+    "population": 2904256,
     "maps": {
       "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
@@ -7265,6 +8132,10 @@
       {
         "year": "2011",
         "value": 33
+      },
+      {
+        "year": "2022",
+        "value": 27.1
       }
     ],
     "car": {
@@ -7291,23 +8162,35 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 51.3,
+        "population": 1489883
+      },
+      {
+        "name": "christianity",
+        "percentage": 46.1,
+        "population": 1338862
+      },
+      {
+        "name": "other",
+        "percentage": 2.6,
+        "population": 75511
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Federal parliamentary[9] directorial republic",
       "type": "republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 74.53
-    },
+    "density": 61,
     "gdp": {
-      "total": 27514782476,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 36244782476,
+      "perCapita": 23930
     },
-    "nationalHoliday": "Independence Day",
-    "anthem": "national anthem of Bosnia and Herzegovina"
+    "nationalHoliday": "1992-03-03",
+    "anthem": "Dr\u017eavna himna Bosne i Hercegovine"
   },
   {
     "name": {
@@ -7561,13 +8444,13 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 502.95
+    "density": 426,
+    "gdp": {
+      "total": 487000000,
+      "perCapita": 51735
     },
-    "gdp": null,
-    "nationalHoliday": null,
-    "anthem": null
+    "nationalHoliday": "",
+    "anthem": "La Marseillaise"
   },
   {
     "name": {
@@ -7837,13 +8720,16 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 14.3
+    "government": {
+      "name": "Devolved self-governing dependencies under a constitutional monarchy",
+      "type": "monarchy"
     },
-    "gdp": null,
-    "nationalHoliday": null,
+    "density": 13.4,
+    "gdp": {
+      "total": 43000000,
+      "perCapita": 0
+    },
+    "nationalHoliday": "",
     "anthem": "God Save the King"
   },
   {
@@ -8124,23 +9010,56 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 91,
+        "population": 8289445
+      },
+      {
+        "name": "no-religion",
+        "percentage": 7.8,
+        "population": 710524
+      },
+      {
+        "name": "other",
+        "percentage": 1.2,
+        "population": 109311
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "belarusians",
+        "percentage": 84.9
+      },
+      {
+        "name": "russians",
+        "percentage": 7.5
+      },
+      {
+        "name": "poles",
+        "percentage": 3.1
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 1.7
+      },
+      {
+        "name": "other",
+        "percentage": 2.8
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "name": "Unitary semi-presidential republic under an authoritarian dictatorship",
+      "type": "authoritarianism"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 43.88
-    },
+    "density": 43.9,
     "gdp": {
-      "total": 71857382745,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 68864382745,
+      "perCapita": 7477
     },
-    "nationalHoliday": "October Revolution Day",
-    "anthem": "My Belarusy"
+    "nationalHoliday": "1991-12-26",
+    "anthem": "Gosudarstvennyy gimn Respubliki Belarus"
   },
   {
     "name": {
@@ -8389,7 +9308,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png"
     },
-    "population": 411106,
+    "population": 397483,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
@@ -8398,6 +9317,10 @@
       {
         "year": "1999",
         "value": 53.3
+      },
+      {
+        "year": "2013",
+        "value": 53.1
       }
     ],
     "car": {
@@ -8435,22 +9358,75 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 61.9,
+        "population": 246042
+      },
+      {
+        "name": "no religion",
+        "percentage": 31.8,
+        "population": 126400
+      },
+      {
+        "name": "other",
+        "percentage": 6.3,
+        "population": 25041
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 52.9
+      },
+      {
+        "name": "creole",
+        "percentage": 25.9
+      },
+      {
+        "name": "mayan",
+        "percentage": 11.3
+      },
+      {
+        "name": "garifuna",
+        "percentage": 6.1
+      },
+      {
+        "name": "east indian",
+        "percentage": 3.9
+      },
+      {
+        "name": "mennonite",
+        "percentage": 3.6
+      },
+      {
+        "name": "white",
+        "percentage": 1.2
+      },
+      {
+        "name": "asian",
+        "percentage": 1
+      },
+      {
+        "name": "other",
+        "percentage": 1.2
+      },
+      {
+        "name": "unknown",
+        "percentage": 0.3
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 17.9
-    },
+    "density": 17.31,
     "gdp": {
-      "total": 3066850000,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 3488850000,
+      "perCapita": 8355
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1973-09-21",
     "anthem": "Land of the Free"
   },
   {
@@ -8650,12 +9626,12 @@
       }
     ],
     "geolocation": {
-      "latitude": 32.33333333,
+      "latitude": 32.33,
       "longitude": -64.75
     },
     "landlocked": false,
     "borders": [],
-    "area": 54,
+    "area": 53.2,
     "flag": "\ud83c\udde7\ud83c\uddf2",
     "demonyms": [
       {
@@ -8678,7 +9654,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bm.png"
     },
-    "population": 65024,
+    "population": 63913,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
@@ -8703,21 +9679,38 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "black",
+        "percentage": 52
+      },
+      {
+        "name": "white",
+        "percentage": 31
+      },
+      {
+        "name": "multiracial",
+        "percentage": 9
+      },
+      {
+        "name": "asian",
+        "percentage": 4
+      },
+      {
+        "name": "other",
+        "percentage": 4
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Parliamentary dependency under a constitutional monarchy",
       "type": "British overseas territory"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1204.15
-    },
+    "density": 1338,
     "gdp": {
-      "total": 7550500000,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 7484500000,
+      "perCapita": 117097
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "",
     "anthem": "God Save the King"
   },
   {
@@ -8989,7 +9982,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png"
     },
-    "population": 12244159,
+    "population": 11365333,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
@@ -8998,6 +9991,10 @@
       {
         "year": "2019",
         "value": 41.6
+      },
+      {
+        "year": "2021",
+        "value": 40.9
       }
     ],
     "car": {
@@ -9029,23 +10026,35 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 92.8,
+        "population": 10547029
+      },
+      {
+        "name": "no-religion",
+        "percentage": 6.5,
+        "population": 738747
+      },
+      {
+        "name": "other",
+        "percentage": 0.7,
+        "population": 79557
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "name": "Unitary presidential republic",
+      "type": "presidential republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 11.15
-    },
+    "density": 10.4,
     "gdp": {
-      "total": 43068885673,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 56339885673,
+      "perCapita": 4525
     },
-    "nationalHoliday": null,
-    "anthem": "National Anthem of Bolivia"
+    "nationalHoliday": "1825-08-16",
+    "anthem": "Himno Nacional de Bolivia"
   },
   {
     "name": {
@@ -9264,7 +10273,7 @@
     },
     "landlocked": false,
     "borders": [],
-    "area": 328,
+    "area": 322,
     "flag": "\ud83c\udde7\ud83c\uddf6",
     "demonyms": [
       {
@@ -9318,9 +10327,12 @@
       "measurement": "per square kilometer",
       "value": 97.5
     },
-    "gdp": null,
-    "nationalHoliday": null,
-    "anthem": null
+    "gdp": {
+      "total": 725000000,
+      "perCapita": 0
+    },
+    "nationalHoliday": "",
+    "anthem": "Wilhelmus"
   },
   {
     "name": {
@@ -9567,6 +10579,10 @@
       {
         "year": "2019",
         "value": 53.4
+      },
+      {
+        "year": "2023",
+        "value": 51.6
       }
     ],
     "car": {
@@ -9601,23 +10617,71 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 83.6,
+        "population": 178419987
+      },
+      {
+        "name": "no-religion",
+        "percentage": 9.28,
+        "population": 19805472
+      },
+      {
+        "name": "spiritism",
+        "percentage": 1.84,
+        "population": 3926947
+      },
+      {
+        "name": "afro-brazilian religions",
+        "percentage": 1.05,
+        "population": 2240921
+      },
+      {
+        "name": "other",
+        "percentage": 4.07,
+        "population": 8686236
+      },
+      {
+        "name": "not stated",
+        "percentage": 0.17,
+        "population": 362816
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "pardo",
+        "percentage": 45.3
+      },
+      {
+        "name": "white",
+        "percentage": 43.5
+      },
+      {
+        "name": "black",
+        "percentage": 10.2
+      },
+      {
+        "name": "indigenous",
+        "percentage": 0.6
+      },
+      {
+        "name": "east asian",
+        "percentage": 0.4
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Federal presidential republic",
       "type": "presidential system"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 25.06
-    },
+    "density": 23.8,
     "gdp": {
-      "total": 1920095560995,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 2260095560995,
+      "perCapita": 10580
     },
-    "nationalHoliday": "Independence Day",
-    "anthem": "Brazilian National Anthem"
+    "nationalHoliday": "1822-09-07",
+    "anthem": "Hino Nacional Brasileiro"
   },
   {
     "name": {
@@ -9813,12 +10877,12 @@
       }
     ],
     "geolocation": {
-      "latitude": 13.16666666,
-      "longitude": -59.53333333
+      "latitude": 13.16,
+      "longitude": -59.53
     },
     "landlocked": false,
     "borders": [],
-    "area": 430,
+    "area": 439,
     "flag": "\ud83c\udde7\ud83c\udde7",
     "demonyms": [
       {
@@ -9841,12 +10905,17 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bb.png"
     },
-    "population": 303431,
+    "population": 281998,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
     },
-    "gini": [],
+    "gini": [
+      {
+        "year": "2016",
+        "value": 34.1
+      }
+    ],
     "car": {
       "signs": [
         "BDS"
@@ -9875,22 +10944,65 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 75.6,
+        "population": 213190
+      },
+      {
+        "name": "no-religion",
+        "percentage": 20.6,
+        "population": 58092
+      },
+      {
+        "name": "bah\u00e1ʼ\u00ed Faith",
+        "percentage": 2,
+        "population": 5640
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.1,
+        "population": 3102
+      },
+      {
+        "name": "other",
+        "percentage": 0.7,
+        "population": 1974
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "black",
+        "percentage": 92.4
+      },
+      {
+        "name": "mixed",
+        "percentage": 3.1
+      },
+      {
+        "name": "white",
+        "percentage": 2.7
+      },
+      {
+        "name": "indian",
+        "percentage": 1.3
+      },
+      {
+        "name": "others",
+        "percentage": 0.3
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary republic",
       "type": "unitary state"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 705.65
-    },
+    "density": 660,
     "gdp": {
-      "total": 5637914515,
-      "perCapita": 18798,
-      "currency": "USD"
+      "total": 6227914515,
+      "perCapita": 21442
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1966-11-30",
     "anthem": "National Anthem of Barbados"
   },
   {
@@ -10125,7 +11237,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png"
     },
-    "population": 458949,
+    "population": 466227,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
@@ -10155,22 +11267,52 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "sunni islam ",
+        "percentage": 80.7,
+        "population": 376245
+      },
+      {
+        "name": "christianity",
+        "percentage": 10.7,
+        "population": 49886
+      },
+      {
+        "name": "buddhism",
+        "percentage": 7.8,
+        "population": 36366
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 3730
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "malay",
+        "percentage": 73.7
+      },
+      {
+        "name": "chinese",
+        "percentage": 9.6
+      },
+      {
+        "name": "others",
+        "percentage": 16.6
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "unitary state"
+      "name": "Unitary Islamic absolute monarchy",
+      "type": "unitary monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 79.61
-    },
+    "density": 72.11,
     "gdp": {
       "total": 16681531646,
-      "perCapita": null,
-      "currency": "USD"
+      "perCapita": 34970
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1984-02-23",
     "anthem": "Allah Peliharakan Sultan"
   },
   {
@@ -10404,7 +11546,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bt.png"
     },
-    "population": 787424,
+    "population": 777486,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184629"
@@ -10413,6 +11555,10 @@
       {
         "year": "2017",
         "value": 37.4
+      },
+      {
+        "year": "2022",
+        "value": 28.5
       }
     ],
     "car": {
@@ -10439,22 +11585,39 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 74.7,
+        "population": 580782
+      },
+      {
+        "name": "hinduism",
+        "percentage": 22.6,
+        "population": 175712
+      },
+      {
+        "name": "bon",
+        "percentage": 1.9,
+        "population": 14772
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 6220
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary semi-constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 20.51
-    },
+    "density": 20.5,
     "gdp": {
-      "total": 2539551327,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 3420551327,
+      "perCapita": 4300
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1907-12-17",
     "anthem": "Druk Tsenden"
   },
   {
@@ -10922,7 +12085,7 @@
       "ZMB",
       "ZWE"
     ],
-    "area": 582000,
+    "area": 581730,
     "flag": "\ud83c\udde7\ud83c\uddfc",
     "demonyms": [
       {
@@ -10945,7 +12108,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png"
     },
-    "population": 2480244,
+    "population": 2359609,
     "maps": {
       "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
@@ -10954,6 +12117,10 @@
       {
         "year": "2015",
         "value": 53.3
+      },
+      {
+        "year": "2016",
+        "value": 45.5
       }
     ],
     "car": {
@@ -10986,22 +12153,61 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 79.1,
+        "population": 1866451
+      },
+      {
+        "name": "no religion",
+        "percentage": 15.2,
+        "population": 358661
+      },
+      {
+        "name": "Badimo",
+        "percentage": 4.1,
+        "population": 96744
+      },
+      {
+        "name": "others",
+        "percentage": 1.4,
+        "population": 33035
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.3,
+        "population": 7079
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "tswana",
+        "percentage": 79
+      },
+      {
+        "name": "kalanga",
+        "percentage": 11
+      },
+      {
+        "name": "san",
+        "percentage": 3
+      },
+      {
+        "name": "others",
+        "percentage": 7
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary parliamentary republic with an executive presidency",
       "type": "parliamentary republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 4.26
-    },
+    "density": 4.1,
     "gdp": {
-      "total": 20352322157,
-      "perCapita": 6710,
-      "currency": "USD"
+      "total": 20710322157,
+      "perCapita": 7380
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1966-09-30",
     "anthem": "Fatshe leno la rona"
   },
   {
@@ -11246,7 +12452,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cf.png"
     },
-    "population": 5152421,
+    "population": 5650957,
     "maps": {
       "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
@@ -11255,6 +12461,10 @@
       {
         "year": "2008",
         "value": 56.2
+      },
+      {
+        "year": "2021",
+        "value": 43
       }
     ],
     "car": {
@@ -11287,19 +12497,39 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 73.2,
+        "population": 4136501
+      },
+      {
+        "name": "Islam",
+        "percentage": 13.9,
+        "population": 785483
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 12,
+        "population": 678115
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 50859
+      }
+    ],
     "ethnicity": [],
-    "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 8.27
+    "government": {
+      "name": "Unitary presidential republic",
+      "type": "presidential republic"
     },
+    "density": 8.6,
     "gdp": {
-      "total": 2382618615,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 3710618615,
+      "perCapita": 650
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1958-12-01",
     "anthem": "La Renaissance"
   },
   {
@@ -11537,7 +12767,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png"
     },
-    "population": 36991981,
+    "population": 41575585,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
@@ -11546,6 +12776,10 @@
       {
         "year": "2017",
         "value": 33.3
+      },
+      {
+        "year": "2024",
+        "value": 29.2
       }
     ],
     "car": {
@@ -11583,19 +12817,15 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Federal parliamentary constitutional monarchy",
       "type": "constitutional monarchy"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.7
-    },
+    "density": 4.2,
     "gdp": {
-      "total": 2206764000000,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 2284764000000,
+      "perCapita": 54935
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1867-07-01",
     "anthem": "O Canada"
   },
   {
@@ -11794,7 +13024,7 @@
       }
     ],
     "geolocation": {
-      "latitude": -12.1642,
+      "latitude": -12.164,
       "longitude": 96.871
     },
     "landlocked": false,
@@ -11835,8 +13065,8 @@
       "side": "left"
     },
     "postalCode": {
-      "format": null,
-      "regex": null
+      "format": "",
+      "regex": ""
     },
     "startOfWeek": "monday",
     "timezones": [
@@ -11848,14 +13078,17 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 42.36
+    "government": {
+      "name": "Directly administered dependency",
+      "type": "dependency"
     },
-    "gdp": null,
-    "nationalHoliday": null,
-    "anthem": null
+    "density": 0,
+    "gdp": {
+      "total": 11012550,
+      "perCapita": 18570
+    },
+    "nationalHoliday": "",
+    "anthem": "Onward our island"
   },
   {
     "name": {
@@ -12100,7 +13333,7 @@
       "LIE",
       "DEU"
     ],
-    "area": 41284,
+    "area": 41291,
     "flag": "\ud83c\udde8\ud83c\udded",
     "demonyms": [
       {
@@ -12123,7 +13356,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ch.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ch.png"
     },
-    "population": 9104063,
+    "population": 9060598,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
@@ -12132,6 +13365,10 @@
       {
         "year": "2018",
         "value": 33.1
+      },
+      {
+        "year": "2023",
+        "value": 31.5
       }
     ],
     "car": {
@@ -12158,22 +13395,44 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 54.7,
+        "population": 4956147
+      },
+      {
+        "name": "no religion",
+        "percentage": 36.8,
+        "population": 3334300
+      },
+      {
+        "name": "Islam",
+        "percentage": 6,
+        "population": 543636
+      },
+      {
+        "name": "other",
+        "percentage": 1.5,
+        "population": 135909
+      },
+      {
+        "name": "unanswered",
+        "percentage": 0.9,
+        "population": 81545
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Federal assembly-independent directorial republic",
       "type": "federal republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 220.52
-    },
+    "density": 207,
     "gdp": {
-      "total": 807706035352,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 881083035352,
+      "perCapita": 97660
     },
-    "nationalHoliday": "Saint Stephen's Day",
+    "nationalHoliday": "1291-08-01",
     "anthem": "Swiss Psalm"
   },
   {
@@ -12404,7 +13663,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png"
     },
-    "population": 19458000,
+    "population": 19629588,
     "maps": {
       "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
@@ -12452,23 +13711,35 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "Christianity",
+        "percentage": 70,
+        "population": 13740712
+      },
+      {
+        "name": "no-religion",
+        "percentage": 26,
+        "population": 5103693
+      },
+      {
+        "name": "other",
+        "percentage": 4,
+        "population": 785184
+      }
+    ],
     "ethnicity": [],
     "government": {
-      "name": null,
+      "name": "Unitary presidential republic",
       "type": "democratic republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 25.73
-    },
+    "density": 24,
     "gdp": {
-      "total": 301025249438,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 347170249438,
+      "perCapita": 17180
     },
-    "nationalHoliday": null,
-    "anthem": "National Anthem of Chile"
+    "nationalHoliday": "1810-02-12",
+    "anthem": "Himno Nacional de Chile"
   },
   {
     "name": {
@@ -12723,6 +13994,10 @@
       {
         "year": "2016",
         "value": 38.5
+      },
+      {
+        "year": "2022",
+        "value": 36
       }
     ],
     "car": {
@@ -12744,21 +14019,58 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "Han Chinese",
+        "percentage": 91.11
+      },
+      {
+        "name": "Zhuang",
+        "percentage": 1.39
+      },
+      {
+        "name": "Uyghur",
+        "percentage": 0.84
+      },
+      {
+        "name": "Hui",
+        "percentage": 0.81
+      },
+      {
+        "name": "Miao",
+        "percentage": 0.79
+      },
+      {
+        "name": "Manchu",
+        "percentage": 0.74
+      },
+      {
+        "name": "Yi",
+        "percentage": 0.7
+      },
+      {
+        "name": "Tujia",
+        "percentage": 0.68
+      },
+      {
+        "name": "Tibetan",
+        "percentage": 0.5
+      },
+      {
+        "name": "other",
+        "percentage": 2.44
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "republic"
+      "name": "Unitary communist state",
+      "type": "communism"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 148.65
-    },
+    "density": 146,
     "gdp": {
-      "total": 17963170521080,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 19399170521080,
+      "perCapita": 13806
     },
-    "nationalHoliday": "National Day of the People's Republic of China",
+    "nationalHoliday": "1949-10-01",
     "anthem": "March of the Volunteers"
   },
   {
@@ -12970,7 +14282,7 @@
       "LBR",
       "MLI"
     ],
-    "area": 322463,
+    "area": 322462,
     "flag": "\ud83c\udde8\ud83c\uddee",
     "demonyms": [
       {
@@ -12993,7 +14305,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png"
     },
-    "population": 31165654,
+    "population": 31500000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
@@ -13002,6 +14314,10 @@
       {
         "year": "2015",
         "value": 41.5
+      },
+      {
+        "year": "2021",
+        "value": 35.3
       }
     ],
     "car": {
@@ -13034,22 +14350,78 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 42.5,
+        "population": 13387500
+      },
+      {
+        "name": "christianity",
+        "percentage": 39.8,
+        "population": 12537000
+      },
+      {
+        "name": "no religion",
+        "percentage": 12.6,
+        "population": 3969000
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 2.2,
+        "population": 693000
+      },
+      {
+        "name": "unanswered",
+        "percentage": 2.2,
+        "population": 693000
+      },
+      {
+        "name": "other ",
+        "percentage": 0.7,
+        "population": 220500
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "akan",
+        "percentage": 38
+      },
+      {
+        "name": "northern mande",
+        "percentage": 22
+      },
+      {
+        "name": "voltaiques/gur",
+        "percentage": 22
+      },
+      {
+        "name": "kru",
+        "percentage": 9.1
+      },
+      {
+        "name": "southern mande",
+        "percentage": 8.6
+      },
+      {
+        "name": "naturalized ivorian",
+        "percentage": 0.3
+      },
+      {
+        "name": "non-ivorian",
+        "percentage": 22
+      }
+    ],
     "government": {
-      "name": null,
-      "type": "republic"
+      "name": "Unitary presidential republic under an authoritarian regime",
+      "type": "authoritarism"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 96.65
-    },
+    "density": 97.7,
     "gdp": {
-      "total": 70018715017,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 79430715017,
+      "perCapita": 6960
     },
-    "nationalHoliday": null,
+    "nationalHoliday": "1960-08-07",
     "anthem": "L'Abidjanaise"
   },
   {
@@ -13294,7 +14666,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cm.png"
     },
-    "population": 28372687,
+    "population": 30987821,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
@@ -13335,23 +14707,90 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 66.3,
+        "population": 20544925
+      },
+      {
+        "name": "islam",
+        "percentage": 30.6,
+        "population": 9482273
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 1.3,
+        "population": 402842
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.1,
+        "population": 340866
+      },
+      {
+        "name": "others",
+        "percentage": 0.7,
+        "population": 216915
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "bamileke, bamun",
+        "percentage": 22.2
+      },
+      {
+        "name": "biu-mandara",
+        "percentage": 16.4
+      },
+      {
+        "name": "shuwa arab, hausa and kanuri",
+        "percentage": 13.5
+      },
+      {
+        "name": "beti-bassa",
+        "percentage": 13.1
+      },
+      {
+        "name": "fulani",
+        "percentage": 12
+      },
+      {
+        "name": "tikar",
+        "percentage": 9.9
+      },
+      {
+        "name": "adamawa-ubangi ",
+        "percentage": 9.8
+      },
+      {
+        "name": "sawa people",
+        "percentage": 4.6
+      },
+      {
+        "name": "southwest bantu",
+        "percentage": 4.3
+      },
+      {
+        "name": "pygmy peoples",
+        "percentage": 2.3
+      },
+      {
+        "name": "others",
+        "percentage": 3.8
+      }
+    ],
     "government": {
-      "name": null,
+      "name": "Unitary presidential republic under a dictatorship",
       "type": "republic"
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 59.68
-    },
+    "density": 39.7,
     "gdp": {
-      "total": 44341646509,
-      "perCapita": null,
-      "currency": "USD"
+      "total": 67521646509,
+      "perCapita": 2200
     },
-    "nationalHoliday": null,
-    "anthem": "O Cameroon, Cradle of Our Forefathers"
+    "nationalHoliday": "1972-05-20",
+    "anthem": "Chant de Ralliement"
   },
   {
     "name": {
