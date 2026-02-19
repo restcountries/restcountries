@@ -6,6 +6,8 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
@@ -16,6 +18,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class V4JsonStructureTest {
 
+  private static final Logger log = LoggerFactory.getLogger(V4JsonStructureTest.class);
   private static JsonArray countries;
 
   @BeforeAll
@@ -151,6 +154,9 @@ class V4JsonStructureTest {
       for (JsonElement e : c.getAsJsonArray("ethnicity")) {
         assertTrue(e.isJsonObject(), "ethnicity entry should be object");
         JsonObject eObj = e.getAsJsonObject();
+        if(!eObj.has("percentage")) {
+          log.error("name: {}", e.toString());
+        }
         assertTrue(eObj.has("name"), "ethnicity entry should have name");
         assertTrue(eObj.has("percentage"), "ethnicity entry should have percentage");
       }
@@ -164,21 +170,15 @@ class V4JsonStructureTest {
       assertTrue(c.has("government"), "Missing government for " + c.get("cca2"));
       if (!c.get("government").isJsonNull()) {
         JsonObject gov = c.getAsJsonObject("government");
-        assertTrue(gov.has("name"), "government should have name");
         assertTrue(gov.has("type"), "government should have type");
-      }
-    }
-  }
-
-  @Test
-  void testDensityStructure() {
-    for (JsonElement el : countries) {
-      JsonObject c = el.getAsJsonObject();
-      assertTrue(c.has("density"), "Missing density for " + c.get("cca2"));
-      if (!c.get("density").isJsonNull()) {
-        JsonObject d = c.getAsJsonObject("density");
-        assertTrue(d.has("measurement"), "density should have measurement");
-        assertTrue(d.has("value"), "density should have value");
+        assertTrue(gov.has("leaders"), "government should have leaders");
+        assertTrue(gov.get("leaders").isJsonArray(), "leaders should be an array");
+        for (JsonElement l : gov.getAsJsonArray("leaders")) {
+          assertTrue(l.isJsonObject(), "leader entry should be an object");
+          JsonObject leader = l.getAsJsonObject();
+          assertTrue(leader.has("title"), "leader should have title");
+          assertTrue(leader.has("name"), "leader should have name");
+        }
       }
     }
   }
@@ -192,7 +192,6 @@ class V4JsonStructureTest {
         JsonObject gdp = c.getAsJsonObject("gdp");
         assertTrue(gdp.has("total"), "gdp should have total");
         assertTrue(gdp.has("perCapita"), "gdp should have perCapita");
-        assertTrue(gdp.has("currency"), "gdp should have currency");
       }
     }
   }

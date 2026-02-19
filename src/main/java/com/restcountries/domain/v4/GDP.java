@@ -6,7 +6,6 @@ import io.micronaut.serde.annotation.Serdeable;
 public class GDP {
   private Long total;
   private Long perCapita;
-  private String currency;
 
   public Long getTotal() {
     return total;
@@ -22,13 +21,5 @@ public class GDP {
 
   public void setPerCapita(Long perCapita) {
     this.perCapita = perCapita;
-  }
-
-  public String getCurrency() {
-    return currency;
-  }
-
-  public void setCurrency(String currency) {
-    this.currency = currency;
   }
 }

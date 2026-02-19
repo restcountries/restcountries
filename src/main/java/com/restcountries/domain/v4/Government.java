@@ -2,18 +2,12 @@ package com.restcountries.domain.v4;
 
 import io.micronaut.serde.annotation.Serdeable;
 
+import java.util.List;
+
 @Serdeable.Serializable
 public class Government {
-  private String name;
   private String type;
-
-  public String getName() {
-    return name;
-  }
-
-  public void setName(String name) {
-    this.name = name;
-  }
+  private List<Leader> leaders;
 
   public String getType() {
     return type;
@@ -21,5 +15,13 @@ public class Government {
 
   public void setType(String type) {
     this.type = type;
+  }
+
+  public List<Leader> getLeaders() {
+    return leaders;
+  }
+
+  public void setLeaders(List<Leader> leaders) {
+    this.leaders = leaders;
   }
 }

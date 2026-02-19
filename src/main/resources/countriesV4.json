@@ -282,8 +282,11 @@
       }
     ],
     "government": {
-      "name": "devolved",
-      "type": "monarchy"
+      "type": "monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 560.4,
     "gdp": {
@@ -611,13 +614,13 @@
       }
     ],
     "government": {
-      "name": "unitary totalitarian",
-      "type": "theocracy"
+      "type": "theocracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 63.56
-    },
+    "density": 63.56,
     "gdp": {
       "total": 17233051620,
       "perCapita": 411
@@ -979,8 +982,11 @@
       }
     ],
     "government": {
-      "name": "Unitary presidential republic",
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 29.48,
     "gdp": {
@@ -1268,13 +1274,13 @@
       }
     ],
     "government": {
-      "name": "Government of the United Kingdom",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 91
-    },
+    "density": 91,
     "gdp": {
       "total": 311000000,
       "perCapita": 29493,
@@ -1542,13 +1548,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": "Devolved parliamentary autonomous region",
-      "type": "devolved"
+      "type": "devolved",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19.07
-    },
+    "density": 19.07,
     "gdp": {
       "total": 1600000000,
       "perCapita": 42408,
@@ -1863,13 +1869,13 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary republic",
-      "type": "parliamentary system"
+      "type": "parliamentary system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 86.3
-    },
+    "density": 86.3,
     "gdp": {
       "total": 32410000000,
       "perCapita": 12150,
@@ -2174,13 +2180,13 @@
       }
     ],
     "government": {
-      "name": null,
-      "type": "parliamentary coprincipality"
+      "type": "parliamentary coprincipality",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 187.1
-    },
+    "density": 187.1,
     "gdp": {
       "total": 3897000000,
       "perCapita": 44900,
@@ -2511,13 +2517,13 @@
       }
     ],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 132
-    },
+    "density": 132,
     "gdp": {
       "total": 548600000000,
       "perCapita": 49550,
@@ -2830,13 +2836,13 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 16.8
-    },
+    "density": 16.8,
     "gdp": {
       "total": 683533000000,
       "perCapita": 14362,
@@ -3151,13 +3157,13 @@
       }
     ],
     "government": {
-      "name": null,
-      "type": "parlamentary republic"
+      "type": "parlamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 103.6
-    },
+    "density": 103.6,
     "gdp": {
       "total": 27850000000,
       "perCapita": 8969,
@@ -3461,13 +3467,13 @@
       }
     ],
     "government": {
-      "name": "Devolved presidential constitutional dependency",
-      "type": "devolved"
+      "type": "devolved",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 670.8
-    },
+    "density": 670.8,
     "gdp": {
       "total": 709000000,
       "perCapita": 15743,
@@ -3706,10 +3712,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.00036
-    },
+    "density": 0.00036,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -3976,8 +3979,11 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": "Unitary semi-presidential republic",
-      "type": "semi-presidential"
+      "type": "semi-presidential",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 0.03,
     "gdp": null,
@@ -4298,8 +4304,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 186,
     "gdp": {
@@ -4611,8 +4620,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Federal parliamentary constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 3.7,
     "gdp": {
@@ -4917,8 +4929,11 @@
       }
     ],
     "government": {
-      "name": "Federal semi-presidential republic",
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 107.6,
     "gdp": {
@@ -5217,28 +5232,31 @@
     "ethnicity": [
       {
         "name": "azerbaijani",
-        "population": 94.8
+        "percentage": 94.8
       },
       {
         "name": "russian",
-        "population": 0.7
+        "percentage": 0.7
       },
       {
         "name": "lezgin",
-        "population": 1.7
+        "percentage": 1.7
       },
       {
         "name": "talysh",
-        "population": 0.9
+        "percentage": 0.9
       },
       {
         "name": "other",
-        "population": 1.9
+        "percentage": 1.9
       }
     ],
     "government": {
-      "name": "Unitary semi-presidential republic under a hereditary dictatorship",
-      "type": "dinasty"
+      "type": "dinasty",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 117,
     "gdp": {
@@ -5566,8 +5584,11 @@
       }
     ],
     "government": {
-      "name": "Unitary dominant-party presidential republic under an authoritarian dictatorship[",
-      "type": "authoritarianism"
+      "type": "authoritarianism",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 565,
     "gdp": {
@@ -5906,8 +5927,11 @@
       }
     ],
     "government": {
-      "name": "Federal parliamentary constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 385,
     "gdp": {
@@ -6257,8 +6281,11 @@
       }
     ],
     "government": {
-      "name": "Unitary presidential republic",
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 94.8,
     "gdp": {
@@ -6603,8 +6630,11 @@
       }
     ],
     "government": {
-      "name": "Unitary semi-presidential republic under a military junta",
-      "type": "military junta"
+      "type": "military junta",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 86,
     "gdp": {
@@ -6918,8 +6948,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary republic",
-      "type": "Westminster system"
+      "type": "Westminster system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 1165,
     "gdp": {
@@ -7240,8 +7273,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary republic",
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 58.09,
     "gdp": {
@@ -7544,8 +7580,11 @@
       }
     ],
     "government": {
-      "name": "Unitary semi-constitutional monarchy under an authoritarian government",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 1864,
     "gdp": {
@@ -7862,8 +7901,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 25.21,
     "gdp": {
@@ -8181,8 +8223,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Federal parliamentary[9] directorial republic",
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 61,
     "gdp": {
@@ -8721,8 +8766,11 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": "Devolved self-governing dependencies under a constitutional monarchy",
-      "type": "monarchy"
+      "type": "monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 13.4,
     "gdp": {
@@ -9050,8 +9098,11 @@
       }
     ],
     "government": {
-      "name": "Unitary semi-presidential republic under an authoritarian dictatorship",
-      "type": "authoritarianism"
+      "type": "authoritarianism",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 43.9,
     "gdp": {
@@ -9418,8 +9469,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 17.31,
     "gdp": {
@@ -9702,8 +9756,11 @@
       }
     ],
     "government": {
-      "name": "Parliamentary dependency under a constitutional monarchy",
-      "type": "British overseas territory"
+      "type": "British overseas territory",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 1338,
     "gdp": {
@@ -10045,8 +10102,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Unitary presidential republic",
-      "type": "presidential republic"
+      "type": "presidential republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 10.4,
     "gdp": {
@@ -10323,10 +10383,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 97.5
-    },
+    "density": 97.5,
     "gdp": {
       "total": 725000000,
       "perCapita": 0
@@ -10672,8 +10729,11 @@
       }
     ],
     "government": {
-      "name": "Federal presidential republic",
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 23.8,
     "gdp": {
@@ -10994,8 +11054,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary republic",
-      "type": "unitary state"
+      "type": "unitary state",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 660,
     "gdp": {
@@ -11304,8 +11367,11 @@
       }
     ],
     "government": {
-      "name": "Unitary Islamic absolute monarchy",
-      "type": "unitary monarchy"
+      "type": "unitary monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 72.11,
     "gdp": {
@@ -11609,8 +11675,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Unitary parliamentary semi-constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 20.5,
     "gdp": {
@@ -11860,10 +11929,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.0
-    },
+    "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -12199,8 +12265,11 @@
       }
     ],
     "government": {
-      "name": "Unitary parliamentary republic with an executive presidency",
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 4.1,
     "gdp": {
@@ -12521,8 +12590,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Unitary presidential republic",
-      "type": "presidential republic"
+      "type": "presidential republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 8.6,
     "gdp": {
@@ -12817,8 +12889,11 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": "Federal parliamentary constitutional monarchy",
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 4.2,
     "gdp": {
@@ -13079,8 +13154,11 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": "Directly administered dependency",
-      "type": "dependency"
+      "type": "dependency",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 0,
     "gdp": {
@@ -13424,8 +13502,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Federal assembly-independent directorial republic",
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 207,
     "gdp": {
@@ -13730,8 +13811,11 @@
     ],
     "ethnicity": [],
     "government": {
-      "name": "Unitary presidential republic",
-      "type": "democratic republic"
+      "type": "democratic republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 24,
     "gdp": {
@@ -14062,8 +14146,11 @@
       }
     ],
     "government": {
-      "name": "Unitary communist state",
-      "type": "communism"
+      "type": "communism",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 146,
     "gdp": {
@@ -14413,8 +14500,11 @@
       }
     ],
     "government": {
-      "name": "Unitary presidential republic under an authoritarian regime",
-      "type": "authoritarism"
+      "type": "authoritarism",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 97.7,
     "gdp": {
@@ -14781,8 +14871,11 @@
       }
     ],
     "government": {
-      "name": "Unitary presidential republic under a dictatorship",
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
     "density": 39.7,
     "gdp": {
@@ -15117,13 +15210,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 45.12
-    },
+    "density": 45.12,
     "gdp": {
       "total": 58065953573,
       "perCapita": null,
@@ -15428,13 +15521,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 17.96
-    },
+    "density": 17.96,
     "gdp": {
       "total": 14615532210,
       "perCapita": null,
@@ -15709,10 +15802,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 60.26
-    },
+    "density": 60.26,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Te Atua Mou E"
@@ -15997,13 +16087,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 45.83
-    },
+    "density": 45.83,
     "gdp": {
       "total": 343939445259,
       "perCapita": null,
@@ -16313,13 +16403,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 484.61
-    },
+    "density": 484.61,
     "gdp": {
       "total": 1242519407,
       "perCapita": null,
@@ -16596,13 +16686,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 137.86
-    },
+    "density": 137.86,
     "gdp": {
       "total": 2314816792,
       "perCapita": null,
@@ -16878,10 +16968,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 103.04
-    },
+    "density": 103.04,
     "gdp": {
       "total": 68380838316,
       "perCapita": null,
@@ -17146,13 +17233,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "unitary state"
+      "type": "unitary state",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 99.98
-    },
+    "density": 99.98,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "El Himno de Bayamo"
@@ -17423,13 +17510,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary democracy"
+      "type": "parliamentary democracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 344.25
-    },
+    "density": 344.25,
     "gdp": {
       "total": 2699612458,
       "perCapita": null,
@@ -17688,10 +17775,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 12.53
-    },
+    "density": 12.53,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -17945,13 +18029,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "British overseas territory"
+      "type": "British overseas territory",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 336.49
-    },
+    "density": 336.49,
     "gdp": {
       "total": 6028373541,
       "perCapita": null,
@@ -18236,13 +18320,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 145.39
-    },
+    "density": 145.39,
     "gdp": {
       "total": 28439052741,
       "perCapita": null,
@@ -18529,13 +18613,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 138.33
-    },
+    "density": 138.33,
     "gdp": {
       "total": 250681000000,
       "perCapita": 31707,
@@ -18816,13 +18900,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 234.03
-    },
+    "density": 234.03,
     "gdp": {
       "total": 4121200000000,
       "perCapita": null,
@@ -19127,10 +19211,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 49.7
-    },
+    "density": 49.7,
     "gdp": {
       "total": 3515109075,
       "perCapita": null,
@@ -19391,10 +19472,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 99.41
-    },
+    "density": 99.41,
     "gdp": {
       "total": 612048148,
       "perCapita": null,
@@ -19672,13 +19750,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 135.12
-    },
+    "density": 135.12,
     "gdp": {
       "total": 395403906582,
       "perCapita": null,
@@ -19962,10 +20040,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 221.08
-    },
+    "density": 221.08,
     "gdp": {
       "total": 113641857434,
       "perCapita": null,
@@ -20260,13 +20335,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19.38
-    },
+    "density": 19.38,
     "gdp": {
       "total": 191912889421,
       "perCapita": null,
@@ -20546,13 +20621,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 61.19
-    },
+    "density": 61.19,
     "gdp": {
       "total": 115049476000,
       "perCapita": null,
@@ -20843,13 +20918,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 114.26
-    },
+    "density": 114.26,
     "gdp": {
       "total": 476747720365,
       "perCapita": null,
@@ -21150,10 +21225,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 29.74
-    },
+    "density": 29.74,
     "gdp": null,
     "nationalHoliday": "Independence Day",
     "anthem": "Ertra, Ertra, Ertra"
@@ -21457,10 +21529,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 2.26
-    },
+    "density": 2.26,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -21752,13 +21821,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary monarchy"
+      "type": "parliamentary monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 96.03
-    },
+    "density": 96.03,
     "gdp": {
       "total": 1397509272054,
       "perCapita": 29993,
@@ -22033,13 +22102,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 30.29
-    },
+    "density": 30.29,
     "gdp": {
       "total": 38100812959,
       "perCapita": 23757,
@@ -22324,13 +22393,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 116.54
-    },
+    "density": 116.54,
     "gdp": {
       "total": 126783472501,
       "perCapita": null,
@@ -22618,13 +22687,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 16.57
-    },
+    "density": 16.57,
     "gdp": {
       "total": 280825957768,
       "perCapita": null,
@@ -22913,10 +22982,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 50.69
-    },
+    "density": 50.69,
     "gdp": {
       "total": 4943248200,
       "perCapita": null,
@@ -23187,10 +23253,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.37
-    },
+    "density": 0.37,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -23479,13 +23542,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 126.13
-    },
+    "density": 126.13,
     "gdp": {
       "total": 2782905325625,
       "perCapita": null,
@@ -23761,10 +23824,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 39.4
-    },
+    "density": 39.4,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -24026,13 +24086,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 150.35
-    },
+    "density": 150.35,
     "gdp": {
       "total": 427094119,
       "perCapita": null,
@@ -24313,13 +24373,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 7.57
-    },
+    "density": 7.57,
     "gdp": {
       "total": 4800000000,
       "perCapita": null,
@@ -24594,13 +24654,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 275.5
-    },
+    "density": 275.5,
     "gdp": {
       "total": 3070667732359,
       "perCapita": null,
@@ -24869,13 +24929,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 53.33
-    },
+    "density": 53.33,
     "gdp": {
       "total": 24605375420,
       "perCapita": null,
@@ -25162,10 +25222,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 869.06
-    },
+    "density": 869.06,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -25440,13 +25497,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "democracy"
+      "type": "democracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 137.65
-    },
+    "density": 137.65,
     "gdp": {
       "total": 72838798788,
       "perCapita": null,
@@ -25712,10 +25769,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 5667.17
-    },
+    "density": 5667.17,
     "gdp": null,
     "nationalHoliday": "Gibraltar National Day",
     "anthem": "God Save the King"
@@ -25995,13 +26049,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 51.73
-    },
+    "density": 51.73,
     "gdp": {
       "total": 25600000000,
       "perCapita": null,
@@ -26260,10 +26314,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 235.97
-    },
+    "density": 235.97,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -26537,13 +26588,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 246.98
-    },
+    "density": 246.98,
     "gdp": {
       "total": 2396111020,
       "perCapita": null,
@@ -26834,10 +26885,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 51.52
-    },
+    "density": 51.52,
     "gdp": {
       "total": 1633559092,
       "perCapita": null,
@@ -27136,10 +27184,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 65.86
-    },
+    "density": 65.86,
     "gdp": {
       "total": 11813908448,
       "perCapita": null,
@@ -27416,13 +27461,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 79.42
-    },
+    "density": 79.42,
     "gdp": {
       "total": 219065872466,
       "perCapita": null,
@@ -27690,10 +27735,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 332.26
-    },
+    "density": 332.26,
     "gdp": {
       "total": 1256413185,
       "perCapita": null,
@@ -27955,13 +27997,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary monarchy"
+      "type": "parliamentary monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.03
-    },
+    "density": 0.03,
     "gdp": {
       "total": 3235816195,
       "perCapita": null,
@@ -28237,13 +28279,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 158.54
-    },
+    "density": 158.54,
     "gdp": {
       "total": 95003333381,
       "perCapita": null,
@@ -28522,10 +28564,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.5
-    },
+    "density": 3.5,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -28802,10 +28841,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 280.21
-    },
+    "density": 280.21,
     "gdp": {
       "total": 6123000000,
       "perCapita": null,
@@ -29093,13 +29129,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 4.09
-    },
+    "density": 4.09,
     "gdp": {
       "total": 15357537068,
       "perCapita": null,
@@ -29366,10 +29402,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 6714.74
-    },
+    "density": 6714.74,
     "gdp": {
       "total": 359838598806,
       "perCapita": null,
@@ -29616,10 +29649,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.0
-    },
+    "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -29892,13 +29922,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 73.82
-    },
+    "density": 73.82,
     "gdp": {
       "total": 31717700115,
       "perCapita": null,
@@ -30176,13 +30206,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 68.41
-    },
+    "density": 68.41,
     "gdp": {
       "total": 70964606465,
       "perCapita": null,
@@ -30471,10 +30501,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 395.72
-    },
+    "density": 395.72,
     "gdp": {
       "total": 20253551885,
       "perCapita": null,
@@ -30751,13 +30778,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 103.23
-    },
+    "density": 103.23,
     "gdp": {
       "total": 181848022230,
       "perCapita": 37128,
@@ -31034,13 +31061,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 144.62
-    },
+    "density": 144.62,
     "gdp": {
       "total": 1319100220389,
       "perCapita": null,
@@ -31323,10 +31350,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 147.78
-    },
+    "density": 147.78,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -31624,13 +31648,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 449.47
-    },
+    "density": 449.47,
     "gdp": {
       "total": 3385089881935,
       "perCapita": null,
@@ -31900,10 +31924,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 50.0
-    },
+    "density": 50.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -32184,13 +32205,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 73.27
-    },
+    "density": 73.27,
     "gdp": {
       "total": 529244870223,
       "perCapita": null,
@@ -32460,13 +32481,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "theocracy"
+      "type": "theocracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 56.07
-    },
+    "density": 56.07,
     "gdp": {
       "total": 388544468140,
       "perCapita": null,
@@ -32770,13 +32791,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federation"
+      "type": "federation",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 87.32
-    },
+    "density": 87.32,
     "gdp": {
       "total": 264182173793,
       "perCapita": null,
@@ -33048,13 +33069,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.54
-    },
+    "density": 3.54,
     "gdp": {
       "total": 27841648044,
       "perCapita": null,
@@ -33331,13 +33352,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "unitary state"
+      "type": "unitary state",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 448.56
-    },
+    "density": 448.56,
     "gdp": {
       "total": 520700000000,
       "perCapita": null,
@@ -33621,13 +33642,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 195.3
-    },
+    "density": 195.3,
     "gdp": {
       "total": 2010431598465,
       "perCapita": null,
@@ -33912,10 +33933,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 245.47
-    },
+    "density": 245.47,
     "gdp": {
       "total": 17097760745,
       "perCapita": null,
@@ -34203,10 +34221,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 890.23
-    },
+    "density": 890.23,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -34484,10 +34499,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 116.72
-    },
+    "density": 116.72,
     "gdp": {
       "total": 47451499859,
       "perCapita": null,
@@ -34753,13 +34765,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 327.58
-    },
+    "density": 327.58,
     "gdp": {
       "total": 4231141201863,
       "perCapita": null,
@@ -35056,13 +35068,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 7.39
-    },
+    "density": 7.39,
     "gdp": {
       "total": 220623001967,
       "perCapita": null,
@@ -35356,10 +35368,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 83.51
-    },
+    "density": 83.51,
     "gdp": {
       "total": 113420008179,
       "perCapita": null,
@@ -35648,13 +35657,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 36.42
-    },
+    "density": 36.42,
     "gdp": {
       "total": 10930644915,
       "perCapita": null,
@@ -35928,13 +35937,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 96.25
-    },
+    "density": 96.25,
     "gdp": {
       "total": 29956769529,
       "perCapita": null,
@@ -36217,10 +36226,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 165.87
-    },
+    "density": 165.87,
     "gdp": {
       "total": 223352943,
       "perCapita": null,
@@ -36489,13 +36495,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 179.78
-    },
+    "density": 179.78,
     "gdp": {
       "total": 961563259,
       "perCapita": null,
@@ -36765,13 +36771,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 513.58
-    },
+    "density": 513.58,
     "gdp": {
       "total": 1665245538595,
       "perCapita": null,
@@ -37050,13 +37056,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 145.46
-    },
+    "density": 145.46,
     "gdp": {
       "total": 9429156202,
       "perCapita": null,
@@ -37329,13 +37335,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 250.53
-    },
+    "density": 250.53,
     "gdp": {
       "total": 184558274289,
       "perCapita": null,
@@ -37613,13 +37619,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "people's republic"
+      "type": "people's republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 28.96
-    },
+    "density": 28.96,
     "gdp": {
       "total": 15724383783,
       "perCapita": null,
@@ -37908,13 +37914,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 583.63
-    },
+    "density": 583.63,
     "gdp": {
       "total": 23131941557,
       "perCapita": null,
@@ -38194,10 +38200,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 46.82
-    },
+    "density": 46.82,
     "gdp": {
       "total": 4001047150,
       "perCapita": null,
@@ -38485,13 +38488,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.8
-    },
+    "density": 3.8,
     "gdp": {
       "total": 45752336036,
       "perCapita": null,
@@ -38764,13 +38767,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 272.06
-    },
+    "density": 272.06,
     "gdp": {
       "total": 2065027556,
       "perCapita": null,
@@ -39039,13 +39042,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 237.01
-    },
+    "density": 237.01,
     "gdp": {
       "total": 7186428783,
       "perCapita": null,
@@ -39329,10 +39332,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 326.84
-    },
+    "density": 326.84,
     "gdp": {
       "total": 74403578363,
       "perCapita": null,
@@ -39627,13 +39627,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 66.12
-    },
+    "density": 66.12,
     "gdp": {
       "total": 2553459763,
       "perCapita": null,
@@ -39909,13 +39909,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 43.8
-    },
+    "density": 43.8,
     "gdp": {
       "total": 70334299008,
       "perCapita": null,
@@ -40214,13 +40214,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 263.72
-    },
+    "density": 263.72,
     "gdp": {
       "total": 82274812251,
       "perCapita": null,
@@ -40496,13 +40496,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 28.76
-    },
+    "density": 28.76,
     "gdp": {
       "total": 41153912663,
       "perCapita": null,
@@ -40768,10 +40768,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 22736.67
-    },
+    "density": 22736.67,
     "gdp": {
       "total": 21979475561,
       "perCapita": null,
@@ -41035,10 +41032,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 594.26
-    },
+    "density": 594.26,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -41336,13 +41330,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 82.47
-    },
+    "density": 82.47,
     "gdp": {
       "total": 134181587770,
       "perCapita": null,
@@ -41604,13 +41598,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19021.29
-    },
+    "density": 19021.29,
     "gdp": {
       "total": 8596156574,
       "perCapita": null,
@@ -41885,13 +41879,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 71.18
-    },
+    "density": 71.18,
     "gdp": {
       "total": 14420947884,
       "perCapita": null,
@@ -42180,13 +42174,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 54.45
-    },
+    "density": 54.45,
     "gdp": {
       "total": 14954967604,
       "perCapita": null,
@@ -42458,10 +42452,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1454.43
-    },
+    "density": 1454.43,
     "gdp": {
       "total": 6189865408,
       "perCapita": null,
@@ -42749,13 +42740,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 63.52
-    },
+    "density": 63.52,
     "gdp": {
       "total": 1414187193992,
       "perCapita": null,
@@ -43026,10 +43017,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 293.52
-    },
+    "density": 293.52,
     "gdp": {
       "total": 279667900,
       "perCapita": null,
@@ -43308,13 +43296,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 71.43
-    },
+    "density": 71.43,
     "gdp": {
       "total": 13563132057,
       "perCapita": null,
@@ -43599,10 +43587,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 16.33
-    },
+    "density": 16.33,
     "gdp": {
       "total": 18827176532,
       "perCapita": null,
@@ -43884,13 +43869,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary democracy"
+      "type": "parliamentary democracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1750.68
-    },
+    "density": 1750.68,
     "gdp": {
       "total": 17765270015,
       "perCapita": null,
@@ -44168,13 +44153,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 78.88
-    },
+    "density": 78.88,
     "gdp": {
       "total": 59364362541,
       "perCapita": null,
@@ -44450,13 +44435,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 44.69
-    },
+    "density": 44.69,
     "gdp": {
       "total": 6095978868,
       "perCapita": null,
@@ -44723,13 +44708,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary system"
+      "type": "parliamentary system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 2.18
-    },
+    "density": 2.18,
     "gdp": {
       "total": 16810883361,
       "perCapita": null,
@@ -45011,10 +44996,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 102.0
-    },
+    "density": 102.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Gi Talo Gi Halom Tasi"
@@ -45294,10 +45276,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 37.01
-    },
+    "density": 37.01,
     "gdp": {
       "total": 17851491428,
       "perCapita": null,
@@ -45588,10 +45567,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 4.6
-    },
+    "density": 4.6,
     "gdp": {
       "total": 10375460680,
       "perCapita": null,
@@ -45859,10 +45835,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 53.33
-    },
+    "density": 53.33,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -46116,10 +46089,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 319.71
-    },
+    "density": 319.71,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "La Marseillaise"
@@ -46414,13 +46384,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 619.91
-    },
+    "density": 619.91,
     "gdp": {
       "total": 12898307089,
       "perCapita": null,
@@ -46711,10 +46681,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 148.24
-    },
+    "density": 148.24,
     "gdp": {
       "total": 13164667627,
       "perCapita": null,
@@ -46998,13 +46965,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 98.09
-    },
+    "density": 98.09,
     "gdp": {
       "total": 406305924656,
       "perCapita": null,
@@ -47276,10 +47243,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 858.02
-    },
+    "density": 858.02,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -47650,10 +47614,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.07
-    },
+    "density": 3.07,
     "gdp": {
       "total": 12607436976,
       "perCapita": null,
@@ -47911,10 +47872,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 14.99
-    },
+    "density": 14.99,
     "gdp": {
       "total": 10071349707,
       "perCapita": null,
@@ -48198,10 +48156,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 16.95
-    },
+    "density": 16.95,
     "gdp": {
       "total": 13969605583,
       "perCapita": null,
@@ -48472,10 +48427,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 60.78
-    },
+    "density": 60.78,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -48754,13 +48706,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 228.85
-    },
+    "density": 228.85,
     "gdp": {
       "total": 477386120636,
       "perCapita": null,
@@ -49036,13 +48988,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 39.44
-    },
+    "density": 39.44,
     "gdp": {
       "total": 15671583878,
       "perCapita": null,
@@ -49311,10 +49263,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 7.0
-    },
+    "density": 7.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Ko e Iki he Lagi"
@@ -49585,13 +49534,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 408.47
-    },
+    "density": 408.47,
     "gdp": {
       "total": 830572618850,
       "perCapita": null,
@@ -49891,13 +49840,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 14.48
-    },
+    "density": 14.48,
     "gdp": {
       "total": 579267365866,
       "perCapita": null,
@@ -50171,13 +50120,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 198.15
-    },
+    "density": 198.15,
     "gdp": {
       "total": 40828247302,
       "perCapita": null,
@@ -50455,10 +50404,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 650.0
-    },
+    "density": 650.0,
     "gdp": {
       "total": 150922211,
       "perCapita": null,
@@ -50743,13 +50689,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary monarchy"
+      "type": "parliamentary monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19.74
-    },
+    "density": 19.74,
     "gdp": {
       "total": 247234053739,
       "perCapita": 41666,
@@ -51023,13 +50969,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "absolute monarchy"
+      "type": "absolute monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 15.6
-    },
+    "density": 15.6,
     "gdp": {
       "total": 114667360208,
       "perCapita": null,
@@ -51317,13 +51263,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 281.09
-    },
+    "density": 281.09,
     "gdp": {
       "total": 376532751807,
       "perCapita": null,
@@ -51604,13 +51550,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 60.6
-    },
+    "density": 60.6,
     "gdp": {
       "total": 76522511781,
       "perCapita": null,
@@ -51870,10 +51816,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1.06
-    },
+    "density": 1.06,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Come Ye Blessed"
@@ -52180,13 +52123,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 26.24
-    },
+    "density": 26.24,
     "gdp": {
       "total": 242631549613,
       "perCapita": null,
@@ -52468,13 +52411,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 329.28
-    },
+    "density": 329.28,
     "gdp": {
       "total": 404284327312,
       "perCapita": null,
@@ -52745,10 +52688,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 47.34
-    },
+    "density": 47.34,
     "gdp": {
       "total": 217800000,
       "perCapita": null,
@@ -53037,10 +52977,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19.3
-    },
+    "density": 19.3,
     "gdp": {
       "total": 30633444295,
       "perCapita": 2757,
@@ -53319,13 +53256,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 120.13
-    },
+    "density": 120.13,
     "gdp": {
       "total": 688176605955,
       "perCapita": null,
@@ -53597,10 +53534,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 370.45
-    },
+    "density": 370.45,
     "gdp": {
       "total": 217800000,
       "perCapita": null,
@@ -53869,13 +53803,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 219.17
-    },
+    "density": 219.17,
     "gdp": null,
     "nationalHoliday": "Day of the Foundation of the Republic",
     "anthem": "Aegukka"
@@ -54146,13 +54080,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 112.37
-    },
+    "density": 112.37,
     "gdp": {
       "total": 251945377529,
       "perCapita": null,
@@ -54444,10 +54378,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 16.75
-    },
+    "density": 16.75,
     "gdp": {
       "total": 41722295362,
       "perCapita": null,
@@ -54739,13 +54670,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 840.38
-    },
+    "density": 840.38,
     "gdp": {
       "total": 19111900000,
       "perCapita": null,
@@ -55008,10 +54939,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 67.07
-    },
+    "density": 67.07,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -55280,13 +55208,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 227.79
-    },
+    "density": 227.79,
     "gdp": {
       "total": 237295575171,
       "perCapita": null,
@@ -55557,10 +55485,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 354.31
-    },
+    "density": 354.31,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -55834,13 +55759,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 79.93
-    },
+    "density": 79.93,
     "gdp": {
       "total": 301261582924,
       "perCapita": null,
@@ -56141,13 +56066,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "super-presidential republic"
+      "type": "super-presidential republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 8.55
-    },
+    "density": 8.55,
     "gdp": {
       "total": 2240422438363,
       "perCapita": null,
@@ -56452,13 +56377,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 553.17
-    },
+    "density": 553.17,
     "gdp": {
       "total": 14251642230,
       "perCapita": null,
@@ -56738,13 +56663,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "monarchy"
+      "type": "monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 15.35
-    },
+    "density": 15.35,
     "gdp": {
       "total": 1108148978218,
       "perCapita": null,
@@ -57049,13 +56974,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 21.49
-    },
+    "density": 21.49,
     "gdp": {
       "total": 51662241775,
       "perCapita": null,
@@ -57338,13 +57263,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 85.79
-    },
+    "density": 85.79,
     "gdp": {
       "total": 27684430244,
       "perCapita": null,
@@ -57641,13 +57566,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 8262.17
-    },
+    "density": 8262.17,
     "gdp": {
       "total": 466788539652,
       "perCapita": null,
@@ -57917,10 +57842,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.01
-    },
+    "density": 0.01,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -58175,10 +58097,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.04
-    },
+    "density": 0.04,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -58437,10 +58356,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 21.16
-    },
+    "density": 21.16,
     "gdp": {
       "total": 1595710784,
       "perCapita": null,
@@ -58719,13 +58635,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 105.34
-    },
+    "density": 105.34,
     "gdp": {
       "total": 3970343852,
       "perCapita": null,
@@ -59001,13 +58917,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 286.58
-    },
+    "density": 286.58,
     "gdp": {
       "total": 32488720000,
       "perCapita": null,
@@ -59269,13 +59185,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "diarchy"
+      "type": "diarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 550.82
-    },
+    "density": 550.82,
     "gdp": {
       "total": 1855382833,
       "perCapita": null,
@@ -59578,13 +59494,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 17.3
-    },
+    "density": 17.3,
     "gdp": {
       "total": 8126105600,
       "perCapita": null,
@@ -59843,10 +59759,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 24.05
-    },
+    "density": 24.05,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -60125,10 +60038,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 85.13
-    },
+    "density": 85.13,
     "gdp": {
       "total": 63501748652,
       "perCapita": null,
@@ -60410,13 +60320,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "federal republic"
+      "type": "federal republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 20.29
-    },
+    "density": 20.29,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "South Sudan Oyee!"
@@ -60690,10 +60600,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 211.96
-    },
+    "density": 211.96,
     "gdp": {
       "total": 546680342,
       "perCapita": null,
@@ -60984,13 +60891,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 3.44
-    },
+    "density": 3.44,
     "gdp": {
       "total": 3620655116,
       "perCapita": null,
@@ -61267,13 +61174,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 110.52
-    },
+    "density": 110.52,
     "gdp": {
       "total": 115468803972,
       "perCapita": null,
@@ -61549,13 +61456,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "democratic republic"
+      "type": "democratic republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 101.95
-    },
+    "density": 101.95,
     "gdp": {
       "total": 62117768015,
       "perCapita": null,
@@ -61829,13 +61736,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 23.56
-    },
+    "density": 23.56,
     "gdp": {
       "total": 585939170124,
       "perCapita": null,
@@ -62135,13 +62042,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "absolute monarchy"
+      "type": "absolute monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 70.87
-    },
+    "density": 70.87,
     "gdp": {
       "total": 4854167638,
       "perCapita": null,
@@ -62424,10 +62331,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1289.62
-    },
+    "density": 1289.62,
     "gdp": {
       "total": 1571564246,
       "perCapita": null,
@@ -62727,10 +62631,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 264.98
-    },
+    "density": 264.98,
     "gdp": {
       "total": 1588406479,
       "perCapita": null,
@@ -63012,13 +62913,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 128.88
-    },
+    "density": 128.88,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Humat ad-Diyar"
@@ -63272,10 +63173,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 46.99
-    },
+    "density": 46.99,
     "gdp": {
       "total": 1044778790,
       "perCapita": null,
@@ -63572,10 +63470,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 15.05
-    },
+    "density": 15.05,
     "gdp": {
       "total": 12704149842,
       "perCapita": null,
@@ -63857,10 +63752,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 137.32
-    },
+    "density": 137.32,
     "gdp": {
       "total": 9930000000,
       "perCapita": null,
@@ -64140,13 +64032,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 128.99
-    },
+    "density": 128.99,
     "gdp": {
       "total": 495340592811,
       "perCapita": null,
@@ -64429,13 +64321,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 66.42
-    },
+    "density": 66.42,
     "gdp": {
       "total": 10492123388,
       "perCapita": null,
@@ -64715,10 +64607,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 124.92
-    },
+    "density": 124.92,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -64993,13 +64882,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 12.53
-    },
+    "density": 12.53,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "National anthem of Turkmenistan"
@@ -65277,13 +65166,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 83.58
-    },
+    "density": 83.58,
     "gdp": {
       "total": 3163324631,
       "perCapita": null,
@@ -65557,10 +65446,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 144.61
-    },
+    "density": 144.61,
     "gdp": {
       "total": 469228124,
       "perCapita": null,
@@ -65834,13 +65720,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "parliamentary republic"
+      "type": "parliamentary republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 266.89
-    },
+    "density": 266.89,
     "gdp": {
       "total": 27899082337,
       "perCapita": null,
@@ -66129,13 +66015,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 70.69
-    },
+    "density": 70.69,
     "gdp": {
       "total": 46664948952,
       "perCapita": null,
@@ -66411,13 +66297,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 108.95
-    },
+    "density": 108.95,
     "gdp": {
       "total": 905987824096,
       "perCapita": null,
@@ -66696,10 +66582,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 409.35
-    },
+    "density": 409.35,
     "gdp": {
       "total": 60349391,
       "perCapita": null,
@@ -66959,13 +66842,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "democracy"
+      "type": "democracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 644.17
-    },
+    "density": 644.17,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "National Anthem of the Republic of China"
@@ -67259,10 +67142,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 60.5
-    },
+    "density": 60.5,
     "gdp": {
       "total": 75709289056,
       "perCapita": null,
@@ -67556,13 +67436,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 195.09
-    },
+    "density": 195.09,
     "gdp": {
       "total": 45559202049,
       "perCapita": null,
@@ -67835,13 +67715,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "semi-presidential system"
+      "type": "semi-presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 68.21
-    },
+    "density": 68.21,
     "gdp": {
       "total": 160502739236,
       "perCapita": null,
@@ -68098,10 +67978,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 0.0
-    },
+    "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -68376,13 +68253,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 19.03
-    },
+    "density": 19.03,
     "gdp": {
       "total": 71177146197,
       "perCapita": null,
@@ -68985,13 +68862,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 35.71
-    },
+    "density": 35.71,
     "gdp": {
       "total": 28750956130000,
       "perCapita": null,
@@ -69274,13 +69151,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 78.04
-    },
+    "density": 78.04,
     "gdp": {
       "total": 69238900000,
       "perCapita": null,
@@ -69555,13 +69432,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 1800.0
-    },
+    "density": 1800.0,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Inno e Marcia Pontificale"
@@ -69825,13 +69702,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "constitutional monarchy"
+      "type": "constitutional monarchy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 282.51
-    },
+    "density": 282.51,
     "gdp": {
       "total": 948558503,
       "perCapita": null,
@@ -70112,13 +69989,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 34.1
-    },
+    "density": 34.1,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "gloria al bravo pueblo"
@@ -70373,10 +70250,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 260.72
-    },
+    "density": 260.72,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "God Save the King"
@@ -70631,10 +70505,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 251.14
-    },
+    "density": 251.14,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": "Virgin Islands March"
@@ -70906,13 +70777,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 290.48
-    },
+    "density": 290.48,
     "gdp": {
       "total": 408802379068,
       "perCapita": null,
@@ -71200,10 +71071,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 24.61
-    },
+    "density": 24.61,
     "gdp": {
       "total": 983582865,
       "perCapita": null,
@@ -71463,10 +71331,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 81.83
-    },
+    "density": 81.83,
     "gdp": null,
     "nationalHoliday": null,
     "anthem": null
@@ -71738,10 +71603,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 70.38
-    },
+    "density": 70.38,
     "gdp": {
       "total": 832421565,
       "perCapita": null,
@@ -72019,13 +71881,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "republic"
+      "type": "republic",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 53.51
-    },
+    "density": 53.51,
     "gdp": null,
     "nationalHoliday": "International Workers' Day",
     "anthem": "National anthem of Yemen"
@@ -72418,13 +72280,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "representative democracy"
+      "type": "representative democracy",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 50.8
-    },
+    "density": 50.8,
     "gdp": {
       "total": 405869718462,
       "perCapita": null,
@@ -72709,13 +72571,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "name": null,
-      "type": "presidential system"
+      "type": "presidential system",
+      "leaders": [{
+        "title": null,
+        "name": null
+      }]
     },
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 26.06
-    },
+    "density": 26.06,
     "gdp": {
       "total": 29784454056,
       "perCapita": null,
@@ -73150,10 +73012,7 @@
     "religion": [],
     "ethnicity": [],
     "government": null,
-    "density": {
-      "measurement": "per square kilometer",
-      "value": 38.85
-    },
+    "density": 38.85,
     "gdp": {
       "total": 20678055598,
       "perCapita": null,

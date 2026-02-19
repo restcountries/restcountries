@@ -26,7 +26,7 @@ public class Country extends BaseCountryCore {
   private List<Religion> religion;
   private List<Ethnicity> ethnicity;
   private Government government;
-  private Density density;
+  private Double density;
   private GDP gdp;
   private String nationalHoliday;
   private String anthem;
@@ -152,11 +152,11 @@ public class Country extends BaseCountryCore {
     this.government = government;
   }
 
-  public Density getDensity() {
+  public Double getDensity() {
     return density;
   }
 
-  public void setDensity(Density density) {
+  public void setDensity(Double density) {
     this.density = density;
   }
 
