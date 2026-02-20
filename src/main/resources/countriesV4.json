@@ -584,12 +584,12 @@
       {
         "name": "islam",
         "percentage": 99.9,
-        "population": 35
+        "population": 49950000
       },
       {
         "name": "other",
         "percentage": 0.1,
-        "population": 0
+        "population": 50000
       }
     ],
     "ethnicity": [
@@ -645,7 +645,8 @@
       "perCapita": 411
     },
     "nationalHoliday": "1919-08-19",
-    "anthem": "This Is the Home of the Brave"
+    "anthem": "This Is the Home of the Brave",
+    "hdi": 0.496
   },
   {
     "name": {
@@ -1019,7 +1020,8 @@
       "perCapita": 2880
     },
     "nationalHoliday": null,
-    "anthem": "Angola Avante"
+    "anthem": "Angola Avante",
+    "hdi": 0.616
   },
   {
     "name": {
@@ -1917,7 +1919,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "2912-11-28",
-    "anthem": "Himni i Flamurit"
+    "anthem": "Himni i Flamurit",
+    "hdi": 0.81
   },
   {
     "name": {
@@ -2234,7 +2237,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1992-03-14",
-    "anthem": "El gran Carlemany"
+    "anthem": "El gran Carlemany",
+    "hdi": 0.913
   },
   {
     "name": {
@@ -2585,7 +2589,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1972-02-10",
-    "anthem": "Long Live My Country"
+    "anthem": "Long Live My Country",
+    "hdi": 0.94
   },
   {
     "name": {
@@ -2910,7 +2915,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1816-07-09",
-    "anthem": "Argentine National Anthem"
+    "anthem": "Argentine National Anthem",
+    "hdi": 0.865
   },
   {
     "name": {
@@ -3237,7 +3243,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1918-05-28",
-    "anthem": "Mer Hayrenik"
+    "anthem": "Mer Hayrenik",
+    "hdi": 0.811
   },
   {
     "name": {
@@ -4394,7 +4401,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1981-11-01",
-    "anthem": "Fair Antigua, We Salute Thee"
+    "anthem": "Fair Antigua, We Salute Thee",
+    "hdi": 0.851
   },
   {
     "name": {
@@ -4715,7 +4723,8 @@
       "perCapita": 65946
     },
     "nationalHoliday": "1788-01-26",
-    "anthem": "Advance Australia Fair"
+    "anthem": "Advance Australia Fair",
+    "hdi": 0.958
   },
   {
     "name": {
@@ -5040,7 +5049,8 @@
       "perCapita": 58190
     },
     "nationalHoliday": "1955-10-26",
-    "anthem": "Bundeshymne der Republik \u00d6sterreich"
+    "anthem": "Bundeshymne der Republik \u00d6sterreich",
+    "hdi": 0.93
   },
   {
     "name": {
@@ -5369,7 +5379,8 @@
       "perCapita": 7604
     },
     "nationalHoliday": null,
-    "anthem": "Az\u0259rbaycan Respublikas\u0131n\u0131n D\u00f6vl\u0259t himni"
+    "anthem": "Az\u0259rbaycan Respublikas\u0131n\u0131n D\u00f6vl\u0259t himni",
+    "hdi": 0.789
   },
   {
     "name": {
@@ -5707,7 +5718,8 @@
       "perCapita": 489
     },
     "nationalHoliday": "1962-07-01",
-    "anthem": "Burundi Bwacu"
+    "anthem": "Burundi Bwacu",
+    "hdi": 0.439
   },
   {
     "name": {
@@ -6056,7 +6068,8 @@
       "perCapita": 58248
     },
     "nationalHoliday": "1830-10-04",
-    "anthem": "The Braban\u00e7onne"
+    "anthem": "The Braban\u00e7onne",
+    "hdi": 0.951
   },
   {
     "name": {
@@ -6416,7 +6429,8 @@
       "perCapita": 1790
     },
     "nationalHoliday": "1960-01-08",
-    "anthem": "L'Aube Nouvelle"
+    "anthem": "L'Aube Nouvelle",
+    "hdi": 0.515
   },
   {
     "name": {
@@ -6771,7 +6785,8 @@
       "perCapita": 2980
     },
     "nationalHoliday": "1960-0608",
-    "anthem": "Ditany\u00e8"
+    "anthem": "Ditany\u00e8",
+    "hdi": 0.459
   },
   {
     "name": {
@@ -7095,7 +7110,8 @@
       "perCapita": 2730
     },
     "nationalHoliday": "1971-03-26",
-    "anthem": "Amar Sonar Bangla"
+    "anthem": "Amar Sonar Bangla",
+    "hdi": 0.685
   },
   {
     "name": {
@@ -7369,7 +7385,7 @@
         "population": 4164972
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 15.9,
         "population": 1023540
       },
@@ -7426,7 +7442,8 @@
       "perCapita": 0
     },
     "nationalHoliday": "1878-03-03",
-    "anthem": "Mila Rodino"
+    "anthem": "Mila Rodino",
+    "hdi": 0.845
   },
   {
     "name": {
@@ -7739,7 +7756,8 @@
       "perCapita": 71460
     },
     "nationalHoliday": "1971-12-16",
-    "anthem": "Ba\u1e25raynun\u0101"
+    "anthem": "Ba\u1e25raynun\u0101",
+    "hdi": 0.899
   },
   {
     "name": {
@@ -8066,7 +8084,8 @@
       "perCapita": 35257
     },
     "nationalHoliday": "1973-07-10",
-    "anthem": "March On, Bahamaland"
+    "anthem": "March On, Bahamaland",
+    "hdi": 0.82
   },
   {
     "name": {
@@ -8394,7 +8413,8 @@
       "perCapita": 23930
     },
     "nationalHoliday": "1992-03-03",
-    "anthem": "Dr\u017eavna himna Bosne i Hercegovine"
+    "anthem": "Dr\u017eavna himna Bosne i Hercegovine",
+    "hdi": 0.804
   },
   {
     "name": {
@@ -9222,7 +9242,7 @@
     "religion": [
       {
         "name": "christianity",
-        "percentage": 91,
+        "percentage": 91.0,
         "population": 8289445
       },
       {
@@ -9277,7 +9297,8 @@
       "perCapita": 7477
     },
     "nationalHoliday": "1991-12-26",
-    "anthem": "Gosudarstvennyy gimn Respubliki Belarus"
+    "anthem": "Gosudarstvennyy gimn Respubliki Belarus",
+    "hdi": 0.824
   },
   {
     "name": {
@@ -9658,7 +9679,8 @@
       "perCapita": 8355
     },
     "nationalHoliday": "1973-09-21",
-    "anthem": "Land of the Free"
+    "anthem": "Land of the Free",
+    "hdi": 0.721
   },
   {
     "name": {
@@ -10299,7 +10321,8 @@
       "perCapita": 4525
     },
     "nationalHoliday": "1825-08-16",
-    "anthem": "Himno Nacional de Bolivia"
+    "anthem": "Himno Nacional de Bolivia",
+    "hdi": 0.733
   },
   {
     "name": {
@@ -10932,7 +10955,8 @@
       "perCapita": 10580
     },
     "nationalHoliday": "1822-09-07",
-    "anthem": "Hino Nacional Brasileiro"
+    "anthem": "Hino Nacional Brasileiro",
+    "hdi": 0.786
   },
   {
     "name": {
@@ -11263,7 +11287,8 @@
       "perCapita": 21442
     },
     "nationalHoliday": "1966-11-30",
-    "anthem": "National Anthem of Barbados"
+    "anthem": "National Anthem of Barbados",
+    "hdi": 0.811
   },
   {
     "name": {
@@ -11589,7 +11614,8 @@
       "perCapita": 34970
     },
     "nationalHoliday": "1984-02-23",
-    "anthem": "Allah Peliharakan Sultan"
+    "anthem": "Allah Peliharakan Sultan",
+    "hdi": 0.837
   },
   {
     "name": {
@@ -11903,7 +11929,8 @@
       "perCapita": 4300
     },
     "nationalHoliday": "1907-12-17",
-    "anthem": "Druk Tsenden"
+    "anthem": "Druk Tsenden",
+    "hdi": 0.698
   },
   {
     "name": {
@@ -12499,7 +12526,8 @@
       "perCapita": 7380
     },
     "nationalHoliday": "1966-09-30",
-    "anthem": "Fatshe leno la rona"
+    "anthem": "Fatshe leno la rona",
+    "hdi": 0.731
   },
   {
     "name": {
@@ -12830,7 +12858,8 @@
       "perCapita": 650
     },
     "nationalHoliday": "1958-12-01",
-    "anthem": "La Renaissance"
+    "anthem": "La Renaissance",
+    "hdi": 0.414
   },
   {
     "name": {
@@ -13139,7 +13168,8 @@
       "perCapita": 54935
     },
     "nationalHoliday": "1867-07-01",
-    "anthem": "O Canada"
+    "anthem": "O Canada",
+    "hdi": 0.939
   },
   {
     "name": {
@@ -13764,7 +13794,8 @@
       "perCapita": 97660
     },
     "nationalHoliday": "1291-08-01",
-    "anthem": "Swiss Psalm"
+    "anthem": "Swiss Psalm",
+    "hdi": 0.97
   },
   {
     "name": {
@@ -14079,7 +14110,8 @@
       "perCapita": 17180
     },
     "nationalHoliday": "1810-02-12",
-    "anthem": "Himno Nacional de Chile"
+    "anthem": "Himno Nacional de Chile",
+    "hdi": 0.878
   },
   {
     "name": {
@@ -14420,7 +14452,8 @@
       "perCapita": 13806
     },
     "nationalHoliday": "1949-10-01",
-    "anthem": "March of the Volunteers"
+    "anthem": "March of the Volunteers",
+    "hdi": 0.797
   },
   {
     "name": {
@@ -14784,7 +14817,8 @@
       "perCapita": 6960
     },
     "nationalHoliday": "1960-08-07",
-    "anthem": "L'Abidjanaise"
+    "anthem": "L'Abidjanaise",
+    "hdi": 0.582
   },
   {
     "name": {
@@ -15161,7 +15195,8 @@
       "perCapita": 2200
     },
     "nationalHoliday": "1972-05-20",
-    "anthem": "Chant de Ralliement"
+    "anthem": "Chant de Ralliement",
+    "hdi": 0.588
   },
   {
     "name": {
@@ -15528,7 +15563,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Debout Congolais"
+    "anthem": "Debout Congolais",
+    "hdi": 0.522
   },
   {
     "name": {
@@ -15866,7 +15902,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "La Congolaise"
+    "anthem": "La Congolaise",
+    "hdi": 0.649
   },
   {
     "name": {
@@ -16153,7 +16190,8 @@
     "density": 60.26,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Te Atua Mou E"
+    "anthem": "Te Atua Mou E",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -16485,7 +16523,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Colombia"
+    "anthem": "National Anthem of Colombia",
+    "hdi": 0.788
   },
   {
     "name": {
@@ -16807,7 +16846,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Udzima wa ya Masiwa"
+    "anthem": "Udzima wa ya Masiwa",
+    "hdi": 0.603
   },
   {
     "name": {
@@ -17096,7 +17136,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "C\u00e2ntico da Liberdade"
+    "anthem": "C\u00e2ntico da Liberdade",
+    "hdi": 0.668
   },
   {
     "name": {
@@ -17384,7 +17425,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Noble patria, tu hermosa bandera"
+    "anthem": "Noble patria, tu hermosa bandera",
+    "hdi": 0.833
   },
   {
     "name": {
@@ -17673,7 +17715,8 @@
     "density": 99.98,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "El Himno de Bayamo"
+    "anthem": "El Himno de Bayamo",
+    "hdi": 0.762
   },
   {
     "name": {
@@ -18774,7 +18817,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Hymn to Liberty"
+    "anthem": "Hymn to Liberty",
+    "hdi": 0.913
   },
   {
     "name": {
@@ -19084,7 +19128,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "Kde domov m\u016fj"
+    "anthem": "Kde domov m\u016fj",
+    "hdi": 0.915
   },
   {
     "name": {
@@ -19377,7 +19422,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "German Unity Day",
-    "anthem": "national anthem of Germany"
+    "anthem": "national anthem of Germany",
+    "hdi": 0.959
   },
   {
     "name": {
@@ -19694,7 +19740,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Djibouti"
+    "anthem": "Djibouti",
+    "hdi": 0.513
   },
   {
     "name": {
@@ -19967,7 +20014,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Isle of Beauty, Isle of Splendour"
+    "anthem": "Isle of Beauty, Isle of Splendour",
+    "hdi": 0.761
   },
   {
     "name": {
@@ -20565,7 +20613,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of the Dominican Republic"
+    "anthem": "National Anthem of the Dominican Republic",
+    "hdi": 0.776
   },
   {
     "name": {
@@ -20872,7 +20921,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Kassaman"
+    "anthem": "Kassaman",
+    "hdi": 0.763
   },
   {
     "name": {
@@ -21175,7 +21225,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Salve, Oh Patria"
+    "anthem": "Salve, Oh Patria",
+    "hdi": 0.777
   },
   {
     "name": {
@@ -21478,7 +21529,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Bilady, Bilady, Bilady"
+    "anthem": "Bilady, Bilady, Bilady",
+    "hdi": 0.754
   },
   {
     "name": {
@@ -21733,7 +21785,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/er.png"
     },
-    "population": 3497000,
+    "population": 6400000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
@@ -21783,7 +21835,8 @@
     "density": 29.74,
     "gdp": null,
     "nationalHoliday": "Independence Day",
-    "anthem": "Ertra, Ertra, Ertra"
+    "anthem": "Ertra, Ertra, Ertra",
+    "hdi": 0.503
   },
   {
     "name": {
@@ -22421,7 +22474,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Spanish National Day",
-    "anthem": "Marcha Real"
+    "anthem": "Marcha Real",
+    "hdi": 0.918
   },
   {
     "name": {
@@ -22724,7 +22778,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Mu isamaa, mu \u00f5nn ja r\u00f5\u00f5m"
+    "anthem": "Mu isamaa, mu \u00f5nn ja r\u00f5\u00f5m",
+    "hdi": 0.905
   },
   {
     "name": {
@@ -23042,7 +23097,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "March Forward, Dear Mother Ethiopia"
+    "anthem": "March Forward, Dear Mother Ethiopia",
+    "hdi": 0.492
   },
   {
     "name": {
@@ -23342,7 +23398,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Maamme"
+    "anthem": "Maamme",
+    "hdi": 0.948
   },
   {
     "name": {
@@ -23664,7 +23721,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Bless Fiji"
+    "anthem": "God Bless Fiji",
+    "hdi": 0.731
   },
   {
     "name": {
@@ -24236,7 +24294,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Bastille Day",
-    "anthem": "La Marseillaise"
+    "anthem": "La Marseillaise",
+    "hdi": 0.92
   },
   {
     "name": {
@@ -25096,7 +25155,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "La Concorde"
+    "anthem": "La Concorde",
+    "hdi": 0.733
   },
   {
     "name": {
@@ -25383,7 +25443,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.946
   },
   {
     "name": {
@@ -26305,7 +26366,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Bless Our Homeland Ghana"
+    "anthem": "God Bless Our Homeland Ghana",
+    "hdi": 0.628
   },
   {
     "name": {
@@ -26879,7 +26941,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Libert\u00e9"
+    "anthem": "Libert\u00e9",
+    "hdi": 0.5
   },
   {
     "name": {
@@ -27424,7 +27487,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "For The Gambia Our Homeland"
+    "anthem": "For The Gambia Our Homeland",
+    "hdi": 0.524
   },
   {
     "name": {
@@ -27727,7 +27791,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Esta \u00e9 a Nossa P\u00e1tria bem Amada"
+    "anthem": "Esta \u00e9 a Nossa P\u00e1tria bem Amada",
+    "hdi": 0.514
   },
   {
     "name": {
@@ -28038,7 +28103,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Caminemos pisando las sendas de nuestra inmensa felicidad"
+    "anthem": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+    "hdi": 0.674
   },
   {
     "name": {
@@ -28343,7 +28409,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "Hymn to Liberty"
+    "anthem": "Hymn to Liberty",
+    "hdi": 0.908
   },
   {
     "name": {
@@ -28644,7 +28711,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Hail Grenada"
+    "anthem": "Hail Grenada",
+    "hdi": 0.791
   },
   {
     "name": {
@@ -29213,7 +29281,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Guatemala"
+    "anthem": "National Anthem of Guatemala",
+    "hdi": 0.662
   },
   {
     "name": {
@@ -30073,7 +30142,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of Guyana"
+    "anthem": "National anthem of Guyana",
+    "hdi": 0.776
   },
   {
     "name": {
@@ -30880,7 +30950,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Honduras"
+    "anthem": "National Anthem of Honduras",
+    "hdi": 0.645
   },
   {
     "name": {
@@ -31191,7 +31262,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Lijepa na\u0161a domovino"
+    "anthem": "Lijepa na\u0161a domovino",
+    "hdi": 0.889
   },
   {
     "name": {
@@ -31508,7 +31580,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "La Dessalinienne"
+    "anthem": "La Dessalinienne",
+    "hdi": 0.554
   },
   {
     "name": {
@@ -31808,7 +31881,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Saint Stephen's Day",
-    "anthem": "Himnusz"
+    "anthem": "Himnusz",
+    "hdi": 0.87
   },
   {
     "name": {
@@ -32118,7 +32192,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Indonesia Raya"
+    "anthem": "Indonesia Raya",
+    "hdi": 113.0
   },
   {
     "name": {
@@ -32752,7 +32827,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Jana Gana Mana"
+    "anthem": "Jana Gana Mana",
+    "hdi": 0.685
   },
   {
     "name": {
@@ -33593,7 +33669,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Novruz",
-    "anthem": "National Anthem of the Islamic Republic of Iran"
+    "anthem": "National Anthem of the Islamic Republic of Iran",
+    "hdi": 0.799
   },
   {
     "name": {
@@ -33909,7 +33986,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Mawtini"
+    "anthem": "Mawtini",
+    "hdi": 0.712
   },
   {
     "name": {
@@ -34193,7 +34271,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Icelandic National Day",
-    "anthem": "Lofs\u00f6ngur"
+    "anthem": "Lofs\u00f6ngur",
+    "hdi": 0.972
   },
   {
     "name": {
@@ -34482,7 +34561,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Yom HaShoah",
-    "anthem": "Hatikvah"
+    "anthem": "Hatikvah",
+    "hdi": 0.919
   },
   {
     "name": {
@@ -34778,7 +34858,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Anniversary of the liberation of Italy",
-    "anthem": "Il Canto degli Italiani"
+    "anthem": "Il Canto degli Italiani",
+    "hdi": 0.915
   },
   {
     "name": {
@@ -35096,7 +35177,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.72
   },
   {
     "name": {
@@ -35692,7 +35774,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "The Royal Anthem of Jordan"
+    "anthem": "The Royal Anthem of Jordan",
+    "hdi": 0.754
   },
   {
     "name": {
@@ -35970,7 +36053,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Constitution Memorial Day",
-    "anthem": "Kimigayo"
+    "anthem": "Kimigayo",
+    "hdi": 0.925
   },
   {
     "name": {
@@ -36300,7 +36384,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Men\u0131\u00f1 Qazaqstanym"
+    "anthem": "Men\u0131\u00f1 Qazaqstanym",
+    "hdi": 0.837
   },
   {
     "name": {
@@ -36627,7 +36712,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Ee Mungu Nguvu Yetu"
+    "anthem": "Ee Mungu Nguvu Yetu",
+    "hdi": 0.628
   },
   {
     "name": {
@@ -36943,7 +37029,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "State Anthem of the Kyrgyz Republic"
+    "anthem": "State Anthem of the Kyrgyz Republic",
+    "hdi": 0.72
   },
   {
     "name": {
@@ -37250,7 +37337,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nokor Reach"
+    "anthem": "Nokor Reach",
+    "hdi": 0.606
   },
   {
     "name": {
@@ -37561,7 +37649,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Kunan Kiribati"
+    "anthem": "Kunan Kiribati",
+    "hdi": 0.644
   },
   {
     "name": {
@@ -37842,7 +37931,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "O Land of Beauty!"
+    "anthem": "O Land of Beauty!",
+    "hdi": 0.84
   },
   {
     "name": {
@@ -38140,7 +38230,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Gaecheonjeol",
-    "anthem": "Aegukga"
+    "anthem": "Aegukga",
+    "hdi": 0.937
   },
   {
     "name": {
@@ -38431,7 +38522,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Europe"
+    "anthem": "Europe",
+    "hdi": 0.762
   },
   {
     "name": {
@@ -38732,7 +38824,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Kuwait"
+    "anthem": "National Anthem of Kuwait",
+    "hdi": 0.852
   },
   {
     "name": {
@@ -39043,7 +39136,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Pheng Xat Lao"
+    "anthem": "Pheng Xat Lao",
+    "hdi": 0.617
   },
   {
     "name": {
@@ -39365,7 +39459,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Lebanese national anthem"
+    "anthem": "Lebanese national anthem",
+    "hdi": 0.752
   },
   {
     "name": {
@@ -39673,7 +39768,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "All Hail, Liberia, Hail!"
+    "anthem": "All Hail, Liberia, Hail!",
+    "hdi": 0.51
   },
   {
     "name": {
@@ -39984,7 +40080,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Libya, Libya, Libya"
+    "anthem": "Libya, Libya, Libya",
+    "hdi": 0.721
   },
   {
     "name": {
@@ -40289,7 +40386,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Sons and Daughters of Saint Lucia"
+    "anthem": "Sons and Daughters of Saint Lucia",
+    "hdi": 0.748
   },
   {
     "name": {
@@ -40591,7 +40689,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Oben am jungen Rhein"
+    "anthem": "Oben am jungen Rhein",
+    "hdi": 0.938
   },
   {
     "name": {
@@ -40887,7 +40986,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Sri Lanka Matha"
+    "anthem": "Sri Lanka Matha",
+    "hdi": 0.776
   },
   {
     "name": {
@@ -41210,7 +41310,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Lesotho Fatse La Bontata Rona"
+    "anthem": "Lesotho Fatse La Bontata Rona",
+    "hdi": 0.55
   },
   {
     "name": {
@@ -41514,7 +41615,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Tauti\u0161ka giesm\u0117"
+    "anthem": "Tauti\u0161ka giesm\u0117",
+    "hdi": 0.895
   },
   {
     "name": {
@@ -41836,7 +41938,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Ons Heemecht"
+    "anthem": "Ons Heemecht",
+    "hdi": 0.922
   },
   {
     "name": {
@@ -42140,7 +42243,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Dievs, sv\u0113t\u012b Latviju!"
+    "anthem": "Dievs, sv\u0113t\u012b Latviju!",
+    "hdi": 0.889
   },
   {
     "name": {
@@ -42991,7 +43095,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Revolution of the King and the People",
-    "anthem": "Cherifian Anthem"
+    "anthem": "Cherifian Anthem",
+    "hdi": 0.71
   },
   {
     "name": {
@@ -43265,7 +43370,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Hymne mon\u00e9gasque"
+    "anthem": "Hymne mon\u00e9gasque",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -43568,7 +43674,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Limba noastr\u0103"
+    "anthem": "Limba noastr\u0103",
+    "hdi": 0.785
   },
   {
     "name": {
@@ -43895,7 +44002,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Ry Tanindrazanay malala \u00f4!"
+    "anthem": "Ry Tanindrazanay malala \u00f4!",
+    "hdi": 0.487
   },
   {
     "name": {
@@ -44179,7 +44287,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Gaumiii salaaam"
+    "anthem": "Gaumiii salaaam",
+    "hdi": 0.766
   },
   {
     "name": {
@@ -44495,7 +44604,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Himno Nacional Mexicano"
+    "anthem": "Himno Nacional Mexicano",
+    "hdi": 0.789
   },
   {
     "name": {
@@ -44778,7 +44888,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Forever Marshall Islands"
+    "anthem": "Forever Marshall Islands",
+    "hdi": 0.733
   },
   {
     "name": {
@@ -45069,7 +45180,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Denes nad Makedonija"
+    "anthem": "Denes nad Makedonija",
+    "hdi": 0.815
   },
   {
     "name": {
@@ -45422,7 +45534,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Mali Independence Day",
-    "anthem": "Pour l'Afrique et pour toi"
+    "anthem": "Pour l'Afrique et pour toi",
+    "hdi": 0.419
   },
   {
     "name": {
@@ -45716,7 +45829,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "L-Innu Malti"
+    "anthem": "L-Innu Malti",
+    "hdi": 0.924
   },
   {
     "name": {
@@ -46042,7 +46156,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Kaba Ma Kyei"
+    "anthem": "Kaba Ma Kyei",
+    "hdi": 0.609
   },
   {
     "name": {
@@ -46341,7 +46456,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Oj, svijetla majska zoro"
+    "anthem": "Oj, svijetla majska zoro",
+    "hdi": 0.862
   },
   {
     "name": {
@@ -46651,7 +46767,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of Mongolia"
+    "anthem": "National anthem of Mongolia",
+    "hdi": 0.747
   },
   {
     "name": {
@@ -47246,7 +47363,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "P\u00e1tria Amada"
+    "anthem": "P\u00e1tria Amada",
+    "hdi": 0.493
   },
   {
     "name": {
@@ -47549,7 +47667,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of Mauritania"
+    "anthem": "National anthem of Mauritania",
+    "hdi": 0.563
   },
   {
     "name": {
@@ -48378,7 +48497,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Motherland"
+    "anthem": "Motherland",
+    "hdi": 0.806
   },
   {
     "name": {
@@ -48702,7 +48822,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Mulungu dalitsa Mala\u0175i"
+    "anthem": "Mulungu dalitsa Mala\u0175i",
+    "hdi": 0.517
   },
   {
     "name": {
@@ -49009,7 +49130,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Hari Merdeka",
-    "anthem": "Negaraku"
+    "anthem": "Negaraku",
+    "hdi": 0.819
   },
   {
     "name": {
@@ -49664,7 +49786,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Namibia, Land of the Brave"
+    "anthem": "Namibia, Land of the Brave",
+    "hdi": 0.665
   },
   {
     "name": {
@@ -50284,7 +50407,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "L'Honneur de la Patrie"
+    "anthem": "L'Honneur de la Patrie",
+    "hdi": 0.419
   },
   {
     "name": {
@@ -50862,7 +50986,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nigeria, We Hail Thee"
+    "anthem": "Nigeria, We Hail Thee",
+    "hdi": 0.56
   },
   {
     "name": {
@@ -51164,7 +51289,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Salve a ti"
+    "anthem": "Salve a ti",
+    "hdi": 0.706
   },
   {
     "name": {
@@ -51441,7 +51567,8 @@
     "density": 7.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Ko e Iki he Lagi"
+    "anthem": "Ko e Iki he Lagi",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -52057,7 +52184,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Constitution Day",
-    "anthem": "Ja, vi elsker dette landet"
+    "anthem": "Ja, vi elsker dette landet",
+    "hdi": 0.97
   },
   {
     "name": {
@@ -52343,7 +52471,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Republic Day",
-    "anthem": "Sayaun Thunga Phulka"
+    "anthem": "Sayaun Thunga Phulka",
+    "hdi": 0.622
   },
   {
     "name": {
@@ -52633,7 +52762,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nauru Bwiema"
+    "anthem": "Nauru Bwiema",
+    "hdi": 0.703
   },
   {
     "name": {
@@ -52930,7 +53060,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Defend New Zealand"
+    "anthem": "God Defend New Zealand",
+    "hdi": 0.938
   },
   {
     "name": {
@@ -53232,7 +53363,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nashid as-Salaam as-Sultani"
+    "anthem": "Nashid as-Salaam as-Sultani",
+    "hdi": 0.858
   },
   {
     "name": {
@@ -53532,7 +53664,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Qaumi Taranah"
+    "anthem": "Qaumi Taranah",
+    "hdi": 0.544
   },
   {
     "name": {
@@ -53836,7 +53969,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of Panama"
+    "anthem": "National anthem of Panama",
+    "hdi": 0.839
   },
   {
     "name": {
@@ -54426,7 +54560,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Peru"
+    "anthem": "National Anthem of Peru",
+    "hdi": 0.794
   },
   {
     "name": {
@@ -54720,7 +54855,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "Lupang Hinirang"
+    "anthem": "Lupang Hinirang",
+    "hdi": 0.72
   },
   {
     "name": {
@@ -55024,7 +55160,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Belau rekid"
+    "anthem": "Belau rekid",
+    "hdi": 0.786
   },
   {
     "name": {
@@ -55336,7 +55473,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "O Arise, All You Sons"
+    "anthem": "O Arise, All You Sons",
+    "hdi": 0.576
   },
   {
     "name": {
@@ -55627,7 +55765,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Armed Forces Day",
-    "anthem": "Poland Is Not Yet Lost"
+    "anthem": "Poland Is Not Yet Lost",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -56202,7 +56341,8 @@
     "density": 219.17,
     "gdp": null,
     "nationalHoliday": "Day of the Foundation of the Republic",
-    "anthem": "Aegukka"
+    "anthem": "Aegukka",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -56505,7 +56645,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Portugal Day",
-    "anthem": "A Portuguesa"
+    "anthem": "A Portuguesa",
+    "hdi": 0.89
   },
   {
     "name": {
@@ -56825,7 +56966,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "national anthem of Paraguay"
+    "anthem": "national anthem of Paraguay",
+    "hdi": 0.756
   },
   {
     "name": {
@@ -57155,7 +57297,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "Fida'i"
+    "anthem": "Fida'i",
+    "hdi": 0.674
   },
   {
     "name": {
@@ -57725,7 +57868,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "As Salam al Amiri"
+    "anthem": "As Salam al Amiri",
+    "hdi": 0.886
   },
   {
     "name": {
@@ -58298,7 +58442,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "De\u0219teapt\u0103-te, rom\u00e2ne!"
+    "anthem": "De\u0219teapt\u0103-te, rom\u00e2ne!",
+    "hdi": 0.845
   },
   {
     "name": {
@@ -58611,7 +58756,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Russia Day",
-    "anthem": "State Anthem of the Russian Federation"
+    "anthem": "State Anthem of the Russian Federation",
+    "hdi": 0.832
   },
   {
     "name": {
@@ -58944,7 +59090,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Heroes' Day",
-    "anthem": "Rwanda Nziza"
+    "anthem": "Rwanda Nziza",
+    "hdi": 0.578
   },
   {
     "name": {
@@ -59236,7 +59383,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Saudi National Day",
-    "anthem": "Chant of the Saudi Nation"
+    "anthem": "Chant of the Saudi Nation",
+    "hdi": 0.9
   },
   {
     "name": {
@@ -59594,7 +59742,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nahnu Jund Allah Jund Al-watan"
+    "anthem": "Nahnu Jund Allah Jund Al-watan",
+    "hdi": 0.511
   },
   {
     "name": {
@@ -59903,7 +60052,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Le Lion rouge"
+    "anthem": "Le Lion rouge",
+    "hdi": 0.53
   },
   {
     "name": {
@@ -60212,7 +60362,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Day",
-    "anthem": "Onward Singapore"
+    "anthem": "Onward Singapore",
+    "hdi": 0.946
   },
   {
     "name": {
@@ -61024,7 +61175,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Save Our Solomon Islands"
+    "anthem": "God Save Our Solomon Islands",
+    "hdi": 0.584
   },
   {
     "name": {
@@ -61381,7 +61533,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "High We Exalt Thee, Realm of the Free"
+    "anthem": "High We Exalt Thee, Realm of the Free",
+    "hdi": 0.467
   },
   {
     "name": {
@@ -61669,7 +61822,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of El Salvador"
+    "anthem": "National anthem of El Salvador",
+    "hdi": 0.678
   },
   {
     "name": {
@@ -61946,7 +62100,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Ferragosto",
-    "anthem": "Q336291"
+    "anthem": "Q336291",
+    "hdi": 0.915
   },
   {
     "name": {
@@ -62272,7 +62427,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Republic Day",
-    "anthem": "Qolobaa Calankeed"
+    "anthem": "Qolobaa Calankeed",
+    "hdi": 0.404
   },
   {
     "name": {
@@ -62838,7 +62994,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "Bo\u017ee pravde"
+    "anthem": "Bo\u017ee pravde",
+    "hdi": 0.833
   },
   {
     "name": {
@@ -63149,7 +63306,8 @@
     "density": 20.29,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "South Sudan Oyee!"
+    "anthem": "South Sudan Oyee!",
+    "hdi": 0.388
   },
   {
     "name": {
@@ -63455,7 +63613,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Independ\u00eancia total"
+    "anthem": "Independ\u00eancia total",
+    "hdi": 0.637
   },
   {
     "name": {
@@ -63799,7 +63958,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God zij met ons Suriname"
+    "anthem": "God zij met ons Suriname",
+    "hdi": 0.722
   },
   {
     "name": {
@@ -64099,7 +64259,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Saint Stephen's Day",
-    "anthem": "Nad Tatrou sa bl\u00fdska"
+    "anthem": "Nad Tatrou sa bl\u00fdska",
+    "hdi": 0.88
   },
   {
     "name": {
@@ -64403,7 +64564,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Zdravljica"
+    "anthem": "Zdravljica",
+    "hdi": 0.931
   },
   {
     "name": {
@@ -64689,7 +64851,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Day of Sweden",
-    "anthem": "Du gamla, du fria"
+    "anthem": "Du gamla, du fria",
+    "hdi": 0.959
   },
   {
     "name": {
@@ -65021,7 +65184,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati"
+    "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
+    "hdi": 0.695
   },
   {
     "name": {
@@ -65632,7 +65796,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Koste Seselwa"
+    "anthem": "Koste Seselwa",
+    "hdi": 0.848
   },
   {
     "name": {
@@ -65934,7 +66099,8 @@
     "density": 128.88,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Humat ad-Diyar"
+    "anthem": "Humat ad-Diyar",
+    "hdi": 0.564
   },
   {
     "name": {
@@ -66522,7 +66688,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "La Tchadienne"
+    "anthem": "La Tchadienne",
+    "hdi": 0.416
   },
   {
     "name": {
@@ -66842,7 +67009,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Terre de nos a\u00efeux"
+    "anthem": "Terre de nos a\u00efeux",
+    "hdi": 0.571
   },
   {
     "name": {
@@ -67155,7 +67323,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Day of Thailand",
-    "anthem": "Thai National Anthem"
+    "anthem": "Thai National Anthem",
+    "hdi": 0.798
   },
   {
     "name": {
@@ -67450,7 +67619,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National anthem of Tajikistan"
+    "anthem": "National anthem of Tajikistan",
+    "hdi": 0.691
   },
   {
     "name": {
@@ -68013,7 +68183,8 @@
     "density": 12.53,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "National anthem of Turkmenistan"
+    "anthem": "National anthem of Turkmenistan",
+    "hdi": 0.764
   },
   {
     "name": {
@@ -68323,7 +68494,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "P\u00e1tria"
+    "anthem": "P\u00e1tria",
+    "hdi": 0.634
   },
   {
     "name": {
@@ -68609,7 +68781,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Ko e fasi 'o e tu'i 'o e 'Otu Tonga"
+    "anthem": "Ko e fasi 'o e tu'i 'o e 'Otu Tonga",
+    "hdi": 0.739
   },
   {
     "name": {
@@ -68921,7 +69094,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Forged from the Love of Liberty"
+    "anthem": "Forged from the Love of Liberty",
+    "hdi": 0.807
   },
   {
     "name": {
@@ -69222,7 +69396,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Women's Day",
-    "anthem": "Humat Al Hima"
+    "anthem": "Humat Al Hima",
+    "hdi": 0.746
   },
   {
     "name": {
@@ -69510,7 +69685,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Democracy and National Unity Day",
-    "anthem": "\u0130stikl\u00e2l Mar\u015f\u0131"
+    "anthem": "\u0130stikl\u00e2l Mar\u015f\u0131",
+    "hdi": 0.853
   },
   {
     "name": {
@@ -69801,7 +69977,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Tuvalu mo te Atua"
+    "anthem": "Tuvalu mo te Atua",
+    "hdi": 0.689
   },
   {
     "name": {
@@ -70095,7 +70272,8 @@
     "density": 644.17,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "National Anthem of the Republic of China"
+    "anthem": "National Anthem of the Republic of China",
+    "hdi": 0.934
   },
   {
     "name": {
@@ -70426,7 +70604,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Mungu ibariki Afrika"
+    "anthem": "Mungu ibariki Afrika",
+    "hdi": 0.555
   },
   {
     "name": {
@@ -70732,7 +70911,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Oh Uganda, Land of Beauty"
+    "anthem": "Oh Uganda, Land of Beauty",
+    "hdi": 0.582
   },
   {
     "name": {
@@ -71017,7 +71197,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day of Ukraine",
-    "anthem": "Shche ne vmerla Ukrainy i slava, i volia"
+    "anthem": "Shche ne vmerla Ukrainy i slava, i volia",
+    "hdi": 0.779
   },
   {
     "name": {
@@ -71282,7 +71463,8 @@
     "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -71573,7 +71755,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "International Workers' Day",
-    "anthem": "National Anthem of Uruguay"
+    "anthem": "National Anthem of Uruguay",
+    "hdi": 0.862
   },
   {
     "name": {
@@ -72209,7 +72392,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Independence Day",
-    "anthem": "The Star-Spangled Banner"
+    "anthem": "The Star-Spangled Banner",
+    "hdi": 0.938
   },
   {
     "name": {
@@ -72525,7 +72709,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Novruz",
-    "anthem": "National Anthem of Uzbekistan"
+    "anthem": "National Anthem of Uzbekistan",
+    "hdi": 0.74
   },
   {
     "name": {
@@ -72808,7 +72993,8 @@
     "density": 1800.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Inno e Marcia Pontificale"
+    "anthem": "Inno e Marcia Pontificale",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -73144,7 +73330,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Saint Vincent, Land so Beautiful"
+    "anthem": "Saint Vincent, Land so Beautiful",
+    "hdi": 0.798
   },
   {
     "name": {
@@ -73454,7 +73641,8 @@
     "density": 34.1,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "gloria al bravo pueblo"
+    "anthem": "gloria al bravo pueblo",
+    "hdi": 0.709
   },
   {
     "name": {
@@ -74252,7 +74440,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Ti\u1ebfn Qu\u00e2n Ca"
+    "anthem": "Ti\u1ebfn Qu\u00e2n Ca",
+    "hdi": 0.766
   },
   {
     "name": {
@@ -74573,7 +74762,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Yumi, Yumi"
+    "anthem": "Yumi, Yumi",
+    "hdi": 0.621
   },
   {
     "name": {
@@ -75117,7 +75307,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "The Banner of Freedom"
+    "anthem": "The Banner of Freedom",
+    "hdi": 0.708
   },
   {
     "name": {
@@ -75414,7 +75605,8 @@
     "density": 53.51,
     "gdp": null,
     "nationalHoliday": "International Workers' Day",
-    "anthem": "National anthem of Yemen"
+    "anthem": "National anthem of Yemen",
+    "hdi": 0.47
   },
   {
     "name": {
@@ -75849,7 +76041,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Day of Goodwill",
-    "anthem": "national anthem of South Africa"
+    "anthem": "national anthem of South Africa",
+    "hdi": 0.741
   },
   {
     "name": {
@@ -76162,7 +76355,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Stand and Sing of Zambia, Proud and Free"
+    "anthem": "Stand and Sing of Zambia, Proud and Free",
+    "hdi": 0.595
   },
   {
     "name": {
@@ -76625,6 +76819,7 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "National Anthem of Zimbabwe"
+    "anthem": "National Anthem of Zimbabwe",
+    "hdi": 0.598
   }
 ]
