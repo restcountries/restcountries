@@ -31,6 +31,7 @@ public class Country extends BaseCountryCore {
   private String nationalHoliday;
   private String anthem;
   private List<RegionalBloc> regionalBlocs;
+  private Double hdi;
 
   public Name getName() {
     return name;
@@ -190,5 +191,13 @@ public class Country extends BaseCountryCore {
 
   public void setRegionalBlocs(List<RegionalBloc> regionalBlocs) {
     this.regionalBlocs = regionalBlocs;
+  }
+
+  public Double getHdi() {
+    return hdi;
+  }
+
+  public void setHdi(Double hdi) {
+    this.hdi = hdi;
   }
 }
