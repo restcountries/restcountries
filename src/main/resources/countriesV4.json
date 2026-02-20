@@ -580,7 +580,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 99.9,
+        "population": 35
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 0
+      }
+    ],
     "ethnicity": [
       {
         "name": "pashtun",
@@ -998,7 +1009,7 @@
         },
         {
           "title": "Vice President of Angola",
-          "name": "Esperan\u00e7a da Costa<ref name=\"RNA 15-9-22\">https://rna.ao/rna.ao/2022/09/15/investidura-do-presidente-da-republica/ Investidura do Presidente da Rep\u00fablica {{Webarchive"
+          "name": "Esperan\u00e7a da Costa"
         }
       ]
     },
@@ -2171,7 +2182,7 @@
         "population": 80758
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 6.9,
         "population": 6136
       },
@@ -2495,33 +2506,33 @@
     "religion": [
       {
         "name": "islam",
-        "population": 8215211,
-        "percentage": 74.5
+        "percentage": 74.5,
+        "population": 8215211
       },
       {
         "name": "christianity",
-        "population": 1422500,
-        "percentage": 12.9
+        "percentage": 12.9,
+        "population": 1422500
       },
       {
         "name": "hinduism",
-        "population": 683682,
-        "percentage": 6.2
+        "percentage": 6.2,
+        "population": 683682
       },
       {
-        "name": "buddhusm",
-        "population": 352868,
-        "percentage": 3.2
+        "name": "buddhism",
+        "percentage": 3.2,
+        "population": 352868
       },
       {
         "name": "agnosticism",
-        "population": 143353,
-        "percentage": 1.3
+        "percentage": 1.3,
+        "population": 143353
       },
       {
         "name": "other",
-        "population": 209515,
-        "percentage": 1.9
+        "percentage": 1.9,
+        "population": 209515
       }
     ],
     "ethnicity": [
@@ -2868,7 +2879,7 @@
         "population": 36546773
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 20.5,
         "population": 9580676
       },
@@ -3173,23 +3184,23 @@
     "religion": [
       {
         "name": "christianity",
-        "population": 2982505,
-        "percentage": 96.8
+        "percentage": 96.8,
+        "population": 2982505
       },
       {
         "name": "no-religion",
-        "population": 18487,
-        "percentage": 0.6
+        "percentage": 0.6,
+        "population": 18487
       },
       {
         "name": "unspecified",
-        "population": 52379,
-        "percentage": 1.7
+        "percentage": 1.7,
+        "population": 52379
       },
       {
         "name": "other",
-        "population": 27730,
-        "percentage": 0.9
+        "percentage": 0.9,
+        "population": 27730
       }
     ],
     "ethnicity": [
@@ -4318,12 +4329,12 @@
         "population": 3829
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 1.9,
         "population": 2021
       },
       {
-        "name": "bahai faith",
+        "name": "bah\u00e1\u02bc\u00ed faith",
         "percentage": 1.1,
         "population": 1170
       },
@@ -4654,8 +4665,8 @@
         "population": 12222100
       },
       {
-        "name": "no-religion",
-        "percentage": 43.9,
+        "name": "no religion",
+        "percentage": 38.9,
         "population": 10830061
       },
       {
@@ -4981,13 +4992,23 @@
     "religion": [
       {
         "name": "christianity",
-        "population": 6213074,
-        "percentage": 68.2
+        "percentage": 68.2,
+        "population": 6213074
+      },
+      {
+        "name": "no religion",
+        "percentage": 22.4,
+        "population": 2040658
+      },
+      {
+        "name": "islam",
+        "percentage": 8.3,
+        "population": 2040658
       },
       {
         "name": "other",
-        "population": 2532602,
-        "percentage": 27.8
+        "percentage": 1.1,
+        "population": 100211
       }
     ],
     "ethnicity": [
@@ -5001,7 +5022,7 @@
       }
     ],
     "government": {
-      "type": "Federal semi-presidential republic<ref>{{Cite web",
+      "type": "Federal semi-presidential republic",
       "leaders": [
         {
           "title": "President of Austria",
@@ -5288,23 +5309,23 @@
     "religion": [
       {
         "name": "islam",
-        "population": 84262,
-        "percentage": 97.3
+        "percentage": 97.3,
+        "population": 10073757
       },
       {
         "name": "christianity",
-        "population": 2252,
-        "percentage": 2.6
+        "percentage": 2.6,
+        "population": 269186
       },
       {
         "name": "other",
-        "population": 87,
-        "percentage": 0.1
+        "percentage": 0.1,
+        "population": 87
       },
       {
         "name": "unaffiliated",
-        "population": 87,
-        "percentage": 0.1
+        "percentage": 0.1,
+        "population": 87
       }
     ],
     "ethnicity": [
@@ -5638,23 +5659,23 @@
     "religion": [
       {
         "name": "christianity",
-        "population": 13217538,
-        "percentage": 93.4
+        "percentage": 93.4,
+        "population": 13217538
       },
       {
         "name": "traditional faiths",
-        "population": 608516,
-        "percentage": 4.3
+        "percentage": 4.3,
+        "population": 608516
       },
       {
-        "name": "Islam",
-        "population": 297182,
-        "percentage": 2.1
+        "name": "islam",
+        "percentage": 2.1,
+        "population": 297182
       },
       {
         "name": "other",
-        "population": 28303,
-        "percentage": 0.2
+        "percentage": 0.2,
+        "population": 28303
       }
     ],
     "ethnicity": [
@@ -6328,7 +6349,7 @@
         "population": 2462089
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 5.2,
         "population": 715244
       },
@@ -6673,24 +6694,24 @@
     ],
     "religion": [
       {
-        "name": "Islam",
+        "name": "islam",
         "percentage": 63.8,
-        "population": 14690445
+        "population": 14348062
       },
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 26.3,
-        "population": 6055779
+        "population": 5914640
       },
       {
-        "name": "Animism",
-        "percentage": 9,
-        "population": 2072320
+        "name": "animism",
+        "percentage": 9.0,
+        "population": 2024021
       },
       {
         "name": "irreligion",
         "percentage": 0.7,
-        "population": 161180
+        "population": 157424
       }
     ],
     "ethnicity": [
@@ -7021,28 +7042,28 @@
     "religion": [
       {
         "name": "Islam ",
-        "percentage": 91.04,
-        "population": 158011176
+        "population": 158011176,
+        "percentage": 91.04
       },
       {
         "name": "Hinduism",
-        "percentage": 7.94,
-        "population": 13780852
+        "population": 13780852,
+        "percentage": 7.94
       },
       {
         "name": "Buddhism",
-        "percentage": 0.6,
-        "population": 1041374
+        "population": 1041374,
+        "percentage": 0.6
       },
       {
         "name": "Christianity",
-        "percentage": 0.3,
-        "population": 520687
+        "population": 520687,
+        "percentage": 0.3
       },
       {
         "name": "other",
-        "percentage": 0.12,
-        "population": 208275
+        "population": 208275,
+        "percentage": 0.12
       }
     ],
     "ethnicity": [
@@ -7343,17 +7364,17 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 64.7,
-        "population": 4171668
+        "population": 4164972
       },
       {
         "name": "no-religion",
         "percentage": 15.9,
-        "population": 1025186
+        "population": 1023540
       },
       {
-        "name": "Islam",
+        "name": "islam",
         "percentage": 9.8,
         "population": 631876
       },
@@ -9205,7 +9226,7 @@
         "population": 8289445
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 7.8,
         "population": 710524
       },
@@ -10845,7 +10866,7 @@
         "population": 178419987
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 9.28,
         "population": 19805472
       },
@@ -11181,13 +11202,13 @@
         "population": 213190
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 20.6,
         "population": 58092
       },
       {
-        "name": "bah\u00e1\u02bc\u00ed Faith",
-        "percentage": 2,
+        "name": "bah\u00e1\u02bc\u00ed faith",
+        "percentage": 2.0,
         "population": 5640
       },
       {
@@ -12769,18 +12790,18 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 73.2,
         "population": 4136501
       },
       {
-        "name": "Islam",
+        "name": "islam",
         "percentage": 13.9,
         "population": 785483
       },
       {
         "name": "traditional faiths",
-        "percentage": 12,
+        "percentage": 12.0,
         "population": 678115
       },
       {
@@ -14023,18 +14044,18 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
-        "percentage": 70,
+        "name": "christianity",
+        "percentage": 70.0,
         "population": 13740712
       },
       {
-        "name": "no-religion",
-        "percentage": 26,
+        "name": "no religion",
+        "percentage": 26.0,
         "population": 5103693
       },
       {
         "name": "other",
-        "percentage": 4,
+        "percentage": 4.0,
         "population": 785184
       }
     ],
@@ -15464,7 +15485,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 95.4,
+        "population": 109126305
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 2.6,
+        "population": 2974092
+      },
+      {
+        "name": "islam",
+        "percentage": 1.5,
+        "population": 1715822
+      },
+      {
+        "name": "others",
+        "percentage": 0.5,
+        "population": 571941
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -15781,7 +15823,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.1,
+        "population": 5425271
+      },
+      {
+        "name": "no religion",
+        "percentage": 8.0,
+        "population": 498303
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 2.7,
+        "population": 168177
+      },
+      {
+        "name": "islam",
+        "percentage": 1.2,
+        "population": 74745
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -16369,7 +16432,38 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "catholicism",
+        "percentage": 70.2,
+        "population": 36992558
+      },
+      {
+        "name": "christian",
+        "percentage": 16.8,
+        "population": 8852920
+      },
+      {
+        "name": "no religion",
+        "percentage": 11.1,
+        "population": 5849251
+      },
+      {
+        "name": "black",
+        "percentage": 9.34,
+        "population": 4921802
+      },
+      {
+        "name": "indigenous",
+        "percentage": 4.31,
+        "population": 2271196
+      },
+      {
+        "name": "romanis",
+        "percentage": 0.01,
+        "population": 5270
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -17545,7 +17639,23 @@
       "53"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 58.9,
+        "population": 5741576
+      },
+      {
+        "name": "no religion",
+        "percentage": 23.2,
+        "population": 2261538
+      },
+      {
+        "name": "folk religion",
+        "percentage": 17.6,
+        "population": 1715649
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary communist state",
@@ -18941,7 +19051,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 11.7,
+        "population": 1275365
+      },
+      {
+        "name": "other",
+        "percentage": 1.2,
+        "population": 130807
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -19554,7 +19675,7 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "Unitary dominant-party<ref",
+      "type": "Unitary dominant-party",
       "leaders": [
         {
           "title": "President",
@@ -20406,7 +20527,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 74.6,
+        "population": 8602985
+      },
+      {
+        "name": "no religion",
+        "percentage": 22.0,
+        "population": 2537073
+      },
+      {
+        "name": "other",
+        "percentage": 1.4,
+        "population": 161450
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential system",
@@ -21005,7 +21142,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 89.3,
+        "population": 15612610
+      },
+      {
+        "name": "no religion",
+        "percentage": 8.9,
+        "population": 1556016
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -21624,7 +21772,7 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "Unitary one-party presidential republic under a totalitarian dictatorship<ref name=\"UNHRC\">{{cite web",
+      "type": "Unitary one-party presidential republic under a totalitarian dictatorship",
       "leaders": [
         {
           "title": "President",
@@ -22225,7 +22373,33 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "roman catholicism",
+        "percentage": 58.6,
+        "population": 29048445
+      },
+      {
+        "name": "atheist",
+        "percentage": 13.3,
+        "population": 6592906
+      },
+      {
+        "name": "indifferent or irreligious",
+        "percentage": 11.7,
+        "population": 5799775
+      },
+      {
+        "name": "agnostic",
+        "percentage": 11.1,
+        "population": 5502350
+      },
+      {
+        "name": "other religion",
+        "percentage": 3.6,
+        "population": 1784546
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -22512,7 +22686,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "irreligion",
+        "percentage": 58.4,
+        "population": 795965
+      },
+      {
+        "name": "christianity",
+        "percentage": 26.7,
+        "population": 363909
+      },
+      {
+        "name": "other",
+        "percentage": 2.1,
+        "population": 28622
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -22809,7 +22999,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 67.3,
+        "population": 91191500
+      },
+      {
+        "name": "islam",
+        "percentage": 31.3,
+        "population": 42411500
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 0.6,
+        "population": 813000
+      },
+      {
+        "name": "others",
+        "percentage": 0.8,
+        "population": 1084000
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal parliamentary republic",
@@ -23410,7 +23621,28 @@
       "679"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 64.4,
+        "population": 596522
+      },
+      {
+        "name": "hinduism",
+        "percentage": 27.9,
+        "population": 258431
+      },
+      {
+        "name": "islam",
+        "percentage": 6.3,
+        "population": 58355
+      },
+      {
+        "name": "others",
+        "percentage": 1.4,
+        "population": 12968
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -24821,7 +25053,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 80.2,
+        "population": 1922689
+      },
+      {
+        "name": "islam",
+        "percentage": 10.8,
+        "population": 258916
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.0,
+        "population": 167816
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 1.1,
+        "population": 26371
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -25959,7 +26212,78 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 71.3,
+        "population": 24983129
+      },
+      {
+        "name": "islam",
+        "percentage": 19.9,
+        "population": 6972851
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 3.2,
+        "population": 1121262
+      },
+      {
+        "name": "irreligion",
+        "percentage": 1.1,
+        "population": 385434
+      },
+      {
+        "name": "other",
+        "percentage": 4.5,
+        "population": 1576775
+      },
+      {
+        "name": "akan",
+        "percentage": 45.7,
+        "population": 16013029
+      },
+      {
+        "name": "mole-dagbon",
+        "percentage": 18.5,
+        "population": 6482298
+      },
+      {
+        "name": "ewe",
+        "percentage": 12.8,
+        "population": 4485050
+      },
+      {
+        "name": "ga-adangbe",
+        "percentage": 7.1,
+        "population": 2487801
+      },
+      {
+        "name": "gurma",
+        "percentage": 6.4,
+        "population": 2242525
+      },
+      {
+        "name": "guan",
+        "percentage": 3.2,
+        "population": 1121262
+      },
+      {
+        "name": "gurunsi",
+        "percentage": 2.7,
+        "population": 946065
+      },
+      {
+        "name": "mande",
+        "percentage": 2.0,
+        "population": 700789
+      },
+      {
+        "name": "other",
+        "percentage": 1.6,
+        "population": 560631
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -26517,7 +26841,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 85.2,
+        "population": 11916225
+      },
+      {
+        "name": "christianity",
+        "percentage": 13.4,
+        "population": 1874148
+      },
+      {
+        "name": "animism",
+        "percentage": 0.2,
+        "population": 27972
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential system",
@@ -27965,7 +28305,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 93.0,
+        "population": 9646272
+      },
+      {
+        "name": "no religion",
+        "percentage": 4.0,
+        "population": 414893
+      },
+      {
+        "name": "islam",
+        "percentage": 2.0,
+        "population": 207447
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -28245,7 +28601,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.6,
+        "population": 110724
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.3,
+        "population": 1490
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.0,
+        "population": 1146
+      },
+      {
+        "name": "rastafari",
+        "percentage": 0.7,
+        "population": 802
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -28803,7 +29180,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 88.1,
+        "population": 16082845
+      },
+      {
+        "name": "no religion",
+        "percentage": 11.0,
+        "population": 2008074
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -30760,7 +31148,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.4,
+        "population": 3379088
+      },
+      {
+        "name": "no religion",
+        "percentage": 6.4,
+        "population": 247439
+      },
+      {
+        "name": "islam",
+        "percentage": 1.3,
+        "population": 50261
+      },
+      {
+        "name": "other",
+        "percentage": 1.9,
+        "population": 73458
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -31061,7 +31470,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.0,
+        "population": 9979127
+      },
+      {
+        "name": "no religion",
+        "percentage": 10.7,
+        "population": 1227318
+      },
+      {
+        "name": "haitian vodou",
+        "percentage": 2.1,
+        "population": 240875
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -31350,7 +31775,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 42.5,
+        "population": 4073466
+      },
+      {
+        "name": "irreligion",
+        "percentage": 40.1,
+        "population": 3843435
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -31639,7 +32075,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 87.1,
+        "population": 247746179
+      },
+      {
+        "name": "christianity",
+        "percentage": 10.45,
+        "population": 29723853
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.7,
+        "population": 4835459
+      },
+      {
+        "name": "buddhism",
+        "percentage": 0.8,
+        "population": 2275510
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -32232,7 +32689,48 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "hinduism",
+        "percentage": 79.8,
+        "population": 1140044875
+      },
+      {
+        "name": "islam",
+        "percentage": 14.2,
+        "population": 202865128
+      },
+      {
+        "name": "christianity",
+        "percentage": 2.3,
+        "population": 32858436
+      },
+      {
+        "name": "sikhism",
+        "percentage": 1.7,
+        "population": 24286670
+      },
+      {
+        "name": "buddhism",
+        "percentage": 0.7,
+        "population": 10000394
+      },
+      {
+        "name": "jainism",
+        "percentage": 0.4,
+        "population": 5714511
+      },
+      {
+        "name": "unaffiliated",
+        "percentage": 0.23,
+        "population": 3285844
+      },
+      {
+        "name": "other",
+        "percentage": 0.65,
+        "population": 9286080
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal parliamentary republic",
@@ -34555,7 +35053,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 68.9,
+        "population": 1946365
+      },
+      {
+        "name": "no religion",
+        "percentage": 21.3,
+        "population": 601706
+      },
+      {
+        "name": "rastafari",
+        "percentage": 1.1,
+        "population": 31074
+      },
+      {
+        "name": "other",
+        "percentage": 6.5,
+        "population": 183619
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -35133,7 +35652,25 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage":  95,
+        "population": 10910565
+      },{
+        "name": "christianity",
+        "percentage":  3,
+        "population": 344544
+      },{
+        "name": "druze",
+        "percentage":  1,
+        "population": 114848
+      },{
+        "name": "other",
+        "percentage":  1,
+        "population": 114848
+      },
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -35720,7 +36257,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 69.3,
+        "population": 14203711
+      },
+      {
+        "name": "christianity",
+        "percentage": 17.2,
+        "population": 3525308
+      },
+      {
+        "name": "no religion",
+        "percentage": 2.3,
+        "population": 471407
+      },
+      {
+        "name": "other",
+        "percentage": 0.2,
+        "population": 40992
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential system",
@@ -36026,7 +36584,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 85.5,
+        "population": 45597986
+      },
+      {
+        "name": "islam",
+        "percentage": 10.9,
+        "population": 5813077
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.5,
+        "population": 799965
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 0.7,
+        "population": 373317
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -36327,7 +36906,22 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 91,
+        "population": 6626438
+      },{
+        "name": "christianity",
+        "percentage": 8.0,
+        "population": 582544
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 72818
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -36613,7 +37207,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 96.5,
+        "population": 17021443
+      },
+      {
+        "name": "islam",
+        "percentage": 2.6,
+        "population": 458609
+      },
+      {
+        "name": "christianity",
+        "percentage": 0.3,
+        "population": 52916
+      },
+      {
+        "name": "other",
+        "percentage": 0.5,
+        "population": 88194
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional elective monarchy under a Dynasty",
@@ -36908,7 +37523,23 @@
       "686"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.2,
+        "population": 112116
+      },
+      {
+        "name": "bah\u00e1'\u00ed faith",
+        "percentage": 2.1,
+        "population": 2447
+      },
+      {
+        "name": "other",
+        "percentage": 1.7,
+        "population": 1981
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic with an executive president",
@@ -37471,7 +38102,23 @@
       "82"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "no religion",
+        "percentage": 51.0,
+        "population": 26561717
+      },
+      {
+        "name": "christianity",
+        "percentage": 31.0,
+        "population": 16145358
+      },
+      {
+        "name": "buddhism",
+        "percentage": 17.0,
+        "population": 8853906
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -38047,7 +38694,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 74.6,
+        "population": 3719344
+      },
+      {
+        "name": "christianity",
+        "percentage": 18.2,
+        "population": 907400
+      },
+      {
+        "name": "other",
+        "percentage": 7.2,
+        "population": 358972
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-constitutional monarchy",
@@ -38337,7 +39000,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 66.0,
+        "population": 5249347
+      },
+      {
+        "name": "tai folk religion",
+        "percentage": 30.7,
+        "population": 2441742
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.5,
+        "population": 119303
+      },
+      {
+        "name": "other",
+        "percentage": 1.8,
+        "population": 143164
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Communist state",
@@ -38638,7 +39322,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 53.31,
+        "population": 2859805
+      },
+      {
+        "name": "christianity",
+        "percentage": 41.4,
+        "population": 2220896
+      },
+      {
+        "name": "druze",
+        "percentage": 5.21,
+        "population": 279490
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.08,
+        "population": 4292
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic under confessionalism",
@@ -38930,7 +39635,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 85.1,
+        "population": 4627099
+      },
+      {
+        "name": "islam",
+        "percentage": 12.2,
+        "population": 663344
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.4,
+        "population": 76121
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential system",
@@ -39230,7 +39951,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 96.6,
+        "population": 7110980
+      },
+      {
+        "name": "christianity",
+        "percentage": 2.7,
+        "population": 198754
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary state",
@@ -39515,7 +40247,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 77.4,
+        "population": 142493
+      },
+      {
+        "name": "no religion",
+        "percentage": 14.4,
+        "population": 26510
+      },
+      {
+        "name": "rastafari",
+        "percentage": 1.4,
+        "population": 2577
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -39800,7 +40548,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 79.4,
+        "population": 32738
+      },
+      {
+        "name": "no religion",
+        "percentage": 9.6,
+        "population": 3958
+      },
+      {
+        "name": "islam",
+        "percentage": 6.0,
+        "population": 2474
+      },
+      {
+        "name": "other",
+        "percentage": 5.0,
+        "population": 2062
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary semi-constitutional monarchy with elements of a direct democracy",
@@ -40403,7 +41172,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 92.1,
+        "population": 2036005
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 6.6,
+        "population": 145903
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.0,
+        "population": 22106
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -40691,7 +41476,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 79.4,
+        "population": 2300559
+      },
+      {
+        "name": "no religion",
+        "percentage": 6.1,
+        "population": 176743
+      },
+      {
+        "name": "others",
+        "percentage": 0.8,
+        "population": 23179
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -41002,7 +41803,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 53.0,
+        "population": 366202
+      },
+      {
+        "name": "no religion",
+        "percentage": 38.0,
+        "population": 262560
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -41290,7 +42102,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 64.0,
+        "population": 1179025
+      },
+      {
+        "name": "no religion",
+        "percentage": 35.0,
+        "population": 644779
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 18422
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -42130,7 +42958,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 99.68,
+        "population": 37373205
+      },
+      {
+        "name": "others",
+        "percentage": 0.3,
+        "population": 112480
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary Constitutional monarchy",
@@ -42691,7 +43530,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 97.4,
+        "population": 2319411
+      },
+      {
+        "name": "other",
+        "percentage": 0.3,
+        "population": 7144
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.5,
+        "population": 35720
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -42992,13 +43847,39 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.7,
+        "population": 27074318
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.3,
+        "population": 2333442
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 4.7,
+        "population": 1502353
+      },
+      {
+        "name": "islam",
+        "percentage": 3.1,
+        "population": 990914
+      },
+      {
+        "name": "others",
+        "percentage": 0.3,
+        "population": 95895
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic under a Council of the Presidency for the Re-Foundation of the Republic of Madagascar",
       "leaders": [
         {
-          "title": "List of Presidents of Madagascar",
+          "title": "President of Madagascar",
           "name": "Michael Randrianirina"
         },
         {
@@ -43576,7 +44457,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 88.9,
+        "population": 117300794
+      },
+      {
+        "name": "irreligion",
+        "percentage": 8.1,
+        "population": 10687699
+      },
+      {
+        "name": "other religion",
+        "percentage": 2.4,
+        "population": 3166726
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal Presidential system",
@@ -44447,7 +45344,63 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "other",
+        "percentage": 5.0,
+        "population": 1099530
+      },
+      {
+        "name": "bambara",
+        "percentage": 33.3,
+        "population": 7322872
+      },
+      {
+        "name": "fula",
+        "percentage": 13.3,
+        "population": 2924751
+      },
+      {
+        "name": "soninke",
+        "percentage": 9.6,
+        "population": 2111098
+      },
+      {
+        "name": "senufo",
+        "percentage": 9.6,
+        "population": 2111098
+      },
+      {
+        "name": "malinke",
+        "percentage": 8.8,
+        "population": 1935173
+      },
+      {
+        "name": "dogon",
+        "percentage": 8.7,
+        "population": 1913183
+      },
+      {
+        "name": "songhai",
+        "percentage": 5.9,
+        "population": 1297446
+      },
+      {
+        "name": "tuareg",
+        "percentage": 3.5,
+        "population": 769671
+      },
+      {
+        "name": "bobo",
+        "percentage": 2.1,
+        "population": 461803
+      },
+      {
+        "name": "other",
+        "percentage": 4.5,
+        "population": 989577
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic under a military junta",
@@ -45031,7 +45984,43 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 87.9,
+        "population": 49022034
+      },
+      {
+        "name": "christianity",
+        "percentage": 6.2,
+        "population": 3457754
+      },
+      {
+        "name": "islam",
+        "percentage": 4.3,
+        "population": 2398120
+      },
+      {
+        "name": "animism",
+        "percentage": 0.8,
+        "population": 446162
+      },
+      {
+        "name": "hinduism",
+        "percentage": 0.5,
+        "population": 278851
+      },
+      {
+        "name": "other",
+        "percentage": 0.2,
+        "population": 111540
+      },
+      {
+        "name": "outmigration of the rohingya population",
+        "percentage": 3.0,
+        "population": 1673107
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary assembly-independent republic under a military junta",
@@ -45319,7 +46308,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 74.9,
+        "population": 466872
+      },
+      {
+        "name": "islam",
+        "percentage": 19.9,
+        "population": 124042
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -45598,7 +46598,38 @@
       "976"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 51.7,
+        "population": 1811951
+      },
+      {
+        "name": "no religion",
+        "percentage": 40.6,
+        "population": 1422925
+      },
+      {
+        "name": "islam",
+        "percentage": 3.2,
+        "population": 112152
+      },
+      {
+        "name": "shamanism",
+        "percentage": 2.5,
+        "population": 87619
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.3,
+        "population": 45562
+      },
+      {
+        "name": "other",
+        "percentage": 0.7,
+        "population": 24533
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -46172,7 +47203,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 62.0,
+        "population": 21626224
+      },
+      {
+        "name": "islam",
+        "percentage": 19.1,
+        "population": 6662272
+      },
+      {
+        "name": "no religion",
+        "percentage": 13.5,
+        "population": 4708936
+      },
+      {
+        "name": "traditional faith",
+        "percentage": 4.3,
+        "population": 1499883
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary dominant-party Semi-presidential system",
@@ -47607,7 +48659,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 82.3,
+        "population": 17481087
+      },
+      {
+        "name": "islam",
+        "percentage": 13.8,
+        "population": 2931215
+      },
+      {
+        "name": "none",
+        "percentage": 2.1,
+        "population": 446054
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 1.2,
+        "population": 254888
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -47903,7 +48976,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 9.1,
+        "population": 3145398
+      },
+      {
+        "name": "hinduism",
+        "percentage": 6.1,
+        "population": 2108453
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal monarchy",
@@ -49112,7 +50196,73 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 99.3,
+        "population": 26158385
+      },
+      {
+        "name": "christianity",
+        "percentage": 0.3,
+        "population": 79028
+      },
+      {
+        "name": "animism",
+        "percentage": 0.2,
+        "population": 52686
+      },
+      {
+        "name": "irreligion",
+        "percentage": 0.1,
+        "population": 26343
+      },
+      {
+        "name": "hausa",
+        "percentage": 53.1,
+        "population": 13988018
+      },
+      {
+        "name": "zarma",
+        "percentage": 21.2,
+        "population": 5584670
+      },
+      {
+        "name": "tuareg",
+        "percentage": 11.0,
+        "population": 2897706
+      },
+      {
+        "name": "fulani",
+        "percentage": 6.5,
+        "population": 1712281
+      },
+      {
+        "name": "kanuri",
+        "percentage": 5.9,
+        "population": 1554224
+      },
+      {
+        "name": "gurma",
+        "percentage": 0.8,
+        "population": 210742
+      },
+      {
+        "name": "toubou",
+        "percentage": 0.4,
+        "population": 105371
+      },
+      {
+        "name": "arab",
+        "percentage": 0.4,
+        "population": 105371
+      },
+      {
+        "name": "others",
+        "percentage": 0.9,
+        "population": 237085
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic under a military junta",
@@ -49674,7 +50824,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 53.5,
+        "population": 126659715
+      },
+      {
+        "name": "christianity",
+        "percentage": 45.9,
+        "population": 108666933
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 1420483
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal presidential republic",
@@ -49962,7 +51128,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.4,
+        "population": 5635344
+      },
+      {
+        "name": "no religion",
+        "percentage": 14.7,
+        "population": 981511
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary diarchy",
@@ -50837,7 +52014,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 68.5,
+        "population": 3836719
+      },
+      {
+        "name": "no religion",
+        "percentage": 27.3,
+        "population": 1529086
+      },
+      {
+        "name": "islam",
+        "percentage": 3.4,
+        "population": 190436
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 44808
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -51996,7 +53194,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 95.0,
+        "population": 5219956
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.67,
+        "population": 91761
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.67,
+        "population": 91761
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Islamic absolute monarchy",
@@ -52589,7 +53803,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 91.5,
+        "population": 3969058
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.6,
+        "population": 329670
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -53168,7 +54393,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 94.5,
+        "population": 32463320
+      },
+      {
+        "name": "no religion",
+        "percentage": 5.1,
+        "population": 1751989
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -53745,7 +54981,28 @@
       "680"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 78.7,
+        "population": 13901
+      },
+      {
+        "name": "no religion",
+        "percentage": 10.1,
+        "population": 1784
+      },
+      {
+        "name": "modekngei",
+        "percentage": 5.1,
+        "population": 901
+      },
+      {
+        "name": "islam",
+        "percentage": 4.9,
+        "population": 865
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic under a non-partisan democracy",
@@ -54046,7 +55303,18 @@
       "675"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 95.5,
+        "population": 11251389
+      },
+      {
+        "name": "other",
+        "percentage": 1.4,
+        "population": 164942
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -54890,7 +56158,33 @@
       "850"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "no religion",
+        "percentage": 73.0,
+        "population": 19198026
+      },
+      {
+        "name": "chondoism",
+        "percentage": 13.0,
+        "population": 3418827
+      },
+      {
+        "name": "shamanism",
+        "percentage": 12.0,
+        "population": 3155840
+      },
+      {
+        "name": "buddhism",
+        "percentage": 1.5,
+        "population": 394480
+      },
+      {
+        "name": "christianity",
+        "percentage": 0.5,
+        "population": 131493
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary communist state",
@@ -55173,7 +56467,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.8,
+        "population": 9115690
+      },
+      {
+        "name": "no religion",
+        "percentage": 14.1,
+        "population": 1515699
+      },
+      {
+        "name": "other",
+        "percentage": 1.1,
+        "population": 118246
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -55477,7 +56787,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 95.5,
+        "population": 6125014
+      },
+      {
+        "name": "no religion",
+        "percentage": 4.1,
+        "population": 262959
+      },
+      {
+        "name": "other",
+        "percentage": 0.4,
+        "population": 25655
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic",
@@ -55781,7 +57107,33 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 80.73,
+        "population": 4426789
+      },
+      {
+        "name": "judaism",
+        "percentage": 13.07,
+        "population": 716687
+      },
+      {
+        "name": "christianity",
+        "percentage": 0.88,
+        "population": 48254
+      },
+      {
+        "name": "baha'i faith",
+        "percentage": 0.05,
+        "population": 2742
+      },
+      {
+        "name": "irreligion",
+        "percentage": 5.27,
+        "population": 288978
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary provisional semi-presidential republic",
@@ -56325,7 +57677,33 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 65.5,
+        "population": 2078331
+      },
+      {
+        "name": "hinduism",
+        "percentage": 15.1,
+        "population": 479127
+      },
+      {
+        "name": "christianity",
+        "percentage": 14.2,
+        "population": 450569
+      },
+      {
+        "name": "buddhism",
+        "percentage": 3.3,
+        "population": 104710
+      },
+      {
+        "name": "other",
+        "percentage": 1.9,
+        "population": 60287
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-constitutional monarchy",
@@ -56882,7 +58260,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.7,
+        "population": 16129549
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.8,
+        "population": 152345
+      },
+      {
+        "name": "other",
+        "percentage": 0.4,
+        "population": 76173
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -57512,7 +58906,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 93.8,
+        "population": 13230461
+      },
+      {
+        "name": "no religion",
+        "percentage": 3.0,
+        "population": 423149
+      },
+      {
+        "name": "islam",
+        "percentage": 2.2,
+        "population": 310309
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic under an authoritarianism",
@@ -58121,7 +59531,48 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "sudanese arab",
+        "percentage": 70.0,
+        "population": 36237206
+      },
+      {
+        "name": "beja",
+        "percentage": 5.9,
+        "population": 3054279
+      },
+      {
+        "name": "nuba",
+        "percentage": 2.5,
+        "population": 1294186
+      },
+      {
+        "name": "fur",
+        "percentage": 2.0,
+        "population": 1035349
+      },
+      {
+        "name": "egyptian",
+        "percentage": 2.0,
+        "population": 1035349
+      },
+      {
+        "name": "nubian",
+        "percentage": 1.3,
+        "population": 672977
+      },
+      {
+        "name": "others",
+        "percentage": 16.3,
+        "population": 8438092
+      },
+      {
+        "name": "christianity",
+        "percentage": 3.0,
+        "population": 1553023
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal republic under a military junta",
@@ -58416,7 +59867,21 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 97.2,
+        "population": 18319788
+      },{
+        "name": "christianity",
+        "percentage": 2.7,
+        "population": 508883
+      },{
+        "name": "other",
+        "percentage": 1,
+        "population": 188475
+      },
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -59521,7 +60986,23 @@
       "677"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 97.4,
+        "population": 807307
+      },
+      {
+        "name": "folk religion",
+        "percentage": 1.2,
+        "population": 9946
+      },
+      {
+        "name": "others",
+        "percentage": 1.4,
+        "population": 11604
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Westminster system",
@@ -59812,7 +61293,73 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "temne",
+        "percentage": 35.5,
+        "population": 3003482
+      },
+      {
+        "name": "mende",
+        "percentage": 33.2,
+        "population": 2808890
+      },
+      {
+        "name": "limba",
+        "percentage": 6.4,
+        "population": 541473
+      },
+      {
+        "name": "kono",
+        "percentage": 4.4,
+        "population": 372263
+      },
+      {
+        "name": "fula",
+        "percentage": 3.4,
+        "population": 287657
+      },
+      {
+        "name": "susu",
+        "percentage": 2.9,
+        "population": 245355
+      },
+      {
+        "name": "loko",
+        "percentage": 2.9,
+        "population": 245355
+      },
+      {
+        "name": "koranko",
+        "percentage": 2.8,
+        "population": 236894
+      },
+      {
+        "name": "sherbro",
+        "percentage": 2.6,
+        "population": 219973
+      },
+      {
+        "name": "mandingo",
+        "percentage": 2.4,
+        "population": 203052
+      },
+      {
+        "name": "krio",
+        "percentage": 1.3,
+        "population": 109987
+      },
+      {
+        "name": "islam",
+        "percentage": 78.0,
+        "population": 6599199
+      },
+      {
+        "name": "christianity",
+        "percentage": 21.0,
+        "population": 1776708
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -60692,7 +62239,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "somali",
+        "percentage": 85.0,
+        "population": 16388722
+      },
+      {
+        "name": "other",
+        "percentage": 15.0,
+        "population": 2892128
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal parliamentary republic",
@@ -61242,7 +62800,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 86.6,
+        "population": 5687700
+      },
+      {
+        "name": "islam",
+        "percentage": 4.2,
+        "population": 275847
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.1,
+        "population": 72246
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -61536,7 +63110,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 60.5,
+        "population": 7685747
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 32.9,
+        "population": 4179522
+      },
+      {
+        "name": "islam",
+        "percentage": 6.2,
+        "population": 787630
+      },
+      {
+        "name": "others",
+        "percentage": 0.4,
+        "population": 50815
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal presidential republic",
@@ -61822,7 +63417,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 81.1,
+        "population": 178722
+      },
+      {
+        "name": "no religion",
+        "percentage": 13.2,
+        "population": 29089
+      },
+      {
+        "name": "folk religion",
+        "percentage": 3.1,
+        "population": 6832
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -62125,7 +63736,48 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 48.4,
+        "population": 306197
+      },
+      {
+        "name": "hinduism",
+        "percentage": 22.3,
+        "population": 141078
+      },
+      {
+        "name": "islam",
+        "percentage": 13.9,
+        "population": 87937
+      },
+      {
+        "name": "winti",
+        "percentage": 1.8,
+        "population": 11387
+      },
+      {
+        "name": "kejaw\u00e8n",
+        "percentage": 0.8,
+        "population": 5061
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.03,
+        "population": 190
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.52,
+        "population": 47574
+      },
+      {
+        "name": "others",
+        "percentage": 0.85,
+        "population": 5377
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary assembly-independent republic",
@@ -62414,7 +64066,18 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 68.8,
+        "population": 3724703
+      },
+      {
+        "name": "no religion",
+        "percentage": 23.8,
+        "population": 1288487
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -62702,7 +64365,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 77.9,
+        "population": 1659932
+      },
+      {
+        "name": "no religion",
+        "percentage": 18.3,
+        "population": 389946
+      },
+      {
+        "name": "other",
+        "percentage": 3.9,
+        "population": 83103
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -63300,7 +64979,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 89.3,
+        "population": 1103861
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.4,
+        "population": 91473
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 2.5,
+        "population": 30903
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary diarchic",
@@ -63899,7 +65594,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 74.9,
+        "population": 90895
+      },
+      {
+        "name": "hinduism",
+        "percentage": 5.4,
+        "population": 6553
+      },
+      {
+        "name": "islam",
+        "percentage": 2.4,
+        "population": 2913
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential system",
@@ -64193,7 +65904,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 94.17,
+        "population": 24502762
+      },
+      {
+        "name": "christianity",
+        "percentage": 3.84,
+        "population": 999157
+      },
+      {
+        "name": "other",
+        "percentage": 1.99,
+        "population": 517792
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic under a Syrian transitional government",
@@ -64752,7 +66479,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 55.1,
+        "population": 10520571
+      },
+      {
+        "name": "christianity",
+        "percentage": 41.1,
+        "population": 7847468
+      },
+      {
+        "name": "no religion",
+        "percentage": 2.4,
+        "population": 458246
+      },
+      {
+        "name": "animism",
+        "percentage": 1.3,
+        "population": 248217
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -65046,7 +66794,33 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 47.8,
+        "population": 4580856
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 33.0,
+        "population": 3162516
+      },
+      {
+        "name": "islam",
+        "percentage": 18.4,
+        "population": 1763342
+      },
+      {
+        "name": "bah\u00e1\u02bc\u00ed faith",
+        "percentage": 0.5,
+        "population": 47917
+      },
+      {
+        "name": "others",
+        "percentage": 0.3,
+        "population": 28750
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -65338,7 +67112,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 93.46,
+        "population": 61660420
+      },
+      {
+        "name": "islam",
+        "percentage": 5.37,
+        "population": 3542868
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.13,
+        "population": 745520
+      },
+      {
+        "name": "other",
+        "percentage": 0.03,
+        "population": 19793
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -66490,7 +68285,23 @@
       "670"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 99.53,
+        "population": 1348295
+      },
+      {
+        "name": "islam",
+        "percentage": 0.24,
+        "population": 3251
+      },
+      {
+        "name": "other",
+        "percentage": 0.23,
+        "population": 3116
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -67062,7 +68873,33 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 55.2,
+        "population": 835054
+      },
+      {
+        "name": "hinduism",
+        "percentage": 18.2,
+        "population": 275326
+      },
+      {
+        "name": "islam",
+        "percentage": 5.0,
+        "population": 75639
+      },
+      {
+        "name": "other",
+        "percentage": 8.3,
+        "population": 125561
+      },
+      {
+        "name": "irreligion",
+        "percentage": 13.3,
+        "population": 201200
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -68214,7 +70051,33 @@
       "886"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 28.0,
+        "population": 6523757
+      },
+      {
+        "name": "no religion",
+        "percentage": 27.0,
+        "population": 6290766
+      },
+      {
+        "name": "taoism",
+        "percentage": 24.0,
+        "population": 5591792
+      },
+      {
+        "name": "christianity",
+        "percentage": 7.0,
+        "population": 1630939
+      },
+      {
+        "name": "other",
+        "percentage": 13.0,
+        "population": 3028887
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -68520,7 +70383,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 63.1,
+        "population": 42568598
+      },
+      {
+        "name": "islam",
+        "percentage": 34.1,
+        "population": 23004583
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.5,
+        "population": 1011932
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 1.2,
+        "population": 809545
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary dominant-party Presidential system",
@@ -70282,7 +72166,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 67.0,
+        "population": 228995854
+      },
+      {
+        "name": "unaffiliated",
+        "percentage": 22.0,
+        "population": 75192669
+      },
+      {
+        "name": "judaism",
+        "percentage": 2.0,
+        "population": 6835697
+      },
+      {
+        "name": "other religion",
+        "percentage": 6.0,
+        "population": 20507091
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal Presidential system",
@@ -70577,7 +72482,28 @@
       "998"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 94.78,
+        "population": 36240748,
+      },
+      {
+        "name": "irreligion",
+        "percentage": 3.89,
+        "population": 1487408
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.04,
+        "population": 397662
+      },
+      {
+        "name": "other religions",
+        "percentage": 0.27,
+        "population": 103239
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -71140,7 +73066,63 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 88.6,
+        "population": 98233
+      },
+      {
+        "name": "hinduism",
+        "percentage": 3.4,
+        "population": 3770
+      },
+      {
+        "name": "irreligion",
+        "percentage": 2.5,
+        "population": 2772
+      },
+      {
+        "name": "rastafari",
+        "percentage": 1.8,
+        "population": 1996
+      },
+      {
+        "name": "bah\u00e1\u02bc\u00ed faith",
+        "percentage": 1.6,
+        "population": 1774
+      },
+      {
+        "name": "islam",
+        "percentage": 1.5,
+        "population": 1663
+      },
+      {
+        "name": "african",
+        "percentage": 66.0,
+        "population": 73176
+      },
+      {
+        "name": "mixed",
+        "percentage": 19.0,
+        "population": 21066
+      },
+      {
+        "name": "indian",
+        "percentage": 6.0,
+        "population": 6652
+      },
+      {
+        "name": "european",
+        "percentage": 4.0,
+        "population": 4435
+      },
+      {
+        "name": "kalinago",
+        "percentage": 2.0,
+        "population": 2217
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
@@ -71433,7 +73415,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 92.6,
+        "population": 29446800
+      },
+      {
+        "name": "no religion",
+        "percentage": 5.5,
+        "population": 1749000
+      },
+      {
+        "name": "spiritism,",
+        "percentage": 1.1,
+        "population": 349800
+      },
+      {
+        "name": "other,",
+        "percentage": 0.8,
+        "population": 254400
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal presidential republic under an Authoritarianism",
@@ -72527,7 +74530,28 @@
       "678"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 93.4,
+        "population": 313738
+      },
+      {
+        "name": "animism",
+        "percentage": 4.6,
+        "population": 15452
+      },
+      {
+        "name": "bah\u00e1\u02bc\u00ed faith",
+        "percentage": 1.4,
+        "population": 4703
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 2015
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -73361,7 +75385,18 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 99.1,
+        "population": 32390342
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 294161
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -73766,7 +75801,33 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 85.3,
+        "population": 53752566
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 7.8,
+        "population": 4915241
+      },
+      {
+        "name": "no religion",
+        "percentage": 3.1,
+        "population": 1953493
+      },
+      {
+        "name": "islam",
+        "percentage": 1.6,
+        "population": 1008254
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.1,
+        "population": 693175
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Parliamentary republics with an executive presidency",
@@ -74063,7 +76124,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 95.5,
+        "population": 19306308
+      },
+      {
+        "name": "islam",
+        "percentage": 2.7,
+        "population": 545833
+      },
+      {
+        "name": "other",
+        "percentage": 1.8,
+        "population": 363889
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -74510,7 +76587,23 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.1,
+        "population": 14186332
+      },
+      {
+        "name": "no religion",
+        "percentage": 10.2,
+        "population": 1720578
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 4.5,
+        "population": 759078
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
