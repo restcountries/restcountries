@@ -283,10 +283,12 @@
     ],
     "government": {
       "type": "monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 560.4,
     "gdp": {
@@ -614,11 +616,17 @@
       }
     ],
     "government": {
-      "type": "theocracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary state",
+      "leaders": [
+        {
+          "title": "Supreme Leader of Afghanistan",
+          "name": "Hibatullah Akhundzada"
+        },
+        {
+          "title": "Prime Minister of Afghanistan",
+          "name": "Hasan Akhund"
+        }
+      ]
     },
     "density": 63.56,
     "gdp": {
@@ -982,11 +990,17 @@
       }
     ],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Angola",
+          "name": "Jo\u00e3o Louren\u00e7o"
+        },
+        {
+          "title": "Vice President of Angola",
+          "name": "Esperan\u00e7a da Costa<ref name=\"RNA 15-9-22\">https://rna.ao/rna.ao/2022/09/15/investidura-do-presidente-da-republica/ Investidura do Presidente da Rep\u00fablica {{Webarchive"
+        }
+      ]
     },
     "density": 29.48,
     "gdp": {
@@ -1275,10 +1289,12 @@
     ],
     "government": {
       "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 91,
     "gdp": {
@@ -1549,10 +1565,12 @@
     "ethnicity": [],
     "government": {
       "type": "devolved",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 19.07,
     "gdp": {
@@ -1869,11 +1887,17 @@
       }
     ],
     "government": {
-      "type": "parliamentary system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Albania",
+          "name": "Bajram Begaj"
+        },
+        {
+          "title": "Prime Minister of Albania",
+          "name": "Edi Rama"
+        }
+      ]
     },
     "density": 86.3,
     "gdp": {
@@ -2180,11 +2204,17 @@
       }
     ],
     "government": {
-      "type": "parliamentary coprincipality",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Parliamentary co-principality",
+      "leaders": [
+        {
+          "title": "Co-prince of Andorra",
+          "name": "Josep-Lluís Serrano Pentinat"
+        },
+        {
+          "title": "Co-prince of Andorra",
+          "name": "Emmanuel Macron"
+        }
+      ]
     },
     "density": 187.1,
     "gdp": {
@@ -2517,11 +2547,25 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal semi-presidential elective semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "President of the United Arab Emirates",
+          "name": "Mohamed bin Zayed Al Nahyan"
+        },
+        {
+          "title": "Vice President of the United Arab Emirates",
+          "name": "Mohammed bin Rashid Al Maktoum"
+        },
+        {
+          "title": "Vice President of the United Arab Emirates",
+          "name": "Mansour bin Zayed Al Nahyan"
+        },
+        {
+          "title": "Prime Minister of the United Arab Emirates",
+          "name": "Mohammed bin Rashid Al Maktoum"
+        }
+      ]
     },
     "density": 132,
     "gdp": {
@@ -2836,11 +2880,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal presidential republic",
+      "leaders": [
+        {
+          "title": "President of Argentina",
+          "name": "Javier Milei"
+        },
+        {
+          "title": "Vice President of Argentina",
+          "name": "Victoria Villarruel"
+        }
+      ]
     },
     "density": 16.8,
     "gdp": {
@@ -3157,11 +3207,17 @@
       }
     ],
     "government": {
-      "type": "parlamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Armenia",
+          "name": "Vahagn Khachaturyan"
+        },
+        {
+          "title": "Prime Minister of Armenia",
+          "name": "Nikol Pashinyan"
+        }
+      ]
     },
     "density": 103.6,
     "gdp": {
@@ -3468,10 +3524,12 @@
     ],
     "government": {
       "type": "devolved",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 670.8,
     "gdp": {
@@ -3980,10 +4038,12 @@
     "ethnicity": [],
     "government": {
       "type": "semi-presidential",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 0.03,
     "gdp": null,
@@ -4304,11 +4364,17 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Antigua and Barbuda",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Antigua and Barbuda",
+          "name": "Rodney William"
+        }
+      ]
     },
     "density": 186,
     "gdp": {
@@ -4620,11 +4686,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federalism",
+      "leaders": [
+        {
+          "title": "Monarchy of Australia",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Australia",
+          "name": "Sam Mostyn"
+        }
+      ]
     },
     "density": 3.7,
     "gdp": {
@@ -4929,11 +5001,17 @@
       }
     ],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal semi-presidential republic<ref>{{Cite web",
+      "leaders": [
+        {
+          "title": "President of Austria",
+          "name": "Alexander Van der Bellen"
+        },
+        {
+          "title": "Chancellor of Austria",
+          "name": "Christian Stocker"
+        }
+      ]
     },
     "density": 107.6,
     "gdp": {
@@ -4941,7 +5019,7 @@
       "perCapita": 58190
     },
     "nationalHoliday": "1955-10-26",
-    "anthem": "Bundeshymne der Republik Österreich"
+    "anthem": "Bundeshymne der Republik \u00d6sterreich"
   },
   {
     "name": {
@@ -5174,7 +5252,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/az.png"
     },
-    "population": 10180770,
+    "population": 10353296,
     "maps": {
       "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
@@ -5252,11 +5330,17 @@
       }
     ],
     "government": {
-      "type": "dinasty",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of Azerbaijan",
+          "name": "Ilham Aliyev"
+        },
+        {
+          "title": "Vice President of Azerbaijan",
+          "name": "Mehriban Aliyeva"
+        }
+      ]
     },
     "density": 117,
     "gdp": {
@@ -5584,11 +5668,17 @@
       }
     ],
     "government": {
-      "type": "authoritarianism",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary dominant-party Presidential system",
+      "leaders": [
+        {
+          "title": "President of Burundi",
+          "name": "\u00c9variste Ndayishimiye"
+        },
+        {
+          "title": "Prime Minister of Burundi",
+          "name": "Nestor Ntahontuye"
+        }
+      ]
     },
     "density": 565,
     "gdp": {
@@ -5927,11 +6017,17 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Belgium",
+          "name": "Philippe of Belgium"
+        },
+        {
+          "title": "Prime Minister of Belgium",
+          "name": "Bart De Wever"
+        }
+      ]
     },
     "density": 385,
     "gdp": {
@@ -6281,11 +6377,17 @@
       }
     ],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Benin",
+          "name": "Patrice Talon"
+        },
+        {
+          "title": "Vice President of Benin",
+          "name": "Mariam Chabi Talata"
+        }
+      ]
     },
     "density": 94.8,
     "gdp": {
@@ -6524,7 +6626,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bf.png"
     },
-    "population": 23025776,
+    "population": 22489126,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192783"
@@ -6630,11 +6732,17 @@
       }
     ],
     "government": {
-      "type": "military junta",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic under a military junta",
+      "leaders": [
+        {
+          "title": "List of heads of state of Burkina Faso",
+          "name": "Ibrahim Traor\u00e9 (interim)"
+        },
+        {
+          "title": "List of prime ministers of Burkina Faso",
+          "name": "Jean Emmanuel Ou\u00e9draogo (interim)"
+        }
+      ]
     },
     "density": 86,
     "gdp": {
@@ -6948,11 +7056,17 @@
       }
     ],
     "government": {
-      "type": "Westminster system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Bangladesh",
+          "name": "Mohammed Shahabuddin"
+        },
+        {
+          "title": "Prime Minister of Bangladesh",
+          "name": "Tarique Rahman"
+        }
+      ]
     },
     "density": 1165,
     "gdp": {
@@ -7192,7 +7306,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png"
     },
-    "population": 6447710,
+    "population": 6437360,
     "maps": {
       "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
@@ -7273,11 +7387,17 @@
       }
     ],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Bulgaria",
+          "name": "Iliana Iotova"
+        },
+        {
+          "title": "Prime Minister of Bulgaria",
+          "name": "Andrey Gyurov"
+        }
+      ]
     },
     "density": 58.09,
     "gdp": {
@@ -7580,11 +7700,17 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-constitutional monarchy under an authoritarian government",
+      "leaders": [
+        {
+          "title": "King of Bahrain",
+          "name": "Hamad bin Isa Al Khalifa"
+        },
+        {
+          "title": "Crown Prince of Bahrain",
+          "name": "Salman bin Hamad Al Khalifa"
+        }
+      ]
     },
     "density": 1864,
     "gdp": {
@@ -7901,11 +8027,17 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of the Bahamas",
+          "name": ""
+        },
+        {
+          "title": "Governor-General of the Bahamas",
+          "name": "Dame Cynthia A. Pratt"
+        }
+      ]
     },
     "density": 25.21,
     "gdp": {
@@ -8223,11 +8355,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal republic",
+      "leaders": [
+        {
+          "title": "High Representative for Bosnia and Herzegovina",
+          "name": "Christian Schmidt}}{{efn"
+        },
+        {
+          "title": "Chairman of the Presidency of Bosnia and Herzegovina",
+          "name": "\u017deljko Kom\u0161i\u0107"
+        }
+      ]
     },
     "density": 61,
     "gdp": {
@@ -8767,10 +8905,12 @@
     "ethnicity": [],
     "government": {
       "type": "monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 13.4,
     "gdp": {
@@ -9098,11 +9238,17 @@
       }
     ],
     "government": {
-      "type": "authoritarianism",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic under an authoritarian dictatorship",
+      "leaders": [
+        {
+          "title": "President of Belarus",
+          "name": "Alexander Lukashenko"
+        },
+        {
+          "title": "Prime Minister of Belarus",
+          "name": "Alexander Turchin"
+        }
+      ]
     },
     "density": 43.9,
     "gdp": {
@@ -9469,11 +9615,21 @@
       }
     ],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Belize",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Belize",
+          "name": "Froyla Tzalam"
+        },
+        {
+          "title": "Prime Minister of Belize",
+          "name": "Johnny Brice\u00f1o"
+        }
+      ]
     },
     "density": 17.31,
     "gdp": {
@@ -9757,10 +9913,12 @@
     ],
     "government": {
       "type": "British overseas territory",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 1338,
     "gdp": {
@@ -10102,11 +10260,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "presidential republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Bolivia",
+          "name": "Rodrigo Paz"
+        },
+        {
+          "title": "Vice President of Bolivia",
+          "name": "Edmand Lara"
+        }
+      ]
     },
     "density": 10.4,
     "gdp": {
@@ -10729,11 +10893,17 @@
       }
     ],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal presidential republic",
+      "leaders": [
+        {
+          "title": "President of Brazil",
+          "name": "Luiz In\u00e1cio Lula da Silva"
+        },
+        {
+          "title": "Vice President of Brazil",
+          "name": "Geraldo Alckmin"
+        }
+      ]
     },
     "density": 23.8,
     "gdp": {
@@ -11016,7 +11186,7 @@
         "population": 58092
       },
       {
-        "name": "bah\u00e1ʼ\u00ed Faith",
+        "name": "bah\u00e1\u02bc\u00ed Faith",
         "percentage": 2,
         "population": 5640
       },
@@ -11054,11 +11224,17 @@
       }
     ],
     "government": {
-      "type": "unitary state",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Barbados",
+          "name": "Jeffrey Bostic"
+        },
+        {
+          "title": "Prime Minister of Barbados",
+          "name": "Mia Mottley"
+        }
+      ]
     },
     "density": 660,
     "gdp": {
@@ -11367,11 +11543,24 @@
       }
     ],
     "government": {
-      "type": "unitary monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Islamic absolute monarchy",
+      "leaders": [
+        {
+          "title": "Sultan of Brunei",
+          "name": "Hassanal Bolkiah"
+        },{
+          "title": "Prime Minister of Brunei",
+          "name": "Hassanal Bolkiah"
+        },
+        {
+          "title": "Crown Prince",
+          "name": "Al-Muhtadee Billah"
+        },
+        {
+          "title": "Senior Minister",
+          "name": "Al-Muhtadee Billah"
+        }
+      ]
     },
     "density": 72.11,
     "gdp": {
@@ -11675,11 +11864,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "King of Bhutan",
+          "name": "Jigme Khesar Namgyel Wangchuck"
+        },
+        {
+          "title": "Prime Minister of Bhutan",
+          "name": "Tshering Tobgay"
+        }
+      ]
     },
     "density": 20.5,
     "gdp": {
@@ -12265,11 +12460,17 @@
       }
     ],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Parliamentary republics with an executive presidency",
+      "leaders": [
+        {
+          "title": "President of Botswana",
+          "name": "Duma Boko"
+        },
+        {
+          "title": "Vice-President of Botswana",
+          "name": "Ndaba Gaolathe"
+        }
+      ]
     },
     "density": 4.1,
     "gdp": {
@@ -12590,11 +12791,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "presidential republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Faustin-Archange Touad\u00e9ra"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "F\u00e9lix Moloua"
+        }
+      ]
     },
     "density": 8.6,
     "gdp": {
@@ -12889,11 +13096,21 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal Westminster parliamentary system",
+      "leaders": [
+        {
+          "title": "Monarchy of Canada",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor General of Canada",
+          "name": "Mary Simon"
+        },
+        {
+          "title": "Prime Minister of Canada",
+          "name": "Mark Carney"
+        }
+      ]
     },
     "density": 4.2,
     "gdp": {
@@ -13155,10 +13372,12 @@
     "ethnicity": [],
     "government": {
       "type": "dependency",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 0,
     "gdp": {
@@ -13502,11 +13721,21 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Assembly-independent republic",
+      "leaders": [
+        {
+          "title": "President of the Swiss Confederation",
+          "name": "Guy Parmelin"
+        },
+        {
+          "title": "Vice-President of the Federal Council",
+          "name": "Ignazio Cassis"
+        },
+        {
+          "title": "Chancellor of Switzerland",
+          "name": "Viktor Rossi"
+        }
+      ]
     },
     "density": 207,
     "gdp": {
@@ -13811,11 +14040,17 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "democratic republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Chile",
+          "name": "Gabriel Boric"
+        },
+        {
+          "title": "President of the Senate of Chile",
+          "name": "Manuel Jos\u00e9 Ossand\u00f3n"
+        }
+      ]
     },
     "density": 24,
     "gdp": {
@@ -14069,7 +14304,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png"
     },
-    "population": 1442965000,
+    "population": 1404890000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
@@ -14146,11 +14381,17 @@
       }
     ],
     "government": {
-      "type": "communism",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary communist state",
+      "leaders": [
+        {
+          "title": "CCP General Secretary and President of China",
+          "name": "Xi Jinping"
+        },
+        {
+          "title": "Premier of China",
+          "name": "Li Qiang"
+        }
+      ]
     },
     "density": 146,
     "gdp": {
@@ -14500,11 +14741,21 @@
       }
     ],
     "government": {
-      "type": "authoritarism",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Alassane Ouattara"
+        },
+        {
+          "title": "Vice President of Ivory Coast",
+          "name": "Ti\u00e9moko Meyliet Kon\u00e9"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Robert Beugru\u00e9 Mamb\u00e9"
+        }
+      ]
     },
     "density": 97.7,
     "gdp": {
@@ -14871,11 +15122,17 @@
       }
     ],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic under a dictatorship",
+      "leaders": [
+        {
+          "title": "President of Cameroon",
+          "name": "Paul Biya"
+        },
+        {
+          "title": "Prime Minister of Cameroon",
+          "name": "Joseph Ngute"
+        }
+      ]
     },
     "density": 39.7,
     "gdp": {
@@ -15165,7 +15422,7 @@
       "svg": "",
       "png": ""
     },
-    "population": 105789731,
+    "population": 114388160,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
@@ -15210,11 +15467,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of the Democratic Republic of the Congo",
+          "name": "F\u00e9lix Tshisekedi"
+        },
+        {
+          "title": "Prime Minister of the Democratic Republic of the Congo",
+          "name": "Anatole Collinet Makosso"
+        }
+      ]
     },
     "density": 45.12,
     "gdp": {
@@ -15477,7 +15740,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png"
     },
-    "population": 6142180,
+    "population": 6228784,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
@@ -15521,11 +15784,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of the Republic of the Congo",
+          "name": "Denis Sassou Nguesso"
+        },
+        {
+          "title": "Prime Minister of the Republic of Congo",
+          "name": "Anatole Collinet Makosso"
+        }
+      ]
     },
     "density": 17.96,
     "gdp": {
@@ -15801,7 +16070,23 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy in the Cook Islands",
+          "name": "Charles IIICook"
+        },
+        {
+          "title": "King's Representative",
+          "name": "Sir Tom Marsters"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Mark Brown"
+        }
+      ]
+    },
     "density": 60.26,
     "gdp": null,
     "nationalHoliday": null,
@@ -16037,7 +16322,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/co.png"
     },
-    "population": 52321152,
+    "population": 52695952,
     "maps": {
       "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
@@ -16087,11 +16372,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Colombia",
+          "name": "Gustavo Petro"
+        },
+        {
+          "title": "Vice President of Colombia",
+          "name": "Francia M\u00e1rquez"
+        }
+      ]
     },
     "density": 45.83,
     "gdp": {
@@ -16350,7 +16641,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/km.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/km.png"
     },
-    "population": 902348,
+    "population": 883075,
     "maps": {
       "googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
@@ -16403,11 +16694,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal",
+      "leaders": [
+        {
+          "title": "President of the Comoros",
+          "name": "Azali Assoumani"
+        },
+        {
+          "title": "President of the Assembly",
+          "name": "Moustadroine Abdou"
+        }
+      ]
     },
     "density": 484.61,
     "gdp": {
@@ -16686,11 +16983,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of Cape Verde",
+          "name": "Jos\u00e9 Maria Neves"
+        },
+        {
+          "title": "Prime Minister of Cape Verde",
+          "name": "Ulisses Correia e Silva"
+        }
+      ]
     },
     "density": 137.86,
     "gdp": {
@@ -16967,7 +17270,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Costa Rica",
+          "name": "Rodrigo Chaves Robles"
+        },
+        {
+          "title": "Vice President of Costa Rica",
+          "name": "Mary Munive"
+        }
+      ]
+    },
     "density": 103.04,
     "gdp": {
       "total": 68380838316,
@@ -17206,7 +17521,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png"
     },
-    "population": 10985974,
+    "population": 9748007,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
@@ -17233,11 +17548,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "unitary state",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary communist state",
+      "leaders": [
+        {
+          "title": "First Secretary of the Communist Party of Cuba",
+          "name": "Miguel D\u00edaz-Canel"
+        },
+        {
+          "title": "Vice President of Cuba",
+          "name": "Salvador Vald\u00e9s Mesa"
+        }
+      ]
     },
     "density": 99.98,
     "gdp": null,
@@ -17511,10 +17832,12 @@
     "ethnicity": [],
     "government": {
       "type": "parliamentary democracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 344.25,
     "gdp": {
@@ -18030,10 +18353,12 @@
     "ethnicity": [],
     "government": {
       "type": "British overseas territory",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 336.49,
     "gdp": {
@@ -18320,11 +18645,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Cyprus",
+          "name": "Nikos Christodoulides"
+        },
+        {
+          "title": "Vice President of Cyprus",
+          "name": "Vacant"
+        }
+      ]
     },
     "density": 145.39,
     "gdp": {
@@ -18575,7 +18906,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png"
     },
-    "population": 10909500,
+    "population": 10900555,
     "maps": {
       "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
@@ -18613,11 +18944,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of the Czech Republic",
+          "name": "Petr Pavel"
+        },
+        {
+          "title": "Prime Minister of the Czech Republic",
+          "name": "Andrej Babi\u0161"
+        }
+      ]
     },
     "density": 138.33,
     "gdp": {
@@ -18862,7 +19199,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/de.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/de.png"
     },
-    "population": 83577140,
+    "population": 83491249,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
@@ -18900,11 +19237,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Germany",
+          "name": "Frank-Walter Steinmeier"
+        },
+        {
+          "title": "Chancellor of Germany",
+          "name": "Friedrich Merz"
+        }
+      ]
     },
     "density": 234.03,
     "gdp": {
@@ -19210,7 +19553,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary dominant-party<ref",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Isma\u00efl Omar Guelleh"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Abdoulkader Kamil Mohamed"
+        }
+      ]
+    },
     "density": 49.7,
     "gdp": {
       "total": 3515109075,
@@ -19471,7 +19826,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "Presidents of Dominica",
+          "name": "Sylvanie Burton"
+        },
+        {
+          "title": "Prime Minister of Dominica",
+          "name": "Roosevelt Skerrit"
+        }
+      ]
+    },
     "density": 99.41,
     "gdp": {
       "total": 612048148,
@@ -19751,10 +20118,12 @@
     "ethnicity": [],
     "government": {
       "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 135.12,
     "gdp": {
@@ -19991,7 +20360,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/do.png"
     },
-    "population": 10760028,
+    "population": 11532151,
     "maps": {
       "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
@@ -20039,7 +20408,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of the Dominican Republic",
+          "name": "Luis Abinader"
+        },
+        {
+          "title": "Vice President of the Dominican Republic",
+          "name": "Raquel Pe\u00f1a de Antu\u00f1a"
+        }
+      ]
+    },
     "density": 221.08,
     "gdp": {
       "total": 113641857434,
@@ -20282,7 +20663,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png"
     },
-    "population": 46164219,
+    "population": 47400000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
@@ -20335,11 +20716,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Algeria",
+          "name": "Abdelmadjid Tebboune"
+        },
+        {
+          "title": "Prime Minister of Algeria",
+          "name": "Sifi Ghrieb"
+        }
+      ]
     },
     "density": 19.38,
     "gdp": {
@@ -20577,7 +20964,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png"
     },
-    "population": 16938986,
+    "population": 17483326,
     "maps": {
       "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
@@ -20621,11 +21008,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Ecuador",
+          "name": "Daniel Noboa"
+        },
+        {
+          "title": "Vice President of Ecuador",
+          "name": "Mar\u00eda Jos\u00e9 Pinto"
+        }
+      ]
     },
     "density": 61.19,
     "gdp": {
@@ -20865,7 +21258,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png"
     },
-    "population": 114535772,
+    "population": 107868296,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
@@ -20918,11 +21311,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic under an Authoritarianism",
+      "leaders": [
+        {
+          "title": "President of Egypt",
+          "name": "Abdel Fattah el-Sisi"
+        },
+        {
+          "title": "Prime Minister of Egypt",
+          "name": "Mostafa Madbouly"
+        }
+      ]
     },
     "density": 114.26,
     "gdp": {
@@ -21224,7 +21623,15 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary one-party presidential republic under a totalitarian dictatorship<ref name=\"UNHRC\">{{cite web",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Isaias Afwerki"
+        }
+      ]
+    },
     "density": 29.74,
     "gdp": null,
     "nationalHoliday": "Independence Day",
@@ -21782,7 +22189,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/es.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/es.png"
     },
-    "population": 48592909,
+    "population": 49570725,
     "maps": {
       "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
@@ -21821,11 +22228,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Spain",
+          "name": "Felipe VI"
+        },
+        {
+          "title": "Prime Minister of Spain",
+          "name": "Pedro S\u00e1nchez"
+        }
+      ]
     },
     "density": 96.03,
     "gdp": {
@@ -22064,7 +22477,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ee.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ee.png"
     },
-    "population": 1369995,
+    "population": 1362954,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
@@ -22102,11 +22515,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Estonia",
+          "name": "Alar Karis"
+        },
+        {
+          "title": "Prime Minister of Estonia",
+          "name": "Kristen Michal"
+        }
+      ]
     },
     "density": 30.29,
     "gdp": {
@@ -22349,7 +22768,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/et.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/et.png"
     },
-    "population": 128691692,
+    "population": 135500000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192800"
@@ -22393,11 +22812,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Ethiopia",
+          "name": "Taye Atske Selassie"
+        },
+        {
+          "title": "Prime Minister of Ethiopia",
+          "name": "Abiy Ahmed"
+        }
+      ]
     },
     "density": 116.54,
     "gdp": {
@@ -22687,11 +23112,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Finland",
+          "name": "Alexander Stubb"
+        },
+        {
+          "title": "Prime Minister of Finland",
+          "name": "Petteri Orpo"
+        }
+      ]
     },
     "density": 16.57,
     "gdp": {
@@ -22981,7 +23412,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Fiji",
+          "name": "Naiqama Lalabalavu"
+        },
+        {
+          "title": "Prime Minister of Fiji",
+          "name": "Sitiveni Rabuka"
+        }
+      ]
+    },
     "density": 50.69,
     "gdp": {
       "total": 4943248200,
@@ -23491,7 +23934,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fr.png"
     },
-    "population": 68605616,
+    "population": 69081996,
     "maps": {
       "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
@@ -23542,11 +23985,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Prime Minister of France",
+          "name": "S\u00e9bastien Lecornu"
+        }
+      ]
     },
     "density": 126.13,
     "gdp": {
@@ -24087,10 +24536,12 @@
     "ethnicity": [],
     "government": {
       "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 150.35,
     "gdp": {
@@ -24329,7 +24780,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ga.png"
     },
-    "population": 2025137,
+    "population": 2397368,
     "maps": {
       "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
@@ -24373,11 +24824,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Gabon",
+          "name": "Brice Oligui Nguema"
+        },
+        {
+          "title": "Vice President of Gabon",
+          "name": "S\u00e9raphin Moundounga"
+        }
+      ]
     },
     "density": 7.57,
     "gdp": {
@@ -24654,11 +25111,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Westminster parliamentary system",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Prime Minister of the United Kingdom",
+          "name": "Keir Starmer "
+        }
+      ]
     },
     "density": 275.5,
     "gdp": {
@@ -24930,10 +25393,12 @@
     "ethnicity": [],
     "government": {
       "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 53.33,
     "gdp": {
@@ -25453,7 +25918,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png"
     },
-    "population": 32833031,
+    "population": 35039451,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
@@ -25497,11 +25962,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "democracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Ghana",
+          "name": "John Mahama"
+        },
+        {
+          "title": "Vice-President of Ghana",
+          "name": "Jane Naana Opoku-Agyemang"
+        }
+      ]
     },
     "density": 137.65,
     "gdp": {
@@ -26005,7 +26476,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gn.png"
     },
-    "population": 12717176,
+    "population": 13986179,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192778"
@@ -26049,11 +26520,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of Guinea",
+          "name": "Mamady Doumbouya"
+        },
+        {
+          "title": "Prime Minister of Guinea",
+          "name": "Bah Oury"
+        }
+      ]
     },
     "density": 51.73,
     "gdp": {
@@ -26588,11 +27065,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential republic",
+      "leaders": [
+        {
+          "title": "President of the Gambia",
+          "name": "Adama Barrow"
+        },
+        {
+          "title": "Vice-President of the Gambia",
+          "name": "Muhammad B. S. Jallow"
+        }
+      ]
     },
     "density": 246.98,
     "gdp": {
@@ -26841,7 +27324,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gw.png"
     },
-    "population": 1861283,
+    "population": 2080000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
@@ -26884,7 +27367,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary semi-presidential system",
+      "leaders": [
+        {
+          "title": "Head of the High Military Command for the Restoration of National Security and Public Order",
+          "name": "Horta Inta-A Na Man"
+        },
+        {
+          "title": "President of Guinea-Bissau",
+          "name": "Horta Inta-A Na Man"
+        }
+      ]
+    },
     "density": 51.52,
     "gdp": {
       "total": 1633559092,
@@ -27145,7 +27640,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png"
     },
-    "population": 1847549,
+    "population": 1795834,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
@@ -27183,7 +27678,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic under an authoritarian Dynasty#Hereditary dictatorship",
+      "leaders": [
+        {
+          "title": "President of Equatorial Guinea",
+          "name": "Teodoro Obiang Nguema Mbasogo"
+        },
+        {
+          "title": "Vice President of Equatorial Guinea",
+          "name": "Teodoro Nguema Obiang Mangue"
+        }
+      ]
+    },
     "density": 65.86,
     "gdp": {
       "total": 11813908448,
@@ -27423,7 +27930,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png"
     },
-    "population": 10482487,
+    "population": 10372335,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
@@ -27461,11 +27968,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Greece",
+          "name": "Konstantinos Tasoulas"
+        },
+        {
+          "title": "Prime Minister of Greece",
+          "name": "Kyriakos Mitsotakis"
+        }
+      ]
     },
     "density": 79.42,
     "gdp": {
@@ -27698,7 +28211,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png"
     },
-    "population": 114299,
+    "population": 114621,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
@@ -27734,7 +28247,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarch of Grenada",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Grenada",
+          "name": "C\u00e9cile La Grenade"
+        }
+      ]
+    },
     "density": 332.26,
     "gdp": {
       "total": 1256413185,
@@ -27998,10 +28523,12 @@
     "ethnicity": [],
     "government": {
       "type": "parliamentary monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 0.03,
     "gdp": {
@@ -28239,7 +28766,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png"
     },
-    "population": 17263239,
+    "population": 18255216,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
@@ -28279,11 +28806,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Guatemala",
+          "name": "Bernardo Ar\u00e9valo"
+        },
+        {
+          "title": "Vice President of Guatemala",
+          "name": "Karin Herrera"
+        }
+      ]
     },
     "density": 158.54,
     "gdp": {
@@ -29077,7 +29610,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png"
     },
-    "population": 878674,
+    "population": 950986,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
@@ -29129,11 +29662,21 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republics with an executive presidency",
+      "leaders": [
+        {
+          "title": "President of Guyana",
+          "name": "Irfaan Ali"
+        },
+        {
+          "title": "First Vice President",
+          "name": "Mark Phillips"
+        },
+        {
+          "title": "Prime Minister of Guyana",
+          "name": "Mark Phillips"
+        }
+      ]
     },
     "density": 4.09,
     "gdp": {
@@ -29882,7 +30425,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png"
     },
-    "population": 8303771,
+    "population": 9571352,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
@@ -29922,11 +30465,25 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Honduras",
+          "name": "Nasry Asfura"
+        },
+        {
+          "title": "Vice President of Honduras",
+          "name": "Mar\u00eda Antonieta Mej\u00eda"
+        },
+        {
+          "title": "Vice President of Honduras",
+          "name": "Carlos Flores Guifarro<br />Diana Herrera"
+        },
+        {
+          "title": "Vice President of Honduras",
+          "name": "Diana Herrera"
+        }
+      ]
     },
     "density": 73.82,
     "gdp": {
@@ -30168,7 +30725,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hr.png"
     },
-    "population": 3871833,
+    "population": 3866233,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
@@ -30206,11 +30763,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Croatia",
+          "name": "Zoran Milanovi\u0107"
+        },
+        {
+          "title": "Prime Minister of Croatia",
+          "name": "Andrej Plenkovi\u0107"
+        }
+      ]
     },
     "density": 68.41,
     "gdp": {
@@ -30459,7 +31022,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ht.png"
     },
-    "population": 10981229,
+    "population": 11470261,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
@@ -30500,7 +31063,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Haiti",
+          "name": "Vacant"
+        },
+        {
+          "title": "Prime Minister of Haiti",
+          "name": "Alix Didier Fils-Aim\u00e9 (acting)"
+        }
+      ]
+    },
     "density": 395.72,
     "gdp": {
       "total": 20253551885,
@@ -30740,7 +31315,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hu.png"
     },
-    "population": 9603634,
+    "population": 9584627,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
@@ -30778,11 +31353,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Hungary",
+          "name": "Tam\u00e1s Sulyok"
+        },
+        {
+          "title": "Prime Minister of Hungary",
+          "name": "Viktor Orb\u00e1n"
+        }
+      ]
     },
     "density": 103.23,
     "gdp": {
@@ -31021,7 +31602,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/id.png"
     },
-    "population": 275439000,
+    "population": 284438782,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
@@ -31061,11 +31642,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Indonesia",
+          "name": "Prabowo Subianto"
+        },
+        {
+          "title": "Vice President of Indonesia",
+          "name": "Gibran Rakabuming Raka"
+        }
+      ]
     },
     "density": 144.62,
     "gdp": {
@@ -31610,7 +32197,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/in.png"
     },
-    "population": 1477519529,
+    "population": 1428627663,
     "maps": {
       "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
@@ -31648,11 +32235,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of India",
+          "name": "Droupadi Murmu"
+        },
+        {
+          "title": "Vice President of India",
+          "name": "C. P. Radhakrishnan"
+        }
+      ]
     },
     "density": 449.47,
     "gdp": {
@@ -32206,10 +32799,12 @@
     "ethnicity": [],
     "government": {
       "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 73.27,
     "gdp": {
@@ -32449,7 +33044,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png"
     },
-    "population": 92417700,
+    "population": 92417681,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/304938"
@@ -32481,11 +33076,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "theocracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "Supreme Leader of Iran",
+          "name": "Ali Khamenei"
+        },
+        {
+          "title": "President of Iran",
+          "name": "Masoud Pezeshkian"
+        }
+      ]
     },
     "density": 56.07,
     "gdp": {
@@ -32791,11 +33392,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federation",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Iraq",
+          "name": "Abdul Latif Rashid"
+        },
+        {
+          "title": "Prime Minister of Iraq",
+          "name": "Mohammed Shia' al-Sudani"
+        }
+      ]
     },
     "density": 87.32,
     "gdp": {
@@ -33069,11 +33676,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Iceland",
+          "name": "Halla T\u00f3masd\u00f3ttir"
+        },
+        {
+          "title": "Prime Minister of Iceland",
+          "name": "Kristr\u00fan Frostad\u00f3ttir"
+        }
+      ]
     },
     "density": 3.54,
     "gdp": {
@@ -33320,7 +33933,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/il.png"
     },
-    "population": 9840000,
+    "population": 10147200,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
@@ -33352,11 +33965,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "unitary state",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Israel",
+          "name": "Isaac Herzog"
+        },
+        {
+          "title": "Prime Minister of Israel",
+          "name": "Benjamin Netanyahu"
+        }
+      ]
     },
     "density": 448.56,
     "gdp": {
@@ -33604,7 +34223,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/it.png"
     },
-    "population": 58850717,
+    "population": 58915561,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
@@ -33642,11 +34261,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Italy",
+          "name": "Sergio Mattarella"
+        },
+        {
+          "title": "Prime Minister of Italy",
+          "name": "Giorgia Meloni"
+        }
+      ]
     },
     "density": 195.3,
     "gdp": {
@@ -33891,7 +34516,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png"
     },
-    "population": 2697983,
+    "population": 2824913,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
@@ -33932,7 +34557,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Jamaica",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Jamaica",
+          "name": "Patrick Allen"
+        }
+      ]
+    },
     "density": 245.47,
     "gdp": {
       "total": 17097760745,
@@ -34457,7 +35094,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jo.png"
     },
-    "population": 10428241,
+    "population": 11484805,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184818"
@@ -34498,7 +35135,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "King of Jordan",
+          "name": "Abdullah II of Jordan"
+        },
+        {
+          "title": "Prime Minister of Jordan",
+          "name": "Jafar Hassan"
+        }
+      ]
+    },
     "density": 116.72,
     "gdp": {
       "total": 47451499859,
@@ -34733,7 +35382,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/jp.png"
     },
-    "population": 123802000,
+    "population": 122950000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
@@ -34765,11 +35414,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Emperor of Japan",
+          "name": "Naruhito"
+        },
+        {
+          "title": "Prime Minister of Japan",
+          "name": "Sanae Takaichi"
+        }
+      ]
     },
     "density": 327.58,
     "gdp": {
@@ -35028,7 +35683,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png"
     },
-    "population": 20139914,
+    "population": 20495975,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
@@ -35068,11 +35723,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of Kazakhstan",
+          "name": "Kassym-Jomart Tokayev"
+        },
+        {
+          "title": "Prime Minister of Kazakhstan",
+          "name": "Oljas Bektenov"
+        }
+      ]
     },
     "density": 7.39,
     "gdp": {
@@ -35324,7 +35985,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ke.png"
     },
-    "population": 48468138,
+    "population": 53330978,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
@@ -35367,7 +36028,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Kenya",
+          "name": "William Ruto"
+        },
+        {
+          "title": "Deputy President of Kenya",
+          "name": "Kithure Kindiki"
+        }
+      ]
+    },
     "density": 83.51,
     "gdp": {
       "total": 113420008179,
@@ -35657,11 +36330,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Kyrgyzstan",
+          "name": "Sadyr Japarov"
+        },
+        {
+          "title": "Chairman of the Cabinet of Ministers of Kyrgyzstan",
+          "name": "Adylbek Kasymaliev"
+        }
+      ]
     },
     "density": 36.42,
     "gdp": {
@@ -35904,7 +36583,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png"
     },
-    "population": 17423880,
+    "population": 17638801,
     "maps": {
       "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
@@ -35937,11 +36616,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional elective monarchy under a Dynasty",
+      "leaders": [
+        {
+          "title": "Monarchy of Cambodia",
+          "name": "Norodom Sihamoni"
+        },
+        {
+          "title": "Prime Minister of Cambodia",
+          "name": "Hun Manet"
+        }
+      ]
     },
     "density": 96.25,
     "gdp": {
@@ -36192,7 +36877,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ki.png"
     },
-    "population": 134518,
+    "population": 116545,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571178"
@@ -36225,7 +36910,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic with an executive president",
+      "leaders": [
+        {
+          "title": "President of Kiribati",
+          "name": "Taneti Maamau"
+        },
+        {
+          "title": "Vice-President of Kiribati",
+          "name": "Teuea Toatu"
+        }
+      ]
+    },
     "density": 165.87,
     "gdp": {
       "total": 223352943,
@@ -36495,11 +37192,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Saint Kitts and Nevis",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Saint Kitts and Nevis",
+          "name": "Marcella Liburd"
+        }
+      ]
     },
     "density": 179.78,
     "gdp": {
@@ -36739,7 +37442,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png"
     },
-    "population": 51466201,
+    "population": 52081799,
     "maps": {
       "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
@@ -36771,11 +37474,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of South Korea",
+          "name": "Lee Jae Myung"
+        },
+        {
+          "title": "Prime Minister of South Korea",
+          "name": "Kim Min-seok"
+        }
+      ]
     },
     "density": 513.58,
     "gdp": {
@@ -37056,11 +37765,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Kosovo",
+          "name": "Vjosa Osmani"
+        },
+        {
+          "title": "Prime Minister of Kosovo",
+          "name": "Albin Kurti"
+        }
+      ]
     },
     "density": 145.46,
     "gdp": {
@@ -37298,7 +38013,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kw.png"
     },
-    "population": 4464000,
+    "population": 4985716,
     "maps": {
       "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305099"
@@ -37335,11 +38050,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Emir of Kuwait",
+          "name": "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+        },
+        {
+          "title": "Crown Prince of Kuwait",
+          "name": "Sabah Al-Khalid Al-Sabah"
+        }
+      ]
     },
     "density": 250.53,
     "gdp": {
@@ -37581,7 +38302,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/la.png"
     },
-    "population": 6858160,
+    "population": 7953556,
     "maps": {
       "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
@@ -37619,11 +38340,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "people's republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Communist state",
+      "leaders": [
+        {
+          "title": "General Secretary of the Lao People's Revolutionary Party",
+          "name": "Thongloun Sisoulith"
+        },
+        {
+          "title": "Prime Minister of Laos",
+          "name": "Sonexay Siphandone"
+        }
+      ]
     },
     "density": 28.96,
     "gdp": {
@@ -37872,7 +38599,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png"
     },
-    "population": 6100075,
+    "population": 5364482,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
@@ -37914,11 +38641,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic under confessionalism",
+      "leaders": [
+        {
+          "title": "President of Lebanon",
+          "name": "Joseph Aoun"
+        },
+        {
+          "title": "Prime Minister of Lebanon",
+          "name": "Nawaf Salam"
+        }
+      ]
     },
     "density": 583.63,
     "gdp": {
@@ -38156,7 +38889,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lr.png"
     },
-    "population": 5214030,
+    "population": 5437249,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
@@ -38199,7 +38932,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of Liberia",
+          "name": "Joseph Boakai"
+        },
+        {
+          "title": "Vice President of Liberia",
+          "name": "Jeremiah Koung"
+        }
+      ]
+    },
     "density": 46.82,
     "gdp": {
       "total": 4001047150,
@@ -38440,7 +39185,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png"
     },
-    "population": 6678567,
+    "population": 7361263,
     "maps": {
       "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
       "openStreetMaps": "openstreetmap.org/relation/192758"
@@ -38488,11 +39233,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary state",
+      "leaders": [
+        {
+          "title": "List of heads of state of Libya",
+          "name": "Mohamed al-Menfi"
+        },
+        {
+          "title": "Presidential Council",
+          "name": "Musa Al-Koni"
+        }
+      ]
     },
     "density": 3.8,
     "gdp": {
@@ -38725,7 +39476,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png"
     },
-    "population": 167591,
+    "population": 184100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
@@ -38767,11 +39518,21 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Saint Lucia",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Saint Lucia",
+          "name": "Errol Charles"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Philip J. Pierre"
+        }
+      ]
     },
     "density": 272.06,
     "gdp": {
@@ -39009,7 +39770,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/li.png"
     },
-    "population": 37922,
+    "population": 41232,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
@@ -39042,11 +39803,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary semi-constitutional monarchy with elements of a direct democracy",
+      "leaders": [
+        {
+          "title": "Monarchy of Liechtenstein",
+          "name": "Hans-Adam II, Prince of Liechtenstein"
+        },
+        {
+          "title": "Regent of Liechtenstein",
+          "name": "Alois, Hereditary Prince of Liechtenstein"
+        }
+      ]
     },
     "density": 237.01,
     "gdp": {
@@ -39294,7 +40061,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lk.png"
     },
-    "population": 21444000,
+    "population": 23300000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
@@ -39331,7 +40098,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Sri Lanka",
+          "name": "Anura Kumara Dissanayake"
+        },
+        {
+          "title": "Prime Minister of Sri Lanka",
+          "name": "Harini Amarasuriya"
+        }
+      ]
+    },
     "density": 326.84,
     "gdp": {
       "total": 74403578363,
@@ -39583,7 +40362,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ls.png"
     },
-    "population": 2007201,
+    "population": 2210646,
     "maps": {
       "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
@@ -39627,11 +40406,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "King of Lesotho",
+          "name": "Letsie III of Lesotho"
+        },
+        {
+          "title": "Prime Minister of Lesotho",
+          "name": "Sam Matekane"
+        }
+      ]
     },
     "density": 66.12,
     "gdp": {
@@ -39871,7 +40656,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lt.png"
     },
-    "population": 2860002,
+    "population": 2897430,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
@@ -39909,11 +40694,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Lithuania",
+          "name": "Gitanas Naus\u0117da"
+        },
+        {
+          "title": "Prime Minister of Lithuania",
+          "name": "Inga Ruginien\u0117"
+        }
+      ]
     },
     "density": 43.8,
     "gdp": {
@@ -40176,7 +40967,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lu.png"
     },
-    "population": 681987,
+    "population": 690947,
     "maps": {
       "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
@@ -40214,11 +41005,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Luxembourg",
+          "name": "Guillaume V, Grand Duke of Luxembourg"
+        },
+        {
+          "title": "Prime Minister of Luxembourg",
+          "name": "Luc Frieden"
+        }
+      ]
     },
     "density": 263.72,
     "gdp": {
@@ -40458,7 +41255,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/lv.png"
     },
-    "population": 1856932,
+    "population": 1842226,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
@@ -40496,11 +41293,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Latvia",
+          "name": "Edgars Rink\u0113vi\u010ds"
+        },
+        {
+          "title": "Prime Minister of Latvia",
+          "name": "Evika Sili\u0146a"
+        }
+      ]
     },
     "density": 28.76,
     "gdp": {
@@ -41277,7 +42080,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ma.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ma.png"
     },
-    "population": 36828330,
+    "population": 37493183,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/3630439"
@@ -41330,11 +42133,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary Constitutional monarchy",
+      "leaders": [
+        {
+          "title": "King of Morocco",
+          "name": "Mohammed VI of Morocco"
+        },
+        {
+          "title": "Prime Minister of Morocco",
+          "name": "Aziz Akhannouch"
+        }
+      ]
     },
     "density": 82.47,
     "gdp": {
@@ -41598,11 +42407,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Monaco",
+          "name": "Albert II, Prince of Monaco"
+        },
+        {
+          "title": "Minister of State",
+          "name": "Christophe Mirmand"
+        }
+      ]
     },
     "density": 19021.29,
     "gdp": {
@@ -41841,7 +42656,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/md.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/md.png"
     },
-    "population": 2409207,
+    "population": 2381325,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
@@ -41879,11 +42694,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Moldova",
+          "name": "Maia Sandu"
+        },
+        {
+          "title": "Prime Minister of Moldova",
+          "name": "Alexandru Munteanu"
+        }
+      ]
     },
     "density": 71.18,
     "gdp": {
@@ -42174,11 +42995,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic under a Council of the Presidency for the Re-Foundation of the Republic of Madagascar",
+      "leaders": [
+        {
+          "title": "List of Presidents of Madagascar",
+          "name": "Michael Randrianirina"
+        },
+        {
+          "title": "Prime Minister of Madagascar",
+          "name": "Herintsalama Rajaonarivelo"
+        }
+      ]
     },
     "density": 54.45,
     "gdp": {
@@ -42414,7 +43241,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png"
     },
-    "population": 436330,
+    "population": 601269,
     "maps": {
       "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
@@ -42451,7 +43278,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of the Maldives",
+          "name": "Mohamed Muizzu"
+        },
+        {
+          "title": "Vice President of the Maldives",
+          "name": "Hussain Mohamed Latheef"
+        }
+      ]
+    },
     "density": 1454.43,
     "gdp": {
       "total": 6189865408,
@@ -42690,7 +43529,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png"
     },
-    "population": 124777324,
+    "population": 131946900,
     "maps": {
       "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
@@ -42740,11 +43579,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal Presidential system",
+      "leaders": [
+        {
+          "title": "President of Mexico",
+          "name": "Claudia Sheinbaum"
+        },
+        {
+          "title": "President of the Senate",
+          "name": "Laura Itzel Castillo"
+        }
+      ]
     },
     "density": 63.52,
     "gdp": {
@@ -43016,7 +43861,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic with an executive president",
+      "leaders": [
+        {
+          "title": "President of the Marshall Islands",
+          "name": "Hilda Heine"
+        },
+        {
+          "title": "Legislature of the Marshall Islands",
+          "name": "Brenson S. Wase"
+        }
+      ]
+    },
     "density": 293.52,
     "gdp": {
       "total": 279667900,
@@ -43296,11 +44153,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of North Macedonia",
+          "name": "Gordana Siljanovska-Davkova"
+        },
+        {
+          "title": "Prime Minister of North Macedonia",
+          "name": "Hristijan Mickoski"
+        }
+      ]
     },
     "density": 71.43,
     "gdp": {
@@ -43543,7 +44406,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png"
     },
-    "population": 20250833,
+    "population": 21990607,
     "maps": {
       "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
@@ -43586,7 +44449,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic under a military junta",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Assimi Go\u00efta"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Abdoulaye Ma\u00efga (officer)"
+        }
+      ]
+    },
     "density": 16.33,
     "gdp": {
       "total": 18827176532,
@@ -43869,11 +44744,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary democracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Malta",
+          "name": "Myriam Spiteri Debono"
+        },
+        {
+          "title": "Prime Minister of Malta",
+          "name": "Robert Abela"
+        }
+      ]
     },
     "density": 1750.68,
     "gdp": {
@@ -44115,7 +44996,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png"
     },
-    "population": 53370609,
+    "population": 55770232,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
       "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
@@ -44153,11 +45034,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary assembly-independent republic under a military junta",
+      "leaders": [
+        {
+          "title": "President of Myanmar",
+          "name": "Vacant (Min Aung Hlaing serving Pro Tem On Duty)"
+        },
+        {
+          "title": "State Security and Peace Commission",
+          "name": "Min Aung Hlaing"
+        }
+      ]
     },
     "density": 78.88,
     "gdp": {
@@ -44397,7 +45284,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/me.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/me.png"
     },
-    "population": 617213,
+    "population": 623327,
     "maps": {
       "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
@@ -44435,11 +45322,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Montenegro",
+          "name": "Jakov Milatovi\u0107"
+        },
+        {
+          "title": "Prime Minister of Montenegro",
+          "name": "Milojko Spaji\u0107"
+        }
+      ]
     },
     "density": 44.69,
     "gdp": {
@@ -44675,7 +45568,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png"
     },
-    "population": 3409939,
+    "population": 3504741,
     "maps": {
       "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
@@ -44708,11 +45601,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Mongolia",
+          "name": "Ukhnaagiin Kh\u00fcrels\u00fckh"
+        },
+        {
+          "title": "Prime Minister of Mongolia",
+          "name": "Gombojavyn Zandanshatar"
+        }
+      ]
     },
     "density": 2.18,
     "gdp": {
@@ -45232,7 +46131,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png"
     },
-    "population": 29668834,
+    "population": 34881007,
     "maps": {
       "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
@@ -45275,7 +46174,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary dominant-party Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of Mozambique",
+          "name": "Daniel Chapo"
+        },
+        {
+          "title": "Prime Minister of Mozambique",
+          "name": "Maria Benvinda Levy"
+        }
+      ]
+    },
     "density": 37.01,
     "gdp": {
       "total": 17851491428,
@@ -45514,7 +46425,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png"
     },
-    "population": 4736139,
+    "population": 4328040,
     "maps": {
       "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
@@ -45566,7 +46477,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary semi-presidential Islamic republic",
+      "leaders": [
+        {
+          "title": "President of Mauritania",
+          "name": "Mohamed Ould Ghazouani"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Mokhtar Ould Djay"
+        }
+      ]
+    },
     "density": 4.6,
     "gdp": {
       "total": 10375460680,
@@ -46384,11 +47307,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Mauritius",
+          "name": "Dharam Gokhool"
+        },
+        {
+          "title": "Vice-President of Mauritius",
+          "name": "Robert Hungley"
+        }
+      ]
     },
     "density": 619.91,
     "gdp": {
@@ -46637,7 +47566,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png"
     },
-    "population": 17563749,
+    "population": 21240689,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
@@ -46680,7 +47609,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Malawi",
+          "name": "Peter Mutharika"
+        },
+        {
+          "title": "Vice-President of Malawi",
+          "name": "Jane Ansah"
+        }
+      ]
+    },
     "density": 148.24,
     "gdp": {
       "total": 13164667627,
@@ -46927,7 +47868,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/my.png"
     },
-    "population": 32447385,
+    "population": 34564810,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
@@ -46965,11 +47906,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal monarchy",
+      "leaders": [
+        {
+          "title": "King of Malaysia",
+          "name": "Ibrahim Iskandar of Johor"
+        },
+        {
+          "title": "Prime Minister of Malaysia",
+          "name": "Anwar Ibrahim"
+        }
+      ]
     },
     "density": 98.09,
     "gdp": {
@@ -47613,7 +48560,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of Namibia",
+          "name": "Netumbo Nandi-Ndaitwah"
+        },
+        {
+          "title": "Vice President of Namibia",
+          "name": "Lucia Witbooi"
+        }
+      ]
+    },
     "density": 3.07,
     "gdp": {
       "total": 12607436976,
@@ -48112,7 +49071,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png"
     },
-    "population": 21477348,
+    "population": 26342784,
     "maps": {
       "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
@@ -48155,7 +49114,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary semi-presidential republic under a military junta",
+      "leaders": [
+        {
+          "title": "President of Niger",
+          "name": "Abdourahamane Tchiani"
+        },
+        {
+          "title": "Vice President of Niger",
+          "name": "Salifou Modi"
+        }
+      ]
+    },
     "density": 16.95,
     "gdp": {
       "total": 13969605583,
@@ -48662,7 +49633,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png"
     },
-    "population": 211400708,
+    "population": 236747130,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
@@ -48706,11 +49677,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal presidential republic",
+      "leaders": [
+        {
+          "title": "President of Nigeria",
+          "name": "Bola Tinubu"
+        },
+        {
+          "title": "Vice President of Nigeria",
+          "name": "Kashim Shettima"
+        }
+      ]
     },
     "density": 228.85,
     "gdp": {
@@ -48948,7 +49925,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png"
     },
-    "population": 5142098,
+    "population": 6676948,
     "maps": {
       "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
@@ -48988,11 +49965,20 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary diarchy",
+      "leaders": [
+        {
+          "title": "President of Nicaragua",
+          "name": "Daniel Ortega"
+        },{
+          "title": "President of Nicaragua",
+          "name": "Rosario Murillo"
+        },
+        {
+          "title": "President of the National Assembly of Nicaragua",
+          "name": "Gustavo Porras Cort\u00e9s"
+        }
+      ]
     },
     "density": 39.44,
     "gdp": {
@@ -49262,7 +50248,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary non-partisan democracy",
+      "leaders": [
+        {
+          "title": "Monarchs",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of New Zealand",
+          "name": "Dame Cindy Kiro"
+        }
+      ]
+    },
     "density": 7.0,
     "gdp": null,
     "nationalHoliday": null,
@@ -49535,10 +50533,12 @@
     "ethnicity": [],
     "government": {
       "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "leaders": [
+        {
+          "title": null,
+          "name": null
+        }
+      ]
     },
     "density": 408.47,
     "gdp": {
@@ -49802,7 +50802,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/no.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/no.png"
     },
-    "population": 5594340,
+    "population": 5601049,
     "maps": {
       "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
@@ -49840,11 +50840,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Norway",
+          "name": "Harald V"
+        },
+        {
+          "title": "Prime Minister of Norway",
+          "name": "Jonas Gahr St\u00f8re"
+        }
+      ]
     },
     "density": 14.48,
     "gdp": {
@@ -50082,7 +51088,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/np.png"
     },
-    "population": 29164578,
+    "population": 31122387,
     "maps": {
       "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
@@ -50120,11 +51126,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic under an Karki interim cabinet",
+      "leaders": [
+        {
+          "title": "President of Nepal",
+          "name": "Ram Chandra Poudel"
+        },
+        {
+          "title": "Vice President of Nepal",
+          "name": "Ram Sahaya Yadav"
+        }
+      ]
     },
     "density": 198.15,
     "gdp": {
@@ -50372,7 +51384,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/nr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/nr.png"
     },
-    "population": 13650,
+    "population": 11919,
     "maps": {
       "googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571804"
@@ -50403,7 +51415,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Parliamentary republics with an executive presidency",
+      "leaders": [
+        {
+          "title": "President of Nauru",
+          "name": "David Adeang"
+        },
+        {
+          "title": "Speaker of the Parliament",
+          "name": "Marcus Stephen"
+        }
+      ]
+    },
     "density": 650.0,
     "gdp": {
       "total": 150922211,
@@ -50689,11 +51713,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Westminster parliamentary system",
+      "leaders": [
+        {
+          "title": "Monarchy of New Zealand",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of New Zealand",
+          "name": "Cindy Kiro"
+        }
+      ]
     },
     "density": 19.74,
     "gdp": {
@@ -50932,7 +51962,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/om.png"
     },
-    "population": 4829480,
+    "population": 5494691,
     "maps": {
       "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
@@ -50969,11 +51999,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "absolute monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Islamic absolute monarchy",
+      "leaders": [
+        {
+          "title": "Sultan",
+          "name": "Haitham bin Tariq"
+        },
+        {
+          "title": "Crown Prince of Oman",
+          "name": "Theyazin bin Haitham"
+        }
+      ]
     },
     "density": 15.6,
     "gdp": {
@@ -51263,11 +52299,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal republic",
+      "leaders": [
+        {
+          "title": "President of Pakistan",
+          "name": "Asif Ali Zardari"
+        },
+        {
+          "title": "Prime Minister of Pakistan",
+          "name": "Shehbaz Sharif"
+        }
+      ]
     },
     "density": 281.09,
     "gdp": {
@@ -51510,7 +52552,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png"
     },
-    "population": 4570133,
+    "population": 4337768,
     "maps": {
       "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
@@ -51550,11 +52592,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Panama",
+          "name": "Jos\u00e9 Ra\u00fal Mulino"
+        },
+        {
+          "title": "Vice President of Panama",
+          "name": "Vacant"
+        }
+      ]
     },
     "density": 60.6,
     "gdp": {
@@ -52073,7 +53121,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png"
     },
-    "population": 33726000,
+    "population": 34352720,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
@@ -52123,11 +53171,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Peru",
+          "name": "Jos\u00e9 Mar\u00eda Balc\u00e1zar"
+        },
+        {
+          "title": "Vice President of Peru",
+          "name": "Vacant"
+        }
+      ]
     },
     "density": 26.24,
     "gdp": {
@@ -52411,11 +53465,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of the Philippines",
+          "name": "Bongbong Marcos"
+        },
+        {
+          "title": "Vice President of the Philippines",
+          "name": "Sara Duterte"
+        }
+      ]
     },
     "density": 329.28,
     "gdp": {
@@ -52661,7 +53721,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png"
     },
-    "population": 21729,
+    "population": 17663,
     "maps": {
       "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
@@ -52687,7 +53747,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic under a non-partisan democracy",
+      "leaders": [
+        {
+          "title": "President of Palau",
+          "name": "Surangel Whipps Jr."
+        },
+        {
+          "title": "Vice President of Palau",
+          "name": "Raynold Oilouch"
+        }
+      ]
+    },
     "density": 47.34,
     "gdp": {
       "total": 217800000,
@@ -52945,7 +54017,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pg.png"
     },
-    "population": 8935000,
+    "population": 11781559,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
       "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
@@ -52976,7 +54048,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Papua New Guinea",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Papua New Guinea",
+          "name": "Bob Dadae"
+        }
+      ]
+    },
     "density": 19.3,
     "gdp": {
       "total": 30633444295,
@@ -53256,11 +54340,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Poland",
+          "name": "Karol Nawrocki"
+        },
+        {
+          "title": "Prime Minister of Poland",
+          "name": "Donald Tusk"
+        }
+      ]
     },
     "density": 120.13,
     "gdp": {
@@ -53776,7 +54866,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png"
     },
-    "population": 26418204,
+    "population": 26298666,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
@@ -53803,11 +54893,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary communist state",
+      "leaders": [
+        {
+          "title": "General Secretary of the Workers' Party of Korea",
+          "name": "Kim Jong Un"
+        },
+        {
+          "title": "Premier of North Korea",
+          "name": "Pak Thae-song"
+        }
+      ]
     },
     "density": 219.17,
     "gdp": null,
@@ -54041,7 +55137,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/pt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/pt.png"
     },
-    "population": 10347892,
+    "population": 10749635,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
@@ -54080,11 +55176,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Portugal",
+          "name": "Marcelo Rebelo de Sousa"
+        },
+        {
+          "title": "Prime Minister of Portugal",
+          "name": "Lu\u00eds Montenegro"
+        }
+      ]
     },
     "density": 112.37,
     "gdp": {
@@ -54335,7 +55437,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/py.png"
     },
-    "population": 6811297,
+    "population": 6413627,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
@@ -54377,7 +55479,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Paraguay",
+          "name": "Santiago Pe\u00f1a"
+        },
+        {
+          "title": "Vice President of Paraguay",
+          "name": "Pedro Alliana"
+        }
+      ]
+    },
     "density": 16.75,
     "gdp": {
       "total": 41722295362,
@@ -54628,7 +55742,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ps.png"
     },
-    "population": 5227193,
+    "population": 5483450,
     "maps": {
       "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
@@ -54670,11 +55784,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary provisional semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Palestine",
+          "name": "Mahmoud Abbas"
+        },
+        {
+          "title": "Vice President of Palestine",
+          "name": "Hussein al-Sheikh"
+        }
+      ]
     },
     "density": 840.38,
     "gdp": {
@@ -55171,7 +56291,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png"
     },
-    "population": 2639211,
+    "population": 3173024,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
@@ -55208,11 +56328,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Emir of Qatar",
+          "name": "Tamim bin Hamad Al Thani"
+        },
+        {
+          "title": "Deputy Emir of Qatar",
+          "name": "Abdullah bin Hamad Al Thani"
+        }
+      ]
     },
     "density": 227.79,
     "gdp": {
@@ -55721,7 +56847,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png"
     },
-    "population": 19053815,
+    "population": 19043151,
     "maps": {
       "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
@@ -55759,11 +56885,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Romania",
+          "name": "Nicu\u0219or Dan"
+        },
+        {
+          "title": "Prime Minister of Romania",
+          "name": "Ilie Bolojan"
+        }
+      ]
     },
     "density": 79.93,
     "gdp": {
@@ -56066,11 +57198,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "super-presidential republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Russia",
+          "name": "Vladimir Putin"
+        },
+        {
+          "title": "Prime Minister of Russia",
+          "name": "Mikhail Mishustin"
+        }
+      ]
     },
     "density": 8.55,
     "gdp": {
@@ -56333,7 +57471,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/rw.png"
     },
-    "population": 14569341,
+    "population": 14104969,
     "maps": {
       "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
       "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
@@ -56377,11 +57515,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic under an authoritarianism",
+      "leaders": [
+        {
+          "title": "President of Rwanda",
+          "name": "Paul Kagame"
+        },
+        {
+          "title": "Prime Minister of Rwanda",
+          "name": "Justin Nsengiyumva"
+        }
+      ]
     },
     "density": 553.17,
     "gdp": {
@@ -56663,11 +57807,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Islamic absolute monarchy",
+      "leaders": [
+        {
+          "title": "King of Saudi Arabia",
+          "name": "Salman of Saudi Arabia"
+        },
+        {
+          "title": "Crown Prince of Saudi Arabia",
+          "name": "Mohammed bin Salman"
+        }
+      ]
     },
     "density": 15.35,
     "gdp": {
@@ -56921,7 +58071,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png"
     },
-    "population": 40533330,
+    "population": 51767437,
     "maps": {
       "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
@@ -56974,11 +58124,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal republic under a military junta",
+      "leaders": [
+        {
+          "title": "President of the Transitional Sovereignty Council",
+          "name": "Abdel Fattah al-Burhan"
+        },
+        {
+          "title": "Vice President of Sudan",
+          "name": "Malik Agar"
+        }
+      ]
     },
     "density": 21.49,
     "gdp": {
@@ -57219,7 +58375,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png"
     },
-    "population": 16876720,
+    "population": 18847519,
     "maps": {
       "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
@@ -57263,11 +58419,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Senegal",
+          "name": "Bassirou Diomaye Faye"
+        },
+        {
+          "title": "Prime Minister of Senegal",
+          "name": "Ousmane Sonko"
+        }
+      ]
     },
     "density": 85.79,
     "gdp": {
@@ -57533,7 +58695,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sg.png"
     },
-    "population": 5866139,
+    "population": 6110200,
     "maps": {
       "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536780"
@@ -57566,11 +58728,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Singapore",
+          "name": "Tharman Shanmugaratnam"
+        },
+        {
+          "title": "Prime Minister of Singapore",
+          "name": "Lawrence Wong"
+        }
+      ]
     },
     "density": 8262.17,
     "gdp": {
@@ -58324,7 +59492,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png"
     },
-    "population": 611343,
+    "population": 828857,
     "maps": {
       "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
@@ -58355,7 +59523,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Westminster system",
+      "leaders": [
+        {
+          "title": "Monarchy of Solomon Islands",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Solomon Islands",
+          "name": "David Tiva Kapu"
+        }
+      ]
+    },
     "density": 21.16,
     "gdp": {
       "total": 1595710784,
@@ -58591,7 +59771,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sl.png"
     },
-    "population": 7557212,
+    "population": 8460512,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192777"
@@ -58635,11 +59815,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Sierra Leone",
+          "name": "Julius Maada Bio"
+        },
+        {
+          "title": "Vice-President of Sierra Leone",
+          "name": "Mohamed Juldeh Jalloh"
+        }
+      ]
     },
     "density": 105.34,
     "gdp": {
@@ -58917,11 +60103,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of El Salvador",
+          "name": "Nayib Bukele"
+        },
+        {
+          "title": "Vice President of El Salvador",
+          "name": "F\u00e9lix Ulloa"
+        }
+      ]
     },
     "density": 286.58,
     "gdp": {
@@ -59158,7 +60350,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png"
     },
-    "population": 33600,
+    "population": 34132,
     "maps": {
       "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
@@ -59185,11 +60377,20 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "diarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary diarchic Directorial system",
+      "leaders": [
+        {
+          "title": "Captain Regent",
+          "name": "Matteo Rossi"
+        },{
+          "title": "Captain Regent",
+          "name": "Lorenzo Bugli"
+        },
+        {
+          "title": "San Marino Secretary for Foreign and Political Affairs",
+          "name": "Luca Beccari"
+        }
+      ]
     },
     "density": 550.82,
     "gdp": {
@@ -59441,7 +60642,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/so.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/so.png"
     },
-    "population": 11031386,
+    "population": 19280850,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192799"
@@ -59494,11 +60695,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Somalia",
+          "name": "Hassan Sheikh Mohamud"
+        },
+        {
+          "title": "Prime Minister of Somalia",
+          "name": "Hamza Abdi Barre"
+        }
+      ]
     },
     "density": 17.3,
     "gdp": {
@@ -60000,7 +61207,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/rs.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/rs.png"
     },
-    "population": 6605168,
+    "population": 6567783,
     "maps": {
       "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
@@ -60037,7 +61244,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Serbia",
+          "name": "Aleksandar Vu\u010di\u0107"
+        },
+        {
+          "title": "Prime Minister of Serbia",
+          "name": "\u0110uro Macut"
+        }
+      ]
+    },
     "density": 85.13,
     "gdp": {
       "total": 63501748652,
@@ -60276,7 +61495,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ss.png"
     },
-    "population": 12575714,
+    "population": 12703714,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
@@ -60320,11 +61539,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "federal republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal presidential republic",
+      "leaders": [
+        {
+          "title": "President of Republic of South Sudan",
+          "name": "Salva Kiir Mayardit"
+        },
+        {
+          "title": "Vice President of South Sudan",
+          "name": "Riek Machar"
+        }
+      ]
     },
     "density": 20.29,
     "gdp": null,
@@ -60556,7 +61781,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/st.png"
     },
-    "population": 204327,
+    "population": 220372,
     "maps": {
       "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
       "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
@@ -60599,7 +61824,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+          "name": "Carlos Vila Nova"
+        },
+        {
+          "title": "Prime Minister of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+          "name": "Am\u00e9rico Ramos"
+        }
+      ]
+    },
     "density": 211.96,
     "gdp": {
       "total": 546680342,
@@ -60839,7 +62076,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png"
     },
-    "population": 563402,
+    "population": 632638,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
@@ -60891,11 +62128,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary assembly-independent republic",
+      "leaders": [
+        {
+          "title": "President of Suriname",
+          "name": "Jennifer Geerlings-Simons"
+        },
+        {
+          "title": "Vice President of Suriname",
+          "name": "Gregory Rusland"
+        }
+      ]
     },
     "density": 3.44,
     "gdp": {
@@ -61136,7 +62379,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sk.png"
     },
-    "population": 5419451,
+    "population": 5413813,
     "maps": {
       "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
@@ -61174,11 +62417,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Slovakia",
+          "name": "Peter Pellegrini"
+        },
+        {
+          "title": "Prime Minister of Slovakia",
+          "name": "Robert Fico"
+        }
+      ]
     },
     "density": 110.52,
     "gdp": {
@@ -61418,7 +62667,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/si.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/si.png"
     },
-    "population": 2066880,
+    "population": 2130850,
     "maps": {
       "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
       "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
@@ -61456,11 +62705,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "democratic republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Slovenia",
+          "name": "Nata\u0161a Pirc Musar"
+        },
+        {
+          "title": "Prime Minister of Slovenia",
+          "name": "Robert Golob"
+        }
+      ]
     },
     "density": 101.95,
     "gdp": {
@@ -61698,7 +62953,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/se.png"
     },
-    "population": 10609460,
+    "population": 10610485,
     "maps": {
       "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
       "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
@@ -61736,11 +62991,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Sweden",
+          "name": "Carl XVI Gustaf"
+        },
+        {
+          "title": "Speaker of the Riksdag",
+          "name": "Andreas Norl\u00e9n"
+        }
+      ]
     },
     "density": 23.56,
     "gdp": {
@@ -61998,7 +63259,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1230506,
+    "population": 1236126,
     "maps": {
       "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
@@ -62042,11 +63303,21 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "absolute monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary diarchic",
+      "leaders": [
+        {
+          "title": "King",
+          "name": "Mswati III"
+        },
+        {
+          "title": "Queen Mother",
+          "name": "Ntfombi"
+        },
+        {
+          "title": "Prime Minister",
+          "name": "Russell Dlamini"
+        }
+      ]
     },
     "density": 70.87,
     "gdp": {
@@ -62587,7 +63858,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png"
     },
-    "population": 119773,
+    "population": 121355,
     "maps": {
       "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
@@ -62630,7 +63901,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of Seychelles",
+          "name": "Patrick Herminie"
+        },
+        {
+          "title": "Vice-President of Seychelles",
+          "name": "Sebastien Pillay"
+        }
+      ]
+    },
     "density": 264.98,
     "gdp": {
       "total": 1588406479,
@@ -62871,7 +64154,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png"
     },
-    "population": 23865423,
+    "population": 26019711,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
@@ -62913,11 +64196,13 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic under a Syrian transitional government",
+      "leaders": [
+        {
+          "title": "President of Syria",
+          "name": "Ahmed al-Sharaa"
+        }
+      ]
     },
     "density": 128.88,
     "gdp": null,
@@ -63425,7 +64710,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/td.png"
     },
-    "population": 19319064,
+    "population": 19093595,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
@@ -63469,7 +64754,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President",
+          "name": "Mahamat D\u00e9by"
+        },
+        {
+          "title": "Prime Ministers",
+          "name": "Allamaye Halina"
+        }
+      ]
+    },
     "density": 15.05,
     "gdp": {
       "total": 12704149842,
@@ -63708,7 +65005,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tg.png"
     },
-    "population": 7797694,
+    "population": 9583381,
     "maps": {
       "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
       "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
@@ -63751,7 +65048,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Togo",
+          "name": "Jean-Lucien Savi de Tov\u00e9"
+        },
+        {
+          "title": "Prime Minister of Togo",
+          "name": "Faure Gnassingb\u00e9"
+        }
+      ]
+    },
     "density": 137.32,
     "gdp": {
       "total": 9930000000,
@@ -63994,7 +65303,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/th.png"
     },
-    "population": 66188503,
+    "population": 65975198,
     "maps": {
       "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
@@ -64032,11 +65341,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Thailand",
+          "name": "Vajiralongkorn (Rama X)"
+        },
+        {
+          "title": "Prime Minister of Thailand",
+          "name": "Anutin Charnvirakul"
+        }
+      ]
     },
     "density": 128.99,
     "gdp": {
@@ -64289,7 +65604,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png"
     },
-    "population": 9504000,
+    "population": 10786734,
     "maps": {
       "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
       "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
@@ -64321,11 +65636,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential system",
+      "leaders": [
+        {
+          "title": "President of Tajikistan",
+          "name": "Emomali Rahmon"
+        },
+        {
+          "title": "Prime Minister of Tajikistan",
+          "name": "Kokhir Rasulzoda"
+        }
+      ]
     },
     "density": 66.42,
     "gdp": {
@@ -64882,11 +66203,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Turkmenistan",
+          "name": "Serdar Berdimuhamedow"
+        },
+        {
+          "title": "Deputy Chairman of the Cabinet of Ministers of Turkmenistan",
+          "name": "Ra\u015fit Meredow"
+        }
+      ]
     },
     "density": 12.53,
     "gdp": null,
@@ -65134,7 +66461,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1243235,
+    "population": 1354662,
     "maps": {
       "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
@@ -65166,11 +66493,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of Timor-Leste",
+          "name": "Jos\u00e9 Ramos-Horta"
+        },
+        {
+          "title": "Prime Minister of Timor-Leste",
+          "name": "Xanana Gusm\u00e3o"
+        }
+      ]
     },
     "density": 83.58,
     "gdp": {
@@ -65445,7 +66778,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary semi-constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarch of Tonga",
+          "name": "Tupou VI"
+        },
+        {
+          "title": "Prime Minister of Tonga",
+          "name": "Fatafehi Fakaf\u0101nua"
+        }
+      ]
+    },
     "density": 144.61,
     "gdp": {
       "total": 469228124,
@@ -65678,7 +67023,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tt.png"
     },
-    "population": 1369125,
+    "population": 1512779,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
@@ -65720,11 +67065,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "parliamentary republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Trinidad and Tobago",
+          "name": "Christine Kangaloo"
+        },
+        {
+          "title": "List of prime ministers of Trinidad and Tobago",
+          "name": "Kamla Persad-Bissessar"
+        }
+      ]
     },
     "density": 266.89,
     "gdp": {
@@ -66015,11 +67366,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Tunisia",
+          "name": "Kais Saied"
+        },
+        {
+          "title": "Prime Minister of Tunisia",
+          "name": "Sara Zaafarani"
+        }
+      ]
     },
     "density": 70.69,
     "gdp": {
@@ -66265,7 +67622,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tr.png"
     },
-    "population": 85372377,
+    "population": 86092168,
     "maps": {
       "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
@@ -66297,11 +67654,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic",
+      "leaders": [
+        {
+          "title": "President of Turkey",
+          "name": "Recep Tayyip Erdo\u011fan"
+        },
+        {
+          "title": "Vice President of Turkey",
+          "name": "Cevdet Y\u0131lmaz"
+        }
+      ]
     },
     "density": 108.95,
     "gdp": {
@@ -66581,7 +67944,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Tuvalu",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Tuvalu",
+          "name": "Tofiga Vaevalu Falani"
+        }
+      ]
+    },
     "density": 409.35,
     "gdp": {
       "total": 60349391,
@@ -66815,7 +68190,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tw.png"
     },
-    "population": 23317031,
+    "population": 23299132,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
@@ -66842,11 +68217,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "democracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of the Republic of China",
+          "name": "Lai Ching-te"
+        },
+        {
+          "title": "Vice President of the Republic of China",
+          "name": "Hsiao Bi-khim"
+        }
+      ]
     },
     "density": 644.17,
     "gdp": null,
@@ -67098,7 +68479,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tz.png"
     },
-    "population": 57310019,
+    "population": 67462121,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195270"
@@ -67141,7 +68522,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary dominant-party Presidential system",
+      "leaders": [
+        {
+          "title": "President of Tanzania",
+          "name": "Samia Suluhu Hassan"
+        },
+        {
+          "title": "Vice-President of Tanzania",
+          "name": "Emmanuel Nchimbi"
+        }
+      ]
+    },
     "density": 60.5,
     "gdp": {
       "total": 75709289056,
@@ -67436,11 +68829,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary presidential republic under a dictatorship",
+      "leaders": [
+        {
+          "title": "President of Uganda",
+          "name": "Yoweri Museveni"
+        },
+        {
+          "title": "Vice President of Uganda",
+          "name": "Jessica Alupo"
+        }
+      ]
     },
     "density": 195.09,
     "gdp": {
@@ -67683,7 +69082,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png"
     },
-    "population": 41167335,
+    "population": 32862000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
@@ -67715,11 +69114,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "semi-presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Ukraine",
+          "name": "Volodymyr Zelenskyy"
+        },
+        {
+          "title": "Prime Minister of Ukraine",
+          "name": "Yulia Svyrydenko"
+        }
+      ]
     },
     "density": 68.21,
     "gdp": {
@@ -67949,7 +69354,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 0,
+    "population": 300,
     "maps": {
       "googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
@@ -67977,7 +69382,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Federal presidential republic",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump"
+        },
+        {
+          "title": "Vice President",
+          "name": "JD Vance"
+        }
+      ]
+    },
     "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
@@ -68253,11 +69670,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Presidential system",
+      "leaders": [
+        {
+          "title": "President of Uruguay",
+          "name": "Yamand\u00fa Orsi"
+        },
+        {
+          "title": "Vice President of Uruguay",
+          "name": "Carolina Cosse"
+        }
+      ]
     },
     "density": 19.03,
     "gdp": {
@@ -68811,7 +70234,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/us.png"
     },
-    "population": 340110988,
+    "population": 341784857,
     "maps": {
       "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
@@ -68862,11 +70285,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal Presidential system",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump"
+        },
+        {
+          "title": "Vice President of the United States",
+          "name": "JD Vance"
+        }
+      ]
     },
     "density": 35.71,
     "gdp": {
@@ -69119,7 +70548,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png"
     },
-    "population": 34915100,
+    "population": 38236704,
     "maps": {
       "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
@@ -69151,11 +70580,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary semi-presidential republic",
+      "leaders": [
+        {
+          "title": "President of Uzbekistan",
+          "name": "Shavkat Mirziyoyev"
+        },
+        {
+          "title": "Prime Minister of Uzbekistan",
+          "name": "Abdulla Aripov"
+        }
+      ]
     },
     "density": 78.04,
     "gdp": {
@@ -69432,11 +70867,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Theocratic elective monarchy",
+      "leaders": [
+        {
+          "title": "Sovereignty",
+          "name": "Holy See"
+        },
+        {
+          "title": "Pope",
+          "name": "Leo XIV"
+        }
+      ]
     },
     "density": 1800.0,
     "gdp": null,
@@ -69665,7 +71106,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png"
     },
-    "population": 109897,
+    "population": 110872,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
@@ -69702,11 +71143,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "constitutional monarchy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary parliamentary constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of Saint Vincent and the Grenadines",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Saint Vincent and the Grenadines",
+          "name": "Stanley John"
+        }
+      ]
     },
     "density": 282.51,
     "gdp": {
@@ -69946,7 +71393,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png"
     },
-    "population": 31250306,
+    "population": 31800000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
@@ -69989,11 +71436,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Federal presidential republic under an Authoritarianism",
+      "leaders": [
+        {
+          "title": "President of Venezuela",
+          "name": "Delcy Rodr\u00edguez"
+        },
+        {
+          "title": "Vice President of Venezuela",
+          "name": "Vacant"
+        }
+      ]
     },
     "density": 34.1,
     "gdp": null,
@@ -70739,7 +72192,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vn.png"
     },
-    "population": 96208984,
+    "population": 102300000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
@@ -70777,11 +72230,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary communist state",
+      "leaders": [
+        {
+          "title": "General Secretary of the Communist Party of Vietnam",
+          "name": "T\u00f4 L\u00e2m"
+        },
+        {
+          "title": "President of Vietnam",
+          "name": "L\u01b0\u01a1ng C\u01b0\u1eddng"
+        }
+      ]
     },
     "density": 290.48,
     "gdp": {
@@ -71039,7 +72498,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png"
     },
-    "population": 300019,
+    "population": 335908,
     "maps": {
       "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
@@ -71070,7 +72529,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "President of Vanuatu",
+          "name": "Nikenike Vurobaravu"
+        },
+        {
+          "title": "Prime Minister of Vanuatu",
+          "name": "Jotham Napat"
+        }
+      ]
+    },
     "density": 24.61,
     "gdp": {
       "total": 983582865,
@@ -71602,7 +73073,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "leaders": [
+        {
+          "title": "O le Ao o le Malo",
+          "name": "Tuimaleali\u02bbifano Va\u02bbaleto\u02bba Sualauvi II"
+        },
+        {
+          "title": "Prime Minister of Samoa",
+          "name": "La\u02bbauli Leuatea Schmidt"
+        }
+      ]
+    },
     "density": 70.38,
     "gdp": {
       "total": 832421565,
@@ -71839,7 +73322,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png"
     },
-    "population": 28250420,
+    "population": 32684503,
     "maps": {
       "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
@@ -71881,11 +73364,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "republic",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Semi-presidential system",
+      "leaders": [
+        {
+          "title": "President of the Presidential Leadership Council",
+          "name": "Rashad al-Alimi"
+        },
+        {
+          "title": "Prime Minister of Yemen",
+          "name": "Shaea al-Zindani"
+        }
+      ]
     },
     "density": 53.51,
     "gdp": null,
@@ -72236,7 +73725,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/za.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/za.png"
     },
-    "population": 62027503,
+    "population": 63015904,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
@@ -72280,11 +73769,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "representative democracy",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Parliamentary republics with an executive presidency",
+      "leaders": [
+        {
+          "title": "President of South Africa",
+          "name": "Cyril Ramaphosa"
+        },
+        {
+          "title": "Deputy President of South Africa",
+          "name": "Paul Mashatile"
+        }
+      ]
     },
     "density": 50.8,
     "gdp": {
@@ -72527,7 +74022,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/zm.png"
     },
-    "population": 19610769,
+    "population": 20216029,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195271"
@@ -72571,11 +74066,17 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "presidential system",
-      "leaders": [{
-        "title": null,
-        "name": null
-      }]
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Zambia",
+          "name": "Hakainde Hichilema"
+        },
+        {
+          "title": "Vice-President of Zambia",
+          "name": "Mutale Nalumango"
+        }
+      ]
     },
     "density": 26.06,
     "gdp": {
@@ -72968,7 +74469,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/zw.png"
     },
-    "population": 15178979,
+    "population": 16868409,
     "maps": {
       "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
@@ -73011,7 +74512,19 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Unitary Presidential system",
+      "leaders": [
+        {
+          "title": "President of Zimbabwe",
+          "name": "Emmerson Mnangagwa"
+        },
+        {
+          "title": "Vice President of Zimbabwe",
+          "name": "Constantino Chiwenga"
+        }
+      ]
+    },
     "density": 38.85,
     "gdp": {
       "total": 20678055598,
