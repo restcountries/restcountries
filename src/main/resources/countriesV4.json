@@ -35669,7 +35669,7 @@
         "name": "other",
         "percentage":  1,
         "population": 114848
-      },
+      }
     ],
     "ethnicity": [],
     "government": {
@@ -59880,7 +59880,7 @@
         "name": "other",
         "percentage": 1,
         "population": 188475
-      },
+      }
     ],
     "ethnicity": [],
     "government": {
@@ -72486,7 +72486,7 @@
       {
         "name": "islam",
         "percentage": 94.78,
-        "population": 36240748,
+        "population": 36240748
       },
       {
         "name": "irreligion",
