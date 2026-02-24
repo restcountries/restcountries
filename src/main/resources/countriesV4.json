@@ -12209,7 +12209,7 @@
     "population": 0,
     "maps": {
       "googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
-      "openStreetMaps": "https://www.openstreetmap.org/way/174996681"
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2425963"
     },
     "gini": [],
     "car": {
@@ -24079,7 +24079,7 @@
     "population": 5608218,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
-      "openStreetMaps": "openstreetmap.org/relation/54224"
+      "openStreetMaps": "https://openstreetmap.org/relation/54224"
     },
     "gini": [
       {
@@ -42205,7 +42205,7 @@
     "population": 7361263,
     "maps": {
       "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
-      "openStreetMaps": "openstreetmap.org/relation/192758"
+      "openStreetMaps": "https://openstreetmap.org/relation/192758"
     },
     "gini": [],
     "car": {
@@ -58877,7 +58877,7 @@
     "population": 11781559,
     "maps": {
       "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
-      "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307866"
     },
     "gini": [
       {
@@ -78669,7 +78669,7 @@
     "population": 87146,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
-      "openStreetMaps": "openstreetmap.org/relation/286898"
+      "openStreetMaps": "https://openstreetmap.org/relation/286898"
     },
     "gini": [],
     "car": {
