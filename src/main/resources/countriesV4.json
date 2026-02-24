@@ -282,11 +282,15 @@
       }
     ],
     "government": {
-      "type": "monarchy",
+      "type": "Devolution",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the Netherlands",
+          "name": "Willem-Alexander of the Netherlands"
+        },
+        {
+          "title": "Governor of Aruba",
+          "name": "Alfonso Boekhoudt"
         }
       ]
     },
@@ -296,7 +300,8 @@
       "perCapita": 35717
     },
     "nationalHoliday": "2976-03-18",
-    "anthem": "Aruba Dushi Tera"
+    "anthem": "Aruba Dushi Tera",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -550,7 +555,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/af.png"
     },
-    "population": 41454761,
+    "population": 50000000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
@@ -595,35 +600,35 @@
     "ethnicity": [
       {
         "name": "pashtun",
-        "percentage": 42
+        "percentage": 42.0
       },
       {
         "name": "tajik",
-        "percentage": 27
+        "percentage": 27.0
       },
       {
         "name": "hazara",
-        "percentage": 9
+        "percentage": 9.0
       },
       {
         "name": "uzbek",
-        "percentage": 9
+        "percentage": 9.0
       },
       {
         "name": "aimaq",
-        "percentage": 4
+        "percentage": 4.0
       },
       {
         "name": "turkmen",
-        "percentage": 3
+        "percentage": 3.0
       },
       {
         "name": "baloch",
-        "percentage": 2
+        "percentage": 2.0
       },
       {
-        "name": "other",
-        "percentage": 4
+        "name": "others",
+        "percentage": 4.0
       }
     ],
     "government": {
@@ -961,7 +966,7 @@
         "population": 29069176
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 11.5,
         "population": 4226239
       },
@@ -974,31 +979,31 @@
     "ethnicity": [
       {
         "name": "ovimbundu",
-        "percentage": 37
+        "percentage": 37.0
       },
       {
         "name": "ambundu",
-        "percentage": 25
+        "percentage": 25.0
       },
       {
         "name": "bakongo",
-        "percentage": 13
+        "percentage": 13.0
       },
       {
-        "name": "other African",
-        "percentage": 21
+        "name": "other african",
+        "percentage": 21.0
       },
       {
         "name": "mesti\u00e7o",
-        "percentage": 2
+        "percentage": 2.0
       },
       {
         "name": "asian",
-        "percentage": 2
+        "percentage": 2.0
       },
       {
-        "name": "European",
-        "percentage": 1
+        "name": "european",
+        "percentage": 1.0
       }
     ],
     "government": {
@@ -1292,11 +1297,11 @@
         "percentage": 1.0
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.9
       },
       {
-        "name": "unanswered",
+        "name": "no answer",
         "percentage": 0.3
       }
     ],
@@ -1304,8 +1309,12 @@
       "type": "constitutional monarchy",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of Anguilla",
+          "name": "Julia Crouch (diplomat)"
         }
       ]
     },
@@ -1316,7 +1325,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1980-12-16",
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -1577,11 +1587,15 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "devolved",
+      "type": "Devolution",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "State Department of \u00c5land",
+          "name": "Marine Holm-Johansson"
+        },
+        {
+          "title": "Lantr\u00e5d",
+          "name": "Katrin Sj\u00f6gren"
         }
       ]
     },
@@ -1592,7 +1606,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1920-05-07",
-    "anthem": "Maamme "
+    "anthem": "Maamme ",
+    "hdi": 0.937
   },
   {
     "name": {
@@ -1867,17 +1882,17 @@
       {
         "name": "islam",
         "percentage": 50.67,
-        "population": 1217150
+        "population": 1217151
       },
       {
         "name": "christianity",
         "percentage": 16.02,
-        "population": 384818
+        "population": 384819
       },
       {
         "name": "irreligion",
         "percentage": 17.37,
-        "population": 417246
+        "population": 417247
       },
       {
         "name": "undeclared",
@@ -1892,10 +1907,10 @@
       },
       {
         "name": "greeks",
-        "percentage": 1
+        "percentage": 1.0
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.3
       }
     ],
@@ -2187,17 +2202,17 @@
       {
         "name": "no religion",
         "percentage": 6.9,
-        "population": 6136
+        "population": 6137
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 2.3,
-        "population": 2045
+        "population": 2046
       }
     ],
     "ethnicity": [
       {
-        "name": "spaniard",
+        "name": "spaniards",
         "percentage": 34.3
       },
       {
@@ -2206,15 +2221,15 @@
       },
       {
         "name": "portuguese",
-        "percentage": 10
+        "percentage": 10.0
       },
       {
         "name": "french",
         "percentage": 5.6
       },
       {
-        "name": "other",
-        "percentage": 18
+        "name": "others",
+        "percentage": 18.0
       }
     ],
     "government": {
@@ -2541,12 +2556,12 @@
     ],
     "ethnicity": [
       {
-        "name": "south-asian",
+        "name": "south asian",
         "percentage": 59.4
       },
       {
-        "name": "emirati",
-        "percentage": 12
+        "name": "emirati arab",
+        "percentage": 12.0
       },
       {
         "name": "egyptian",
@@ -2557,7 +2572,7 @@
         "percentage": 6.1
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 12.4
       }
     ],
@@ -3194,24 +3209,24 @@
         "population": 2982505
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 0.6,
         "population": 18487
-      },
-      {
-        "name": "unspecified",
-        "percentage": 1.7,
-        "population": 52379
       },
       {
         "name": "other",
         "percentage": 0.9,
         "population": 27730
+      },
+      {
+        "name": "unspecified",
+        "percentage": 1.7,
+        "population": 52379
       }
     ],
     "ethnicity": [
       {
-        "name": "armenian",
+        "name": "armenians",
         "percentage": 98.1
       },
       {
@@ -3219,7 +3234,7 @@
         "percentage": 1.1
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 0.8
       }
     ],
@@ -3536,16 +3551,20 @@
         "percentage": 4.4
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.1
       }
     ],
     "government": {
-      "type": "devolved",
+      "type": "Devolution",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "President of the United States",
+          "name": "Donald Trump"
+        },
+        {
+          "title": "Governor of American Samoa",
+          "name": "Pula Nikolao Pula",
         }
       ]
     },
@@ -3556,7 +3575,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "1776-07-04",
-    "anthem": "The Star-Spangled Banner"
+    "anthem": "The Star-Spangled Banner",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -4016,7 +4036,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/tf.png"
     },
-    "population": 600,
+    "population": 400,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
@@ -4058,15 +4078,20 @@
       "type": "semi-presidential",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Prefect (France)",
+          "name": "Florence Jeanblanc-Risler"
         }
       ]
     },
     "density": 0.03,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "La Marseillaise"
+    "anthem": "La Marseillaise",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -4362,22 +4387,22 @@
       },
       {
         "name": "hispanic",
-        "percentage": 4.7
+        "percentage": 2.8
       },
       {
         "name": "european",
         "percentage": 1.7
       },
       {
-        "name": "east-indian",
+        "name": "east indian",
         "percentage": 1.1
       },
       {
-        "name": "syrian-lebanese",
+        "name": "syrian or lebanese",
         "percentage": 0.7
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.8
       }
     ],
@@ -4390,7 +4415,7 @@
         },
         {
           "title": "Governor-General of Antigua and Barbuda",
-          "name": "Rodney William"
+          "name": "Rodney Williams"
         }
       ]
     },
@@ -5012,7 +5037,7 @@
       {
         "name": "islam",
         "percentage": 8.3,
-        "population": 2040658
+        "population": 756137
       },
       {
         "name": "other",
@@ -5026,7 +5051,7 @@
         "percentage": 72.2
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 27.8
       }
     ],
@@ -5344,10 +5369,6 @@
         "percentage": 94.8
       },
       {
-        "name": "russian",
-        "percentage": 0.7
-      },
-      {
         "name": "lezgin",
         "percentage": 1.7
       },
@@ -5356,7 +5377,11 @@
         "percentage": 0.9
       },
       {
-        "name": "other",
+        "name": "russian",
+        "percentage": 0.7
+      },
+      {
+        "name": "others",
         "percentage": 1.9
       }
     ],
@@ -5692,11 +5717,11 @@
     "ethnicity": [
       {
         "name": "barundi",
-        "percentage": 99
+        "percentage": 99.0
       },
       {
-        "name": "other",
-        "percentage": 1
+        "name": "others",
+        "percentage": 1.0
       }
     ],
     "government": {
@@ -6019,33 +6044,33 @@
     ],
     "religion": [
       {
-        "name": "no-religion",
-        "population": 6977075,
-        "percentage": 59
+        "name": "no religion",
+        "percentage": 59.0,
+        "population": 6977075
       },
       {
         "name": "christianity",
-        "population": 4020687,
-        "percentage": 34
+        "percentage": 34.0,
+        "population": 4020687
       },
       {
         "name": "islam",
-        "population": 709533,
-        "percentage": 6
+        "percentage": 6.0,
+        "population": 709533
       },
       {
         "name": "other",
-        "population": 118256,
-        "percentage": 1
+        "percentage": 1.0,
+        "population": 118256
       }
     ],
     "ethnicity": [
       {
-        "name": "belgian",
+        "name": "belgians",
         "percentage": 86.1
       },
       {
-        "name": "no-belgian",
+        "name": "non-belgian",
         "percentage": 13.8
       }
     ],
@@ -6378,12 +6403,12 @@
         "percentage": 38.4
       },
       {
-        "name": "adja and mina",
+        "name": "adja",
         "percentage": 15.1
       },
       {
         "name": "yoruba",
-        "percentage": 12
+        "percentage": 12.0
       },
       {
         "name": "bariba",
@@ -6406,7 +6431,7 @@
         "percentage": 2.9
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 2.8
       }
     ],
@@ -6770,11 +6795,11 @@
       "type": "Unitary semi-presidential republic under a military junta",
       "leaders": [
         {
-          "title": "List of heads of state of Burkina Faso",
+          "title": "President of Burkina Faso",
           "name": "Ibrahim Traor\u00e9 (interim)"
         },
         {
-          "title": "List of prime ministers of Burkina Faso",
+          "title": "Prime Minister of Burkina Faso",
           "name": "Jean Emmanuel Ou\u00e9draogo (interim)"
         }
       ]
@@ -7056,35 +7081,35 @@
     ],
     "religion": [
       {
-        "name": "Islam ",
-        "population": 158011176,
-        "percentage": 91.04
+        "name": "islam",
+        "percentage": 91.04,
+        "population": 158011176
       },
       {
-        "name": "Hinduism",
-        "population": 13780852,
-        "percentage": 7.94
+        "name": "hinduism",
+        "percentage": 7.94,
+        "population": 13780852
       },
       {
-        "name": "Buddhism",
-        "population": 1041374,
-        "percentage": 0.6
+        "name": "buddhism",
+        "percentage": 0.6,
+        "population": 1041374
       },
       {
-        "name": "Christianity",
-        "population": 520687,
-        "percentage": 0.3
+        "name": "christianity",
+        "percentage": 0.3,
+        "population": 520687
       },
       {
         "name": "other",
-        "population": 208275,
-        "percentage": 0.12
+        "percentage": 0.12,
+        "population": 208275
       }
     ],
     "ethnicity": [
       {
-        "name": "Bengali",
-        "percentage": 99
+        "name": "bengali",
+        "percentage": 99.0
       },
       {
         "name": "other",
@@ -7392,30 +7417,30 @@
       {
         "name": "islam",
         "percentage": 9.8,
-        "population": 631876
+        "population": 630861
       },
       {
         "name": "other",
         "percentage": 0.1,
-        "population": 6448
+        "population": 6437
       },
       {
         "name": "unanswered",
         "percentage": 9.5,
-        "population": 612532
+        "population": 611549
       }
     ],
     "ethnicity": [
       {
-        "name": "Bulgarians",
+        "name": "bulgarians",
         "percentage": 85.7
       },
       {
-        "name": "Turks",
+        "name": "turks",
         "percentage": 8.5
       },
       {
-        "name": "Roma",
+        "name": "roma",
         "percentage": 4.5
       },
       {
@@ -7706,30 +7731,30 @@
     "religion": [
       {
         "name": "islam",
-        "percentage": 74,
+        "percentage": 74.0,
         "population": 1082816
       },
       {
-        "name": "other",
-        "percentage": 26,
+        "name": "non-muslim",
+        "percentage": 26.0,
         "population": 380449
       }
     ],
     "ethnicity": [
       {
-        "name": "Arabs",
+        "name": "arabs",
         "percentage": 53.2
       },
       {
-        "name": "South Asians",
+        "name": "south asians",
         "percentage": 43.4
       },
       {
-        "name": "Africans",
+        "name": "africans",
         "percentage": 1.4
       },
       {
-        "name": "North Americans",
+        "name": "north americans",
         "percentage": 1.1
       },
       {
@@ -8024,7 +8049,7 @@
     "religion": [
       {
         "name": "christianity",
-        "percentage": 93,
+        "percentage": 93.0,
         "population": 383744
       },
       {
@@ -8033,7 +8058,7 @@
         "population": 18568
       },
       {
-        "name": "folk religions",
+        "name": "folk religion",
         "percentage": 1.9,
         "population": 7840
       },
@@ -8045,11 +8070,11 @@
     ],
     "ethnicity": [
       {
-        "name": "Black",
+        "name": "african",
         "percentage": 90.6
       },
       {
-        "name": "White",
+        "name": "white",
         "percentage": 4.7
       },
       {
@@ -8057,7 +8082,7 @@
         "percentage": 2.1
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.9
       },
       {
@@ -8388,7 +8413,7 @@
         "population": 1338862
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 2.6,
         "population": 75511
       }
@@ -8399,7 +8424,7 @@
       "leaders": [
         {
           "title": "High Representative for Bosnia and Herzegovina",
-          "name": "Christian Schmidt}}{{efn"
+          "name": "Christian Schmidt"
         },
         {
           "title": "Chairman of the Presidency of Bosnia and Herzegovina",
@@ -8667,14 +8692,27 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Prefect (France)",
+          "name": "Cyrille Le V\u00e9ly"
+        }
+      ]
+    },
     "density": 426,
     "gdp": {
       "total": 487000000,
       "perCapita": 51735
     },
     "nationalHoliday": "",
-    "anthem": "La Marseillaise"
+    "anthem": "La Marseillaise",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -8945,11 +8983,15 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "monarchy",
+      "type": "Devolution",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor of Saint Helena, Governor of Ascension",
+          "name": "Nigel Phillips"
         }
       ]
     },
@@ -8959,7 +9001,8 @@
       "perCapita": 0
     },
     "nationalHoliday": "",
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -9274,7 +9317,7 @@
         "percentage": 1.7
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 2.8
       }
     ],
@@ -9599,7 +9642,7 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 61.9,
         "population": 246042
       },
@@ -9645,10 +9688,10 @@
       },
       {
         "name": "asian",
-        "percentage": 1
+        "percentage": 1.0
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 1.2
       },
       {
@@ -9935,31 +9978,35 @@
     "ethnicity": [
       {
         "name": "black",
-        "percentage": 52
+        "percentage": 52.0
       },
       {
         "name": "white",
-        "percentage": 31
+        "percentage": 31.0
       },
       {
         "name": "multiracial",
-        "percentage": 9
+        "percentage": 9.0
       },
       {
         "name": "asian",
-        "percentage": 4
+        "percentage": 4.0
       },
       {
-        "name": "other",
-        "percentage": 4
+        "name": "others",
+        "percentage": 4.0
       }
     ],
     "government": {
-      "type": "British overseas territory",
+      "type": "Parliamentary system",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of Bermuda",
+          "name": "Andrew Murdoch"
         }
       ]
     },
@@ -9969,7 +10016,8 @@
       "perCapita": 117097
     },
     "nationalHoliday": "",
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -10286,12 +10334,12 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 92.8,
         "population": 10547029
       },
       {
-        "name": "no-religion",
+        "name": "no religion",
         "percentage": 6.5,
         "population": 738747
       },
@@ -10590,14 +10638,27 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of the Netherlands",
+          "name": "Willem-Alexander of the Netherlands"
+        },
+        {
+          "title": "Lieutenant governor",
+          "name": "plainlist"
+        }
+      ]
+    },
     "density": 97.5,
     "gdp": {
       "total": 725000000,
       "perCapita": 0
     },
     "nationalHoliday": "",
-    "anthem": "Wilhelmus"
+    "anthem": "Wilhelmus",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -11241,7 +11302,7 @@
         "population": 3102
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 0.7,
         "population": 1974
       }
@@ -11554,7 +11615,7 @@
     ],
     "religion": [
       {
-        "name": "sunni islam ",
+        "name": "sunni islam",
         "percentage": 80.7,
         "population": 376245
       },
@@ -11569,7 +11630,7 @@
         "population": 36366
       },
       {
-        "name": "other",
+        "name": "indigenous beliefs",
         "percentage": 0.8,
         "population": 3730
       }
@@ -11904,7 +11965,7 @@
         "population": 14772
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 0.8,
         "population": 6220
       }
@@ -12171,11 +12232,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of Norway",
+          "name": "Harald V"
+        },
+        {
+          "title": "Administered by",
+          "name": "Ministry of Justice and Public Security"
+        }
+      ]
+    },
     "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -12464,7 +12538,7 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 79.1,
         "population": 1866451
       },
@@ -12474,12 +12548,12 @@
         "population": 358661
       },
       {
-        "name": "Badimo",
+        "name": "badimo",
         "percentage": 4.1,
         "population": 96744
       },
       {
-        "name": "others",
+        "name": "bah\u00e1\u02bc\u00ed fatih",
         "percentage": 1.4,
         "population": 33035
       },
@@ -12492,19 +12566,19 @@
     "ethnicity": [
       {
         "name": "tswana",
-        "percentage": 79
+        "percentage": 79.0
       },
       {
         "name": "kalanga",
-        "percentage": 11
+        "percentage": 11.0
       },
       {
         "name": "san",
-        "percentage": 3
+        "percentage": 3.0
       },
       {
         "name": "others",
-        "percentage": 7
+        "percentage": 7.0
       }
     ],
     "government": {
@@ -12843,11 +12917,11 @@
       "type": "Unitary presidential system",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of the Central African Republic",
           "name": "Faustin-Archange Touad\u00e9ra"
         },
         {
-          "title": "Prime Minister",
+          "title": "Prime Minister of the Central African Republic",
           "name": "F\u00e9lix Moloua"
         }
       ]
@@ -13422,11 +13496,15 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "dependency",
+      "type": "Direct rule",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of Australia",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Australia",
+          "name": "Sam Mostyn"
         }
       ]
     },
@@ -13436,7 +13514,8 @@
       "perCapita": 18570
     },
     "nationalHoliday": "",
-    "anthem": "Onward our island"
+    "anthem": "Onward our island",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -13745,7 +13824,7 @@
     ],
     "religion": [
       {
-        "name": "Christianity",
+        "name": "christianity",
         "percentage": 54.7,
         "population": 4956147
       },
@@ -13755,12 +13834,12 @@
         "population": 3334300
       },
       {
-        "name": "Islam",
-        "percentage": 6,
+        "name": "islam",
+        "percentage": 6.0,
         "population": 543636
       },
       {
-        "name": "other",
+        "name": "other religions",
         "percentage": 1.5,
         "population": 135909
       },
@@ -13772,7 +13851,7 @@
     ],
     "ethnicity": [],
     "government": {
-      "type": "Assembly-independent republic",
+      "type": "Assembly-independent Republic",
       "leaders": [
         {
           "title": "President of the Swiss Confederation",
@@ -14393,43 +14472,43 @@
     "religion": [],
     "ethnicity": [
       {
-        "name": "Han Chinese",
+        "name": "han chinese",
         "percentage": 91.11
       },
       {
-        "name": "Zhuang",
+        "name": "zhuang",
         "percentage": 1.39
       },
       {
-        "name": "Uyghur",
+        "name": "uyghur",
         "percentage": 0.84
       },
       {
-        "name": "Hui",
+        "name": "hui",
         "percentage": 0.81
       },
       {
-        "name": "Miao",
+        "name": "miao",
         "percentage": 0.79
       },
       {
-        "name": "Manchu",
+        "name": "manchu",
         "percentage": 0.74
       },
       {
-        "name": "Yi",
+        "name": "yi",
         "percentage": 0.7
       },
       {
-        "name": "Tujia",
+        "name": "tujia",
         "percentage": 0.68
       },
       {
-        "name": "Tibetan",
+        "name": "tibetan",
         "percentage": 0.5
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 2.44
       }
     ],
@@ -14759,46 +14838,26 @@
         "population": 693000
       },
       {
-        "name": "other ",
+        "name": "other religions",
         "percentage": 0.7,
         "population": 220500
       }
     ],
     "ethnicity": [
       {
-        "name": "akan",
-        "percentage": 38
-      },
-      {
-        "name": "northern mande",
-        "percentage": 22
-      },
-      {
-        "name": "voltaiques/gur",
-        "percentage": 22
-      },
-      {
-        "name": "kru",
-        "percentage": 9.1
-      },
-      {
-        "name": "southern mande",
-        "percentage": 8.6
-      },
-      {
-        "name": "naturalized ivorian",
-        "percentage": 0.3
+        "name": "ivorian",
+        "percentage": 78.0
       },
       {
         "name": "non-ivorian",
-        "percentage": 22
+        "percentage": 22.0
       }
     ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of Ivory Coast",
           "name": "Alassane Ouattara"
         },
         {
@@ -15132,7 +15191,7 @@
     ],
     "ethnicity": [
       {
-        "name": "bamileke, bamun",
+        "name": "bamileke",
         "percentage": 22.2
       },
       {
@@ -15140,23 +15199,23 @@
         "percentage": 16.4
       },
       {
-        "name": "shuwa arab, hausa and kanuri",
+        "name": "shuwa arab",
         "percentage": 13.5
       },
       {
-        "name": "beti-bassa",
+        "name": "beti",
         "percentage": 13.1
       },
       {
         "name": "fulani",
-        "percentage": 12
+        "percentage": 12.0
       },
       {
         "name": "tikar",
         "percentage": 9.9
       },
       {
-        "name": "adamawa-ubangi ",
+        "name": "adamawa-ubangi",
         "percentage": 9.8
       },
       {
@@ -15172,7 +15231,7 @@
         "percentage": 2.3
       },
       {
-        "name": "others",
+        "name": "others/foreigners",
         "percentage": 3.8
       }
     ],
@@ -15552,7 +15611,7 @@
         },
         {
           "title": "Prime Minister of the Democratic Republic of the Congo",
-          "name": "Anatole Collinet Makosso"
+          "name": "Judith Suminwa"
         }
       ]
     },
@@ -15879,9 +15938,35 @@
         "name": "islam",
         "percentage": 1.2,
         "population": 74745
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 62288
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "bakongo",
+        "percentage": 41.0
+      },
+      {
+        "name": "bateke",
+        "percentage": 16.9
+      },
+      {
+        "name": "mbochi",
+        "percentage": 13.1
+      },
+      {
+        "name": "sangha",
+        "percentage": 5.6
+      },
+      {
+        "name": "mbenga pygmies",
+        "percentage": 2.0
+      }
+    ],
     "government": {
       "type": "Unitary Semi-presidential system",
       "leaders": [
@@ -16169,13 +16254,26 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "cook island m\u0101ori",
+        "percentage": 78.2
+      },
+      {
+        "name": "part-m\u0101ori",
+        "percentage": 7.6
+      },
+      {
+        "name": "others",
+        "percentage": 14.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
         {
           "title": "Monarchy in the Cook Islands",
-          "name": "Charles IIICook"
+          "name": "Charles II"
         },
         {
           "title": "King's Representative",
@@ -16473,36 +16571,47 @@
     "religion": [
       {
         "name": "catholicism",
-        "percentage": 70.2,
-        "population": 36992558
+        "percentage": 70.0,
+        "population": 36887166
       },
       {
         "name": "christian",
-        "percentage": 16.8,
-        "population": 8852920
+        "percentage": 17.0,
+        "population": 8958312
       },
       {
         "name": "no religion",
-        "percentage": 11.1,
-        "population": 5849251
+        "percentage": 11.0,
+        "population": 5796555
+      },
+      {
+        "name": "other",
+        "percentage": 1.9,
+        "population": 1001223
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 84.99
       },
       {
         "name": "black",
-        "percentage": 9.34,
-        "population": 4921802
+        "percentage": 9.34
       },
       {
         "name": "indigenous",
-        "percentage": 4.31,
-        "population": 2271196
+        "percentage": 4.31
       },
       {
         "name": "romanis",
-        "percentage": 0.01,
-        "population": 5270
+        "percentage": 0.01
+      },
+      {
+        "name": "not specified",
+        "percentage": 1.35
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -16825,7 +16934,20 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "comorians",
+        "percentage": 97.1
+      },
+      {
+        "name": "makua",
+        "percentage": 1.6
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      }
+    ],
     "government": {
       "type": "Federal",
       "leaders": [
@@ -17114,7 +17236,28 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 81.7,
+        "population": 454242
+      },
+      {
+        "name": "no religion",
+        "percentage": 15.6,
+        "population": 86734
+      },
+      {
+        "name": "islam",
+        "percentage": 1.3,
+        "population": 7228
+      },
+      {
+        "name": "others",
+        "percentage": 1.2,
+        "population": 6672
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -17403,8 +17546,45 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 72.6,
+        "population": 3822807
+      },
+      {
+        "name": "no religion",
+        "percentage": 27.0,
+        "population": 1421705
+      },
+      {
+        "name": "others",
+        "percentage": 0.4,
+        "population": 21062
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 83.6
+      },
+      {
+        "name": "mulatto",
+        "percentage": 6.7
+      },
+      {
+        "name": "indigenous",
+        "percentage": 2.4
+      },
+      {
+        "name": "black",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 6.2
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -17696,11 +17876,29 @@
         "name": "folk religion",
         "percentage": 17.6,
         "population": 1715649
+      },
+      {
+        "name": "other",
+        "percentage": 0.3,
+        "population": 29244
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 64.12
+      },
+      {
+        "name": "mixed",
+        "percentage": 26.62
+      },
+      {
+        "name": "black",
+        "percentage": 9.26
+      }
+    ],
     "government": {
-      "type": "Unitary communist state",
+      "type": "Unitary Communist state",
       "leaders": [
         {
           "title": "First Secretary of the Communist Party of Cuba",
@@ -17981,14 +18179,91 @@
       "599"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 90.0,
+        "population": 137564
+      },
+      {
+        "name": "no religion",
+        "percentage": 6.0,
+        "population": 9171
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.0,
+        "population": 3057
+      },
+      {
+        "name": "islam",
+        "percentage": 0.5,
+        "population": 764
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.2,
+        "population": 306
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 1223
+      },
+      {
+        "name": "not stated",
+        "percentage": 0.6,
+        "population": 917
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "cura\u00e7aoans",
+        "percentage": 75.4
+      },
+      {
+        "name": "dutch",
+        "percentage": 9.0
+      },
+      {
+        "name": "dominican",
+        "percentage": 3.6
+      },
+      {
+        "name": "haitian",
+        "percentage": 3.0
+      },
+      {
+        "name": "surinamese",
+        "percentage": 1.2
+      },
+      {
+        "name": "venezuelan",
+        "percentage": 1.1
+      },
+      {
+        "name": "aruba",
+        "percentage": 1.1
+      },
+      {
+        "name": "aruba",
+        "percentage": 0.9
+      },
+      {
+        "name": "others",
+        "percentage": 6.0
+      }
+    ],
     "government": {
-      "type": "parliamentary democracy",
+      "type": "Parliamentary representative democracy within a constitutional monarchy",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the Netherlands",
+          "name": "Willem-Alexander of the Netherlands"
+        },
+        {
+          "title": "Governor of Cura\u00e7ao",
+          "name": "Mauritsz de kort"
         }
       ]
     },
@@ -17999,7 +18274,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Himno di K\u00f2rsou"
+    "anthem": "Himno di K\u00f2rsou",
+    "hdi": 0.811
   },
   {
     "name": {
@@ -18249,12 +18525,46 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "chinese",
+        "percentage": 22.2
+      },
+      {
+        "name": "australians",
+        "percentage": 17.0
+      },
+      {
+        "name": "malays",
+        "percentage": 16.1
+      },
+      {
+        "name": "english",
+        "percentage": 12.5
+      },
+      {
+        "name": "indonesians",
+        "percentage": 3.8
+      }
+    ],
+    "government": {
+      "type": "Direct rule",
+      "leaders": [
+        {
+          "title": "Monarchy of Australia",
+          "name": ""
+        },
+        {
+          "title": "Governor-General of Australia",
+          "name": "Sam Mostyn"
+        }
+      ]
+    },
     "density": 12.53,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -18502,14 +18812,103 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 67.0,
+        "population": 59518
+      },
+      {
+        "name": "no religion",
+        "percentage": 27.0,
+        "population": 23985
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.4,
+        "population": 2132
+      },
+      {
+        "name": "islam",
+        "percentage": 0.4,
+        "population": 355
+      },
+      {
+        "name": "rastafari",
+        "percentage": 0.3,
+        "population": 266
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.2,
+        "population": 178
+      },
+      {
+        "name": "not specified",
+        "percentage": 2.8,
+        "population": 2487
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "multiracial",
+        "percentage": 36.5
+      },
+      {
+        "name": "black",
+        "percentage": 30.2
+      },
+      {
+        "name": "white",
+        "percentage": 22.4
+      },
+      {
+        "name": "asian",
+        "percentage": 8.1
+      },
+      {
+        "name": "others",
+        "percentage": 2.8
+      },
+      {
+        "name": "christianity",
+        "percentage": 67.0
+      },
+      {
+        "name": "no religion",
+        "percentage": 27.0
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.4
+      },
+      {
+        "name": "islam",
+        "percentage": 0.4
+      },
+      {
+        "name": "rastafari",
+        "percentage": 0.3
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.2
+      },
+      {
+        "name": "not specified",
+        "percentage": 2.8
+      }
+    ],
     "government": {
-      "type": "British overseas territory",
+      "type": "Parliamentary Dependent territory",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of the Cayman Islands",
+          "name": "Jane Owen"
         }
       ]
     },
@@ -18520,7 +18919,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -18795,7 +19195,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 72.3,
+        "population": 972418
+      },
+      {
+        "name": "islam",
+        "percentage": 25.0,
+        "population": 336244
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.9,
+        "population": 25555
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 10760
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
@@ -19097,6 +19518,11 @@
     ],
     "religion": [
       {
+        "name": "no religion",
+        "percentage": 56.9,
+        "population": 6202416
+      },
+      {
         "name": "christianity",
         "percentage": 11.7,
         "population": 1275365
@@ -19105,9 +19531,39 @@
         "name": "other",
         "percentage": 1.2,
         "population": 130807
+      },
+      {
+        "name": "unanswered",
+        "percentage": 30.1,
+        "population": 3281067
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "czechs",
+        "percentage": 89.0
+      },
+      {
+        "name": "moravians",
+        "percentage": 3.3
+      },
+      {
+        "name": "slovaks",
+        "percentage": 0.9
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 0.7
+      },
+      {
+        "name": "others",
+        "percentage": 2.1
+      },
+      {
+        "name": "two nationalities",
+        "percentage": 4.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -19718,17 +20174,41 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 94.0,
+        "population": 1083767
+      },
+      {
+        "name": "christianity",
+        "percentage": 6.0,
+        "population": 69177
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "somalis",
+        "percentage": 60.0
+      },
+      {
+        "name": "afar",
+        "percentage": 35.0
+      },
+      {
+        "name": "arabs",
+        "percentage": 5.0
+      }
+    ],
     "government": {
       "type": "Unitary dominant-party",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of Djibouti",
           "name": "Isma\u00efl Omar Guelleh"
         },
         {
-          "title": "Prime Minister",
+          "title": "Prime Minister of Djibouti",
           "name": "Abdoulkader Kamil Mohamed"
         }
       ]
@@ -19992,13 +20472,55 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 94.4,
+        "population": 70475
+      },
+      {
+        "name": "folk religions",
+        "percentage": 3.0,
+        "population": 2240
+      },
+      {
+        "name": "other",
+        "percentage": 1.7,
+        "population": 1269
+      },
+      {
+        "name": "none",
+        "percentage": 0.9,
+        "population": 672
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 75.0
+      },
+      {
+        "name": "multiracial",
+        "percentage": 19.0
+      },
+      {
+        "name": "kalinago",
+        "percentage": 4.0
+      },
+      {
+        "name": "european",
+        "percentage": 0.8
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
         {
-          "title": "Presidents of Dominica",
+          "title": "President of Dominica",
           "name": "Sylvanie Burton"
         },
         {
@@ -20244,7 +20766,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/dk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/dk.png"
     },
-    "population": 5822863,
+    "population": 6001008,
     "maps": {
       "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
@@ -20283,14 +20805,43 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "lutheranism",
+        "percentage": 71.4,
+        "population": 4284720
+      },
+      {
+        "name": "islam",
+        "percentage": 4.3,
+        "population": 258043
+      },
+      {
+        "name": "other",
+        "percentage": 24.3,
+        "population": 1458245
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "danish",
+        "percentage": 83.7
+      },
+      {
+        "name": "others",
+        "percentage": 16.3
+      }
+    ],
     "government": {
-      "type": "constitutional monarchy",
+      "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of Denmark",
+          "name": "Frederik X"
+        },
+        {
+          "title": "Prime Minister of Denmark",
+          "name": "Mette Frederiksen"
         }
       ]
     },
@@ -20301,7 +20852,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Constitution Day",
-    "anthem": "Der er et yndigt land"
+    "anthem": "Der er et yndigt land",
+    "hdi": 4.0
   },
   {
     "name": {
@@ -20590,9 +21142,39 @@
         "name": "other",
         "percentage": 1.4,
         "population": 161450
+      },
+      {
+        "name": "unspecified",
+        "percentage": 2.0,
+        "population": 230643
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mixed",
+        "percentage": 71.72
+      },
+      {
+        "name": "white",
+        "percentage": 18.7
+      },
+      {
+        "name": "black",
+        "percentage": 7.45
+      },
+      {
+        "name": "east asian",
+        "percentage": 0.33
+      },
+      {
+        "name": "others",
+        "percentage": 0.37
+      },
+      {
+        "name": "no answer",
+        "percentage": 1.43
+      }
+    ],
     "government": {
       "type": "Unitary presidential system",
       "leaders": [
@@ -20899,7 +21481,13 @@
         ]
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "sunni islam",
+        "percentage": 99.0,
+        "population": 46926000
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic",
@@ -21202,9 +21790,39 @@
         "name": "no religion",
         "percentage": 8.9,
         "population": 1556016
+      },
+      {
+        "name": "other",
+        "percentage": 2.0,
+        "population": 349667
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 77.47
+      },
+      {
+        "name": "montubio",
+        "percentage": 7.7
+      },
+      {
+        "name": "indigenous",
+        "percentage": 7.69
+      },
+      {
+        "name": "black",
+        "percentage": 4.81
+      },
+      {
+        "name": "white",
+        "percentage": 2.21
+      },
+      {
+        "name": "others",
+        "percentage": 0.12
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -21785,7 +22403,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/er.png"
     },
-    "population": 6400000,
+    "population": 5000000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
@@ -21822,12 +22440,49 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "tigrinya",
+        "percentage": 50.0
+      },
+      {
+        "name": "tigre",
+        "percentage": 30.0
+      },
+      {
+        "name": "saho",
+        "percentage": 4.0
+      },
+      {
+        "name": "afar",
+        "percentage": 4.0
+      },
+      {
+        "name": "kunama",
+        "percentage": 4.0
+      },
+      {
+        "name": "bilen",
+        "percentage": 3.0
+      },
+      {
+        "name": "beja",
+        "percentage": 2.0
+      },
+      {
+        "name": "nara",
+        "percentage": 2.0
+      },
+      {
+        "name": "rashaida",
+        "percentage": 1.0
+      }
+    ],
     "government": {
       "type": "Unitary one-party presidential republic under a totalitarian dictatorship",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of Eritrea",
           "name": "Isaias Afwerki"
         }
       ]
@@ -22136,11 +22791,15 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": []
+    },
     "density": 2.26,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -22451,6 +23110,11 @@
         "name": "other religion",
         "percentage": 3.6,
         "population": 1784546
+      },
+      {
+        "name": "unanswered",
+        "percentage": 1.7,
+        "population": 842702
       }
     ],
     "ethnicity": [],
@@ -22752,12 +23416,38 @@
         "population": 363909
       },
       {
+        "name": "undeclared",
+        "percentage": 12.7,
+        "population": 173095
+      },
+      {
         "name": "other",
         "percentage": 2.1,
         "population": 28622
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "estonians",
+        "percentage": 68.5
+      },
+      {
+        "name": "russians",
+        "percentage": 20.9
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 5.4
+      },
+      {
+        "name": "others",
+        "percentage": 4.6
+      },
+      {
+        "name": "undeclared",
+        "percentage": 0.6
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -23076,7 +23766,52 @@
         "population": 1084000
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "oromo",
+        "percentage": 32.5
+      },
+      {
+        "name": "amhara",
+        "percentage": 23.9
+      },
+      {
+        "name": "somali",
+        "percentage": 12.2
+      },
+      {
+        "name": "tigrayan",
+        "percentage": 6.1
+      },
+      {
+        "name": "sidama",
+        "percentage": 4.0
+      },
+      {
+        "name": "gurage",
+        "percentage": 2.5
+      },
+      {
+        "name": "welayta",
+        "percentage": 2.3
+      },
+      {
+        "name": "hadiya",
+        "percentage": 1.7
+      },
+      {
+        "name": "afar",
+        "percentage": 1.7
+      },
+      {
+        "name": "gamo",
+        "percentage": 1.5
+      },
+      {
+        "name": "others",
+        "percentage": 12.6
+      }
+    ],
     "government": {
       "type": "Federal parliamentary republic",
       "leaders": [
@@ -23376,8 +24111,33 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 64.2,
+        "population": 3600476
+      },
+      {
+        "name": "no religion",
+        "percentage": 34.9,
+        "population": 1957268
+      },
+      {
+        "name": "other",
+        "percentage": 2.0,
+        "population": 112164
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "finns",
+        "percentage": 88.9
+      },
+      {
+        "name": "others",
+        "percentage": 11.1
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -23700,7 +24460,24 @@
         "population": 12968
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "indigenous fijians",
+        "percentage": 56.8
+      },
+      {
+        "name": "indo-fijians",
+        "percentage": 37.5
+      },
+      {
+        "name": "rotumans",
+        "percentage": 1.2
+      },
+      {
+        "name": "others",
+        "percentage": 4.5
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -23985,11 +24762,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolved parliamentary Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of the Falkland Islands",
+          "name": "Colin Martin-Reynolds"
+        }
+      ]
+    },
     "density": 0.37,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -24272,7 +25062,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 50.0,
+        "population": 34540998
+      },
+      {
+        "name": "irreligion",
+        "percentage": 33.0,
+        "population": 22797059
+      },
+      {
+        "name": "islam",
+        "percentage": 4.0,
+        "population": 2763280
+      },
+      {
+        "name": "other religions",
+        "percentage": 4.0,
+        "population": 2763280
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary Semi-presidential system",
@@ -24537,7 +25348,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fo.png"
     },
-    "population": 54885,
+    "population": 56210,
     "maps": {
       "googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/52939"
@@ -24563,11 +25374,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "Monarchy of Denmark",
+          "name": "Frederik X"
+        },
+        {
+          "title": "Prime Minister of Denmark",
+          "name": "Mette Frederiksen"
+        }
+      ]
+    },
     "density": 39.4,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -24793,7 +25617,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/fm.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/fm.png"
     },
-    "population": 105544,
+    "population": 104468,
     "maps": {
       "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
@@ -24823,14 +25647,71 @@
       "691"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 95.3,
+        "population": 99558
+      },
+      {
+        "name": "folk religion",
+        "percentage": 4.1,
+        "population": 4283
+      },
+      {
+        "name": "none",
+        "percentage": 0.6,
+        "population": 627
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "chuukese",
+        "percentage": 48.8
+      },
+      {
+        "name": "pohnpeian",
+        "percentage": 24.2
+      },
+      {
+        "name": "kosraean",
+        "percentage": 6.2
+      },
+      {
+        "name": "yapese",
+        "percentage": 5.2
+      },
+      {
+        "name": "outer yapese",
+        "percentage": 4.5
+      },
+      {
+        "name": "asian",
+        "percentage": 1.8
+      },
+      {
+        "name": "polynesian",
+        "percentage": 1.5
+      },
+      {
+        "name": "others",
+        "percentage": 6.4
+      },
+      {
+        "name": "unknown",
+        "percentage": 1.4
+      }
+    ],
     "government": {
-      "type": "federal republic",
+      "type": "Federal assembly-independent republic",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "President of the Federated States of Micronesia",
+          "name": "Wesley Simina"
+        },
+        {
+          "title": "Vice President of the Federated States of Micronesia",
+          "name": "Aren Palik"
         }
       ]
     },
@@ -24841,7 +25722,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Patriots of Micronesia"
+    "anthem": "Patriots of Micronesia",
+    "hdi": 0.634
   },
   {
     "name": {
@@ -25132,6 +26014,11 @@
         "name": "traditional faiths",
         "percentage": 1.1,
         "population": 26371
+      },
+      {
+        "name": "others",
+        "percentage": 0.9,
+        "population": 21576
       }
     ],
     "ethnicity": [],
@@ -25421,8 +26308,75 @@
       "44"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 46.5,
+        "population": 31306855
+      },
+      {
+        "name": "no religion",
+        "percentage": 37.8,
+        "population": 25449443
+      },
+      {
+        "name": "islam",
+        "percentage": 6.0,
+        "population": 4039594
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.6,
+        "population": 1077225
+      },
+      {
+        "name": "sikhism",
+        "percentage": 0.8,
+        "population": 538613
+      },
+      {
+        "name": "buddhism",
+        "percentage": 0.4,
+        "population": 269306
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.4,
+        "population": 269306
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 403959
+      },
+      {
+        "name": "not stated",
+        "percentage": 5.9,
+        "population": 3972268
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 83.0
+      },
+      {
+        "name": "asian",
+        "percentage": 8.6
+      },
+      {
+        "name": "black",
+        "percentage": 3.7
+      },
+      {
+        "name": "mixed",
+        "percentage": 2.7
+      },
+      {
+        "name": "others",
+        "percentage": 2.0
+      }
+    ],
     "government": {
       "type": "Unitary Westminster parliamentary system",
       "leaders": [
@@ -25432,7 +26386,7 @@
         },
         {
           "title": "Prime Minister of the United Kingdom",
-          "name": "Keir Starmer "
+          "name": "Keir Starmer"
         }
       ]
     },
@@ -25703,14 +26657,55 @@
       "995"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.3,
+        "population": 3245028
+      },
+      {
+        "name": "islam",
+        "percentage": 10.7,
+        "population": 397730
+      },
+      {
+        "name": "other",
+        "percentage": 2.0,
+        "population": 74342
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "georgians",
+        "percentage": 86.8
+      },
+      {
+        "name": "azerbaijanis",
+        "percentage": 6.2
+      },
+      {
+        "name": "armenians",
+        "percentage": 4.5
+      },
+      {
+        "name": "russians",
+        "percentage": 0.7
+      },
+      {
+        "name": "others",
+        "percentage": 2.1
+      }
+    ],
     "government": {
-      "type": "republic",
+      "type": "Unitary parliamentary republic",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "President of Georgia",
+          "name": "Mikheil Kavelashvili"
+        },
+        {
+          "title": "Prime Minister of Georgia",
+          "name": "Irakli Kobakhidze"
         }
       ]
     },
@@ -25721,7 +26716,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "Day of National Unity of Georgia",
-    "anthem": "Tavisupleba"
+    "anthem": "Tavisupleba",
+    "hdi": 0.844
   },
   {
     "name": {
@@ -25999,12 +26995,34 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 95.8
+      },
+      {
+        "name": "asian",
+        "percentage": 1.9
+      }
+    ],
+    "government": {
+      "type": "Self-governance",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Lieutenant Governor of Guernsey",
+          "name": "Richard Cripwell"
+        }
+      ]
+    },
     "density": 869.06,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -26298,54 +27316,46 @@
         "name": "other",
         "percentage": 4.5,
         "population": 1576775
-      },
+      }
+    ],
+    "ethnicity": [
       {
         "name": "akan",
-        "percentage": 45.7,
-        "population": 16013029
+        "percentage": 45.7
       },
       {
         "name": "mole-dagbon",
-        "percentage": 18.5,
-        "population": 6482298
+        "percentage": 18.5
       },
       {
         "name": "ewe",
-        "percentage": 12.8,
-        "population": 4485050
+        "percentage": 12.8
       },
       {
         "name": "ga-adangbe",
-        "percentage": 7.1,
-        "population": 2487801
+        "percentage": 7.1
       },
       {
         "name": "gurma",
-        "percentage": 6.4,
-        "population": 2242525
+        "percentage": 6.4
       },
       {
         "name": "guan",
-        "percentage": 3.2,
-        "population": 1121262
+        "percentage": 3.2
       },
       {
         "name": "gurunsi",
-        "percentage": 2.7,
-        "population": 946065
+        "percentage": 2.7
       },
       {
         "name": "mande",
-        "percentage": 2.0,
-        "population": 700789
+        "percentage": 2.0
       },
       {
-        "name": "other",
-        "percentage": 1.6,
-        "population": 560631
+        "name": "others",
+        "percentage": 1.6
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -26593,7 +27603,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gi.png"
     },
-    "population": 34003,
+    "population": 37936,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
@@ -26625,11 +27635,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor of Gibraltar",
+          "name": "Ben Bathurst"
+        }
+      ]
+    },
     "density": 5667.17,
     "gdp": null,
     "nationalHoliday": "Gibraltar National Day",
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 3.0
   },
   {
     "name": {
@@ -26918,9 +27941,43 @@
         "name": "animism",
         "percentage": 0.2,
         "population": 27972
+      },
+      {
+        "name": "none",
+        "percentage": 1.2,
+        "population": 167834
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "fula",
+        "percentage": 33.4
+      },
+      {
+        "name": "mandinka",
+        "percentage": 29.4
+      },
+      {
+        "name": "susu",
+        "percentage": 21.2
+      },
+      {
+        "name": "kpelle",
+        "percentage": 7.8
+      },
+      {
+        "name": "kissi",
+        "percentage": 6.2
+      },
+      {
+        "name": "loma",
+        "percentage": 1.6
+      },
+      {
+        "name": "others",
+        "percentage": 0.4
+      }
+    ],
     "government": {
       "type": "Unitary presidential system",
       "leaders": [
@@ -27167,7 +28224,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gp.png"
     },
-    "population": 384160,
+    "population": 378561,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
@@ -27193,11 +28250,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": [
+        {
+          "title": "Departmental Council of Guadeloupe",
+          "name": "Guy Losbar"
+        },
+        {
+          "title": "Regional Council of Guadeloupe",
+          "name": "Ary Chalus"
+        }
+      ]
+    },
     "density": 235.97,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -27465,8 +28535,53 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 95.7,
+        "population": 2526400
+      },
+      {
+        "name": "christianity",
+        "percentage": 4.2,
+        "population": 110876
+      },
+      {
+        "name": "others",
+        "percentage": 0.1,
+        "population": 2640
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "mandinka",
+        "percentage": 34.4
+      },
+      {
+        "name": "fula",
+        "percentage": 25.0
+      },
+      {
+        "name": "wolof",
+        "percentage": 15.4
+      },
+      {
+        "name": "jola",
+        "percentage": 9.5
+      },
+      {
+        "name": "soninke",
+        "percentage": 8.2
+      },
+      {
+        "name": "serer",
+        "percentage": 2.9
+      },
+      {
+        "name": "others",
+        "percentage": 4.6
+      }
+    ],
     "government": {
       "type": "Unitary Presidential republic",
       "leaders": [
@@ -27769,8 +28884,59 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 46.1,
+        "population": 958880
+      },
+      {
+        "name": "traditional",
+        "percentage": 30.6,
+        "population": 636480
+      },
+      {
+        "name": "christianity",
+        "percentage": 18.9,
+        "population": 393120
+      },
+      {
+        "name": "no religion",
+        "percentage": 3.0,
+        "population": 62400
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 20800
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "balanta",
+        "percentage": 30.0
+      },
+      {
+        "name": "fula",
+        "percentage": 30.0
+      },
+      {
+        "name": "manjak",
+        "percentage": 14.0
+      },
+      {
+        "name": "mandinka",
+        "percentage": 13.0
+      },
+      {
+        "name": "papel",
+        "percentage": 7.0
+      },
+      {
+        "name": "other / unspecified",
+        "percentage": 6.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential system",
       "leaders": [
@@ -28081,8 +29247,59 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 88.7,
+        "population": 1592905
+      },
+      {
+        "name": "no religion",
+        "percentage": 5.0,
+        "population": 89792
+      },
+      {
+        "name": "islam",
+        "percentage": 4.0,
+        "population": 71833
+      },
+      {
+        "name": "traditional faiths",
+        "percentage": 1.7,
+        "population": 30529
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 10775
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "fang",
+        "percentage": 85.7
+      },
+      {
+        "name": "bubi",
+        "percentage": 6.5
+      },
+      {
+        "name": "ndowe",
+        "percentage": 3.6
+      },
+      {
+        "name": "annobon",
+        "percentage": 1.6
+      },
+      {
+        "name": "bujeba",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 1.1
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic under an authoritarian Dynasty#Hereditary dictatorship",
       "leaders": [
@@ -28386,6 +29603,11 @@
         "name": "islam",
         "percentage": 2.0,
         "population": 207447
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 103723
       }
     ],
     "ethnicity": [],
@@ -28688,9 +29910,35 @@
         "name": "rastafari",
         "percentage": 0.7,
         "population": 802
+      },
+      {
+        "name": "other",
+        "percentage": 0.4,
+        "population": 458
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 82.4
+      },
+      {
+        "name": "mixed",
+        "percentage": 13.3
+      },
+      {
+        "name": "indian",
+        "percentage": 2.2
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.9
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -28937,7 +30185,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gl.png"
     },
-    "population": 56609,
+    "population": 56831,
     "maps": {
       "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
@@ -28964,14 +30212,51 @@
       "299"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.1,
+        "population": 54615
+      },
+      {
+        "name": "no religion",
+        "percentage": 2.5,
+        "population": 1421
+      },
+      {
+        "name": "other",
+        "percentage": 1.4,
+        "population": 796
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "greenlandic inuit",
+        "percentage": 89.51
+      },
+      {
+        "name": "danish",
+        "percentage": 7.5
+      },
+      {
+        "name": "nordic",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 1.9
+      }
+    ],
     "government": {
-      "type": "parliamentary monarchy",
+      "type": "Devolution",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of Denmark",
+          "name": "Frederik X"
+        },
+        {
+          "title": "Prime Minister of Denmark",
+          "name": "Mette Frederiksen"
         }
       ]
     },
@@ -28982,7 +30267,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Nuna asiilasooq"
+    "anthem": "Nuna asiilasooq",
+    "hdi": 0.852
   },
   {
     "name": {
@@ -29258,9 +30544,39 @@
         "name": "no religion",
         "percentage": 11.0,
         "population": 2008074
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 164297
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "ladino",
+        "percentage": 56.01
+      },
+      {
+        "name": "maya",
+        "percentage": 41.66
+      },
+      {
+        "name": "xinca",
+        "percentage": 1.77
+      },
+      {
+        "name": "black",
+        "percentage": 0.19
+      },
+      {
+        "name": "garifuna",
+        "percentage": 0.13
+      },
+      {
+        "name": "others",
+        "percentage": 0.24
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -29511,7 +30827,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/gf.png"
     },
-    "population": 292354,
+    "population": 298,
     "maps": {
       "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
@@ -29553,11 +30869,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": [
+        {
+          "title": "List of colonial and departmental heads of French Guiana",
+          "name": "Antoine Poussier"
+        },
+        {
+          "title": "Presidents of the Regional Council of French Guiana",
+          "name": "Gabriel Serville (Guyane Kontr\u00e9 pour avancer)"
+        }
+      ]
+    },
     "density": 3.5,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -29828,9 +31157,64 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 94.1,
+        "population": 144760
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.7,
+        "population": 2615
+      },
+      {
+        "name": "folk religions",
+        "percentage": 1.5,
+        "population": 2308
+      },
+      {
+        "name": "buddhism",
+        "percentage": 1.1,
+        "population": 1692
+      },
+      {
+        "name": "other",
+        "percentage": 1.6,
+        "population": 2461
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "pacific islander",
+        "percentage": 49.3
+      },
+      {
+        "name": "asian",
+        "percentage": 36.6
+      },
+      {
+        "name": "multiracial",
+        "percentage": 9.4
+      },
+      {
+        "name": "white",
+        "percentage": 7.1
+      },
+      {
+        "name": "others",
+        "percentage": 0.6
+      }
+    ],
+    "government": {
+      "type": "",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump (Republican Party (United States)"
+        }
+      ]
+    },
     "density": 280.21,
     "gdp": {
       "total": 6123000000,
@@ -29838,7 +31222,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Stand Ye Guamanians"
+    "anthem": "Stand Ye Guamanians",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -30116,8 +31501,59 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 55.5,
+        "population": 527797
+      },
+      {
+        "name": "hinduism",
+        "percentage": 31.0,
+        "population": 294806
+      },
+      {
+        "name": "islam",
+        "percentage": 9.5,
+        "population": 90344
+      },
+      {
+        "name": "no religion",
+        "percentage": 4.2,
+        "population": 39941
+      },
+      {
+        "name": "others",
+        "percentage": 3.3,
+        "population": 31383
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "indian",
+        "percentage": 44.4
+      },
+      {
+        "name": "african",
+        "percentage": 32.3
+      },
+      {
+        "name": "mixed",
+        "percentage": 20.0
+      },
+      {
+        "name": "indigenous",
+        "percentage": 10.5
+      },
+      {
+        "name": "european",
+        "percentage": 0.3
+      },
+      {
+        "name": "chinese",
+        "percentage": 0.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republics with an executive presidency",
       "leaders": [
@@ -30376,7 +31812,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/hk.png"
     },
-    "population": 7413070,
+    "population": 7498100,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
@@ -30401,8 +31837,49 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "chinese",
+        "percentage": 91.6
+      },
+      {
+        "name": "filipino",
+        "percentage": 2.7
+      },
+      {
+        "name": "indonesian",
+        "percentage": 1.9
+      },
+      {
+        "name": "white",
+        "percentage": 0.8
+      },
+      {
+        "name": "indian",
+        "percentage": 0.6
+      },
+      {
+        "name": "nepalese",
+        "percentage": 0.4
+      },
+      {
+        "name": "others",
+        "percentage": 2.0
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "Chief Executive of Hong Kong",
+          "name": "John Lee Ka-chiu"
+        },
+        {
+          "title": "Chief Secretary for Administration",
+          "name": "Eric Chan"
+        }
+      ]
+    },
     "density": 6714.74,
     "gdp": {
       "total": 359838598806,
@@ -30410,7 +31887,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Day of the People's Republic of China",
-    "anthem": "March of the Volunteers"
+    "anthem": "March of the Volunteers",
+    "hdi": 8.0
   },
   {
     "name": {
@@ -30649,11 +32127,15 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": []
+    },
     "density": 0.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -30921,7 +32403,28 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 82.93
+      },
+      {
+        "name": "white",
+        "percentage": 7.87
+      },
+      {
+        "name": "indigenous",
+        "percentage": 7.25
+      },
+      {
+        "name": "black",
+        "percentage": 1.39
+      },
+      {
+        "name": "others",
+        "percentage": 0.55
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -31239,9 +32742,27 @@
         "name": "other",
         "percentage": 1.9,
         "population": 73458
+      },
+      {
+        "name": "undeclared",
+        "percentage": 3.9,
+        "population": 150783
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "croats",
+        "percentage": 91.6
+      },
+      {
+        "name": "serbs",
+        "percentage": 3.2
+      },
+      {
+        "name": "others",
+        "percentage": 5.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -31557,9 +33078,23 @@
         "name": "haitian vodou",
         "percentage": 2.1,
         "population": 240875
+      },
+      {
+        "name": "other",
+        "percentage": 0.2,
+        "population": 22941
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 95.0
+      },
+      {
+        "name": "others",
+        "percentage": 5.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -31855,12 +33390,39 @@
         "population": 4073466
       },
       {
-        "name": "irreligion",
+        "name": "no answer",
         "percentage": 40.1,
         "population": 3843435
+      },
+      {
+        "name": "irreligion",
+        "percentage": 16.1,
+        "population": 1543125
+      },
+      {
+        "name": "others",
+        "percentage": 1.3,
+        "population": 124600
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "hungarian",
+        "percentage": 97.7
+      },
+      {
+        "name": "romani",
+        "percentage": 2.4
+      },
+      {
+        "name": "german",
+        "percentage": 1.2
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -32171,7 +33733,32 @@
         "population": 2275510
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "javanese",
+        "percentage": 40.2
+      },
+      {
+        "name": "sundanese",
+        "percentage": 15.5
+      },
+      {
+        "name": "malay",
+        "percentage": 3.7
+      },
+      {
+        "name": "batak",
+        "percentage": 3.6
+      },
+      {
+        "name": "madurese",
+        "percentage": 3.0
+      },
+      {
+        "name": "600+ ethnic groups",
+        "percentage": 34.0
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -32466,13 +34053,83 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 54.7,
+        "population": 46238
+      },
+      {
+        "name": "no religion",
+        "percentage": 43.8,
+        "population": 37024
+      },
+      {
+        "name": "islam",
+        "percentage": 0.5,
+        "population": 423
+      },
+      {
+        "name": "buddhism",
+        "percentage": 0.5,
+        "population": 423
+      },
+      {
+        "name": "hinduism",
+        "percentage": 0.3,
+        "population": 254
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.1,
+        "population": 85
+      },
+      {
+        "name": "other",
+        "percentage": 0.2,
+        "population": 169
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 94.7
+      },
+      {
+        "name": "asian",
+        "percentage": 3.1
+      },
+      {
+        "name": "mixed",
+        "percentage": 1.0
+      },
+      {
+        "name": "black",
+        "percentage": 0.6
+      },
+      {
+        "name": "others",
+        "percentage": 0.6
+      }
+    ],
+    "government": {
+      "type": "Parliamentary system",
+      "leaders": [
+        {
+          "title": "Lord of Mann",
+          "name": "Charles III"
+        },
+        {
+          "title": "Lieutenant Governor of the Isle of Man",
+          "name": "John Lorimer (British Army officer)"
+        }
+      ]
+    },
     "density": 147.78,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 15.0
   },
   {
     "name": {
@@ -33090,11 +34747,15 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": []
+    },
     "density": 50.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -33334,7 +34995,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ie.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ie.png"
     },
-    "population": 5149139,
+    "population": 5458600,
     "maps": {
       "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
@@ -33369,14 +35030,64 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 75.7,
+        "population": 4132160
+      },
+      {
+        "name": "no religion",
+        "percentage": 14.5,
+        "population": 791497
+      },
+      {
+        "name": "other",
+        "percentage": 3.1,
+        "population": 169217
+      },
+      {
+        "name": "not stated",
+        "percentage": 6.7,
+        "population": 365726
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "white irish",
+        "percentage": 76.6
+      },
+      {
+        "name": "white",
+        "percentage": 10.8
+      },
+      {
+        "name": "asian",
+        "percentage": 3.3
+      },
+      {
+        "name": "black",
+        "percentage": 1.5
+      },
+      {
+        "name": "others",
+        "percentage": 1.7
+      },
+      {
+        "name": "not stated",
+        "percentage": 6.2
+      }
+    ],
     "government": {
-      "type": "republic",
+      "type": "Unitary parliamentary republic",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "President of Ireland",
+          "name": "Catherine Connolly"
+        },
+        {
+          "title": "Taoiseach",
+          "name": "Miche\u00e1l Martin"
         }
       ]
     },
@@ -33387,7 +35098,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Amhr\u00e1n na bhFiann"
+    "anthem": "Amhr\u00e1n na bhFiann",
+    "hdi": 0.949
   },
   {
     "name": {
@@ -33964,8 +35676,32 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 95.0,
+        "population": 36360887
+      },
+      {
+        "name": "christianity",
+        "percentage": 10.0,
+        "population": 3827462
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "arabs",
+        "percentage": 80.0
+      },
+      {
+        "name": "kurds",
+        "percentage": 20.0
+      },
+      {
+        "name": "assyrians",
+        "percentage": 10.0
+      }
+    ],
     "government": {
       "type": "Federal parliamentary republic",
       "leaders": [
@@ -34249,8 +35985,46 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 72.4,
+        "population": 263724
+      },
+      {
+        "name": "no religion",
+        "percentage": 25.2,
+        "population": 91794
+      },
+      {
+        "name": "\u00e1satr\u00faarf\u00e9lagi\u00f0",
+        "percentage": 1.5,
+        "population": 5464
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 3278
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "icelandic",
+        "percentage": 86.0
+      },
+      {
+        "name": "polish",
+        "percentage": 6.0
+      },
+      {
+        "name": "lithuanian",
+        "percentage": 1.0
+      },
+      {
+        "name": "filipino",
+        "percentage": 0.8
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -34836,7 +36610,23 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 84.0,
+        "population": 49489071
+      },
+      {
+        "name": "irreligion",
+        "percentage": 12.0,
+        "population": 7069867
+      },
+      {
+        "name": "other",
+        "percentage": 4.0,
+        "population": 2356622
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary republic",
@@ -35154,9 +36944,39 @@
         "name": "other",
         "percentage": 6.5,
         "population": 183619
+      },
+      {
+        "name": "unanswered",
+        "percentage": 2.3,
+        "population": 64973
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 76.3
+      },
+      {
+        "name": "mixed",
+        "percentage": 15.1
+      },
+      {
+        "name": "indian",
+        "percentage": 3.4
+      },
+      {
+        "name": "white",
+        "percentage": 3.2
+      },
+      {
+        "name": "chinese",
+        "percentage": 1.2
+      },
+      {
+        "name": "others",
+        "percentage": 0.8
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -35456,13 +37276,59 @@
       "44"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 52.3,
+        "population": 54009
+      },
+      {
+        "name": "no religion",
+        "percentage": 39.0,
+        "population": 40274
+      },
+      {
+        "name": "other religion",
+        "percentage": 3.0,
+        "population": 3098
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 95.8
+      },
+      {
+        "name": "asian",
+        "percentage": 1.9
+      },
+      {
+        "name": "african",
+        "percentage": 0.9
+      },
+      {
+        "name": "multiracial",
+        "percentage": 1.3
+      }
+    ],
+    "government": {
+      "type": "Parliamentary system",
+      "leaders": [
+        {
+          "title": "Sovereign in right of the Bailiwick of Jersey",
+          "name": "Charles III"
+        },
+        {
+          "title": "Lieutenant Governor of Jersey",
+          "name": "Jerry Kyd"
+        }
+      ]
+    },
     "density": 890.23,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.985
   },
   {
     "name": {
@@ -35737,23 +37603,34 @@
     "religion": [
       {
         "name": "islam",
-        "percentage":  95,
+        "percentage": 95.0,
         "population": 10910565
-      },{
+      },
+      {
         "name": "christianity",
-        "percentage":  3,
+        "percentage": 3.0,
         "population": 344544
-      },{
+      },
+      {
         "name": "druze",
-        "percentage":  1,
-        "population": 114848
-      },{
-        "name": "other",
-        "percentage":  1,
+        "percentage": 1.0,
         "population": 114848
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arab",
+        "percentage": 95.0
+      },
+      {
+        "name": "circassian",
+        "percentage": 3.0
+      },
+      {
+        "name": "armenian",
+        "percentage": 2.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -36361,9 +38238,47 @@
         "name": "other",
         "percentage": 0.2,
         "population": 40992
+      },
+      {
+        "name": "unanswered",
+        "percentage": 11.0,
+        "population": 2254557
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "kazakh",
+        "percentage": 71.3
+      },
+      {
+        "name": "russian",
+        "percentage": 14.6
+      },
+      {
+        "name": "uzbek",
+        "percentage": 3.3
+      },
+      {
+        "name": "ukrainian",
+        "percentage": 1.8
+      },
+      {
+        "name": "uyghur",
+        "percentage": 1.5
+      },
+      {
+        "name": "german",
+        "percentage": 1.1
+      },
+      {
+        "name": "tatar",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 5.3
+      }
+    ],
     "government": {
       "type": "Unitary presidential system",
       "leaders": [
@@ -36689,9 +38604,55 @@
         "name": "traditional faiths",
         "percentage": 0.7,
         "population": 373317
+      },
+      {
+        "name": "others",
+        "percentage": 1.3,
+        "population": 693303
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "kikuyu",
+        "percentage": 17.13
+      },
+      {
+        "name": "luhya",
+        "percentage": 14.35
+      },
+      {
+        "name": "kalenjin",
+        "percentage": 13.37
+      },
+      {
+        "name": "luo",
+        "percentage": 10.65
+      },
+      {
+        "name": "kamba",
+        "percentage": 9.81
+      },
+      {
+        "name": "somali",
+        "percentage": 5.85
+      },
+      {
+        "name": "kisii",
+        "percentage": 5.68
+      },
+      {
+        "name": "mijikenda",
+        "percentage": 5.23
+      },
+      {
+        "name": "meru",
+        "percentage": 4.15
+      },
+      {
+        "name": "others",
+        "percentage": 13.78
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -36957,7 +38918,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/kg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/kg.png"
     },
-    "population": 7281800,
+    "population": 7300000,
     "maps": {
       "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/178009"
@@ -36995,20 +38956,46 @@
     "religion": [
       {
         "name": "islam",
-        "percentage": 91,
-        "population": 6626438
-      },{
+        "percentage": 91.0,
+        "population": 6643000
+      },
+      {
         "name": "christianity",
         "percentage": 8.0,
-        "population": 582544
+        "population": 584000
       },
       {
         "name": "others",
         "percentage": 1.0,
-        "population": 72818
+        "population": 73000
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "kyrgyz",
+        "percentage": 77.8
+      },
+      {
+        "name": "uzbeks",
+        "percentage": 14.2
+      },
+      {
+        "name": "russians",
+        "percentage": 3.8
+      },
+      {
+        "name": "dungans",
+        "percentage": 1.0
+      },
+      {
+        "name": "tajiks",
+        "percentage": 0.9
+      },
+      {
+        "name": "others",
+        "percentage": 2.3
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -37316,7 +39303,24 @@
         "population": 88194
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "khmer",
+        "percentage": 95.4
+      },
+      {
+        "name": "cham",
+        "percentage": 2.4
+      },
+      {
+        "name": "chinese",
+        "percentage": 1.5
+      },
+      {
+        "name": "others",
+        "percentage": 0.8
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional elective monarchy under a Dynasty",
       "leaders": [
@@ -37628,7 +39632,16 @@
         "population": 1981
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "gilbertese",
+        "percentage": 95.7
+      },
+      {
+        "name": "others",
+        "percentage": 4.3
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic with an executive president",
       "leaders": [
@@ -37909,8 +39922,54 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 94.6,
+        "population": 44388
+      },
+      {
+        "name": "no religion",
+        "percentage": 2.6,
+        "population": 1220
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.5,
+        "population": 704
+      },
+      {
+        "name": "other",
+        "percentage": 1.3,
+        "population": 610
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 92.5
+      },
+      {
+        "name": "mixed",
+        "percentage": 3.0
+      },
+      {
+        "name": "european",
+        "percentage": 2.1
+      },
+      {
+        "name": "indian",
+        "percentage": 1.6
+      },
+      {
+        "name": "others",
+        "percentage": 0.5
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.3
+      }
+    ],
     "government": {
       "type": "Federal monarchy",
       "leaders": [
@@ -38207,9 +40266,23 @@
         "name": "buddhism",
         "percentage": 17.0,
         "population": 8853906
+      },
+      {
+        "name": "others",
+        "percentage": 2.0,
+        "population": 1041636
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "korean",
+        "percentage": 94.8
+      },
+      {
+        "name": "others",
+        "percentage": 5.2
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -38500,8 +40573,59 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 93.5,
+        "population": 1483526
+      },
+      {
+        "name": "christianity",
+        "percentage": 4.1,
+        "population": 65053
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.5,
+        "population": 7933
+      },
+      {
+        "name": "others",
+        "percentage": 0.5,
+        "population": 7933
+      },
+      {
+        "name": "undeclared",
+        "percentage": 1.5,
+        "population": 23800
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "albanians",
+        "percentage": 91.8
+      },
+      {
+        "name": "serbs",
+        "percentage": 2.3
+      },
+      {
+        "name": "bosniaks",
+        "percentage": 1.7
+      },
+      {
+        "name": "turks",
+        "percentage": 1.2
+      },
+      {
+        "name": "ashkali",
+        "percentage": 1.0
+      },
+      {
+        "name": "others",
+        "percentage": 2.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -38803,7 +40927,24 @@
         "population": 358972
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arab",
+        "percentage": 57.8
+      },
+      {
+        "name": "south asian",
+        "percentage": 40.3
+      },
+      {
+        "name": "african",
+        "percentage": 1.0
+      },
+      {
+        "name": "others",
+        "percentage": 0.9
+      }
+    ],
     "government": {
       "type": "Unitary semi-constitutional monarchy",
       "leaders": [
@@ -39115,7 +41256,48 @@
         "population": 143164
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "lao",
+        "percentage": 53.2
+      },
+      {
+        "name": "khmu",
+        "percentage": 11.0
+      },
+      {
+        "name": "hmong",
+        "percentage": 9.2
+      },
+      {
+        "name": "phu thai",
+        "percentage": 3.4
+      },
+      {
+        "name": "tai",
+        "percentage": 3.1
+      },
+      {
+        "name": "makong",
+        "percentage": 2.5
+      },
+      {
+        "name": "katang",
+        "percentage": 2.2
+      },
+      {
+        "name": "lue",
+        "percentage": 2.0
+      },
+      {
+        "name": "akha",
+        "percentage": 1.8
+      },
+      {
+        "name": "others",
+        "percentage": 11.6
+      }
+    ],
     "government": {
       "type": "Unitary Communist state",
       "leaders": [
@@ -39438,7 +41620,20 @@
         "population": 4292
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arab",
+        "percentage": 95.0
+      },
+      {
+        "name": "armenian",
+        "percentage": 4.0
+      },
+      {
+        "name": "others",
+        "percentage": 1.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic under confessionalism",
       "leaders": [
@@ -39745,6 +41940,11 @@
         "name": "no religion",
         "percentage": 1.4,
         "population": 76121
+      },
+      {
+        "name": "other",
+        "percentage": 1.3,
+        "population": 70684
       }
     ],
     "ethnicity": [],
@@ -40057,14 +42257,32 @@
         "name": "christianity",
         "percentage": 2.7,
         "population": 198754
+      },
+      {
+        "name": "others",
+        "percentage": 0.7,
+        "population": 51529
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arabs",
+        "percentage": 92.0
+      },
+      {
+        "name": "berbers",
+        "percentage": 5.0
+      },
+      {
+        "name": "others",
+        "percentage": 3.0
+      }
+    ],
     "government": {
       "type": "Unitary state",
       "leaders": [
         {
-          "title": "List of heads of state of Libya",
+          "title": "President of Libya",
           "name": "Mohamed al-Menfi"
         },
         {
@@ -40359,9 +42577,36 @@
         "name": "rastafari",
         "percentage": 1.4,
         "population": 2577
+      },
+      {
+        "name": "other",
+        "percentage": 2.7,
+        "population": 4971
+      },
+      {
+        "name": "not stated",
+        "percentage": 4.1,
+        "population": 7548
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 85.3
+      },
+      {
+        "name": "mixed",
+        "percentage": 10.9
+      },
+      {
+        "name": "indian",
+        "percentage": 2.2
+      },
+      {
+        "name": "other/ unspecified",
+        "percentage": 1.6
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -40964,8 +43209,55 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 69.8,
+        "population": 16263400
+      },
+      {
+        "name": "hinduism",
+        "percentage": 12.6,
+        "population": 2935800
+      },
+      {
+        "name": "islam",
+        "percentage": 10.7,
+        "population": 2493100
+      },
+      {
+        "name": "christianity",
+        "percentage": 6.9,
+        "population": 1607700
+      },
+      {
+        "name": "other/none",
+        "percentage": 0.1,
+        "population": 23300
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "sinhalese",
+        "percentage": 74.1
+      },
+      {
+        "name": "sri lankan tamils",
+        "percentage": 12.3
+      },
+      {
+        "name": "sri lankan moors",
+        "percentage": 10.5
+      },
+      {
+        "name": "indian tamils",
+        "percentage": 2.8
+      },
+      {
+        "name": "others",
+        "percentage": 0.3
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -41287,9 +43579,23 @@
         "name": "no religion",
         "percentage": 1.0,
         "population": 22106
+      },
+      {
+        "name": "others",
+        "percentage": 0.3,
+        "population": 6632
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "basotho",
+        "percentage": 99.7
+      },
+      {
+        "name": "others",
+        "percentage": 0.3
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -41592,9 +43898,39 @@
         "name": "others",
         "percentage": 0.8,
         "population": 23179
+      },
+      {
+        "name": "no answer",
+        "percentage": 13.7,
+        "population": 396948
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "lithuanians",
+        "percentage": 82.3
+      },
+      {
+        "name": "poles",
+        "percentage": 6.2
+      },
+      {
+        "name": "russians",
+        "percentage": 5.0
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 2.2
+      },
+      {
+        "name": "belarusians",
+        "percentage": 2.1
+      },
+      {
+        "name": "others",
+        "percentage": 2.2
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -41616,7 +43952,7 @@
     },
     "nationalHoliday": null,
     "anthem": "Tauti\u0161ka giesm\u0117",
-    "hdi": 0.895
+    "hdi": 39.0
   },
   {
     "name": {
@@ -41915,6 +44251,11 @@
         "name": "no religion",
         "percentage": 38.0,
         "population": 262560
+      },
+      {
+        "name": "other",
+        "percentage": 9.0,
+        "population": 62185
       }
     ],
     "ethnicity": [],
@@ -42222,7 +44563,36 @@
         "population": 18422
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "latvians",
+        "percentage": 65.5
+      },
+      {
+        "name": "russians",
+        "percentage": 24.1
+      },
+      {
+        "name": "belarusians",
+        "percentage": 2.9
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 2.9
+      },
+      {
+        "name": "poles",
+        "percentage": 1.9
+      },
+      {
+        "name": "lithuanians",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 1.6
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -42476,7 +44846,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mo.png"
     },
-    "population": 682100,
+    "population": 712651,
     "maps": {
       "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
@@ -42501,8 +44871,41 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "chinese",
+        "percentage": 88.4
+      },
+      {
+        "name": "filipino",
+        "percentage": 4.6
+      },
+      {
+        "name": "vietnamese",
+        "percentage": 2.4
+      },
+      {
+        "name": "portuguese",
+        "percentage": 1.7
+      },
+      {
+        "name": "others",
+        "percentage": 2.8
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "Chief Executive of Macau",
+          "name": "Sam Hou Fai"
+        },
+        {
+          "title": "Secretariat for Administration and Justice (Macau)",
+          "name": "Cheong Weng Chon"
+        }
+      ]
+    },
     "density": 22736.67,
     "gdp": {
       "total": 21979475561,
@@ -42510,7 +44913,8 @@
       "currency": "USD"
     },
     "nationalHoliday": "National Day of the People's Republic of China",
-    "anthem": "March of the Volunteers"
+    "anthem": "March of the Volunteers",
+    "hdi": 0.934
   },
   {
     "name": {
@@ -42766,11 +45170,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Prefect (France)",
+          "name": "Cyrille Le V\u00e9ly"
+        }
+      ]
+    },
     "density": 594.26,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -43348,7 +45765,33 @@
       "377"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 86.0,
+        "population": 33044
+      },
+      {
+        "name": "no religion",
+        "percentage": 11.7,
+        "population": 4495
+      },
+      {
+        "name": "judaism",
+        "percentage": 1.7,
+        "population": 653
+      },
+      {
+        "name": "islam",
+        "percentage": 0.4,
+        "population": 154
+      },
+      {
+        "name": "other",
+        "percentage": 0.2,
+        "population": 77
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary semi-constitutional monarchy",
@@ -43651,9 +46094,43 @@
         "name": "no religion",
         "percentage": 1.5,
         "population": 35720
+      },
+      {
+        "name": "unanswered",
+        "percentage": 0.8,
+        "population": 19051
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "moldovans",
+        "percentage": 76.7
+      },
+      {
+        "name": "romanians",
+        "percentage": 8.0
+      },
+      {
+        "name": "ukrainians",
+        "percentage": 5.1
+      },
+      {
+        "name": "gagauz",
+        "percentage": 4.0
+      },
+      {
+        "name": "russians",
+        "percentage": 3.4
+      },
+      {
+        "name": "bulgarians",
+        "percentage": 1.6
+      },
+      {
+        "name": "others",
+        "percentage": 1.1
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -43981,7 +46458,40 @@
         "population": 95895
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "merina",
+        "percentage": 26.0
+      },
+      {
+        "name": "betsimisaraka",
+        "percentage": 15.0
+      },
+      {
+        "name": "betsileo",
+        "percentage": 12.0
+      },
+      {
+        "name": "tsimihety",
+        "percentage": 7.0
+      },
+      {
+        "name": "sakalava",
+        "percentage": 6.0
+      },
+      {
+        "name": "antaisaka",
+        "percentage": 5.0
+      },
+      {
+        "name": "antandroy",
+        "percentage": 5.0
+      },
+      {
+        "name": "others",
+        "percentage": 24.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic under a Council of the Presidency for the Re-Foundation of the Republic of Madagascar",
       "leaders": [
@@ -44581,6 +47091,11 @@
         "name": "other religion",
         "percentage": 2.4,
         "population": 3166726
+      },
+      {
+        "name": "prefer not to say",
+        "percentage": 0.5,
+        "population": 659734
       }
     ],
     "ethnicity": [],
@@ -44866,8 +47381,33 @@
       "692"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.2,
+        "population": 51108
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.1,
+        "population": 584
+      },
+      {
+        "name": "others",
+        "percentage": 2.7,
+        "population": 1434
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "marshallese",
+        "percentage": 95.6
+      },
+      {
+        "name": "others",
+        "percentage": 4.4
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic with an executive president",
       "leaders": [
@@ -45158,8 +47698,71 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 60.4,
+        "population": 1109375
+      },
+      {
+        "name": "islam",
+        "percentage": 32.2,
+        "population": 591422
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.1,
+        "population": 1837
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 1837
+      },
+      {
+        "name": "data taken from administrative sources",
+        "percentage": 7.2,
+        "population": 132243
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "macedonians",
+        "percentage": 58.4
+      },
+      {
+        "name": "albanians",
+        "percentage": 24.3
+      },
+      {
+        "name": "turks",
+        "percentage": 3.9
+      },
+      {
+        "name": "roma",
+        "percentage": 2.5
+      },
+      {
+        "name": "serbs",
+        "percentage": 1.3
+      },
+      {
+        "name": "bosniaks",
+        "percentage": 0.9
+      },
+      {
+        "name": "aromanians",
+        "percentage": 0.5
+      },
+      {
+        "name": "others",
+        "percentage": 1.0
+      },
+      {
+        "name": "persons for whom data are taken from administrative sources",
+        "percentage": 7.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -45461,68 +48064,59 @@
         "name": "other",
         "percentage": 5.0,
         "population": 1099530
-      },
+      }
+    ],
+    "ethnicity": [
       {
         "name": "bambara",
-        "percentage": 33.3,
-        "population": 7322872
+        "percentage": 33.3
       },
       {
         "name": "fula",
-        "percentage": 13.3,
-        "population": 2924751
+        "percentage": 13.3
       },
       {
         "name": "soninke",
-        "percentage": 9.6,
-        "population": 2111098
+        "percentage": 9.6
       },
       {
         "name": "senufo",
-        "percentage": 9.6,
-        "population": 2111098
+        "percentage": 9.6
       },
       {
         "name": "malinke",
-        "percentage": 8.8,
-        "population": 1935173
+        "percentage": 8.8
       },
       {
         "name": "dogon",
-        "percentage": 8.7,
-        "population": 1913183
+        "percentage": 8.7
       },
       {
         "name": "songhai",
-        "percentage": 5.9,
-        "population": 1297446
+        "percentage": 5.9
       },
       {
         "name": "tuareg",
-        "percentage": 3.5,
-        "population": 769671
+        "percentage": 3.5
       },
       {
         "name": "bobo",
-        "percentage": 2.1,
-        "population": 461803
+        "percentage": 2.1
       },
       {
-        "name": "other",
-        "percentage": 4.5,
-        "population": 989577
+        "name": "others",
+        "percentage": 4.5
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Unitary presidential republic under a military junta",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of Mali",
           "name": "Assimi Go\u00efta"
         },
         {
-          "title": "Prime Minister",
+          "title": "Prime Minister of Mali",
           "name": "Abdoulaye Ma\u00efga (officer)"
         }
       ]
@@ -45807,8 +48401,43 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 88.5,
+        "population": 489594
+      },
+      {
+        "name": "no religion",
+        "percentage": 5.1,
+        "population": 28214
+      },
+      {
+        "name": "islam",
+        "percentage": 3.9,
+        "population": 21575
+      },
+      {
+        "name": "hinduism",
+        "percentage": 1.4,
+        "population": 7745
+      },
+      {
+        "name": "other",
+        "percentage": 1.1,
+        "population": 6085
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "maltese",
+        "percentage": 77.7
+      },
+      {
+        "name": "other ethnic groups",
+        "percentage": 22.3
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -46125,17 +48754,50 @@
         "population": 278851
       },
       {
+        "name": "no religion",
+        "percentage": 0.1,
+        "population": 55770
+      },
+      {
         "name": "other",
         "percentage": 0.2,
         "population": 111540
-      },
-      {
-        "name": "outmigration of the rohingya population",
-        "percentage": 3.0,
-        "population": 1673107
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "bamar",
+        "percentage": 68.78
+      },
+      {
+        "name": "karen",
+        "percentage": 6.69
+      },
+      {
+        "name": "rakhine",
+        "percentage": 4.61
+      },
+      {
+        "name": "shan",
+        "percentage": 4.51
+      },
+      {
+        "name": "mon",
+        "percentage": 2.19
+      },
+      {
+        "name": "chin",
+        "percentage": 2.09
+      },
+      {
+        "name": "kachin",
+        "percentage": 1.5
+      },
+      {
+        "name": "karenni",
+        "percentage": 0.39
+      }
+    ],
     "government": {
       "type": "Unitary assembly-independent republic under a military junta",
       "leaders": [
@@ -46433,9 +49095,49 @@
         "name": "islam",
         "percentage": 19.9,
         "population": 124042
+      },
+      {
+        "name": "no religion",
+        "percentage": 2.7,
+        "population": 16830
+      },
+      {
+        "name": "other",
+        "percentage": 0.3,
+        "population": 1870
+      },
+      {
+        "name": "not stated",
+        "percentage": 2.2,
+        "population": 13713
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "montenegrins",
+        "percentage": 41.1
+      },
+      {
+        "name": "serbs",
+        "percentage": 32.9
+      },
+      {
+        "name": "bosniaks",
+        "percentage": 11.1
+      },
+      {
+        "name": "albanians",
+        "percentage": 5.0
+      },
+      {
+        "name": "russians",
+        "percentage": 2.1
+      },
+      {
+        "name": "others or undeclared",
+        "percentage": 5.8
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -46746,7 +49448,20 @@
         "population": 24533
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mongols",
+        "percentage": 95.6
+      },
+      {
+        "name": "kazakhs",
+        "percentage": 3.8
+      },
+      {
+        "name": "others",
+        "percentage": 0.6
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -47016,7 +49731,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 47329,
+    "population": 55650,
     "maps": {
       "googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
       "openStreetMaps": "https://www.openstreetmap.org/relation/306004"
@@ -47040,13 +49755,90 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 81.3,
+        "population": 45243
+      },
+      {
+        "name": "buddhism",
+        "percentage": 10.6,
+        "population": 5899
+      },
+      {
+        "name": "folk religion",
+        "percentage": 5.3,
+        "population": 2949
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.0,
+        "population": 556
+      },
+      {
+        "name": "islam",
+        "percentage": 0.7,
+        "population": 390
+      },
+      {
+        "name": "other",
+        "percentage": 1.1,
+        "population": 612
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "filipino",
+        "percentage": 35.3
+      },
+      {
+        "name": "chamorro",
+        "percentage": 23.9
+      },
+      {
+        "name": "chinese",
+        "percentage": 6.8
+      },
+      {
+        "name": "refaluwasch",
+        "percentage": 4.6
+      },
+      {
+        "name": "korean",
+        "percentage": 4.2
+      },
+      {
+        "name": "other pacific islander",
+        "percentage": 6.4
+      },
+      {
+        "name": "other asian",
+        "percentage": 3.78
+      },
+      {
+        "name": "others",
+        "percentage": 15.1
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump (Republican Party (United States)"
+        },
+        {
+          "title": "List of governors of the Northern Mariana Islands",
+          "name": "David M. Apatang (Independent politician"
+        }
+      ]
+    },
     "density": 102.0,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Gi Talo Gi Halom Tasi"
+    "anthem": "Gi Talo Gi Halom Tasi",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -47340,9 +50132,31 @@
         "name": "traditional faith",
         "percentage": 4.3,
         "population": 1499883
+      },
+      {
+        "name": "unknown",
+        "percentage": 1.2,
+        "population": 418572
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 99.0
+      },
+      {
+        "name": "mesti\u00e7o",
+        "percentage": 0.8
+      },
+      {
+        "name": "white",
+        "percentage": 0.1
+      },
+      {
+        "name": "others",
+        "percentage": 0.1
+      }
+    ],
     "government": {
       "type": "Unitary dominant-party Semi-presidential system",
       "leaders": [
@@ -47646,7 +50460,20 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "haratin",
+        "percentage": 40.0
+      },
+      {
+        "name": "beidane",
+        "percentage": 30.0
+      },
+      {
+        "name": "halpulaar",
+        "percentage": 30.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential Islamic republic",
       "leaders": [
@@ -47655,7 +50482,7 @@
           "name": "Mohamed Ould Ghazouani"
         },
         {
-          "title": "Prime Minister",
+          "title": "Prime Minister of Mauritania",
           "name": "Mokhtar Ould Djay"
         }
       ]
@@ -47892,7 +50719,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/ms.png"
     },
-    "population": 5440,
+    "population": 4390,
     "maps": {
       "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
@@ -47928,11 +50755,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Parliamentary Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor of Montserrat",
+          "name": "Harriet Cross (diplomat)"
+        }
+      ]
+    },
     "density": 53.33,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -48156,7 +50996,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/mq.png"
     },
-    "population": 360630,
+    "population": 349925,
     "maps": {
       "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
@@ -48182,11 +51022,20 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": [
+        {
+          "title": "President of Executive Council",
+          "name": "Serge Letchimy"
+        }
+      ]
+    },
     "density": 319.71,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "La Marseillaise"
+    "anthem": "La Marseillaise",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -48475,8 +51324,46 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "hinduism",
+        "percentage": 47.9,
+        "population": 605750
+      },
+      {
+        "name": "christianity",
+        "percentage": 32.3,
+        "population": 408470
+      },
+      {
+        "name": "islam",
+        "percentage": 18.2,
+        "population": 230160
+      },
+      {
+        "name": "others",
+        "percentage": 1.6,
+        "population": 20234
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "indian",
+        "percentage": 67.0
+      },
+      {
+        "name": "creole",
+        "percentage": 28.0
+      },
+      {
+        "name": "chinese",
+        "percentage": 3.0
+      },
+      {
+        "name": "french",
+        "percentage": 2.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -48799,9 +51686,63 @@
         "name": "traditional faiths",
         "percentage": 1.2,
         "population": 254888
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 127444
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "chewa",
+        "percentage": 25.2
+      },
+      {
+        "name": "tumbuka",
+        "percentage": 20.4
+      },
+      {
+        "name": "lomwe",
+        "percentage": 16.4
+      },
+      {
+        "name": "yao",
+        "percentage": 15.3
+      },
+      {
+        "name": "ngoni",
+        "percentage": 6.4
+      },
+      {
+        "name": "sena",
+        "percentage": 5.9
+      },
+      {
+        "name": "mang'anja",
+        "percentage": 3.8
+      },
+      {
+        "name": "tonga",
+        "percentage": 1.8
+      },
+      {
+        "name": "ngonde",
+        "percentage": 1.5
+      },
+      {
+        "name": "lambya",
+        "percentage": 0.6
+      },
+      {
+        "name": "sukwa",
+        "percentage": 0.5
+      },
+      {
+        "name": "others",
+        "percentage": 1.1
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -49099,6 +52040,16 @@
     ],
     "religion": [
       {
+        "name": "islam",
+        "percentage": 63.5,
+        "population": 21948654
+      },
+      {
+        "name": "buddhism",
+        "percentage": 18.7,
+        "population": 6463619
+      },
+      {
         "name": "christianity",
         "percentage": 9.1,
         "population": 3145398
@@ -49107,9 +52058,32 @@
         "name": "hinduism",
         "percentage": 6.1,
         "population": 2108453
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 311083
+      },
+      {
+        "name": "unknown",
+        "percentage": 1.8,
+        "population": 622167
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "bumiputera",
+        "percentage": 70.5
+      },
+      {
+        "name": "chinese",
+        "percentage": 22.9
+      },
+      {
+        "name": "indian",
+        "percentage": 6.6
+      }
+    ],
     "government": {
       "type": "Federal monarchy",
       "leaders": [
@@ -49357,7 +52331,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 320901,
+    "population": 320,
     "maps": {
       "googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1259885"
@@ -49395,11 +52369,15 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": []
+    },
     "density": 858.02,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -49764,8 +52742,41 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.9,
+        "population": 2227205
+      },
+      {
+        "name": "other",
+        "percentage": 10.5,
+        "population": 266048
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.6,
+        "population": 40541
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "indigenous african",
+        "percentage": 93.2
+      },
+      {
+        "name": "coloured",
+        "percentage": 3.6
+      },
+      {
+        "name": "white",
+        "percentage": 1.8
+      },
+      {
+        "name": "asian",
+        "percentage": 1.4
+      }
+    ],
     "government": {
       "type": "Unitary Semi-presidential system",
       "leaders": [
@@ -50037,7 +53048,19 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "High Commissioner of the Republic in New Caledonia",
+          "name": "Jacques Billant"
+        }
+      ]
+    },
     "density": 14.99,
     "gdp": {
       "total": 10071349707,
@@ -50045,7 +53068,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Soyons unis, devenons fr\u00e8res"
+    "anthem": "Soyons unis, devenons fr\u00e8res",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -50339,54 +53363,46 @@
         "name": "irreligion",
         "percentage": 0.1,
         "population": 26343
-      },
+      }
+    ],
+    "ethnicity": [
       {
         "name": "hausa",
-        "percentage": 53.1,
-        "population": 13988018
+        "percentage": 53.1
       },
       {
         "name": "zarma",
-        "percentage": 21.2,
-        "population": 5584670
+        "percentage": 21.2
       },
       {
         "name": "tuareg",
-        "percentage": 11.0,
-        "population": 2897706
+        "percentage": 11.0
       },
       {
         "name": "fulani",
-        "percentage": 6.5,
-        "population": 1712281
+        "percentage": 6.5
       },
       {
         "name": "kanuri",
-        "percentage": 5.9,
-        "population": 1554224
+        "percentage": 5.9
       },
       {
         "name": "gurma",
-        "percentage": 0.8,
-        "population": 210742
+        "percentage": 0.8
       },
       {
         "name": "toubou",
-        "percentage": 0.4,
-        "population": 105371
+        "percentage": 0.4
       },
       {
         "name": "arab",
-        "percentage": 0.4,
-        "population": 105371
+        "percentage": 0.4
       },
       {
         "name": "others",
-        "percentage": 0.9,
-        "population": 237085
+        "percentage": 0.9
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Unitary semi-presidential republic under a military junta",
       "leaders": [
@@ -50669,13 +53685,47 @@
       "672"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 56.0,
+        "population": 1225
+      },
+      {
+        "name": "irreligion",
+        "percentage": 35.7,
+        "population": 781
+      },
+      {
+        "name": "hinduism",
+        "percentage": 0.2,
+        "population": 4
+      },
+      {
+        "name": "buddhism",
+        "percentage": 0.1,
+        "population": 2
+      }
+    ],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Direct rule",
+      "leaders": [
+        {
+          "title": "Monarchy of Australia",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor-General of Australia",
+          "name": "Sam Mostyn"
+        }
+      ]
+    },
     "density": 60.78,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -50965,7 +54015,44 @@
         "population": 1420483
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "hausa",
+        "percentage": 30.0
+      },
+      {
+        "name": "yoruba",
+        "percentage": 15.5
+      },
+      {
+        "name": "igbo",
+        "percentage": 15.2
+      },
+      {
+        "name": "fulani",
+        "percentage": 6.0
+      },
+      {
+        "name": "tiv",
+        "percentage": 2.4
+      },
+      {
+        "name": "kanuri",
+        "percentage": 2.4
+      },
+      {
+        "name": "ibibio",
+        "percentage": 1.8
+      },
+      {
+        "name": "ijaw",
+        "percentage": 1.8
+      },
+      {
+        "name": "others",
+        "percentage": 24.7
+      }
+    ],
     "government": {
       "type": "Federal presidential republic",
       "leaders": [
@@ -51263,9 +54350,31 @@
         "name": "no religion",
         "percentage": 14.7,
         "population": 981511
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 60093
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 69.0
+      },
+      {
+        "name": "white",
+        "percentage": 17.0
+      },
+      {
+        "name": "black",
+        "percentage": 9.0
+      },
+      {
+        "name": "indigenous",
+        "percentage": 5.0
+      }
+    ],
     "government": {
       "type": "Unitary diarchy",
       "leaders": [
@@ -51550,12 +54659,25 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "niuean",
+        "percentage": 68.4
+      },
+      {
+        "name": "part-niuean",
+        "percentage": 5.3
+      },
+      {
+        "name": "others",
+        "percentage": 29.3
+      }
+    ],
     "government": {
       "type": "Unitary non-partisan democracy",
       "leaders": [
         {
-          "title": "Monarchs",
+          "title": "Monarch",
           "name": "Charles III"
         },
         {
@@ -51833,14 +54955,72 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "no religion",
+        "percentage": 56.0,
+        "population": 9576400
+      },
+      {
+        "name": "christianity",
+        "percentage": 31.0,
+        "population": 5301222
+      },
+      {
+        "name": "islam",
+        "percentage": 6.0,
+        "population": 1026043
+      },
+      {
+        "name": "other",
+        "percentage": 7.0,
+        "population": 1197050
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "dutch",
+        "percentage": 72.0
+      },
+      {
+        "name": "other european",
+        "percentage": 9.2
+      },
+      {
+        "name": "turkish",
+        "percentage": 2.5
+      },
+      {
+        "name": "moroccan",
+        "percentage": 2.3
+      },
+      {
+        "name": "indonesian",
+        "percentage": 2.0
+      },
+      {
+        "name": "surinamese",
+        "percentage": 2.0
+      },
+      {
+        "name": "dutch caribbean",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 8.9
+      }
+    ],
     "government": {
-      "type": "constitutional monarchy",
+      "type": "Unitary Parliamentary system",
       "leaders": [
         {
-          "title": null,
-          "name": null
+          "title": "Monarchy of the Netherlands",
+          "name": "Willem-Alexander of the Netherlands"
+        },
+        {
+          "title": "Prime Minister of the Netherlands",
+          "name": "Rob Jetten"
         }
       ]
     },
@@ -51851,7 +55031,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "Wilhelmus"
+    "anthem": "Wilhelmus",
+    "hdi": 8.0
   },
   {
     "name": {
@@ -52163,7 +55344,16 @@
         "population": 44808
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "norwegian",
+        "percentage": 78.6
+      },
+      {
+        "name": "non-norwegian",
+        "percentage": 21.4
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -52449,8 +55639,60 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "hinduism",
+        "percentage": 81.0,
+        "population": 25209133
+      },
+      {
+        "name": "buddhism",
+        "percentage": 8.0,
+        "population": 2489791
+      },
+      {
+        "name": "islam",
+        "percentage": 5.0,
+        "population": 1556119
+      },
+      {
+        "name": "kirat",
+        "percentage": 3.0,
+        "population": 933672
+      },
+      {
+        "name": "christianity",
+        "percentage": 2.0,
+        "population": 622448
+      },
+      {
+        "name": "other",
+        "percentage": 1.0,
+        "population": 311224
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "janajati",
+        "percentage": 35.0
+      },
+      {
+        "name": "khas",
+        "percentage": 30.0
+      },
+      {
+        "name": "madheshi",
+        "percentage": 16.0
+      },
+      {
+        "name": "dalit",
+        "percentage": 14.0
+      },
+      {
+        "name": "musalman",
+        "percentage": 5.0
+      }
+    ],
     "government": {
       "type": "Federal parliamentary republic under an Karki interim cabinet",
       "leaders": [
@@ -53038,8 +56280,59 @@
       "64"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "no religion",
+        "percentage": 51.6,
+        "population": 2738825
+      },
+      {
+        "name": "christianity",
+        "percentage": 32.3,
+        "population": 1714419
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.9,
+        "population": 153926
+      },
+      {
+        "name": "other",
+        "percentage": 6.3,
+        "population": 334391
+      },
+      {
+        "name": "undeclared",
+        "percentage": 6.9,
+        "population": 366238
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "european",
+        "percentage": 67.8
+      },
+      {
+        "name": "m\u0101ori",
+        "percentage": 19.6
+      },
+      {
+        "name": "asian",
+        "percentage": 17.3
+      },
+      {
+        "name": "pacific peoples",
+        "percentage": 8.9
+      },
+      {
+        "name": "me",
+        "percentage": 1.9
+      },
+      {
+        "name": "others",
+        "percentage": 1.1
+      }
+    ],
     "government": {
       "type": "Unitary Westminster parliamentary system",
       "leaders": [
@@ -53340,6 +56633,11 @@
         "name": "christianity",
         "percentage": 1.67,
         "population": 91761
+      },
+      {
+        "name": "others",
+        "percentage": 1.66,
+        "population": 91212
       }
     ],
     "ethnicity": [],
@@ -53642,7 +56940,28 @@
         "otherNames": []
       }
     ],
-    "religion": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 96.3,
+        "population": 215494073
+      },
+      {
+        "name": "hinduism",
+        "percentage": 2.2,
+        "population": 4923021
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.4,
+        "population": 3132832
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 223774
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Federal republic",
@@ -53946,9 +57265,35 @@
         "name": "no religion",
         "percentage": 7.6,
         "population": 329670
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 39040
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 65.0
+      },
+      {
+        "name": "indigenous",
+        "percentage": 12.3
+      },
+      {
+        "name": "black",
+        "percentage": 9.2
+      },
+      {
+        "name": "mulatto",
+        "percentage": 6.8
+      },
+      {
+        "name": "white",
+        "percentage": 6.7
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -54196,7 +57541,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 50,
+    "population": 35,
     "maps": {
       "googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
@@ -54222,11 +57567,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Governor of the Pitcairn Islands",
+          "name": "Iona Thomas"
+        }
+      ]
+    },
     "density": 1.06,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Come Ye Blessed"
+    "anthem": "Come Ye Blessed",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -54537,9 +57895,43 @@
         "name": "no religion",
         "percentage": 5.1,
         "population": 1751989
+      },
+      {
+        "name": "other",
+        "percentage": 0.4,
+        "population": 137411
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 60.2
+      },
+      {
+        "name": "native",
+        "percentage": 25.75
+      },
+      {
+        "name": "white",
+        "percentage": 5.89
+      },
+      {
+        "name": "black",
+        "percentage": 3.57
+      },
+      {
+        "name": "east asian",
+        "percentage": 0.16
+      },
+      {
+        "name": "others",
+        "percentage": 1.1
+      },
+      {
+        "name": "no answer",
+        "percentage": 3.32
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -54833,8 +58225,53 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 85.3,
+        "population": 96158250
+      },
+      {
+        "name": "islam",
+        "percentage": 6.4,
+        "population": 7214687
+      },
+      {
+        "name": "other",
+        "percentage": 8.2,
+        "population": 9243818
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "tagalog",
+        "percentage": 26.0
+      },
+      {
+        "name": "bisaya",
+        "percentage": 14.3
+      },
+      {
+        "name": "ilocano",
+        "percentage": 8.0
+      },
+      {
+        "name": "cebuano",
+        "percentage": 8.0
+      },
+      {
+        "name": "ilonggo",
+        "percentage": 7.9
+      },
+      {
+        "name": "bicolano",
+        "percentage": 6.5
+      },
+      {
+        "name": "others",
+        "percentage": 20.3
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -55137,9 +58574,35 @@
         "name": "islam",
         "percentage": 4.9,
         "population": 865
+      },
+      {
+        "name": "other",
+        "percentage": 1.2,
+        "population": 212
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "palauan",
+        "percentage": 65.2
+      },
+      {
+        "name": "asian",
+        "percentage": 31.6
+      },
+      {
+        "name": "carolinian",
+        "percentage": 1.2
+      },
+      {
+        "name": "european",
+        "percentage": 1.0
+      },
+      {
+        "name": "others",
+        "percentage": 0.9
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic under a non-partisan democracy",
       "leaders": [
@@ -55447,6 +58910,11 @@
         "population": 11251389
       },
       {
+        "name": "unspecified",
+        "percentage": 3.1,
+        "population": 365228
+      },
+      {
         "name": "other",
         "percentage": 1.4,
         "population": 164942
@@ -55743,8 +59211,38 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 72.4,
+        "population": 27195663
+      },
+      {
+        "name": "no religion",
+        "percentage": 6.9,
+        "population": 2591852
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 37563
+      },
+      {
+        "name": "unanswered",
+        "percentage": 20.6,
+        "population": 7737993
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "polish",
+        "percentage": 98.8
+      },
+      {
+        "name": "non-polish",
+        "percentage": 1.1
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -56029,8 +59527,57 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "mixed",
+        "percentage": 49.78
+      },
+      {
+        "name": "white",
+        "percentage": 17.06
+      },
+      {
+        "name": "black",
+        "percentage": 6.96
+      },
+      {
+        "name": "native",
+        "percentage": 0.54
+      },
+      {
+        "name": "asian",
+        "percentage": 0.12
+      },
+      {
+        "name": "pacific islander",
+        "percentage": 0.02
+      },
+      {
+        "name": "others",
+        "percentage": 25.51
+      },
+      {
+        "name": "hispanic or latino",
+        "percentage": 98.9
+      },
+      {
+        "name": "non-hispanic or latino",
+        "percentage": 1.1
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump (Republican Party (United States)"
+        },
+        {
+          "title": "Governor of Puerto Rico",
+          "name": "Jenniffer Gonz\u00e1lez-Col\u00f3n (New Progressive Party (Puerto Rico)"
+        }
+      ]
+    },
     "density": 370.45,
     "gdp": {
       "total": 217800000,
@@ -56038,7 +59585,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "La Borinque\u00f1a"
+    "anthem": "La Borinque\u00f1a",
+    "hdi": 47.0
   },
   {
     "name": {
@@ -56302,6 +59850,11 @@
         "name": "no religion",
         "percentage": 73.0,
         "population": 19198026
+      },
+      {
+        "name": "atheist state",
+        "percentage": 58.0,
+        "population": 15253226
       },
       {
         "name": "chondoism",
@@ -57276,7 +60829,16 @@
         "population": 288978
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "palestinian arabs",
+        "percentage": 91.2
+      },
+      {
+        "name": "israeli jews",
+        "percentage": 8.8
+      }
+    ],
     "government": {
       "type": "Unitary provisional semi-presidential republic",
       "leaders": [
@@ -57552,12 +61114,38 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "polynesians",
+        "percentage": 66.5
+      },
+      {
+        "name": "europeans",
+        "percentage": 7.1
+      },
+      {
+        "name": "east asians",
+        "percentage": 4.7
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "List of colonial and departmental heads of French Polynesia",
+          "name": "Alexandre Rochatte"
+        }
+      ]
+    },
     "density": 67.07,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -57847,9 +61435,22 @@
         "population": 60287
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arab",
+        "percentage": 49.0
+      },
+      {
+        "name": "south asia",
+        "percentage": 43.0
+      },
+      {
+        "name": "others",
+        "percentage": 7.0
+      }
+    ],
     "government": {
-      "type": "Unitary semi-constitutional monarchy",
+      "type": "Unitary state",
       "leaders": [
         {
           "title": "Emir of Qatar",
@@ -58094,7 +61695,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 889679,
+    "population": 910985,
     "maps": {
       "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
@@ -58132,11 +61733,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": [
+        {
+          "title": "President of Regional Council",
+          "name": "Huguette Bello"
+        },
+        {
+          "title": "President of departmental councils",
+          "name": "Cyrille Melchior"
+        }
+      ]
+    },
     "density": 354.31,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -58419,9 +62033,31 @@
         "name": "other",
         "percentage": 0.4,
         "population": 76173
+      },
+      {
+        "name": "unanswered",
+        "percentage": 13.9,
+        "population": 2646998
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "romanians",
+        "percentage": 89.3
+      },
+      {
+        "name": "hungarians",
+        "percentage": 6.0
+      },
+      {
+        "name": "roma",
+        "percentage": 3.4
+      },
+      {
+        "name": "others",
+        "percentage": 1.2
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -58735,7 +62371,32 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "russian",
+        "percentage": 71.7
+      },
+      {
+        "name": "tatar",
+        "percentage": 3.2
+      },
+      {
+        "name": "bashkir",
+        "percentage": 1.1
+      },
+      {
+        "name": "chechen",
+        "percentage": 1.1
+      },
+      {
+        "name": "others",
+        "percentage": 11.3
+      },
+      {
+        "name": "not reported",
+        "percentage": 11.6
+      }
+    ],
     "government": {
       "type": "Federal semi-presidential republic",
       "leaders": [
@@ -59067,9 +62728,19 @@
         "name": "islam",
         "percentage": 2.2,
         "population": 310309
+      },
+      {
+        "name": "other",
+        "percentage": 1.0,
+        "population": 141050
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "banyarwanda",
+        "percentage": 100.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic under an authoritarianism",
       "leaders": [
@@ -59681,39 +63352,9 @@
     ],
     "religion": [
       {
-        "name": "sudanese arab",
-        "percentage": 70.0,
-        "population": 36237206
-      },
-      {
-        "name": "beja",
-        "percentage": 5.9,
-        "population": 3054279
-      },
-      {
-        "name": "nuba",
-        "percentage": 2.5,
-        "population": 1294186
-      },
-      {
-        "name": "fur",
-        "percentage": 2.0,
-        "population": 1035349
-      },
-      {
-        "name": "egyptian",
-        "percentage": 2.0,
-        "population": 1035349
-      },
-      {
-        "name": "nubian",
-        "percentage": 1.3,
-        "population": 672977
-      },
-      {
-        "name": "others",
-        "percentage": 16.3,
-        "population": 8438092
+        "name": "sunni islam",
+        "percentage": 97.0,
+        "population": 50214414
       },
       {
         "name": "christianity",
@@ -59721,12 +63362,41 @@
         "population": 1553023
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "sudanese arab",
+        "percentage": 70.0
+      },
+      {
+        "name": "beja",
+        "percentage": 5.9
+      },
+      {
+        "name": "nuba",
+        "percentage": 2.5
+      },
+      {
+        "name": "fur",
+        "percentage": 2.0
+      },
+      {
+        "name": "egyptian",
+        "percentage": 2.0
+      },
+      {
+        "name": "nubian",
+        "percentage": 1.3
+      },
+      {
+        "name": "others",
+        "percentage": 16.3
+      }
+    ],
     "government": {
       "type": "Federal republic under a military junta",
       "leaders": [
         {
-          "title": "President of the Transitional Sovereignty Council",
+          "title": "President of Sudan",
           "name": "Abdel Fattah al-Burhan"
         },
         {
@@ -60021,17 +63691,48 @@
         "name": "islam",
         "percentage": 97.2,
         "population": 18319788
-      },{
+      },
+      {
         "name": "christianity",
         "percentage": 2.7,
         "population": 508883
-      },{
+      },
+      {
         "name": "other",
-        "percentage": 1,
-        "population": 188475
+        "percentage": 0.1,
+        "population": 18848
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "wolof",
+        "percentage": 39.7
+      },
+      {
+        "name": "fula",
+        "percentage": 27.5
+      },
+      {
+        "name": "serer",
+        "percentage": 16.0
+      },
+      {
+        "name": "mandinka",
+        "percentage": 4.9
+      },
+      {
+        "name": "jola",
+        "percentage": 4.2
+      },
+      {
+        "name": "soninke",
+        "percentage": 2.4
+      },
+      {
+        "name": "others",
+        "percentage": 5.4
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -60340,8 +64041,61 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "buddhism",
+        "percentage": 31.1,
+        "population": 1900272
+      },
+      {
+        "name": "no religion",
+        "percentage": 20.0,
+        "population": 1222040
+      },
+      {
+        "name": "christianity",
+        "percentage": 18.9,
+        "population": 1154828
+      },
+      {
+        "name": "islam",
+        "percentage": 15.6,
+        "population": 953191
+      },
+      {
+        "name": "taoism",
+        "percentage": 8.8,
+        "population": 537698
+      },
+      {
+        "name": "hinduism",
+        "percentage": 5.0,
+        "population": 305510
+      },
+      {
+        "name": "other",
+        "percentage": 0.6,
+        "population": 36661
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "chinese",
+        "percentage": 74.3
+      },
+      {
+        "name": "malay",
+        "percentage": 13.5
+      },
+      {
+        "name": "indian",
+        "percentage": 9.0
+      },
+      {
+        "name": "others",
+        "percentage": 3.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -60588,7 +64342,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 35,
+    "population": 22,
     "maps": {
       "googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
@@ -60625,11 +64379,24 @@
     ],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Direct rule",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Charles III"
+        },
+        {
+          "title": "Commissioner for South Georgia and the South Sandwich Islands",
+          "name": "Colin Martin-Reynolds"
+        }
+      ]
+    },
     "density": 0.01,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -60880,11 +64647,15 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "",
+      "leaders": []
+    },
     "density": 0.04,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -61154,7 +64925,24 @@
         "population": 11604
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "melanesian",
+        "percentage": 95.3
+      },
+      {
+        "name": "polynesian",
+        "percentage": 3.1
+      },
+      {
+        "name": "micronesian",
+        "percentage": 1.2
+      },
+      {
+        "name": "others",
+        "percentage": 0.4
+      }
+    ],
     "government": {
       "type": "Unitary Westminster system",
       "leaders": [
@@ -61447,61 +65235,6 @@
     ],
     "religion": [
       {
-        "name": "temne",
-        "percentage": 35.5,
-        "population": 3003482
-      },
-      {
-        "name": "mende",
-        "percentage": 33.2,
-        "population": 2808890
-      },
-      {
-        "name": "limba",
-        "percentage": 6.4,
-        "population": 541473
-      },
-      {
-        "name": "kono",
-        "percentage": 4.4,
-        "population": 372263
-      },
-      {
-        "name": "fula",
-        "percentage": 3.4,
-        "population": 287657
-      },
-      {
-        "name": "susu",
-        "percentage": 2.9,
-        "population": 245355
-      },
-      {
-        "name": "loko",
-        "percentage": 2.9,
-        "population": 245355
-      },
-      {
-        "name": "koranko",
-        "percentage": 2.8,
-        "population": 236894
-      },
-      {
-        "name": "sherbro",
-        "percentage": 2.6,
-        "population": 219973
-      },
-      {
-        "name": "mandingo",
-        "percentage": 2.4,
-        "population": 203052
-      },
-      {
-        "name": "krio",
-        "percentage": 1.3,
-        "population": 109987
-      },
-      {
         "name": "islam",
         "percentage": 78.0,
         "population": 6599199
@@ -61510,9 +65243,59 @@
         "name": "christianity",
         "percentage": 21.0,
         "population": 1776708
+      },
+      {
+        "name": "other",
+        "percentage": 1.0,
+        "population": 84605
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "temne",
+        "percentage": 35.5
+      },
+      {
+        "name": "mende",
+        "percentage": 33.2
+      },
+      {
+        "name": "limba",
+        "percentage": 6.4
+      },
+      {
+        "name": "kono",
+        "percentage": 4.4
+      },
+      {
+        "name": "fula",
+        "percentage": 3.4
+      },
+      {
+        "name": "susu",
+        "percentage": 2.9
+      },
+      {
+        "name": "loko",
+        "percentage": 2.9
+      },
+      {
+        "name": "koranko",
+        "percentage": 2.8
+      },
+      {
+        "name": "sherbro",
+        "percentage": 2.6
+      },
+      {
+        "name": "mandingo",
+        "percentage": 2.4
+      },
+      {
+        "name": "krio",
+        "percentage": 1.3
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -61800,8 +65583,45 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 81.5,
+        "population": 4914430
+      },
+      {
+        "name": "no religion",
+        "percentage": 17.0,
+        "population": 1025096
+      },
+      {
+        "name": "other",
+        "percentage": 1.5,
+        "population": 90450
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "mestizo",
+        "percentage": 86.3
+      },
+      {
+        "name": "white",
+        "percentage": 12.7
+      },
+      {
+        "name": "indigenous",
+        "percentage": 0.2
+      },
+      {
+        "name": "black",
+        "percentage": 0.1
+      },
+      {
+        "name": "others",
+        "percentage": 0.6
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -62075,7 +65895,38 @@
       "378"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "catholicism",
+        "percentage": 90.3,
+        "population": 30821
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.5,
+        "population": 2560
+      },
+      {
+        "name": "christian denominations",
+        "percentage": 1.1,
+        "population": 375
+      },
+      {
+        "name": "judaism",
+        "percentage": 0.1,
+        "population": 34
+      },
+      {
+        "name": "islam",
+        "percentage": 0.46,
+        "population": 157
+      },
+      {
+        "name": "other",
+        "percentage": 0.34,
+        "population": 116
+      }
+    ],
     "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary diarchic Directorial system",
@@ -62394,19 +66245,17 @@
         ]
       }
     ],
-    "religion": [
+    "religion": [],
+    "ethnicity": [
       {
         "name": "somali",
-        "percentage": 85.0,
-        "population": 16388722
+        "percentage": 85.0
       },
       {
-        "name": "other",
-        "percentage": 15.0,
-        "population": 2892128
+        "name": "others",
+        "percentage": 15.0
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Federal parliamentary republic",
       "leaders": [
@@ -62679,11 +66528,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Prefect of Saint Pierre and Miquelon",
+          "name": "Bruno Andr\u00e9"
+        }
+      ]
+    },
     "density": 24.05,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -62971,9 +66833,39 @@
         "name": "no religion",
         "percentage": 1.1,
         "population": 72246
+      },
+      {
+        "name": "undeclared/unknown",
+        "percentage": 7.9,
+        "population": 518855
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "serbs",
+        "percentage": 80.6
+      },
+      {
+        "name": "hungarians",
+        "percentage": 2.8
+      },
+      {
+        "name": "bosniaks",
+        "percentage": 2.3
+      },
+      {
+        "name": "roma",
+        "percentage": 2.0
+      },
+      {
+        "name": "others",
+        "percentage": 5.4
+      },
+      {
+        "name": "undeclared/unknown",
+        "percentage": 6.9
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -63590,6 +67482,11 @@
         "name": "folk religion",
         "percentage": 3.1,
         "population": 6832
+      },
+      {
+        "name": "others",
+        "percentage": 2.4,
+        "population": 5289
       }
     ],
     "ethnicity": [],
@@ -63932,12 +67829,43 @@
         "population": 47574
       },
       {
+        "name": "not stated",
+        "percentage": 2.04,
+        "population": 12906
+      },
+      {
+        "name": "don't know",
+        "percentage": 1.11,
+        "population": 7022
+      },
+      {
         "name": "others",
         "percentage": 0.85,
         "population": 5377
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "asian surinamese",
+        "percentage": 42.6
+      },
+      {
+        "name": "afro-surinamese",
+        "percentage": 37.4
+      },
+      {
+        "name": "multiracial",
+        "percentage": 13.4
+      },
+      {
+        "name": "indigenous",
+        "percentage": 3.8
+      },
+      {
+        "name": "european",
+        "percentage": 0.3
+      }
+    ],
     "government": {
       "type": "Unitary assembly-independent republic",
       "leaders": [
@@ -64236,9 +68164,36 @@
         "name": "no religion",
         "percentage": 23.8,
         "population": 1288487
+      },
+      {
+        "name": "other",
+        "percentage": 0.9,
+        "population": 48724
+      },
+      {
+        "name": "unspecified",
+        "percentage": 6.5,
+        "population": 351898
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "slovaks",
+        "percentage": 88.6
+      },
+      {
+        "name": "hungarians",
+        "percentage": 8.2
+      },
+      {
+        "name": "romani",
+        "percentage": 1.3
+      },
+      {
+        "name": "others",
+        "percentage": 1.9
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -65157,6 +69112,25 @@
         "name": "traditional faiths",
         "percentage": 2.5,
         "population": 30903
+      },
+      {
+        "name": "others",
+        "percentage": 0.8,
+        "population": 9889
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "swazi",
+        "percentage": 84.0
+      },
+      {
+        "name": "zulu",
+        "percentage": 10.0
+      },
+      {
+        "name": "others",
+        "percentage": 6.0
       }
     ],
     "ethnicity": [],
@@ -65434,7 +69408,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 43847,
+    "population": 58477,
     "maps": {
       "googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
       "openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
@@ -65458,9 +69432,47 @@
       "1"
     ],
     "regionalBlocs": [],
-    "religion": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 82.18,
+        "population": 48056
+      },
+      {
+        "name": "no religion",
+        "percentage": 7.9,
+        "population": 4620
+      },
+      {
+        "name": "hinduism",
+        "percentage": 5.2,
+        "population": 3041
+      },
+      {
+        "name": "not stated",
+        "percentage": 2.37,
+        "population": 1386
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 468
+      }
+    ],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Parliamentary representative democracy within a constitutional monarchy",
+      "leaders": [
+        {
+          "title": "Monarchy of the Netherlands",
+          "name": "Willem-Alexander of the Netherlands"
+        },
+        {
+          "title": "Governor of Sint Maarten",
+          "name": "Ajamu Baly"
+        }
+      ]
+    },
     "density": 1289.62,
     "gdp": {
       "total": 1571564246,
@@ -65468,7 +69480,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "O Sweet Saint Martin's Land"
+    "anthem": "O Sweet Saint Martin's Land",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -65773,9 +69786,28 @@
         "name": "islam",
         "percentage": 2.4,
         "population": 2913
+      },
+      {
+        "name": "others",
+        "percentage": 5.1,
+        "population": 6189
+      },
+      {
+        "name": "unanswered",
+        "percentage": 12.2,
+        "population": 14805
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "seychellois creoles",
+        "percentage": 97.0
+      },
+      {
+        "name": "others",
+        "percentage": 3.0
+      }
+    ],
     "government": {
       "type": "Unitary presidential system",
       "leaders": [
@@ -66086,7 +70118,20 @@
         "population": 517792
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arabs",
+        "percentage": 90.0
+      },
+      {
+        "name": "kurds",
+        "percentage": 10.0
+      },
+      {
+        "name": "others",
+        "percentage": 10.0
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic under a Syrian transitional government",
       "leaders": [
@@ -66324,7 +70369,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 44542,
+    "population": 49309,
     "maps": {
       "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
@@ -66349,8 +70394,33 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "afro-caribbean",
+        "percentage": 88.0
+      },
+      {
+        "name": "euro-caribbean",
+        "percentage": 8.0
+      },
+      {
+        "name": "mixed",
+        "percentage": 4.0
+      }
+    ],
+    "government": {
+      "type": "Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of the Turks and Caicos Islands",
+          "name": "Dileeni Daniel-Selvaratnam"
+        }
+      ]
+    },
     "density": 46.99,
     "gdp": {
       "total": 1044778790,
@@ -66358,7 +70428,8 @@
       "currency": "USD"
     },
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -66665,6 +70736,11 @@
         "name": "animism",
         "percentage": 1.3,
         "population": 248217
+      },
+      {
+        "name": "others",
+        "percentage": 0.1,
+        "population": 19094
       }
     ],
     "ethnicity": [],
@@ -66672,11 +70748,11 @@
       "type": "Unitary Semi-presidential system",
       "leaders": [
         {
-          "title": "President",
+          "title": "President of Chad",
           "name": "Mahamat D\u00e9by"
         },
         {
-          "title": "Prime Ministers",
+          "title": "Prime Minister of Chad",
           "name": "Allamaye Halina"
         }
       ]
@@ -66988,7 +71064,36 @@
         "population": 28750
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "african",
+        "percentage": 94.4
+      },
+      {
+        "name": "mina",
+        "percentage": 42.4
+      },
+      {
+        "name": "tem",
+        "percentage": 25.9
+      },
+      {
+        "name": "gurma",
+        "percentage": 17.1
+      },
+      {
+        "name": "akebu",
+        "percentage": 4.1
+      },
+      {
+        "name": "ana-ife",
+        "percentage": 3.2
+      },
+      {
+        "name": "non-african",
+        "percentage": 5.6
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -67302,7 +71407,24 @@
         "population": 19793
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "thai",
+        "percentage": 80.0
+      },
+      {
+        "name": "thai chinese",
+        "percentage": 12.0
+      },
+      {
+        "name": "northern khmer",
+        "percentage": 4.0
+      },
+      {
+        "name": "thai malays",
+        "percentage": 4.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -67597,8 +71719,50 @@
       "992"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 97.5,
+        "population": 10517066
+      },
+      {
+        "name": "christianity",
+        "percentage": 0.7,
+        "population": 75507
+      },
+      {
+        "name": "irreligion",
+        "percentage": 1.7,
+        "population": 183374
+      },
+      {
+        "name": "others",
+        "percentage": 0.2,
+        "population": 21573
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "tajiks",
+        "percentage": 86.1
+      },
+      {
+        "name": "uzbeks",
+        "percentage": 11.3
+      },
+      {
+        "name": "kyrgyz",
+        "percentage": 0.4
+      },
+      {
+        "name": "russians",
+        "percentage": 0.3
+      },
+      {
+        "name": "others",
+        "percentage": 1.9
+      }
+    ],
     "government": {
       "type": "Unitary presidential system",
       "leaders": [
@@ -67866,7 +72030,7 @@
       "png": "",
       "svg": ""
     },
-    "population": 1499,
+    "population": 2608,
     "maps": {
       "googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
       "openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
@@ -67892,11 +72056,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolved parliamentary Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of New Zealand",
+          "name": "Charles III"
+        },
+        {
+          "title": "Administrator of Tokelau",
+          "name": "Don Higgins"
+        }
+      ]
+    },
     "density": 124.92,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -68165,8 +72342,50 @@
       "993"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "islam",
+        "percentage": 95.8,
+        "population": 5860980
+      },
+      {
+        "name": "no religion",
+        "percentage": 3.0,
+        "population": 183538
+      },
+      {
+        "name": "christianity",
+        "percentage": 1.1,
+        "population": 67297
+      },
+      {
+        "name": "other",
+        "percentage": 0.1,
+        "population": 6118
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "turkmens",
+        "percentage": 86.7
+      },
+      {
+        "name": "uzbeks",
+        "percentage": 9.1
+      },
+      {
+        "name": "russians",
+        "percentage": 1.6
+      },
+      {
+        "name": "baloch",
+        "percentage": 1.2
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -68759,8 +72978,38 @@
       "676"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.9,
+        "population": 104671
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.5,
+        "population": 540
+      },
+      {
+        "name": "unspecified",
+        "percentage": 0.1,
+        "population": 108
+      },
+      {
+        "name": "others",
+        "percentage": 2.4,
+        "population": 2592
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "tongan",
+        "percentage": 96.5
+      },
+      {
+        "name": "others",
+        "percentage": 3.5
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary semi-constitutional monarchy",
       "leaders": [
@@ -69073,7 +73322,28 @@
         "population": 201200
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "indian",
+        "percentage": 35.4
+      },
+      {
+        "name": "african",
+        "percentage": 34.2
+      },
+      {
+        "name": "mixed",
+        "percentage": 22.8
+      },
+      {
+        "name": "others",
+        "percentage": 1.3
+      },
+      {
+        "name": "unspecified",
+        "percentage": 6.2
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -69082,7 +73352,7 @@
           "name": "Christine Kangaloo"
         },
         {
-          "title": "List of prime ministers of Trinidad and Tobago",
+          "title": "Prime Minister of Trinidad and Tobago",
           "name": "Kamla Persad-Bissessar"
         }
       ]
@@ -69374,8 +73644,32 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "sunni islam",
+        "percentage": 99.0,
+        "population": 11449552
+      },
+      {
+        "name": "others",
+        "percentage": 1.0,
+        "population": 115652
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "arabs",
+        "percentage": 98.0
+      },
+      {
+        "name": "berbers",
+        "percentage": 1.0
+      },
+      {
+        "name": "jews",
+        "percentage": 1.0
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic",
       "leaders": [
@@ -69955,8 +74249,33 @@
       "688"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 96.0,
+        "population": 10217
+      },
+      {
+        "name": "other religions or not stated",
+        "percentage": 3.0,
+        "population": 319
+      },
+      {
+        "name": "bah\u00e1\u02bc\u00ed faith",
+        "percentage": 1.0,
+        "population": 106
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "tuvaluans",
+        "percentage": 96.0
+      },
+      {
+        "name": "others",
+        "percentage": 4.0
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -70250,12 +74569,25 @@
         "population": 1630939
       },
       {
-        "name": "other",
+        "name": "others",
         "percentage": 13.0,
         "population": 3028887
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "han",
+        "percentage": 95.0
+      },
+      {
+        "name": "indigenous",
+        "percentage": 2.5
+      },
+      {
+        "name": "others",
+        "percentage": 2.5
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -70581,6 +74913,11 @@
         "name": "traditional faiths",
         "percentage": 1.2,
         "population": 809545
+      },
+      {
+        "name": "others",
+        "percentage": 0.1,
+        "population": 67462
       }
     ],
     "ethnicity": [],
@@ -70889,8 +75226,75 @@
         ]
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 81.7,
+        "population": 38499925
+      },
+      {
+        "name": "islam",
+        "percentage": 13.2,
+        "population": 6220306
+      },
+      {
+        "name": "unclassified",
+        "percentage": 3.3,
+        "population": 1555077
+      },
+      {
+        "name": "others",
+        "percentage": 1.6,
+        "population": 753976
+      },
+      {
+        "name": "no religion",
+        "percentage": 0.2,
+        "population": 94247
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "baganda",
+        "percentage": 15.3
+      },
+      {
+        "name": "banyankole",
+        "percentage": 9.1
+      },
+      {
+        "name": "basoga",
+        "percentage": 8.1
+      },
+      {
+        "name": "bakiga",
+        "percentage": 6.4
+      },
+      {
+        "name": "iteso",
+        "percentage": 6.8
+      },
+      {
+        "name": "langi",
+        "percentage": 5.9
+      },
+      {
+        "name": "bagisu",
+        "percentage": 4.5
+      },
+      {
+        "name": "acholi",
+        "percentage": 4.2
+      },
+      {
+        "name": "lugbara",
+        "percentage": 2.6
+      },
+      {
+        "name": "others",
+        "percentage": 37.1
+      }
+    ],
     "government": {
       "type": "Unitary presidential republic under a dictatorship",
       "leaders": [
@@ -71175,8 +75579,37 @@
       "380"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 87.3,
+        "population": 28688526
+      },
+      {
+        "name": "no religion",
+        "percentage": 11.0,
+        "population": 3614820
+      },
+      {
+        "name": "other",
+        "percentage": 0.8,
+        "population": 262896
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "ukrainians",
+        "percentage": 78.0
+      },
+      {
+        "name": "russians",
+        "percentage": 17.0
+      },
+      {
+        "name": "others",
+        "percentage": 4.9
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -71448,7 +75881,7 @@
     "religion": [],
     "ethnicity": [],
     "government": {
-      "type": "Federal presidential republic",
+      "type": "Federal Presidential Republic",
       "leaders": [
         {
           "title": "President of the United States",
@@ -71734,7 +76167,28 @@
       }
     ],
     "religion": [],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "white",
+        "percentage": 86.0
+      },
+      {
+        "name": "black",
+        "percentage": 10.4
+      },
+      {
+        "name": "indigenous",
+        "percentage": 6.3
+      },
+      {
+        "name": "east asian",
+        "percentage": 0.7
+      },
+      {
+        "name": "others",
+        "percentage": 6.3
+      }
+    ],
     "government": {
       "type": "Presidential system",
       "leaders": [
@@ -72369,6 +76823,11 @@
         "name": "other religion",
         "percentage": 6.0,
         "population": 20507091
+      },
+      {
+        "name": "unanswered",
+        "percentage": 3.0,
+        "population": 10253546
       }
     ],
     "ethnicity": [],
@@ -72688,7 +77147,32 @@
         "population": 103239
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "uzbeks",
+        "percentage": 84.6
+      },
+      {
+        "name": "tajiks",
+        "percentage": 4.8
+      },
+      {
+        "name": "kazakhs",
+        "percentage": 2.3
+      },
+      {
+        "name": "karakalpaks",
+        "percentage": 2.2
+      },
+      {
+        "name": "russians",
+        "percentage": 2.1
+      },
+      {
+        "name": "others",
+        "percentage": 4.0
+      }
+    ],
     "government": {
       "type": "Unitary semi-presidential republic",
       "leaders": [
@@ -73284,32 +77768,37 @@
         "population": 1663
       },
       {
+        "name": "other",
+        "percentage": 0.5,
+        "population": 554
+      }
+    ],
+    "ethnicity": [
+      {
         "name": "african",
-        "percentage": 66.0,
-        "population": 73176
+        "percentage": 66.0
       },
       {
         "name": "mixed",
-        "percentage": 19.0,
-        "population": 21066
+        "percentage": 19.0
       },
       {
         "name": "indian",
-        "percentage": 6.0,
-        "population": 6652
+        "percentage": 6.0
       },
       {
         "name": "european",
-        "percentage": 4.0,
-        "population": 4435
+        "percentage": 4.0
       },
       {
         "name": "kalinago",
-        "percentage": 2.0,
-        "population": 2217
+        "percentage": 2.0
+      },
+      {
+        "name": "others",
+        "percentage": 3.0
       }
     ],
-    "ethnicity": [],
     "government": {
       "type": "Unitary parliamentary constitutional monarchy",
       "leaders": [
@@ -73614,17 +78103,34 @@
         "population": 1749000
       },
       {
-        "name": "spiritism,",
+        "name": "spiritism",
         "percentage": 1.1,
         "population": 349800
       },
       {
-        "name": "other,",
+        "name": "other",
         "percentage": 0.8,
         "population": 254400
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "moreno",
+        "percentage": 51.6
+      },
+      {
+        "name": "white",
+        "percentage": 43.6
+      },
+      {
+        "name": "black",
+        "percentage": 3.6
+      },
+      {
+        "name": "others",
+        "percentage": 1.2
+      }
+    ],
     "government": {
       "type": "Federal presidential republic under an Authoritarianism",
       "leaders": [
@@ -73867,7 +78373,7 @@
       "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg",
       "png": "https://mainfacts.com/media/images/coats_of_arms/vg.png"
     },
-    "population": 39369,
+    "population": 30030,
     "maps": {
       "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
       "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
@@ -73892,12 +78398,50 @@
     ],
     "regionalBlocs": [],
     "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "ethnicity": [
+      {
+        "name": "black",
+        "percentage": 76.9
+      },
+      {
+        "name": "hispanic",
+        "percentage": 5.6
+      },
+      {
+        "name": "white",
+        "percentage": 5.4
+      },
+      {
+        "name": "mixed",
+        "percentage": 5.4
+      },
+      {
+        "name": "indian",
+        "percentage": 2.1
+      },
+      {
+        "name": "others",
+        "percentage": 4.6
+      }
+    ],
+    "government": {
+      "type": "Parliamentary Dependent territory",
+      "leaders": [
+        {
+          "title": "Monarchy of the United Kingdom",
+          "name": "Chales III"
+        },
+        {
+          "title": "Governor of the Virgin Islands",
+          "name": "Daniel Pruce"
+        }
+      ]
+    },
     "density": 260.72,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "God Save the King"
+    "anthem": "God Save the King",
+    "hdi": 0.0
   },
   {
     "name": {
@@ -74146,13 +78690,71 @@
       "1 340"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
-    "government": null,
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 86.7,
+        "population": 75556
+      },
+      {
+        "name": "no religion",
+        "percentage": 8.4,
+        "population": 7320
+      },
+      {
+        "name": "other",
+        "percentage": 4.9,
+        "population": 4270
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "black",
+        "percentage": 71.4
+      },
+      {
+        "name": "white",
+        "percentage": 16.6
+      },
+      {
+        "name": "multiracial",
+        "percentage": 7.5
+      },
+      {
+        "name": "others",
+        "percentage": 3.0
+      },
+      {
+        "name": "asian",
+        "percentage": 1.0
+      },
+      {
+        "name": "non-hispanic or latino",
+        "percentage": 81.6
+      },
+      {
+        "name": "hispanic or latino",
+        "percentage": 18.4
+      }
+    ],
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of the United States",
+          "name": "Donald Trump (Republican Party (United States)"
+        },
+        {
+          "title": "List of governors of the United States Virgin Islands",
+          "name": "Albert Bryan Jr."
+        }
+      ]
+    },
     "density": 251.14,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": "Virgin Islands March"
+    "anthem": "Virgin Islands March",
+    "hdi": 31.0
   },
   {
     "name": {
@@ -74418,8 +79020,58 @@
         "otherNames": []
       }
     ],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "no religion",
+        "percentage": 86.32,
+        "population": 88305360
+      },
+      {
+        "name": "catholicism",
+        "percentage": 6.1,
+        "population": 6240300
+      },
+      {
+        "name": "buddhism",
+        "percentage": 4.79,
+        "population": 4900170
+      },
+      {
+        "name": "hoahaoism",
+        "percentage": 1.02,
+        "population": 1043460
+      },
+      {
+        "name": "protestantism",
+        "percentage": 1.0,
+        "population": 1023000
+      },
+      {
+        "name": "caodaism",
+        "percentage": 0.58,
+        "population": 593340
+      },
+      {
+        "name": "islam",
+        "percentage": 0.07,
+        "population": 71610
+      },
+      {
+        "name": "other",
+        "percentage": 0.12,
+        "population": 122760
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "kinh vietnamese",
+        "percentage": 85.32
+      },
+      {
+        "name": "others",
+        "percentage": 14.68
+      }
+    ],
     "government": {
       "type": "Unitary communist state",
       "leaders": [
@@ -74741,7 +79393,16 @@
         "population": 2015
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "ni-vanuatu",
+        "percentage": 98.5
+      },
+      {
+        "name": "others",
+        "percentage": 1.5
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -75015,11 +79676,24 @@
     "regionalBlocs": [],
     "religion": [],
     "ethnicity": [],
-    "government": null,
+    "government": {
+      "type": "Devolution",
+      "leaders": [
+        {
+          "title": "President of France",
+          "name": "Emmanuel Macron"
+        },
+        {
+          "title": "Administrator Superior of Wallis and Futuna",
+          "name": "Herv\u00e9 Jonathan"
+        }
+      ]
+    },
     "density": 81.83,
     "gdp": null,
     "nationalHoliday": null,
-    "anthem": null
+    "anthem": null,
+    "hdi": 0.0
   },
   {
     "name": {
@@ -75285,8 +79959,41 @@
       "685"
     ],
     "regionalBlocs": [],
-    "religion": [],
-    "ethnicity": [],
+    "religion": [
+      {
+        "name": "christianity",
+        "percentage": 97.9,
+        "population": 195810
+      },
+      {
+        "name": "no religion",
+        "percentage": 1.7,
+        "population": 3400
+      },
+      {
+        "name": "others",
+        "percentage": 0.4,
+        "population": 800
+      }
+    ],
+    "ethnicity": [
+      {
+        "name": "samoans",
+        "percentage": 92.6
+      },
+      {
+        "name": "euronesian",
+        "percentage": 7.0
+      },
+      {
+        "name": "europeans",
+        "percentage": 0.3
+      },
+      {
+        "name": "others",
+        "percentage": 0.1
+      }
+    ],
     "government": {
       "type": "Unitary parliamentary republic",
       "leaders": [
@@ -75588,12 +80295,33 @@
         "population": 294161
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "arabs",
+        "percentage": 92.8
+      },
+      {
+        "name": "somalis",
+        "percentage": 3.7
+      },
+      {
+        "name": "afro-arabs",
+        "percentage": 1.1
+      },
+      {
+        "name": "indo",
+        "percentage": 1.0
+      },
+      {
+        "name": "others",
+        "percentage": 1.4
+      }
+    ],
     "government": {
       "type": "Unitary Semi-presidential system",
       "leaders": [
         {
-          "title": "President of the Presidential Leadership Council",
+          "title": "President of Yemen",
           "name": "Rashad al-Alimi"
         },
         {
@@ -76018,9 +80746,35 @@
         "name": "hinduism",
         "percentage": 1.1,
         "population": 693175
+      },
+      {
+        "name": "other",
+        "percentage": 1.1,
+        "population": 693175
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "black",
+        "percentage": 81.4
+      },
+      {
+        "name": "coloured",
+        "percentage": 8.2
+      },
+      {
+        "name": "white",
+        "percentage": 7.3
+      },
+      {
+        "name": "indian",
+        "percentage": 2.7
+      },
+      {
+        "name": "others",
+        "percentage": 0.4
+      }
+    ],
     "government": {
       "type": "Unitary Parliamentary republics with an executive presidency",
       "leaders": [
@@ -76334,7 +81088,136 @@
         "population": 363889
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "bemba",
+        "percentage": 19.0
+      },
+      {
+        "name": "tonga",
+        "percentage": 13.6
+      },
+      {
+        "name": "tumbuka",
+        "percentage": 7.5
+      },
+      {
+        "name": "chewa",
+        "percentage": 6.0
+      },
+      {
+        "name": "lozi",
+        "percentage": 5.7
+      },
+      {
+        "name": "nsenga",
+        "percentage": 5.3
+      },
+      {
+        "name": "ngoni",
+        "percentage": 3.0
+      },
+      {
+        "name": "lala",
+        "percentage": 3.1
+      },
+      {
+        "name": "kaonde",
+        "percentage": 3.9
+      },
+      {
+        "name": "namwanga",
+        "percentage": 2.8
+      },
+      {
+        "name": "lunda (northern)",
+        "percentage": 2.6
+      },
+      {
+        "name": "mambwe",
+        "percentage": 2.5
+      },
+      {
+        "name": "luvale",
+        "percentage": 2.2
+      },
+      {
+        "name": "lamba",
+        "percentage": 2.4
+      },
+      {
+        "name": "ushi",
+        "percentage": 1.9
+      },
+      {
+        "name": "bisa",
+        "percentage": 1.6
+      },
+      {
+        "name": "lenje",
+        "percentage": 1.6
+      },
+      {
+        "name": "mbunda",
+        "percentage": 1.2
+      },
+      {
+        "name": "lunda (luapula)",
+        "percentage": 0.9
+      },
+      {
+        "name": "senga",
+        "percentage": 0.9
+      },
+      {
+        "name": "ila",
+        "percentage": 0.8
+      },
+      {
+        "name": "lungu",
+        "percentage": 0.8
+      },
+      {
+        "name": "tabwa",
+        "percentage": 0.7
+      },
+      {
+        "name": "soli",
+        "percentage": 0.7
+      },
+      {
+        "name": "kunda",
+        "percentage": 0.7
+      },
+      {
+        "name": "ngumbo",
+        "percentage": 0.6
+      },
+      {
+        "name": "chishinga",
+        "percentage": 0.5
+      },
+      {
+        "name": "chokwe",
+        "percentage": 0.5
+      },
+      {
+        "name": "nkoya",
+        "percentage": 0.5
+      },
+      {
+        "name": "other ethnics",
+        "percentage": 5.4
+      },
+      {
+        "name": "major racial",
+        "percentage": 0.8
+      },
+      {
+        "name": "unclassified",
+        "percentage": 0.4
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
@@ -76796,9 +81679,31 @@
         "name": "traditional faiths",
         "percentage": 4.5,
         "population": 759078
+      },
+      {
+        "name": "others",
+        "percentage": 1.2,
+        "population": 202421
       }
     ],
-    "ethnicity": [],
+    "ethnicity": [
+      {
+        "name": "indigenous african",
+        "percentage": 99.6
+      },
+      {
+        "name": "european",
+        "percentage": 0.2
+      },
+      {
+        "name": "coloured",
+        "percentage": 0.1
+      },
+      {
+        "name": "others",
+        "percentage": 0.1
+      }
+    ],
     "government": {
       "type": "Unitary Presidential system",
       "leaders": [
