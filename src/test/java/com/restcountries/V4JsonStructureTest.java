@@ -314,6 +314,32 @@ class V4JsonStructureTest {
     }
   }
 
+  @Test
+  void testFlagStructure() {
+    for (JsonElement el : countries) {
+      JsonObject c = el.getAsJsonObject();
+      assertTrue(c.has("flag"), "Missing flag for " + c.get("cca2"));
+      assertFalse(c.get("flag").isJsonNull(), "flag should not be null for " + c.get("cca2"));
+      assertTrue(c.get("flag").isJsonObject(), "flag should be an object for " + c.get("cca2"));
+      JsonObject flag = c.getAsJsonObject("flag");
+      assertTrue(flag.has("svg"), "flag should have svg for " + c.get("cca2"));
+      assertTrue(flag.has("png"), "flag should have png for " + c.get("cca2"));
+      assertTrue(flag.has("alt"), "flag should have alt for " + c.get("cca2"));
+      assertTrue(flag.has("emoji"), "flag should have emoji for " + c.get("cca2"));
+      assertFalse(flag.get("emoji").getAsString().isEmpty(), "flag.emoji should not be empty for " + c.get("cca2"));
+    }
+  }
+
+  @Test
+  void testSovereignStateField() {
+    for (JsonElement el : countries) {
+      JsonObject c = el.getAsJsonObject();
+      if (c.has("sovereignState")) {
+        assertFalse(c.get("sovereignState").isJsonNull(), "sovereignState should not be null for " + c.get("cca2"));
+      }
+    }
+  }
+
   private void assertIsArrayIfPresent(JsonObject obj, String field) {
     if (obj.has(field) && !obj.get(field).isJsonNull()) {
       assertTrue(obj.get(field).isJsonArray(),

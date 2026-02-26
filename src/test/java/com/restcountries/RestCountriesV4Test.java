@@ -124,8 +124,8 @@ class RestCountriesV4Test {
     var countries = CountryServiceV4.getInstance().getAll();
     try {
       var result = countries.stream().noneMatch(
-          country -> null == country.getFlags().getPng() || null == country.getFlags().getSvg()
-              || null == country.getFlags().getAlt());
+          country -> null == country.getFlag().getPng() || null == country.getFlag().getSvg()
+              || null == country.getFlag().getAlt() || null == country.getFlag().getEmoji());
       assertTrue(result);
     } catch (Exception ex) {
       Assertions.fail();
@@ -184,5 +184,11 @@ class RestCountriesV4Test {
     assertFalse(countries.isEmpty());
     var nonIndependent = CountryServiceV4.getInstance().getIndependent(false);
     assertFalse(nonIndependent.isEmpty());
+  }
+
+  @Test
+  void testSovereignState() {
+    var aruba = CountryServiceV4.getInstance().getByAlpha("AW").stream().findFirst().orElseThrow();
+    Assertions.assertEquals("NLD", aruba.getSovereignState());
   }
 }
