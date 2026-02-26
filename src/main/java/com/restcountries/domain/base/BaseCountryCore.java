@@ -25,7 +25,6 @@ public abstract class BaseCountryCore {
   private List<String> borders;
   private Double area;
   private List<String> callingCodes;
-  private String flag;
   private Map<String, String> maps;
   private Integer population;
   private String fifa;
@@ -167,14 +166,6 @@ public abstract class BaseCountryCore {
 
   public void setCallingCodes(List<String> callingCodes) {
     this.callingCodes = callingCodes;
-  }
-
-  public String getFlag() {
-    return flag;
-  }
-
-  public void setFlag(String flag) {
-    this.flag = flag;
   }
 
   public Map<String, String> getMaps() {

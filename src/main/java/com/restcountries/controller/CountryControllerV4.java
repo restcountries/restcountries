@@ -187,6 +187,24 @@ public class CountryControllerV4 extends ControllerV4Helper {
         }
     }
 
+    @Get("sovereignstate/{cca3}")
+    @Schema(name = "RestCountries")
+    public Object getBySovereignState(@PathVariable("cca3") String cca3,
+                                      @QueryParam("fields") Optional<String> fields) {
+        if (isEmpty(cca3) || cca3.length() != 3) {
+            return ControllerHelper.badRequest();
+        }
+        try {
+            var countries = CountryServiceV4.getInstance().getBySovereignState(cca3);
+            if (!countries.isEmpty()) {
+                return ControllerHelper.ok(checkFieldsAndParseCountries(fields, countries));
+            }
+            return ControllerHelper.notFound();
+        } catch (Exception e) {
+            return HttpResponse.serverError(Response.Status.INTERNAL_SERVER_ERROR);
+        }
+    }
+
     @Get("independent")
     @Schema(name = "RestCountries")
     public Object getIndependentCountries(@QueryParam("status") Optional<Boolean> status,

@@ -8,6 +8,7 @@ import java.util.Map;
 @Serdeable.Serializable
 public class BaseCountry extends BaseCountryCore {
 
+  private String flag;
   private Name name;
   private Map<String, Currency> currencies;
   private Map<String, String> languages;
@@ -15,6 +16,14 @@ public class BaseCountry extends BaseCountryCore {
   private List<Double> latlng;
   private Map<String, Map<String, String>> demonyms;
   private Map<String, Double> gini;
+
+  public String getFlag() {
+    return flag;
+  }
+
+  public void setFlag(String flag) {
+    this.flag = flag;
+  }
 
   public Name getName() {
     return name;

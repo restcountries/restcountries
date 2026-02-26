@@ -18,6 +18,7 @@ Complete reference for all fields returned by the v4 API (`/v4`). The v4 API res
 | `independent`     | Boolean        | ISO 3166-1 sovereignty status               |
 | `status`          | String         | ISO 3166-1 assignment status                |
 | `unMember`        | Boolean        | UN member state                             |
+| `sovereignState`  | String         | ★ cca3 of the governing sovereign state, or `""` |
 | `currencies`      | List\<Object\> | Official currencies                         |
 | `idd`             | Object         | International direct dialling info          |
 | `callingCodes`    | List\<String\> | ★ Full international calling codes          |
@@ -191,6 +192,19 @@ Complete reference for all fields returned by the v4 API (`/v4`). The v4 API res
 ```json
 "unMember": false
 ```
+
+---
+
+#### `sovereignState` ★ New in v4
+
+**Type:** String
+**Description:** The `cca3` code of the sovereign state that governs this territory. Empty string (`""`) for independent countries. Populated only for non-independent territories (where `independent` is `false`).
+
+```json
+"sovereignState": "NLD"
+```
+
+> **Examples:** Aruba → `"NLD"`, Gibraltar → `"GBR"`, Puerto Rico → `"USA"`, Hong Kong → `"CHN"`, Greenland → `"DNK"`.
 
 ---
 
@@ -857,6 +871,7 @@ The following fields are **not present in v3.1** and were introduced in v4:
 | `hdi`             | Human Development Index score                                 |
 | `nationalHoliday` | National/independence day date                                |
 | `anthem`          | Name of the national anthem                                   |
+| `sovereignState`  | cca3 of the governing sovereign state (`""` for independent)  |
 
 ### Shape changes from v3.1
 

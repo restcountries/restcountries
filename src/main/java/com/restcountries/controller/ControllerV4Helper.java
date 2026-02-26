@@ -98,10 +98,9 @@ public class ControllerV4Helper {
       "landlocked",
       "borders",
       "area",
-      "flags",
+      "flag",
       "demonyms",
       "population",
-      "flag",
       "maps",
       "gini",
       "fifa",
@@ -123,6 +122,8 @@ public class ControllerV4Helper {
       "nationalHoliday",
       "anthem",
       "regionalBlocs",
-      "callingCodes"
+      "callingCodes",
+      "hdi",
+      "sovereignState"
   };
 }

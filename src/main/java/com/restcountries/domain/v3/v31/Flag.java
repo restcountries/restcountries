@@ -7,6 +7,7 @@ public class Flag {
   private String png;
   private String svg;
   private String alt;
+  private String emoji;
 
   public String getPng() {
     return png;
@@ -30,5 +31,13 @@ public class Flag {
 
   public void setAlt(String alt) {
     this.alt = alt;
+  }
+
+  public String getEmoji() {
+    return emoji;
+  }
+
+  public void setEmoji(String emoji) {
+    this.emoji = emoji;
   }
 }

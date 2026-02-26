@@ -5,7 +5,6 @@ import com.restcountries.domain.v4.Country;
 import java.text.Normalizer;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class CountryServiceV4 extends CountryServiceBaseV4 {
 
@@ -67,11 +66,18 @@ public class CountryServiceV4 extends CountryServiceBaseV4 {
     return super.getByTranslation(translation, countries);
   }
 
+  public Set<Country> getBySovereignState(String cca3) {
+    return super.getBySovereignState(cca3, countries);
+  }
+
   public Set<Country> getIndependent(boolean status) {
-    return countries.stream().filter(country -> {
-      var independent = Boolean.TRUE.equals(country.getIndependent());
-      return independent == status;
-    }).collect(Collectors.toSet());
+    Set<Country> result = new HashSet<>();
+    for (var country : countries) {
+      if (Boolean.TRUE.equals(country.getIndependent()) == status) {
+        result.add(country);
+      }
+    }
+    return result;
   }
 
   @Override

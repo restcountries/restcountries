@@ -174,6 +174,16 @@ public class CountryServiceBaseV4 {
     return result;
   }
 
+  protected Set<Country> getBySovereignState(String cca3, Set<Country> countries) {
+    Set<Country> result = new HashSet<>();
+    for (var country : countries) {
+      if (cca3.equalsIgnoreCase(country.getSovereignState())) {
+        result.add(country);
+      }
+    }
+    return result;
+  }
+
   protected String normalize(String string) {
     return Normalizer.normalize(string, Normalizer.Form.NFD)
         .replaceAll("\\p{InCombiningDiacriticalMarks}+", "");

@@ -17,7 +17,7 @@ public class Country extends BaseCountryCore {
   private List<Translation> translations;
   private List<Demonym> demonyms;
   private List<Gini> gini;
-  private Flag flags;
+  private Flag flag;
   private Flag coatOfArms;
   private String startOfWeek;
   private CapitalInformation capitalInfo;
@@ -32,6 +32,7 @@ public class Country extends BaseCountryCore {
   private String anthem;
   private List<RegionalBloc> regionalBlocs;
   private Double hdi;
+  private String sovereignState;
 
   public Name getName() {
     return name;
@@ -81,12 +82,12 @@ public class Country extends BaseCountryCore {
     this.gini = gini;
   }
 
-  public Flag getFlags() {
-    return flags;
+  public Flag getFlag() {
+    return flag;
   }
 
-  public void setFlags(Flag flags) {
-    this.flags = flags;
+  public void setFlag(Flag flag) {
+    this.flag = flag;
   }
 
   public Flag getCoatOfArms() {
@@ -199,5 +200,13 @@ public class Country extends BaseCountryCore {
 
   public void setHdi(Double hdi) {
     this.hdi = hdi;
+  }
+
+  public String getSovereignState() {
+    return sovereignState;
+  }
+
+  public void setSovereignState(String sovereignState) {
+    this.sovereignState = sovereignState;
   }
 }
