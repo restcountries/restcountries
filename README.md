@@ -40,7 +40,7 @@ GET /countries/v5?response_fields=...           Trim the response
 GET /countries/v5?response_fields_omit=...      Omit certain fields from the response
 GET /countries/v5/code/CA                       Read across multiple codes (codes.alpha_2, codes.alpha_3, codes.fips, etc)
 GET /countries/v5/codes.alpha_2/CA              ISO 3166-1 read
-GET /countries/v5/codes.alpha_2/Canada          Country name read
+GET /countries/v5/names.common/Canada           Country name read
 GET /countries/v5?region=Europe                 Filter by region
 GET /countries/v5?memberships=EU,NATO           Filter by membership
 ```
@@ -96,7 +96,7 @@ import requests
 
 response = requests.get(
     'https://api.restcountries.com/countries/v5',
-    params={'response_fields': 'iso2,names.common', 'sort': 'names.common'},
+    params={'response_fields': 'codes.alpha_2,names.common', 'sort': 'names.common'},
     headers={'Authorization': 'Bearer rc_live_demo'},
 )
 payload = response.json()
@@ -165,6 +165,31 @@ The MPL-2.0 source is still in this repo and will stay here. It is no longer
 maintained, but it is available to read, fork, or run. New open source pieces —
 client libraries, SDKs, standalone helpers — will be published under this
 organization as they're released.
+
+---
+
+## New in v5 (relative to v4)
+
+v5 keeps the familiar shape but adds several fields and field groups that
+weren't in v4. The notable additions:
+
+| Group | New fields |
+| --- | --- |
+| **Dates & calendars** | `date.academic_year_start` (month/day), `date.fiscal_year_start` for `government`, `corporate`, and `personal` (month/day, plus a `corporate.basis` of mandated/default/convention) |
+| **Number formatting** | `number_format.decimal_separator`, `number_format.thousands_separator` |
+| **Memberships** | Discrete booleans replacing v4's `regionalBlocs` list — `memberships.un`, `.eu`, `.eurozone`, `.schengen`, `.nato`, `.commonwealth`, `.oecd`, `.g7`, `.g20`, `.brics`, `.opec`, `.african_union`, `.asean`, `.arab_league` |
+| **Classification & lineage** | `classification.un_observer`, `.disputed`, `.dependency`, `.dependency_type`, plus `parent.alpha_2` / `parent.alpha_3` for dependent territories |
+| **Codes** | `codes.fips`, `codes.gec` |
+| **Geography** | `area.miles` alongside `area.kilometers` |
+| **Capitals** | `capitals` entries now carry coordinates and role attributes (primary, constitutional, administrative, executive, legislative, judicial) |
+| **Flags** | `flag.unicode`, `flag.html_entity`, and `flag.description` (alt text) alongside the emoji and image URLs |
+| **Links** | `links.wikipedia`, `links.official` alongside `links.google_maps` and `links.open_street_maps` |
+| **Leaders** | `leaders` is now a first-class field, each with `assets`, `attributes`, `links`, `name`, and `title` |
+| **Other** | `uuid` stable per-country identifier, and an `assets` container for associated visual assets |
+
+Each new scalar or array field is independently readable and searchable (e.g.
+`/countries/v5/memberships.nato/true`, `/countries/v5/codes.gec?q=GM`). The full
+field reference is at [restcountries.com/docs](https://restcountries.com/docs).
 
 ---
 
