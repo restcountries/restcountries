@@ -121,6 +121,78 @@ Get your own at API key at
 
 ---
 
+## More example reads
+
+Most fields are readable directly by value. A few simple lookups:
+
+```
+GET /countries/v5/currencies/CAD            Countries that use the Canadian dollar
+GET /countries/v5/leaders?q=Carney          Search countries by current leader
+GET /countries/v5/demonyms/Canadian         Countries whose demonym matches
+GET /countries/v5/capitals/Ottawa           Look up by capital city
+GET /countries/v5/subregion/Caribbean       Countries in a subregion
+```
+
+Each still takes the same `Authorization: Bearer <your-key>` header, and accepts
+`?pretty=1`, `?response_fields=...`, and the other query parameters from above.
+
+---
+
+## Response shape
+
+Every response wraps the matched records in `data.objects`. A single country,
+trimmed for brevity:
+
+```json
+{
+  "data": {
+    "objects": [
+      {
+        "uuid": "5c0e8a0b-...",
+        "names": {
+          "common": "Canada",
+          "official": "Canada",
+          "native": {
+            "eng": { "common": "Canada", "official": "Canada" },
+            "fra": { "common": "Canada", "official": "Canada" }
+          }
+        },
+        "codes": { "alpha_2": "CA", "alpha_3": "CAN", "ccn3": "124", "cioc": "CAN" },
+        "capitals": [
+          {
+            "name": "Ottawa",
+            "attributes": { "primary": true, "constitutional": false },
+            "coordinates": { "lat": 45.4247, "lng": -75.695 }
+          }
+        ],
+        "currencies": [
+          { "code": "CAD", "name": "Canadian dollar", "symbol": "$" }
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 41575585,
+        "demonyms": {
+          "eng": { "m": "Canadian", "f": "Canadian" },
+          "fra": { "m": "Canadien", "f": "Canadienne" }
+        },
+        "leaders": [
+          { "name": "Mark Carney", "title": "Prime Minister" }
+        ],
+        "calling_codes": ["1"],
+        "memberships": { "un": true, "nato": true, "g7": true, "commonwealth": true },
+        "flag": { "emoji": "🇨🇦", "url_svg": "https://flagcdn.com/ca.svg" }
+      }
+    ]
+  }
+}
+```
+
+Single-value reads (like `/codes.alpha_2/CA`) return a one-element `objects`
+array; list and query endpoints return many. The full field reference is at
+[restcountries.com/docs](https://restcountries.com/docs).
+
+---
+
 ## FAQ
 
 **I was hitting the old hosted endpoint. What now?**
