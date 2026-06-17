@@ -42,7 +42,7 @@ GET /countries/v5/code/CA                       Read across multiple codes (code
 GET /countries/v5/codes.alpha_2/CA              ISO 3166-1 read
 GET /countries/v5/names.common/Canada           Country name read
 GET /countries/v5?region=Europe                 Filter by region
-GET /countries/v5?memberships.nato=1          Filter by membership (combine with &)
+GET /countries/v5?memberships.nato=1            Filter by membership (combine with &)
 ```
 
 Auth: `Authorization: Bearer {{your_api_key}}` — get one at
