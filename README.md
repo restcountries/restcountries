@@ -1,338 +1,210 @@
-> **v4 Preview — Not for production use**
-> REST Countries v4 is currently available as a **preview** at `/v4`. It introduces new fields,
-> richer data, and breaking changes from v3.1. The API is still subject to change before its
-> stable release. **Do not use it in production yet.**
-> Join the discussion and share your feedback at
-> [issue #286](https://gitlab.com/restcountries/restcountries/-/issues/286).
+# REST Countries APIs
 
-# About this Project
+Country data API. 250+ countries, 80+ fields per record, sub-150ms responses.
 
-This project is inspired on restcountries.eu by Fayder Florez. Although the original project has now moved to
-a subscription base API, this project is still Open Source and Free to use.
-
-# REST Countries
-
-You can access API through https://restcountries.com/v3.1/all
-
-# Contributing
-
-Any help is always welcome! Just edit the relevant file and create a new Merge Request.
-
-# Donations
-
-This are getting out of control. As I stated [here](https://gitlab.com/restcountries/restcountries/-/issues/187), the server is not going to hold much longer. I'm getting about 4 million hits **each day** and that means CPU ussage (99%) and also bandwidth consumption (120 GB **per day!**) so costs have obviously increased. **Please**, consider making a donation on [Patreon](https://www.patreon.com/amatos) or [PayPal](https://www.paypal.me/amatosg/15). This will help me pay the server's bills
-
-# Fields
-
-You can check the [FIELDS.md](FIELDS.md) file to get a description for each field (thanks to @ePascalC!). This file might be outdated and **will not** be updated.
-
-# API Endpoints
-
-# Endpoints
-
-Below are described the REST endpoints available that you can use to search for countries
-
-## Latest added Endpoint
-
-### Independent
-
-Now you can get all independent (or not independent) countries by calling this endpoint:
-
-```html
-https://restcountries.com/v3.1/independent?status=true
+```bash
+curl "https://api.restcountries.com/countries/v5?limit=1&pretty=1" \
+  -H "Authorization: Bearer rc_live_demo"
 ```
 
-If you don't specify the status, true will be taken as default. You can mix it with the `fields` filter like this:
-
-```html
-https://restcountries.com/v3.1/independent?status=true&fields=languages,capital
-```
-
-## All
-
-You **must** specify the fields you need (up to 10 fields) when calling the `all` endpoints,
-otherwise you'll get a `bad request` response. Please see [this issue](https://gitlab.com/restcountries/restcountries/-/issues/265)
-for more information. This applies to all versions.
-
-```html
-https://restcountries.com/v3.1/all
-```
-
-## Name
-
-**Search** by country name. If you want to get an exact match, use the next endpoint. It can be the common or official value
-
-```html
-https://restcountries.com/v3.1/name/{name}
-```
-
-```html
-https://restcountries.com/v3.1/name/eesti
-```
-
-```html
-https://restcountries.com/v3.1/name/deutschland
-```
-
-## Full Name
-
-Search by country's full name. It can be the common or official value
-
-```html
-https://restcountries.com/v3.1/name/{name}?fullText=true
-```
-
-```html
-https://restcountries.com/v3.1/name/aruba?fullText=true
-```
-
-## Code
-
-Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
-
-```html
-https://restcountries.com/v3.1/alpha/{code}
-```
-
-```html
-https://restcountries.com/v3.1/alpha/co
-```
-
-```html
-https://restcountries.com/v3.1/alpha/col
-```
-
-```html
-https://restcountries.com/v3.1/alpha/170
-```
-
-## List of codes
-
-Search by cca2, ccn3, cca3 or cioc country code (yes, any!)
-
-```html
-https://restcountries.com/v3.1/alpha?codes={code},{code},{code}
-```
-
-```html
-https://restcountries.com/v3.1/alpha?codes=170,no,est,pe
-```
-
-## Currency
-
-Search by currency code or name
-
-```html
-https://restcountries.com/v3.1/currency/{currency}
-```
-
-```html
-https://restcountries.com/v3.1/currency/cop
-```
-
-## Demonym
-
-Now you can search by how a citizen is called.
-
-```html
-https://restcountries.com/v3.1/demonym/{demonym}
-```
-
-```html
-https://restcountries.com/v3.1/demonym/peruvian
-```
-
-## Language
-
-Search by language code or name
-
-```html
-https://restcountries.com/v3.1/lang/{currency}
-```
-
-```html
-https://restcountries.com/v3.1/lang/cop
-```
-
-```html
-https://restcountries.com/v3.1/lang/spanish
-```
-
-## Capital city
-
-Search by capital city
-
-```html
-https://restcountries.com/v3.1/capital/{capital}
-```
-
-```html
-https://restcountries.com/v3.1/capital/tallinn
-```
-
-## Calling code
-
-In version 3, calling codes are in the _idd_ object. There is no implementation to search by calling codes in V3.
-
-## Region
-
-Search by region
-
-```html
-https://restcountries.com/v3.1/region/{region}
-```
-
-```html
-https://restcountries.com/v3.1/region/europe
-```
-
-## Subregions
-
-You can search by subregions
-
-```html
-https://restcountries.com/v3.1/subregion/{subregion}
-```
-
-```html
-https://restcountries.com/v3.1/subregion/Northern Europe
-```
-
-## Translation
-
-You can search by any translation name
-
-```html
-https://restcountries.com/v3.1/translation/{translation}
-```
-
-```html
-https://restcountries.com/v3.1/translation/germany
-```
-
-```html
-https://restcountries.com/v3.1/translation/alemania
-```
-
-```html
-https://restcountries.com/v3.1/translation/saksamaa
-```
-
-## Filter Response
-
-You can filter the output of your request to include only the specified fields.
-
-```html
-https://restcountries.com/v3.1/{endpoint}?fields={field},{field},{field}
-```
-
-```html
-https://restcountries.com/v3.1/all?fields=name,capital,currencies
-```
-
-## REST Countries Typed API Package
-
-Yusif Aliyev from Azerbaijan created [an npm package](https://www.npmjs.com/package/@yusifaliyevpro/countries)
-which provides TypeScript support for the REST Countries API. Everyone can use
-the package for their own purpose.
-This package offers full type and autocomplete support for anyone using
-JavaScript or TypeScript. Users no longer need to spend time reading
-documentation or manually writing API URLs and types. You can easily use
-all the package's functionalities by calling its functions.
-He is also open to contributing further improvements.
-
-You can find the code [here](https://github.com/yusifaliyevpro/countries)
-
-## Similar projects
-
-- [REST Countries] (original project)
-- [Countries of the world]
-- [REST Countries Node.js]
-- [REST Countries Ruby]
-- [REST Countries Go]
-- [REST Countries Python]
-- [REST Countries Java]
-- [world-currencies]
-
-[world-currencies]: https://github.com/wiredmax/world-currencies
-[REST Countries Node.js]: https://github.com/aredo/restcountries
-[REST Countries Ruby]: https://github.com/davidesantangelo/restcountry
-[REST Countries Go]: https://github.com/alediaferia/gocountries
-[REST Countries Python]: https://github.com/SteinRobert/python-restcountries
-[REST Countries PHP]: https://github.com/hamedhaghi/countries-client
-[Countries of the world]: http://countries.petethompson.net
-[REST Countries]: https://github.com/apilayer/restcountries
-[Original Project]: https://github.com/apilayer/restcountries/
-[donation]: https://www.paypal.me/amatosg/15
-[donate]: https://www.paypal.me/amatosg/15
-[REST Countries Java]: https://github.com/awais2075/restcountries
+[restcountries.com](https://restcountries.com) · [Docs](https://restcountries.com/docs) · [support@restcountries.com](mailto:support@restcountries.com)
 
 ---
 
-# Migrating from v3.1 to v4
+## What you get
 
-The v4 API is available at `https://restcountries.com/v4/`. Below are the changes you need to
-account for when upgrading from v3.1.
+| | |
+| --- | --- |
+| **Coverage** | 250+ countries, including dependencies and disputed territories |
+| **Fields** | 80+ per record across 14+ groups |
+| **Localization** | Country names in 25+ languages |
+| **Sources** | UN, World Bank, native country datasets, Wikipedia |
+| **Freshness** | 4h sync cadence; populations and leaders tracked live |
+| **Performance** | <150ms average response |
+| **Reliability** | Public status page, uptime monitoring |
 
-## Base URL
+Fields include: names, ISO codes, capitals, flags, currencies, languages,
+geography, borders, calling codes, time zones, political leaders, demographics
+and memberships (EU, NATO, G7, G20, and more).
+
+Full reference at [restcountries.com/docs](https://restcountries.com/docs).
+
+---
+
+## Quick reference (sample of endpoints)
 
 ```
-# v3.1
-https://restcountries.com/v3.1/{endpoint}
-
-# v4
-https://restcountries.com/v4/{endpoint}
+GET /countries/v5                               List all countries
+GET /countries/v5?q=Canada                      Query all countries
+GET /countries/v5?response_fields=...           Trim the response
+GET /countries/v5?response_fields_omit=...      Omit certain fields from the response
+GET /countries/v5/code/CA                       Read across multiple codes (codes.alpha_2, codes.alpha_3, codes.fips, etc)
+GET /countries/v5/codes.alpha_2/CA              ISO 3166-1 read
+GET /countries/v5/codes.alpha_2/Canada          Country name read
+GET /countries/v5?region=Europe                 Filter by region
+GET /countries/v5?memberships=EU,NATO           Filter by membership
 ```
 
-## Fields with breaking shape changes
+Auth: `Authorization: Bearer <your-key>` — get one at
+    [restcountries.com/sign-up](https://restcountries.com/sign-up).
 
-These fields exist in both versions but have a **different structure** in v4:
+Full docs can be found at
+[restcountries.com/docs](https://restcountries.com/docs).
 
-| Field             | v3.1 shape                          | v4 shape                                       |
-| ----------------- | ----------------------------------- | ---------------------------------------------- |
-| `name.nativeName` | `Map<langCode, {official, common}>` | `List<{lang, official, common}>`               |
-| `languages`       | `Map<iso639_2, languageName>`       | `List<{iso639_1, iso639_2, name, nativeName}>` |
-| `currencies`      | `Map<currencyCode, {name, symbol}>` | `List<{code, name, symbol}>`                   |
-| `translations`    | `Map<langCode, {official, common}>` | `List<{lang, official, common}>`               |
-| `demonyms`        | `Map<lang, {m, f}>`                 | `List<{lang, male, female}>`                   |
-| `gini`            | `Map<year, value>`                  | `List<{year, value}>`                          |
+---
 
-## Removed fields
+## Code samples
 
-| Field                             | Replacement                                    |
-| --------------------------------- | ---------------------------------------------- |
-| `latlng`                          | Use `geolocation` (`{latitude, longitude}`)    |
-| `flags` (object with svg/png/alt) | Merged into `flag` — see below                 |
-| `flag` (emoji string)             | Moved inside the `flag` object as `flag.emoji` |
+### cURL
 
-### `flag` / `flags` consolidation
-
-In v3.1 there were two separate fields. In v4 they are a single `flag` object:
-
-```json
-// v3.1
-"flag": "🇦🇼",
-"flags": { "svg": "...", "png": "...", "alt": "..." }
-
-// v4
-"flag": { "svg": "...", "png": "...", "alt": "...", "emoji": "🇦🇼" }
+```bash
+curl "https://api.restcountries.com/countries/v5/name/CA?pretty=1" \
+  -H "Authorization: Bearer rc_live_demo"
 ```
 
-## New fields in v4
+### JavaScript
 
-| Field             | Description                                                             |
-| ----------------- | ----------------------------------------------------------------------- |
-| `callingCodes`    | Complete calling codes as a flat string list (e.g. `["297"]`)           |
-| `geolocation`     | Named `{latitude, longitude}` object replacing the `latlng` array       |
-| `sovereignState`  | `cca3` of the governing sovereign state; `""` for independent countries |
-| `regionalBlocs`   | Regional/trade bloc memberships                                         |
-| `religion`        | Religious group breakdown with population and percentage                |
-| `ethnicity`       | Ethnic group breakdown with percentage                                  |
-| `government`      | Government type and current leaders                                     |
-| `density`         | Population density in people/km²                                        |
-| `gdp`             | GDP total and per-capita in USD                                         |
-| `hdi`             | Human Development Index score (0.0–1.0)                                 |
-| `nationalHoliday` | National/independence day date string                                   |
-| `anthem`          | Name of the national anthem                                             |
+```javascript
+const response = await fetch(
+    'https://api.restcountries.com/countries/v5/name/CA',
+    { headers: { 'Authorization': 'Bearer rc_live_demo' } }
+);
+const payload = await response.json();
 
-For the full field reference see [FIELDS_V4.md](FIELDS_V4.md).
+// payload.data.objects[0].names.common        => "Canada"
+// payload.data.objects[0].population          => 41575585
+// payload.data.objects[0].currencies[0].code  => "CAD"
+// payload.data.objects[0].memberships.g7      => true
+```
+
+### Node.js
+
+```javascript
+import fetch from 'node-fetch';
+
+const response = await fetch(
+    'https://api.restcountries.com/countries/v5?region=Europe&memberships=EU',
+    { headers: { Authorization: 'Bearer rc_live_demo' } }
+);
+const payload = await response.json();
+```
+
+### Python
+
+```python
+import requests
+
+response = requests.get(
+    'https://api.restcountries.com/countries/v5',
+    params={'response_fields': 'iso2,names.common', 'sort': 'names.common'},
+    headers={'Authorization': 'Bearer rc_live_demo'},
+)
+payload = response.json()
+```
+
+### PHP
+
+```php
+$ch = curl_init('https://api.restcountries.com/countries/v5/name/CA');
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer rc_live_demo']);
+$response = curl_exec($ch);
+curl_close($ch);
+$payload = json_decode($response, true);
+```
+
+The `rc_live_demo` key is shared and rate-limited but live. It will only return
+country data for `Canada` but should give you a sense for the response shape.
+
+Get your own at API key at
+[restcountries.com/sign-up](https://restcountries.com/sign-up).
+
+---
+
+## FAQ
+
+**I was hitting the old hosted endpoint. What now?**
+
+The old endpoints are no longer active — the previous API wasn't designed in a
+way that made keeping them running alongside the new one practical. Sign up at
+[restcountries.com/sign-up](https://restcountries.com/sign-up), then email
+[support@restcountries.com](mailto:support@restcountries.com) from the address
+you sign up with and mention you were a previous user. We'll do our best to help
+you migrate things.
+
+**I was self-hosting from the MPL-2.0 source. Do I have to move?**
+
+No. You can keep running whatever version you have — the license is unchanged.
+If you want to move to the hosted version, the path above applies.
+
+**Is there a free tier?**
+
+Yes. There is a permanent free allotment for existing users of the legacy
+project, and a free tier available to everyone. See
+[restcountries.com](https://restcountries.com) for current plan details.
+
+**What changed in v5 versus the old schema?**
+
+The shape is similar by design. The main differences are: records are now
+reconciled across multiple authoritative sources. Fast-moving fields like
+population and political leaders are tracked continuously rather than frozen at
+import; and the inconsistencies that accumulated over six years of organic
+growth have been cleaned up. The full field reference is at
+[restcountries.com/docs](https://restcountries.com/docs).
+
+**I was building on top of the project.**
+
+If you maintain a library, integration, or tutorial that points at the old
+endpoints or schema, please reach out at
+[support@restcountries.com](mailto:support@restcountries.com). We'll help you
+update, and where useful, link to your work from the new docs.
+
+**Where's the source?**
+
+The MPL-2.0 source is still in this repo and will stay here. It is no longer
+maintained, but it is available to read, fork, or run. New open source pieces —
+client libraries, SDKs, standalone helpers — will be published under this
+organization as they're released.
+
+---
+
+## The MPL-2.0 release (old codebase)
+
+This repository has been the home of the MPL-2.0 source for REST Countries APIs
+since 2020, and that code is staying here. It will not be maintained going
+forward — no new features, no bug fixes, no dependency updates — but it remains
+available under the same license for anyone who wants to read it, fork it, or
+run it.
+
+If you are self-hosting and things are working, carry on. The license hasn't
+changed and there is no obligation to move.
+
+That said, the self-hosted version is now frozen in time. It won't gain the data
+improvements, the live population and leader tracking, the multi-source
+reconciliation, or the reliability improvements that the hosted API has. If
+uptime and data freshness matter to your use case, the hosted API at
+[restcountries.com](https://restcountries.com) is the right path forward.
+
+Going forward, new open source pieces will also be published here: a JavaScript
+client library for browser and Node, language SDKs as demand justifies them, and
+small standalone helpers for ISO codes, name normalization, and similar — all
+under permissive licenses. Watch this repo for releases.
+
+To the original author, and to everyone who built on top of the project across
+six years of requests, integrations, tutorials, and pull requests: the work you
+did is why this is worth continuing. Thank you.
+
+---
+
+## Gratitude
+
+REST Countries APIs ran for six years on the work of one developer. It served
+well over a billion requests and quietly became part of the plumbing for sign-up
+flows, address forms, and analytics pipelines across the web.
+
+The new team is committed to carrying that forward with the same intent: a
+simple, dependable, developer-first API that does one thing exceptionally well.
+Honest pricing. A free tier that's actually useful. Infrastructure designed to stay up.
+
+For migration help, feature requests, pricing questions, or anything else:
+[support@restcountries.com](mailto:support@restcountries.com).
