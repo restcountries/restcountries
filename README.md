@@ -42,11 +42,11 @@ GET /countries/v5/code/CA                       Read across multiple codes (code
 GET /countries/v5/codes.alpha_2/CA              ISO 3166-1 read
 GET /countries/v5/names.common/Canada           Country name read
 GET /countries/v5?region=Europe                 Filter by region
-GET /countries/v5?memberships=EU,NATO           Filter by membership
+GET /countries/v5?memberships.nato=1          Filter by membership (combine with &)
 ```
 
 Auth: `Authorization: Bearer <your-key>` — get one at
-    [restcountries.com/sign-up](https://restcountries.com/sign-up).
+[restcountries.com/sign-up](https://restcountries.com/sign-up).
 
 Full docs can be found at
 [restcountries.com/docs](https://restcountries.com/docs).
@@ -58,16 +58,16 @@ Full docs can be found at
 ### cURL
 
 ```bash
-curl "https://api.restcountries.com/countries/v5/name/CA?pretty=1" \
-  -H "Authorization: Bearer rc_live_demo"
+curl "https://api.restcountries.com/countries/v5/code/CA?pretty=1" \
+  -H "Authorization: Bearer {{your_api_key}}"
 ```
 
 ### JavaScript
 
 ```javascript
 const response = await fetch(
-    'https://api.restcountries.com/countries/v5/name/CA',
-    { headers: { 'Authorization': 'Bearer rc_live_demo' } }
+    'https://api.restcountries.com/countries/v5/code/CA',
+    { headers: { 'Authorization': 'Bearer {{your_api_key}}' } }
 );
 const payload = await response.json();
 
@@ -83,8 +83,8 @@ const payload = await response.json();
 import fetch from 'node-fetch';
 
 const response = await fetch(
-    'https://api.restcountries.com/countries/v5?region=Europe&memberships=EU',
-    { headers: { Authorization: 'Bearer rc_live_demo' } }
+    'https://api.restcountries.com/countries/v5?region=Europe&memberships.eu=1',
+    { headers: { Authorization: 'Bearer {{your_api_key}}' } }
 );
 const payload = await response.json();
 ```
@@ -97,7 +97,7 @@ import requests
 response = requests.get(
     'https://api.restcountries.com/countries/v5',
     params={'response_fields': 'codes.alpha_2,names.common', 'sort': 'names.common'},
-    headers={'Authorization': 'Bearer rc_live_demo'},
+    headers={'Authorization': 'Bearer {{your_api_key}}'},
 )
 payload = response.json()
 ```
@@ -105,9 +105,9 @@ payload = response.json()
 ### PHP
 
 ```php
-$ch = curl_init('https://api.restcountries.com/countries/v5/name/CA');
+$ch = curl_init('https://api.restcountries.com/countries/v5/code/CA');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer rc_live_demo']);
+curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer {{your_api_key}}']);
 $response = curl_exec($ch);
 curl_close($ch);
 $payload = json_decode($response, true);
@@ -116,7 +116,7 @@ $payload = json_decode($response, true);
 The `rc_live_demo` key is shared and rate-limited but live. It will only return
 country data for `Canada` but should give you a sense for the response shape.
 
-Get your own at API key at
+Get your own API key at
 [restcountries.com/sign-up](https://restcountries.com/sign-up).
 
 ---
@@ -127,7 +127,6 @@ Most fields are readable directly by value. A few simple lookups:
 
 ```
 GET /countries/v5/currencies/CAD            Countries that use the Canadian dollar
-GET /countries/v5/leaders?q=Carney          Search countries by current leader
 GET /countries/v5/demonyms/Canadian         Countries whose demonym matches
 GET /countries/v5/capitals/Ottawa           Look up by capital city
 GET /countries/v5/subregion/Caribbean       Countries in a subregion
