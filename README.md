@@ -45,7 +45,7 @@ GET /countries/v5?region=Europe                 Filter by region
 GET /countries/v5?memberships.nato=1          Filter by membership (combine with &)
 ```
 
-Auth: `Authorization: Bearer <your-key>` — get one at
+Auth: `Authorization: Bearer {{your_api_key}}` — get one at
 [restcountries.com/sign-up](https://restcountries.com/sign-up).
 
 Full docs can be found at
@@ -113,9 +113,6 @@ curl_close($ch);
 $payload = json_decode($response, true);
 ```
 
-The `rc_live_demo` key is shared and rate-limited but live. It will only return
-country data for `Canada` but should give you a sense for the response shape.
-
 Get your own API key at
 [restcountries.com/sign-up](https://restcountries.com/sign-up).
 
@@ -132,8 +129,9 @@ GET /countries/v5/capitals/Ottawa           Look up by capital city
 GET /countries/v5/subregion/Caribbean       Countries in a subregion
 ```
 
-Each still takes the same `Authorization: Bearer <your-key>` header, and accepts
-`?pretty=1`, `?response_fields=...`, and the other query parameters from above.
+Each still takes the same `Authorization: Bearer {{your_api_key}}` header, and
+accepts `?pretty=1`, `?response_fields=...`, and the other query parameters from
+above.
 
 ---
 
